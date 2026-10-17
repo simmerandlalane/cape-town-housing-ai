@@ -526,7 +526,7 @@ def render_empty_state() -> None:
 
 
 def main() -> None:
-    st.set_page_config(page_title="Cape Town Area Finder", layout="wide")
+    st.set_page_config(page_title="Cape Town Area Finder", layout="wide", initial_sidebar_state="expanded")
     st.html(f"<style>{(ASSETS / 'style.css').read_text()}</style>")
     render_hero()
 

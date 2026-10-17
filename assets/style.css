@@ -1,5 +1,9 @@
 /* Site-like chrome: hide Streamlit's developer menu and footer */
-#MainMenu, footer, [data-testid="stToolbar"], [data-testid="stDecoration"] { display: none !important; }
+/* Hide only the developer menu and deploy button. Never the toolbar itself: it holds the button that reopens a
+   collapsed sidebar (Streamlit collapses it automatically on narrow screens). */
+#MainMenu, footer, [data-testid="stMainMenu"], [data-testid="stAppDeployButton"], [data-testid="stDecoration"] {
+  display: none !important;
+}
 header[data-testid="stHeader"] { background: transparent; }
 .block-container { padding-top: 1.25rem; max-width: 1180px; }
 
