@@ -25,6 +25,17 @@ You describe your situation, and the app researches each candidate suburb with l
 ranked shortlist **before** you open Property24. Every claim links to its source, unknowns are shown as unknown, and
 each area has a link to browse its actual rentals.
 
+![The app: a Table Mountain photo hero above the questionnaire](docs/images/hero.jpg)
+
+**A ranked shortlist with a map**, every column explained on hover:
+
+![Shortlist table and map for Parow, Durbanville and Observatory](docs/images/shortlist.jpg)
+
+**Safety evidence first** for every area: walking time on the commute, the nearest SAPS station, Neighbourhood
+Watches and City Improvement Districts, and what residents say, each labelled by who's speaking:
+
+![Safety evidence for Parow](docs/images/safety.jpg)
+
 ## Why it matters
 
 Choosing where to live is one of the biggest decisions in a move. It's usually made in a hurry, in an unfamiliar

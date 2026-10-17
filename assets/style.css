@@ -11,7 +11,7 @@ header[data-testid="stHeader"] { background: transparent; }
 .hero { position: relative; height: 560px; border-radius: 1.25rem; overflow: hidden; margin: 0 0 1.75rem;
         background: linear-gradient(180deg, rgba(8, 24, 38, 0.66) 0%, rgba(8, 24, 38, 0.30) 34%, rgba(8, 24, 38, 0) 52%),
                     url("app/static/table-mountain.jpg") center 40% / cover no-repeat; }
-.hero-text { position: absolute; top: 2.25rem; left: 3rem; right: 3rem; max-width: 44rem; color: #FFFFFF; }
+.hero-text { position: absolute; top: 2.25rem; left: 3rem; right: 3rem; max-width: 52rem; color: #FFFFFF; }
 .hero-eyebrow { font-weight: 600; font-size: 0.78rem; letter-spacing: 0.22em; text-transform: uppercase; color: #9FD4E4; }
 .hero h1 { font-family: "Outfit", sans-serif; font-weight: 600; font-size: clamp(1.9rem, 4.2vw, 3.3rem); line-height: 1.04;
            letter-spacing: -0.01em; color: #FFFFFF; margin: 0.6rem 0 0.9rem; padding: 0; }
