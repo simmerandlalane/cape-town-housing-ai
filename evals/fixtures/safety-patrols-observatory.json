@@ -1,0 +1,29 @@
+{
+ "fetched_at": "2026-10-17T21:49:23.681560+00:00",
+ "params": {
+  "q": "Observatory Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\""
+ },
+ "response": {
+  "organic_results": [],
+  "local_results": {
+   "places": [
+    {
+     "title": "Observatory Neighbourhood Watch",
+     "type": "Non-profit organization",
+     "address": "13 A St Michael Rd, Observatory Rd, Observatory, Cape Town, 7925",
+     "links": {
+      "website": "http://www.obswatch.org.za/"
+     }
+    },
+    {
+     "title": "Observatory Improvement District",
+     "type": "Community center",
+     "address": "13a St Michaels Rd, Observatory, Cape Town, 7925",
+     "links": {
+      "website": "https://www.obsid.org.za/"
+     }
+    }
+   ]
+  }
+ }
+}

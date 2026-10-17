@@ -1,0 +1,1375 @@
+{
+ "fetched_at": "2026-10-17T21:17:15.144063+00:00",
+ "params": {
+  "engine": "google_news",
+  "q": "\"Durbanville\" Cape Town",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5d98d50e68886cfe324",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/tEZTPpKiPhH-Ugi5AH7pCeDfUzyf9dhgwa4yrKYVDfM/6ad3e5d98d50e68886cfe324.json",
+   "markdown_endpoint": "https://serpapi.com/searches/tEZTPpKiPhH-Ugi5AH7pCeDfUzyf9dhgwa4yrKYVDfM/6ad3e5d98d50e68886cfe324.md",
+   "created_at": "2026-10-17 21:17:13 UTC",
+   "processed_at": "2026-10-17 21:17:13 UTC",
+   "google_news_url": "https://news.google.com/search?q=%22Durbanville%22+Cape+Town&hl=en&gl=ZA",
+   "raw_html_file": "https://serpapi.com/searches/tEZTPpKiPhH-Ugi5AH7pCeDfUzyf9dhgwa4yrKYVDfM/6ad3e5d98d50e68886cfe324.html",
+   "total_time_taken": 1.1
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "za",
+   "hl": "en",
+   "q": "\"Durbanville\" Cape Town"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Durbanville Heritage Society seeks protection for historic racecourse and commonage",
+    "source": {
+     "name": "https://northernnews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibulele Kasa"
+     ]
+    },
+    "link": "https://northernnews.co.za/news/2026-10-15-durbanville-heritage-society-seeks-protection-for-historic-racecourse-and-commonage/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpTUzExVkZGbU9FSjNibEJPVFJDYkFoaVFBeWdLTWdrQk1ZcEp3bVZjelFF",
+    "date": "10/15/2026, 08:30 AM, +0000 UTC",
+    "iso_date": "2026-10-15T08:30:00Z"
+   },
+   {
+    "position": 2,
+    "title": "Two children die in Durbanville fire",
+    "source": {
+     "name": "SABC News",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sabcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.sabcnews.com/sabcnews/two-children-die-in-durbanville-fire/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRTMlJRZW14NVpFMVFZbTFCVFJDcEFSaUJBaWdLTWdhWlVJWVVTUVE",
+    "date": "08/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-01T07:00:00Z"
+   },
+   {
+    "position": 3,
+    "title": "Spring Racing Returns to Hollywoodbets Durbanville",
+    "source": {
+     "name": "Race Coast",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.racecoast.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.racecoast.co.za/spring-racing-returns-to-hollywoodbets-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVphblJVZVVOdkxWTmllRlJqVFJDZEF4am5CU2dLTWdtQklvNEpsdXBVYVFJ",
+    "date": "08/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-17T07:00:00Z"
+   },
+   {
+    "position": 4,
+    "title": "Cleared for takeoff? Tracking Durbanville's R8billion airport flight path",
+    "source": {
+     "name": "Cape Chamber of Commerce",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://capechamber.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://capechamber.co.za/latest-news/cleared-takeoff-tracking-durbanvilles-r8billion-airport-flight-path",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDViMFpEYkhVMGIzcDFMVll3VFJDb0FSaXRBaWdCTWdhbEZZSU5FZ3M",
+    "date": "07/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-08T07:00:00Z"
+   },
+   {
+    "position": 5,
+    "title": "Petition fights Durbanville racecourse housing plan",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Aiden Daries"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/petition-fights-durbanville-racecourse-housing-plan/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJWalIxTkhCSE1XdE1jM1p6VFJDZkF4ampCU2dLTWdZQnNvcE9RUVU",
+    "date": "03/12/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-12T07:00:00Z"
+   },
+   {
+    "position": 6,
+    "title": "Durbanville resident faces penalties for feeding wild birds in her garden",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Genevieve Serra"
+     ]
+    },
+    "link": "https://iol.co.za/saturday-star/2026-07-10-durbanville-resident-faces-penalties-for-feeding-wild-birds-in-her-garden/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNZbXh1VTBOR1JXbHNVbGswVFJERUF4aW5CU2dLTWdtUlVvZ3h0U1dxS2dJ",
+    "date": "07/10/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-10T07:00:00Z"
+   },
+   {
+    "position": 7,
+    "title": "Durbanville Hills launches Unfiltered Thursdaze, a new after-hours wine experience where the wine is still becoming",
+    "source": {
+     "name": "wine.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.wine.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://news.wine.co.za/news.aspx?NEWSID=46910",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtlVVptVG1aS01sWlpRMDgwVFJDakFSaTFBaWdCTWdZSk1JekZuQWc",
+    "date": "05/05/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-05T07:00:00Z"
+   },
+   {
+    "position": 8,
+    "title": "Mother Sippy: Eight cellars. One wine",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Richard Holmes"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/mother-sippy-durbanville-wine-sauvignon-blanc",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpRblJrUWxoS05UZGhNbXA1VFJEZkF4aUFCU2dLTWdhQkFJWWtJUWM",
+    "date": "06/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-11T07:00:00Z"
+   },
+   {
+    "position": 9,
+    "title": "Western Cape strengthens FMD response as farmers, veterinarians and government work together to expand vaccination efforts",
+    "source": {
+     "name": "Western Cape Government",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.westerncape.gov.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.westerncape.gov.za/agriculture/article/western-cape-strengthens-fmd-response-farmers-veterinarians-and-government-work-together",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxVMVpuYzB4eldGVTFkbmRIVFJDb0FSaXNBaWdCTWdtTkFhTG1qZXM5QkFN",
+    "date": "06/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-22T07:00:00Z"
+   },
+   {
+    "position": 10,
+    "title": "Discover Durbanville's Rust-en-Vrede Gallery: Art for Everyone",
+    "source": {
+     "name": "CapeTowner",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://capetowner.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Murray Swart"
+     ]
+    },
+    "link": "https://capetowner.co.za/2026-07-21-discover-durbanville-s-rust-en-vrede-gallery-art-for-everyone/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFaMm93YW1wdFNrSmtiWFl4VFJDb0FSaXNBaWdCTWdZQmtJalVNQVk",
+    "date": "07/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-21T07:00:00Z"
+   },
+   {
+    "position": 11,
+    "title": "Staff shaken after 82-year-old dies at Cape Town shooting range",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lisalee Solomons"
+     ]
+    },
+    "link": "https://www.news24.com/southafrica/crime-and-courts/staff-shaken-after-82-year-old-dies-at-cape-town-shooting-range-20260701-0796",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZXVTVSUkdWTldpMUNNR0pwVFJETkFoamNCQ2dLTWdZRllJRExwUWc",
+    "date": "07/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-01T07:00:00Z"
+   },
+   {
+    "position": 12,
+    "title": "Residents can join winter rose pruning in Durbanville Rose Garden",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/residents-can-join-winter-rose-pruning-in-durbanville-rose-garden/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHlWalJJVWtKS2JWOHpjM2xDVFJDZUJCaTJCQ2dLTWdB",
+    "date": "07/14/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-14T07:00:00Z"
+   },
+   {
+    "position": 13,
+    "title": "Spring is sparkling at Durbanville Hills",
+    "source": {
+     "name": "wine.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.wine.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://news.wine.co.za/news.aspx?NEWSID=47858",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1lREYzYm1oeVF6YzNSM0k0VFJDakFSaTFBaWdCTWdZZEE0S3JKUVE",
+    "date": "09/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-07T07:00:00Z"
+   },
+   {
+    "position": 14,
+    "title": "Durbanville Rose Garden invites Cape Town residents to help prune roses",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Aiden Daries"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/durbanville-rose-garden-invites-cape-town-residents-to-help-prune-roses/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZSVGhLY0RORmFGTlJVV2Q2VFJDZkF4ampCU2dLTWdhUkNJS0hEZ3M",
+    "date": "07/14/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-14T07:00:00Z"
+   },
+   {
+    "position": 15,
+    "title": "Over 2000 signatures call for reconsideration of Durbanville Racecourse development",
+    "source": {
+     "name": "https://northernnews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibulele Kasa"
+     ]
+    },
+    "link": "https://northernnews.co.za/news/2026-03-13-over-2000-signatures-call-for-reconsideration-of-durbanville-racecourse-development/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhRa0o1ZEROalpURmlNa3BDVFJDdUFSaWlBaWdCTWdZQjBvUmtTZ1E",
+    "date": "03/13/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-13T07:00:00Z"
+   },
+   {
+    "position": 16,
+    "title": "Who makes the best boerie roll in Kraaifontein, Brackenfell and Durbanville?",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Andrew Hallett"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/news/who-makes-the-best-boerie-roll-in-kraaifontein-brackenfell-and-durbanville-070826",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpVVTUwUkhRNE5HaDBURzgxVFJDZkF4amlCU2dLTWdZQllJWUlNZ2M",
+    "date": "07/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-08T07:00:00Z"
+   },
+   {
+    "position": 17,
+    "title": "Have your say on one-way conversion in Valmary Park in Durbanville",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/one-way-road-in-valmary-park/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNVMHRpY0dkTU5WbFVaVGhUVFJEVkF4aU9CU2dLTWdhSkFZVDBRQVU",
+    "date": "04/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-20T07:00:00Z"
+   },
+   {
+    "position": 18,
+    "title": "WATCH | Jamie Oliver surprises parents at Cape Town school pickup",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Noluthando Ngcakani"
+     ]
+    },
+    "link": "https://www.news24.com/life/food/news/watch-jamie-oliver-surprises-parents-at-cape-town-school-pickup-20260719-0875",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRSblV4Y25sVlpFOU9iM2hOVFJDM0FSaVRBaWdCTWdZUlpKYXNwUWc",
+    "date": "07/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-19T07:00:00Z"
+   },
+   {
+    "position": 19,
+    "title": "Video: Durbanville bike shop targeted in shocking dawn armed robbery",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibuliso Duba"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/video-durbanville-bike-shop-targeted-in-shocking-dawn-armed-robbery/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFObkZrYzNSdU4yUmxaVXhDVFJDZkF4ampCU2dLTWdZQk1JNERId2s",
+    "date": "04/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-01T07:00:00Z"
+   },
+   {
+    "position": 20,
+    "title": "This wine tasting under the stars is the perfect summer send-off",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Selene Brophy"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/news/wine-tasting-under-the-stars-is-the-perfect-summer-send-off-031626",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU5iblF4Ym5aNVpWZFZibXBOVFJDZkF4amlCU2dLTWdNQmNCQQ",
+    "date": "03/16/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-16T07:00:00Z"
+   },
+   {
+    "position": 21,
+    "title": "Durbanville Makes History at the SA Young Wine Show with Record Trophies",
+    "source": {
+     "name": "The Newspaper",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thenewspaper.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thenewspaper.co.za/durbanville-makes-history-at-the-sa-young-wine/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFlRlJVVEZsUFZEQldXVGRmVFJERUF4aW1CU2dLTWdhQllKaTRwQWs",
+    "date": "08/26/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-26T07:00:00Z"
+   },
+   {
+    "position": 22,
+    "title": "Panic sets in as meningitis case is found at Durbanville school | TygerBurger",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/meningococcal-meningitis-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhTamQ2VDNNM1VXOXNTa3RLVFJDM0FSaVVBaWdCTWdZWkpKSlJNUWM",
+    "date": "02/24/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-24T08:00:00Z"
+   },
+   {
+    "position": 23,
+    "title": "Curro Durbanville Shines at Cape Town Int Hockey Festival",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/school/curro-durbanville-shines-at-cape-town-int-hockey-festival/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVZTWFZFUlVvNVgyWmxXWGRCVFJDUUF4aUNBeWdLTWdB",
+    "date": "08/04/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-04T07:00:00Z"
+   },
+   {
+    "position": 24,
+    "title": "Durbanville winemaker Richard Schroeder earns acclaim for Chenin Blanc",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lulama Klassen"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/richard-schroeder-durbanville-chenin-award/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlkakZHU0VkbFREaFFTemx0VFJDZkF4ampCU2dLTWdhWmM0eFJPUVk",
+    "date": "05/23/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-23T07:00:00Z"
+   },
+   {
+    "position": 25,
+    "title": "Cape Town authorities probe deadly Fisantekraal blaze",
+    "source": {
+     "name": "SABC News",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sabcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Mariska Botha"
+     ]
+    },
+    "link": "https://www.sabcnews.com/sabcnews/cape-town-authorities-probe-deadly-fisantekraal-blaze/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW1OV1Z0ZEZOTmFuVXlWa0ZhVFJEaUJSaWZBeWdLTWdNQmNCWQ",
+    "date": "08/02/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-02T07:00:00Z"
+   },
+   {
+    "position": 26,
+    "title": "Public outcry against Durbanville racecourse development | TygerBurger",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/durbanville-racecourse-development/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJRVWd5WkZWSGMzcEZZbkZ1VFJDZ0F4amlCU2dLTWdZQlFvWXZNUVU",
+    "date": "03/13/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-13T07:00:00Z"
+   },
+   {
+    "position": 27,
+    "title": "Upcoming roadworks in Durbanville and Bellville: What you need to know",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Nokubonga Ndlovu"
+     ]
+    },
+    "link": "https://iol.co.za/news/south-africa/2026-07-27-upcoming-roadworks-in-durbanville-and-bellville-what-you-need-to-know/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFkVFYxYWpjeVVubHJlQzEyVFJERkF4aWxCU2dLTWdZbGs1UlB0UVk",
+    "date": "07/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-27T07:00:00Z"
+   },
+   {
+    "position": 28,
+    "title": "City of Cape Town addresses major pipe burst affecting Durbanville shopping mall",
+    "source": {
+     "name": "https://northernnews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Theolin Tembo"
+     ]
+    },
+    "link": "https://northernnews.co.za/news/2026-02-03-city-of-cape-town-addresses-major-pipe-burst-affecting-durbanville-shopping-mall/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRYMHhOWVc5dWExUTJhbmN4VFJEZUFoaThCU2dLTWdZQkVKS0VKQWs",
+    "date": "02/03/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-03T08:00:00Z"
+   },
+   {
+    "position": 29,
+    "title": "Airports equal real estate catalysts",
+    "source": {
+     "name": "Mail & Guardian",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mg.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ash Muller"
+     ]
+    },
+    "link": "https://mg.co.za/thought-leader/2026-02-01-airports-equal-real-estate-catalysts/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZkbEJoVDBWNVIxWk1VVGt0VFJDb0FSaXNBaWdCTWdZQlVJQ29xQVE",
+    "date": "02/01/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-01T08:00:00Z"
+   },
+   {
+    "position": 30,
+    "title": "Curro Durbanville Swimmers Shine at AquaElite Gala 2026",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Christo Du Randt"
+     ]
+    },
+    "link": "https://novanews.co.za/school/curro-durbanville-swimmers-shine-at-aquaelite-gala-2026/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhUV2wxVUhoQlFWSnlVMUpSVFJDUUF4aUtBeWdLTWdZQlFKcURvQWc",
+    "date": "10/06/2026, 10:05 AM, +0000 UTC",
+    "iso_date": "2026-10-06T10:05:10Z"
+   },
+   {
+    "position": 31,
+    "title": "Motorists in Durbanville and Bellville brace for major roadworks",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/motorists-in-durbanville-and-bellville-brace-for-major-roadworks/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU9iV2RuYVY5NU5HdGphRFpyVFJEaEF4ajlCQ2dLTWdNZDVBbw",
+    "date": "07/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-27T07:00:00Z"
+   },
+   {
+    "position": 32,
+    "title": "Cape Town readies cashless pilot for centres",
+    "source": {
+     "name": "ITWeb",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.itweb.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.itweb.co.za/article/cape-town-readies-cashless-pilot-for-centres/VgZeyqJlWVy7djX9",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9jWGRYWkZabFFtNVlhR0pKVFJDZ0FoaUFCQ2dLTWdZQkJJYU9KUWM",
+    "date": "06/24/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-24T07:00:00Z"
+   },
+   {
+    "position": 33,
+    "title": "SPCA raid uncovers explosives and illegal reptiles in Durbanville",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/news/south-africa/2026-06-30-spca-raid-uncovers-explosives-and-illegal-reptiles-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNTVnBQVTI5YVRXZFBkMDVpVFJDSkF4aThCU2dLTWdZVmRZYklMUVU",
+    "date": "06/30/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-30T07:00:00Z"
+   },
+   {
+    "position": 34,
+    "title": "Cape Town’s ‘Bird Feeder Ban’: Four Notices In Five Years, One Filthy Yard",
+    "source": {
+     "name": "2oceansvibe News",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.2oceansvibe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.2oceansvibe.com/1-lifestyle/cape-town-1-lifestyle/cape-town-bird-feeder-ban-durbanville-notice-july-2026/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjVXBSWjJWRVRUUXlSRmxxVFJDZUF4amxCU2dLTWdZQk1ZYWxLZ2M",
+    "date": "07/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-11T07:00:00Z"
+   },
+   {
+    "position": 35,
+    "title": "Five arrested in Cape Town over illegal liquor operation",
+    "source": {
+     "name": "SABC News",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sabcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.sabcnews.com/sabcnews/five-arrested-in-cape-town-over-illegal-liquor-operation/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVWUzFEU0hWYU1YZFpPVkp4VFJESkF4aWZCU2dLTWdhbFFZUXRzZ00",
+    "date": "01/06/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-06T08:00:00Z"
+   },
+   {
+    "position": 36,
+    "title": "The ultimate guide to the Durbanville Winelands",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Richard Holmes"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/things-to-do/ultimate-guide-durbanville-winelands",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWhNRzVxTjAxRmJtZDRTRXhyVFJEZkF4aUFCU2dLTWdNQmNBNA",
+    "date": "11/26/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-26T08:00:00Z"
+   },
+   {
+    "position": 37,
+    "title": "Major drug bust: Police apprehend man with 2,400 dagga bankies in Durbanville",
+    "source": {
+     "name": "https://northernnews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://northernnews.co.za/news/2026-05-19-major-drug-bust-police-apprehend-man-with-2400-dagga-bankies-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpZbGRJWVY5ME5FZ3lhbFI2VFJELUJCamdBeWdLTWdrRkFJN3VNQ1o3aEFJ",
+    "date": "05/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-19T07:00:00Z"
+   },
+   {
+    "position": 38,
+    "title": "Out and About in Cape Town: Best things to do this weekend",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Selene Brophy"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/news/out-and-about-in-cape-town-best-things-to-this-weekend-040826",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdTVlpPVEMxeFoyUnBhMEZKVFJEZ0Foam1CaWdLTWdZQndvNnR5UVU",
+    "date": "04/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-08T07:00:00Z"
+   },
+   {
+    "position": 39,
+    "title": "R205 million pumped into new private university in South Africa",
+    "source": {
+     "name": "BusinessTech",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://businesstech.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Luke Fraser"
+     ]
+    },
+    "link": "https://businesstech.co.za/news/business/854140/r205-million-pumped-into-new-private-university-in-south-africa/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1VV1I2VUVwT1IzQXdWVGRQVFJDZkF4ampCU2dLTWdrQlFJckdxYVpFYWdJ",
+    "date": "03/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-17T07:00:00Z"
+   },
+   {
+    "position": 40,
+    "title": "Cape Town’s next big airport: R10bn project takes flight",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/cape-towns-next-big-airport-r10bn-project-takes-flight/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTVZa3hqTjBwMlYzZHhOVTVLVFJDZkF4ampCU2dLTWdB",
+    "date": "09/10/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-10T07:00:00Z"
+   },
+   {
+    "position": 41,
+    "title": "Cultural festival returns to Durbanville with star-studded line-up and community focus",
+    "source": {
+     "name": "https://northernnews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://northernnews.co.za/news/2026-06-03-cultural-festival-returns-to-durbanville-with-star-studded-line-up-and-community-focus/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFiMFZhZDB3MU0xaDNaa2hOVFJDb0FSaXNBaWdCTWdZVmNKS3VxUWM",
+    "date": "06/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-03T07:00:00Z"
+   },
+   {
+    "position": 42,
+    "title": "Police raid reveals massive fake liquor operation in Durbanville",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Aiden Daries"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/police-raid-reveals-massive-fake-liquor-operation-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUVOamwwY0VrNVNERnBkelpaVFJDZkF4ampCU2dLTWdB",
+    "date": "01/07/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-07T08:00:00Z"
+   },
+   {
+    "position": 43,
+    "title": "Marketplace scammer caught in the act in Durbanville",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/marketplace-scammer-caught-in-the-act-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXliM2xqWVhKRE5YbFRlRXRqVFJEZ0F4aUFCU2dLTWdZQklJd09sUWM",
+    "date": "06/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-17T07:00:00Z"
+   },
+   {
+    "position": 44,
+    "title": "Road works in Durbanville, Kenridge, Contermanskloof commence",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/road-works-in-durbanville-kenridge-contermanskloof-commence/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtNV3BuZUZVeFlpMVdTV2xzVFJEU0F4aVNCU2dLTWdZUlVveU9xUWM",
+    "date": "04/14/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-14T07:00:00Z"
+   },
+   {
+    "position": 45,
+    "title": "Five Malawian nationals nabbed for illegal gin manufacturing in Durbanville",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capeargus/news/2026-01-06-five-malawian-nationals-nabbed-for-illegal-gin-manufacturing-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUNTa2RMU3paT1pHdHpjUzFNVFJETkFoajBBeWdLTWdB",
+    "date": "01/06/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-06T08:00:00Z"
+   },
+   {
+    "position": 46,
+    "title": "Venter ready to tee it up in Durbanville",
+    "source": {
+     "name": "OFM News",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ofm.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ofm.co.za/article/golf/340852/venter-ready-to-tee-it-up-in-durbanville",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJkV2gyY2tsQk5ETlFkV2RvVFJEU0FoallCQ2dLTWdZVko0cUhsZ28",
+    "date": "03/04/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-03-04T08:00:00Z"
+   },
+   {
+    "position": 47,
+    "title": "More than 100 tik sachets seized in Fisantekraal, two arrested",
+    "source": {
+     "name": "https://northernnews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://northernnews.co.za/news/2026-06-16-more-than-100-tik-sachets-seized-in-fisantekraal-two-arrested/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtTbUZDTkZBemNVZGZZMU5oVFJDVkJCaVFBeWdLTWdPUlVndw",
+    "date": "06/16/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-16T07:00:00Z"
+   },
+   {
+    "position": 48,
+    "title": "SPCA Raid In Affluent Cape Town Suburb Uncovers Explosives And Illegal Reptiles",
+    "source": {
+     "name": "2oceansvibe News",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.2oceansvibe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Helen Wallace"
+     ]
+    },
+    "link": "https://www.2oceansvibe.com/cape-town-2/spca-raid-in-affluent-cape-town-suburb-uncovers-explosives-and-illegal-reptiles/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW9NV1V3TTIxeVpXVXphMnBNVFJEaEFSaXNBaWdLTWdB",
+    "date": "07/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-01T07:00:00Z"
+   },
+   {
+    "position": 49,
+    "title": "Man allegedly shoots himself in firearm store at new Durbanville shopping centre",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/man-allegedly-shot-himself-in-firearm-store/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVlaMlJ1TTFVNU0wWkhRbXA2VFJEUUF4aVVCU2dLTWdNQlFCQQ",
+    "date": "06/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-29T07:00:00Z"
+   },
+   {
+    "position": 50,
+    "title": "R8bn Cape Winelands Airport project faces final hurdle before construction begins",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Kara Le Roux"
+     ]
+    },
+    "link": "https://www.dailymaverick.co.za/article/2026-02-19-r8bn-cape-winelands-airport-project-facet-faces-final-hurdle-before-construction/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxabUpFWlZWc1NtTlpWMFJSVFJDZkF4amlCU2dLTWdZQllJSXdNUVk",
+    "date": "02/19/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-19T08:00:00Z"
+   },
+   {
+    "position": 51,
+    "title": "62 children removed from illegal schools in Durbanville police operation | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/62-children-removed-from-illegal-schools-in-durbanville-police-operation/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNXbnBKYlVGNU56RlJZMVoxVFJER0F4aWtCU2dLTWdtQklZTGhWaUpVYUFJ",
+    "date": "06/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-03T07:00:00Z"
+   },
+   {
+    "position": 52,
+    "title": "New houses handed over in Greenville housing project outside Durbanville",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/new-houses-handed-over-in-greenville-housing-project-outside-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJaRlF3VTBsM2JFaG9kakp2VFJDQUJCalhCQ2dLTWdZUlJaeXVuUWs",
+    "date": "02/03/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-03T08:00:00Z"
+   },
+   {
+    "position": 53,
+    "title": "Fuel station in Durbanville appealed on legal and constitutional grounds",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/durbanvle-fuel-station/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNURXbVkxV25NMVRuQXhjVmsxVFJESUF4aWhCU2dLTWdNRkZBcw",
+    "date": "04/24/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-24T07:00:00Z"
+   },
+   {
+    "position": 54,
+    "title": "Durbanville, Western Cape, South Africa Weather Forecast | MSN Weather",
+    "source": {
+     "name": "MSN",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.msn.com/en-us/weather/forecast/in-Durbanville,Western-Cape",
+    "date": "04/18/2026, 03:51 PM, +0000 UTC",
+    "iso_date": "2026-04-18T15:51:55Z"
+   },
+   {
+    "position": 55,
+    "title": "Building a wine farm while the city closed in: The quiet conviction of Andrew Mellish",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dalene Fourie"
+     ]
+    },
+    "link": "https://www.news24.com/life/wine/building-a-wine-farm-while-the-city-closed-in-the-quiet-conviction-of-andrew-mellish-20260728-0473",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthbEprZUc5SmRGWmhMWFJqVFJEZkF4aUJCU2dLTWdZSlVwRHNLUWM",
+    "date": "07/28/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-28T07:00:00Z"
+   },
+   {
+    "position": 56,
+    "title": "Five Malawians arrested after illegal liquor plant uncovered in Durbanville",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/weekend-argus/2026-01-06-five-malawians-arrested-after-illegal-liquor-plant-uncovered-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5RbHBxVVdkaGVuaHRMVk5wVFJDS0F4aThCU2dLTWdB",
+    "date": "01/06/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-06T08:00:00Z"
+   },
+   {
+    "position": 57,
+    "title": "Looking for a wholesome winter outing? Help prune thousands of roses in Durbanville",
+    "source": {
+     "name": "Getaway Magazine",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.getaway.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.getaway.co.za/environment/looking-for-a-wholesome-winter-outing-help-prune-thousands-of-roses-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVlRM3AzWVZkbVVEVXpiM1E0VFJDbUJSakVBeWdLTWdB",
+    "date": "07/14/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-14T07:00:00Z"
+   },
+   {
+    "position": 58,
+    "title": "These Cape Town offices are going cashless from September",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/these-cape-town-offices-are-going-cashless-from-september/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHphRFZtWkRSblRHTlhhRFZEVFJDZkF4ampCU2dLTWdhQk1KTFFMQWc",
+    "date": "08/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-20T07:00:00Z"
+   },
+   {
+    "position": 59,
+    "title": "Mainz 05 Brings Energy and Community Spirit to Durbanville FC",
+    "source": {
+     "name": "Soccer Laduma",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.soccerladuma.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.soccerladuma.co.za/news/local/mainz-05-brings-energy-and-community-spirit-to-durbanville-fc",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBjVmRGVlZWNk16aGhMWGx5VFJDdUF4aUtCU2dLTWdtQnNaQnBSYWE0endF",
+    "date": "04/30/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-30T07:00:00Z"
+   },
+   {
+    "position": 60,
+    "title": "New Grimme branch in Cape Town",
+    "source": {
+     "name": "world-agritech.com",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://world-agritech.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://world-agritech.com/2026/02/07/ne-grimme-branch-in-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWhZa3gzYTA1NU5rNWtNWGhTVFJEREF4aW9CU2dLTWdB",
+    "date": "02/07/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-07T08:00:00Z"
+   },
+   {
+    "position": 61,
+    "title": "Memorial service planned for Durbanville teen Zac Barends",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Keanan Harmse"
+     ]
+    },
+    "link": "https://novanews.co.za/peoplespost/memorial-service-planned-for-durbanville-teen-zac-barends/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9jak40TkVaUWFrWm9MVVJ2VFJDR0FoanlBaWdLTWdhaGRZenNyUVU",
+    "date": "03/14/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-14T07:00:00Z"
+   },
+   {
+    "position": 62,
+    "title": "Reddam House Durbanville celebrates record 15 Cambridge awards in 2025 exams",
+    "source": {
+     "name": "https://northernnews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://northernnews.co.za/news/2026-05-08-reddam-house-durbanville-celebrates-record-15-cambridge-awards-in-2025-exams/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpiMEppY205UFVtcElTVzU2VFJEQ0JCaVRCQ2dLTWdhbFpaTE5xUWM",
+    "date": "05/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-08T07:00:00Z"
+   },
+   {
+    "position": 63,
+    "title": "Six arrested, 2 000 litres of homemade gin seized at Durbanville bootlegging plant",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lisalee Solomons"
+     ]
+    },
+    "link": "https://www.news24.com/southafrica/crime-and-courts/six-arrested-2-000-litres-of-homemade-gin-seized-at-durbanville-bootlegging-plant-20260106-0969",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZXQzF5UkVabE5EQXhZbXB1VFJDb0FSaXJBaWdCTWdZQnBJUU94Z1U",
+    "date": "01/06/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-06T08:00:00Z"
+   },
+   {
+    "position": 64,
+    "title": "More drama unfolds about Durbanville bunnies with shooting threats",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/more-drama-unfolds-about-durbanville-bunnies-with-shooting-threats/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBZMUJST0cxUVNUSnJXbEoyVFJDQUJSamdBeWdLTWdheFFvd3pJUWc",
+    "date": "05/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-29T07:00:00Z"
+   },
+   {
+    "position": 65,
+    "title": "Reddam House Durbanville achieves historic success with 15 Cambridge awards in 2025",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/weekend-argus/news/2026-05-12-reddam-house-durbanville-achieves-historic-success-with-15-cambridge-awards-in-2025/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNPRTF3ZVZGWlJHTlBha28wVFJERkJCaVFCQ2dLTWdZbGxZek50UVk",
+    "date": "05/12/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-12T07:00:00Z"
+   },
+   {
+    "position": 66,
+    "title": "Oxen at Pampoenkraal Square in Durbanville restored after vandalism",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/oxen-pampoenkraal-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdPV05OV1hkZmNIUkJYMmhWVFJESUF4aWhCU2dLTWdZRklKU0dwZ2M",
+    "date": "05/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-20T07:00:00Z"
+   },
+   {
+    "position": 67,
+    "title": "Venter aiming for big win Durbanville",
+    "source": {
+     "name": "Compleat Golfer",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.compleatgolfer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.compleatgolfer.com/news/venter-aiming-for-big-win-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRVRUpWU1dkRFFsTlZabGxHVFJERUF4aW1CU2dLTWdhVko0S0hGZ28",
+    "date": "03/03/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-03-03T08:00:00Z"
+   },
+   {
+    "position": 68,
+    "title": "Foreign men arrested for illegal alcohol factory in Durbanville | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/durbanville-police-alcohol-factory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJhek5KZEZrNGRIYzBlVWhYVFJDeEJCaWpCQ2dLTWdhTlE0aHBIUWs",
+    "date": "01/28/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-28T08:00:00Z"
+   },
+   {
+    "position": 69,
+    "title": "Business leaders of Durbanville visit Stadio University's new campus | TygerBurger",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/business-leaders-of-durbanville-visit-stadio-universitys-new-campus/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJOMkZLZFZGMVlYRnZkVmRJVFJDcUJCaXFCQ2dLTWdhdE01cXVtUWs",
+    "date": "02/23/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-23T08:00:00Z"
+   },
+   {
+    "position": 70,
+    "title": "‘Sick’ businessman Suliman Carrim definitely visited Cape Town mall",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Caryn Dolley"
+     ]
+    },
+    "link": "https://www.dailymaverick.co.za/article/2026-07-24-sick-businessman-suliman-carrim-definitely-visited-cape-town-mall/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlUa1pKTmprd2R6UkdiRzlWVFJDekFSaVpBaWdCTWdhcEpJcXZvUWM",
+    "date": "07/24/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-24T07:00:00Z"
+   },
+   {
+    "position": 71,
+    "title": "Curro Durbanville Swimmers Shine at WC Championships",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Christo Du Randt"
+     ]
+    },
+    "link": "https://novanews.co.za/school/curro-durbanville-swimmers-shine-at-wc-championships/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZaRGRXUzA1V2QxWlVkRVoyVFJDUUF4alRBaWdLTWdhQklackVtQWs",
+    "date": "07/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-21T07:00:00Z"
+   },
+   {
+    "position": 72,
+    "title": "Five arrested for alleged illegal gin operation in Cape Town suburb",
+    "source": {
+     "name": "TimesLIVE",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeslive.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Philani Nombembe"
+     ]
+    },
+    "link": "https://www.timeslive.co.za/news/south-africa/2026-01-06-five-arrested-for-alleged-illegal-gin-operation-in-cape-town-suburb/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNUWEV5U0hWcGJUSm5Ta1pqVFJDZkF4ampCU2dLTWdZSkJZam9FUWc",
+    "date": "01/06/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-06T08:00:00Z"
+   },
+   {
+    "position": 73,
+    "title": "Stellenberg teams braced for tough interschools challenges from Durbanville",
+    "source": {
+     "name": "Supersport Schools Plus",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://superschoolsnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Avuyile Sawula"
+     ]
+    },
+    "link": "https://superschoolsnews.co.za/stellenberg-teams-braced-for-tough-interschools-challenges-from-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlWSEZJVWtWMFYwTmxkVnAzVFJERUF4aW1CU2dLTWdZaEVacU1HUW8",
+    "date": "07/30/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-30T07:00:00Z"
+   },
+   {
+    "position": 74,
+    "title": "Table Bay Mall and Durbanville traffic offices go cashless",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capeargus/news/2026-06-23-table-bay-mall-and-durbanville-traffic-offices-go-cashless/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNSelpXYlMxSGVteHNNbTVIVFJEZ0F4aUFCU2dLTWdZQk1JQ1AxQUU",
+    "date": "06/23/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-23T07:00:00Z"
+   },
+   {
+    "position": 75,
+    "title": "Durbanville couple escapes ‘kidnap attempt’ in suspected fake Uber ride",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/warning-after-uber-incident/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9PRlpFYmxkdVNYcDZYMVJ5VFJDcUJCaXFCQ2dLTWdhRmhKQ3VOUWM",
+    "date": "01/14/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-14T08:00:00Z"
+   },
+   {
+    "position": 76,
+    "title": "Morningstar residents welcome arrest after Mandrax seizure | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Keanan Harmse"
+     ]
+    },
+    "link": "https://novanews.co.za/tygerburger/morningstar-residents-welcome-arrest-after-mandrax-seizure/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5jMVF4WjJkb1UzcHVRM2RhVFJEU0FoajdBeWdLTWdtSmtZN1V2S1doekFF",
+    "date": "06/06/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-06T07:00:00Z"
+   },
+   {
+    "position": 77,
+    "title": "Businesses disrupted as City tackles major pipe burst at Durbanville shopping mall",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Theolin Tembo"
+     ]
+    },
+    "link": "https://iol.co.za/capetimes/news/2026-02-02-businesses-disrupted-as-city-tackles-major-pipe-burst-at-durbanville-shopping-mall/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRYMHhOWVc5dWExUTJhbmN4VFJEZUFoaThCU2dLTWdZQkVKS0VKQWs",
+    "date": "02/02/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-02T08:00:00Z"
+   },
+   {
+    "position": 78,
+    "title": "Tokyo Sexwale’s Mvelaphanda puts historic Bloemendal Wine Estate up for auction",
+    "source": {
+     "name": "TimesLIVE",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeslive.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.timeslive.co.za/news/business/2026-03-06-tokyo-sexwales-mvelaphanda-puts-historic-bloemendal-wine-estate-up-for-auction/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZOaTF3Ykc4NExYbzVaMWd6VFJERUF4aW5CU2dLTWdZWlFJb1JOUVk",
+    "date": "03/06/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-03-06T08:00:00Z"
+   },
+   {
+    "position": 79,
+    "title": "MES Durbanville takes hands in paper recycling in aid of homeless",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/mes-durbanville-paper-recycling/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpTbVYwTTNwNGVFTnFhVFpCVFJEYUF4aUhCU2dLTWdtWkVvU3VNZVJVTXdF",
+    "date": "02/17/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-17T08:00:00Z"
+   },
+   {
+    "position": 80,
+    "title": "Durbanville and Polokwane teens bound for Taiwan",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/education/durbanville-and-polokwane-teens-bound-for-taiwan/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTNZbWhsVmxOSmRITTNRVkJqVFJDZkF4ampCU2dLTWdB",
+    "date": "01/24/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-24T08:00:00Z"
+   },
+   {
+    "position": 81,
+    "title": "Reddam House Durbanville welcomes former Bafana Bafana defender",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Aiden Daries"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/reddam-house-durbanville-welcomes-former-bafana-bafana-defender/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURaazgyZHpGSk5HZ3hPVzVXVFJEREF4aW9CU2dLTWdhdE5ZaXVtUWs",
+    "date": "12/04/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-12-04T08:00:00Z"
+   },
+   {
+    "position": 82,
+    "title": "Table Bay Mall and Durbanville traffic offices go cashless",
+    "source": {
+     "name": "Cape Argus",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://capeargus.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://capeargus.co.za/news/2026-06-23-table-bay-mall-and-durbanville-traffic-offices-go-cashless/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNSelpXYlMxSGVteHNNbTVIVFJEZ0F4aUFCU2dLTWdZQk1JQ1AxQUU",
+    "date": "06/23/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-23T07:00:00Z"
+   },
+   {
+    "position": 83,
+    "title": "Largest cat show in Durbanville | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/largest-cat-show-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHRNRUZOVERnMmNERlplblJUVFJEX0FSakZBU2dCTWdB",
+    "date": "11/14/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-14T08:00:00Z"
+   },
+   {
+    "position": 84,
+    "title": "Illegal gin plant busted in Durbanville, five arrested | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/illegal-gin-plant-busted-in-durbanville-five-arrested/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDVkek15UkZNNFNUZDRNMEZHVFJDQUJSamdBeWdLTWdPQmNBSQ",
+    "date": "01/07/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-07T08:00:00Z"
+   },
+   {
+    "position": 85,
+    "title": "Tokyo Sexwale’s wine farm goes on auction - again",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.news24.com/business/companies/tokyo-sexwales-wine-farm-goes-on-auction-again-20260304-1009",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxXWE5MVDFjNVFrcEtSVFZaVFJEZ0F4aUFCU2dLTWdPQk1RTQ",
+    "date": "03/04/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-03-04T08:00:00Z"
+   },
+   {
+    "position": 86,
+    "title": "KILLED ON HIS WAY TO WORK: Sister says Durbanville man's murder is 'unreal'",
+    "source": {
+     "name": "Daily Voice",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dailyvoice.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibulele Kasa"
+     ]
+    },
+    "link": "https://dailyvoice.co.za/news/2026-02-17-killed-on-his-way-to-work-sister-says-durbanville-mans-murder-is-unreal/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFSME42VEZCYVdIUnZVRTl0VFJER0JCaVBCQ2dLTWdhdGRKQ09MUWM",
+    "date": "02/17/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-17T08:00:00Z"
+   },
+   {
+    "position": 87,
+    "title": "Uproar about firecrackers thrown at people and dogs in Durbanville | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/firecrackers-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBRVkoxUTNSVmVrdDVZMnhIVFJERkF4aWxCU2dLTWdZQmNJek5PUVk",
+    "date": "02/24/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-24T08:00:00Z"
+   },
+   {
+    "position": 88,
+    "title": "From DTBS Flashes to future opportunities: Stadio celebrates new Durbanville campus",
+    "source": {
+     "name": "TimesLIVE",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeslive.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.timeslive.co.za/lifestyle/2026-02-13-from-dtbs-flashes-to-future-opportunities-stadio-celebrates-new-durbanville-campus/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXliVmxYVm5oVlgxVmpZamw1VFJERUF4aW5CU2dLTWdB",
+    "date": "02/13/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-13T08:00:00Z"
+   },
+   {
+    "position": 89,
+    "title": "Metro Police shut down fake alcohol operation in Durbanville",
+    "source": {
+     "name": "northernnews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://northernnews.co.za/news/2026-01-06-metro-police-shut-down-fake-alcohol-operation-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVNhbmxxVFdOWFgxTktNWEJNVFJDQ0F4aThCU2dLTWdzTk1JaG10bVFsYV9sYW9R",
+    "date": "01/05/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-05T08:00:00Z"
+   },
+   {
+    "position": 90,
+    "title": "Development netball tournament launched in Durbanville | TygerBurger",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/netball-tournament-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1TRUZLVjBOS1RXOXBVREJTVFJEcUF4anlCQ2dLTWdrQklaUVJuZWpBeGdJ",
+    "date": "01/25/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-25T08:00:00Z"
+   },
+   {
+    "position": 91,
+    "title": "State-of-the-art contact lens manufacturing laboratory opens in Durbanville | TygerBurger",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/state-of-the-art-contact-lens-manufacturing-laboratory-opens-in-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpOWEJNTmxkNFQyaENOVGxKVFJEVEF4aVJCU2dLTWdB",
+    "date": "11/24/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-24T08:00:00Z"
+   },
+   {
+    "position": 92,
+    "title": "14-year-old son of Cape Town TV presenter allegedly takes his own life",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/14-year-old-son-of-cape-town-tv-presenter-allegedly-takes-his-own-life/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpURk14VVY5VFlVeHFOR1ZWVFJDZkF4ampCU2dLTWdhbGRZYk5NUVU",
+    "date": "03/14/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-14T07:00:00Z"
+   },
+   {
+    "position": 93,
+    "title": "Fisantekraal house fire claims the lives of two children",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Angelica Esther Rhoda"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/fisantekraal-house-fire-claims-children/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlbGg2YVhKdVFsVmZhbDlvVFJDb0FSaXNBaWdCTWdZTk1ZaWxNZ1k",
+    "date": "08/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-01T07:00:00Z"
+   },
+   {
+    "position": 94,
+    "title": "Meet the humble vet who saved a choking man’s life with a carving knife and a straw",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Nicole Mccain"
+     ]
+    },
+    "link": "https://www.news24.com/southafrica/good-news/meet-the-humble-vet-who-saved-a-choking-mans-life-with-a-carving-knife-and-a-straw-20260218-1152",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxibnA0YWxOMlQyMUVRVFZFVFJDYUFSakdBaWdCTWdtQkk0NXZsU2lMNndF",
+    "date": "02/18/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-18T08:00:00Z"
+   },
+   {
+    "position": 95,
+    "title": "WATCH | Paws, applause, and pure cat-titude as Cape Town cat show wows",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/paws-applause-and-pure-cat-titude-as-cape-town-cat-show-wows/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDNkMHhGVHpSR1lYWTVhMVYxVFJDQUJSamdBeWdLTWdB",
+    "date": "11/24/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-24T08:00:00Z"
+   },
+   {
+    "position": 96,
+    "title": "New university officially opens in South Africa",
+    "source": {
+     "name": "BusinessTech",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://businesstech.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Luke Fraser"
+     ]
+    },
+    "link": "https://businesstech.co.za/news/property/840741/new-university-officially-opens-in-south-africa/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhPVlkzWkV0cFpVcHFOM1pCVFJDcEFSaXNBaWdLTWdNQnNBbw",
+    "date": "10/23/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-10-23T07:00:00Z"
+   },
+   {
+    "position": 97,
+    "title": "Planet Fitness opens 50th club in Cape Town",
+    "source": {
+     "name": "Moneyweb",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.moneyweb.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Terri-ann Brouwers"
+     ]
+    },
+    "link": "https://www.moneyweb.co.za/news/companies-and-deals/planet-fitness-opens-50th-club-in-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVViR2s1Y1ZwTFZEZHllVTh6VFJERUF4aW1CU2dLTWdZQndJaXNRUVU",
+    "date": "08/12/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-08-12T07:00:00Z"
+   },
+   {
+    "position": 98,
+    "title": "Two school rugby clashes called off after brawl and alleged k-word slur",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.news24.com/southafrica/news/two-school-rugby-clashes-called-off-after-brawl-and-alleged-k-word-slur-20260802-0670",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBiekU0TlU4NVJVMVROVUpCVFJDdEF4akxCU2dLTWdZQklKQmttQWs",
+    "date": "08/02/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-02T07:00:00Z"
+   },
+   {
+    "position": 99,
+    "title": "Former Bafana Bafana Defender Appointed As Sport Co-ordinator At Reddam House Durbanville",
+    "source": {
+     "name": "2oceansvibe News",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.2oceansvibe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.2oceansvibe.com/sport/former-bafana-bafana-defender-appointed-as-sport-co-ordinator-at-reddam-house-durbanville/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUphelpIUlhsM1p6Z3pNVFpCVFJEZ0F4aUFCU2dLTWdNQjhBNA",
+    "date": "12/05/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-12-05T08:00:00Z"
+   },
+   {
+    "position": 100,
+    "title": "The best wine tasting experiences in Cape Town",
+    "source": {
+     "name": "wine.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.wine.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://news.wine.co.za/news.aspx?NEWSID=46178",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdRaTFsY0haWmRFeGFSbEZDVFJDVEF4ajVCU2dLTWdrQmtJS3ZVR0tJTHdF",
+    "date": "11/10/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-10T08:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "South Africa"
+   },
+   {
+    "title": "World"
+   },
+   {
+    "title": "Your local news"
+   },
+   {
+    "title": "Business"
+   },
+   {
+    "title": "Technology"
+   },
+   {
+    "title": "Entertainment"
+   },
+   {
+    "title": "Sports"
+   },
+   {
+    "title": "Science"
+   },
+   {
+    "title": "Health"
+   }
+  ]
+ }
+}

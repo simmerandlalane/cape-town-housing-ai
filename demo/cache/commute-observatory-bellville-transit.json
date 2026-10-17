@@ -1,0 +1,1469 @@
+{
+ "fetched_at": "2026-10-17T20:27:59.150859+00:00",
+ "params": {
+  "engine": "google_maps_directions",
+  "start_addr": "Observatory, Cape Town",
+  "end_addr": "Bellville, Cape Town",
+  "travel_mode": "3",
+  "time": "arrive_by:1792483200",
+  "distance_unit": "0",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3da4ed649a9d2a500be3c",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/ppoty4ys0H-wMmhandZDkRZYA4TUkeqI5zw0-RqPVhI/6ad3da4ed649a9d2a500be3c.json",
+   "markdown_endpoint": "https://serpapi.com/searches/ppoty4ys0H-wMmhandZDkRZYA4TUkeqI5zw0-RqPVhI/6ad3da4ed649a9d2a500be3c.md",
+   "created_at": "2026-10-17 20:27:58 UTC",
+   "processed_at": "2026-10-17 20:27:58 UTC",
+   "google_maps_directions_url": "https://www.google.com/maps/dir/Observatory%2C+Cape+Town%2C+7925/Bellville%2C+Cape+Town/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x1dcc5d02b0ab656b:0x80c93da7b9287f9!2m2!1d18.4687792!2d-33.9382014!1m5!1m1!1s0x1dcc5a7c88f4a7c5:0xddfdc69775a78922!2m2!1d18.629438399999998!2d-33.8942695!2m3!6e1!7e2!8j1792483200!3e3?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/ppoty4ys0H-wMmhandZDkRZYA4TUkeqI5zw0-RqPVhI/6ad3da4ed649a9d2a500be3c.html",
+   "prettify_html_file": "https://serpapi.com/searches/ppoty4ys0H-wMmhandZDkRZYA4TUkeqI5zw0-RqPVhI/6ad3da4ed649a9d2a500be3c.prettify",
+   "total_time_taken": 0.82
+  },
+  "search_parameters": {
+   "engine": "google_maps_directions",
+   "hl": "en",
+   "gl": "za",
+   "start_addr": "Observatory, Cape Town",
+   "end_addr": "Bellville, Cape Town",
+   "travel_mode": "3",
+   "distance_unit": "0",
+   "time": "arrive_by:1792483200"
+  },
+  "places_info": [
+   {
+    "address": "Observatory, Cape Town, 7925",
+    "data_id": "0x1dcc5d02b0ab656b:0x80c93da7b9287f9",
+    "gps_coordinates": {
+     "latitude": -33.9382014,
+     "longitude": 18.4687792
+    }
+   },
+   {
+    "address": "Bellville, Cape Town",
+    "data_id": "0x1dcc5a7c88f4a7c5:0xddfdc69775a78922",
+    "gps_coordinates": {
+     "latitude": -33.8942695,
+     "longitude": 18.629438399999998
+    }
+   }
+  ],
+  "directions": [
+   {
+    "travel_mode": "Transit",
+    "start_time": "6:45 AM",
+    "end_time": "7:56 AM",
+    "distance": 18526,
+    "duration": 4257,
+    "formatted_distance": "18.5 km",
+    "formatted_duration": "1 hr 11 min",
+    "cost": 12,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 291,
+      "duration": 237,
+      "formatted_distance": "290 m",
+      "formatted_duration": "4 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Lower Main Rd",
+        "action": "straight",
+        "distance": 159,
+        "duration": 126,
+        "formatted_distance": "160 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=blgxQ22l0xIAyIUuOEoh7Q&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.62592&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93826310810781,
+         "longitude": 18.46859799674283
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  toward  Florence Ave",
+        "action": "turn-slight-right",
+        "distance": 72,
+        "duration": 58,
+        "formatted_distance": "72 m",
+        "formatted_duration": "58 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4nz8IU9MtuAS6eAAS8R3sQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=251.90244&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93778247769696,
+         "longitude": 18.470266664314007
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Florence Ave",
+        "action": "turn-right",
+        "distance": 46,
+        "duration": 38,
+        "formatted_distance": "46 m",
+        "formatted_duration": "38 sec",
+        "extensions": [
+         "Destination will be on the left"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Observatory Exit 1 (Florence Rd)",
+        "distance": 14,
+        "duration": 15,
+        "formatted_distance": "14 m",
+        "formatted_duration": "15 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xn8oiNgilcCAGFW7dDU4XA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=345.7947&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93789309890819,
+         "longitude": 18.471241876293686
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Southern Line Cape Town Station",
+      "duration": 180,
+      "formatted_duration": "3 min",
+      "start_stop": {
+       "name": "Observatory Station",
+       "time": "6:49 AM",
+       "data_id": "0x1dcc5d03be28e0f3:0x7988b95813bea6e2"
+      },
+      "end_stop": {
+       "name": "Salt River Station",
+       "time": "6:52 AM",
+       "data_id": "0x1dcc5da8e8ee133d:0xa200d3124d2e259b"
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-35s Wellington Station",
+      "duration": 2100,
+      "formatted_duration": "35 min",
+      "start_stop": {
+       "name": "Salt River Station",
+       "time": "7:00 AM",
+       "data_id": "0x1dcc5da8e8ee133d:0xa200d3124d2e259b"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "7:35 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Koeberg Rd Station",
+        "time": "7:02 AM",
+        "data_id": "0x1dcc5c544d85548b:0xa778cc8463f70b14"
+       },
+       {
+        "name": "Maitland Station",
+        "time": "7:05 AM",
+        "data_id": "0x1dcc5c59d565a49d:0x39e47ea996e1cb96"
+       },
+       {
+        "name": "Mutual Station",
+        "time": "7:10 AM",
+        "data_id": "0x1dcc5c7dc7c5a9eb:0xec261db94d0028f9"
+       },
+       {
+        "name": "Thornton Station",
+        "time": "7:14 AM",
+        "data_id": "0x1dcc5b82936cc155:0xcc50ff829db7d591"
+       },
+       {
+        "name": "Goodwood Station",
+        "time": "7:17 AM",
+        "data_id": "0x1dcc5ba1b90a167f:0xcede115cb00b9d1"
+       },
+       {
+        "name": "Vasco Station",
+        "time": "7:20 AM",
+        "data_id": "0x1dcc5ba8b0e2e809:0x2b996b89b1bb9f8d"
+       },
+       {
+        "name": "Elsies River Station",
+        "time": "7:23 AM",
+        "data_id": "0x1dcc5bab38e20fb3:0xda75742827df1f27"
+       },
+       {
+        "name": "Parow Station",
+        "time": "7:25 AM",
+        "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+       },
+       {
+        "name": "Tygerberg Station",
+        "time": "7:29 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "6:41 AM",
+    "end_time": "7:56 AM",
+    "distance": 18141,
+    "duration": 4462,
+    "formatted_distance": "18.1 km",
+    "formatted_duration": "1 hr 15 min",
+    "cost": 10,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1383,
+      "duration": 1102,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "19 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Lower Main Rd",
+        "action": "straight",
+        "distance": 3,
+        "duration": 2,
+        "formatted_distance": "3 m",
+        "formatted_duration": "2 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tbVy_Lw3fT8vneVRpOULvg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=65.03244&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93822897420898,
+         "longitude": 18.46871455415771
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Lower Main Rd",
+        "action": "turn-left",
+        "distance": 1030,
+        "duration": 809,
+        "formatted_distance": "1.0 km",
+        "formatted_duration": "13 min",
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Albert Rd / M57",
+        "action": "turn-left",
+        "distance": 102,
+        "duration": 88,
+        "formatted_distance": "100 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ClHSAMEiWHituNu45W1AGA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=336.01492&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.929764179348794,
+         "longitude": 18.46485033896622
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  London Rd",
+        "action": "turn-right",
+        "distance": 197,
+        "duration": 152,
+        "formatted_distance": "200 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f0xrOs-_1RzYCymGvJniLw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=104.04852&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.92936549101059,
+         "longitude": 18.46389090305711
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Foundry Rd",
+        "action": "turn-right",
+        "distance": 8,
+        "duration": 7,
+        "formatted_distance": "8 m",
+        "formatted_duration": "7 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R6_FxFof3wjGkqExh63Yzw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=23.015278&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.927881856606575,
+         "longitude": 18.464454935852835
+        },
+        "extensions": [
+         "Destination will be on the left"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Salt River exit 1 (Foundry Road)",
+        "distance": 43,
+        "duration": 44,
+        "formatted_distance": "43 m",
+        "formatted_duration": "44 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HG0TvNRsncROZwP0xzqwFw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=17.401758&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.92771054906415,
+         "longitude": 18.464531915351735
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-35s Wellington Station",
+      "duration": 2100,
+      "formatted_duration": "35 min",
+      "start_stop": {
+       "name": "Salt River Station",
+       "time": "7:00 AM",
+       "data_id": "0x1dcc5da8e8ee133d:0xa200d3124d2e259b"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "7:35 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Koeberg Rd Station",
+        "time": "7:02 AM",
+        "data_id": "0x1dcc5c544d85548b:0xa778cc8463f70b14"
+       },
+       {
+        "name": "Maitland Station",
+        "time": "7:05 AM",
+        "data_id": "0x1dcc5c59d565a49d:0x39e47ea996e1cb96"
+       },
+       {
+        "name": "Mutual Station",
+        "time": "7:10 AM",
+        "data_id": "0x1dcc5c7dc7c5a9eb:0xec261db94d0028f9"
+       },
+       {
+        "name": "Thornton Station",
+        "time": "7:14 AM",
+        "data_id": "0x1dcc5b82936cc155:0xcc50ff829db7d591"
+       },
+       {
+        "name": "Goodwood Station",
+        "time": "7:17 AM",
+        "data_id": "0x1dcc5ba1b90a167f:0xcede115cb00b9d1"
+       },
+       {
+        "name": "Vasco Station",
+        "time": "7:20 AM",
+        "data_id": "0x1dcc5ba8b0e2e809:0x2b996b89b1bb9f8d"
+       },
+       {
+        "name": "Elsies River Station",
+        "time": "7:23 AM",
+        "data_id": "0x1dcc5bab38e20fb3:0xda75742827df1f27"
+       },
+       {
+        "name": "Parow Station",
+        "time": "7:25 AM",
+        "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+       },
+       {
+        "name": "Tygerberg Station",
+        "time": "7:29 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "6:06 AM",
+    "end_time": "7:21 AM",
+    "distance": 18143,
+    "duration": 4462,
+    "formatted_distance": "18.1 km",
+    "formatted_duration": "1 hr 15 min",
+    "cost": 10,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1383,
+      "duration": 1102,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "19 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Lower Main Rd",
+        "action": "straight",
+        "distance": 3,
+        "duration": 2,
+        "formatted_distance": "3 m",
+        "formatted_duration": "2 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tbVy_Lw3fT8vneVRpOULvg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=65.03244&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93822897420898,
+         "longitude": 18.46871455415771
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Lower Main Rd",
+        "action": "turn-left",
+        "distance": 1030,
+        "duration": 809,
+        "formatted_distance": "1.0 km",
+        "formatted_duration": "13 min",
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Albert Rd / M57",
+        "action": "turn-left",
+        "distance": 102,
+        "duration": 88,
+        "formatted_distance": "100 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ClHSAMEiWHituNu45W1AGA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=336.01492&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.929764179348794,
+         "longitude": 18.46485033896622
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  London Rd",
+        "action": "turn-right",
+        "distance": 197,
+        "duration": 152,
+        "formatted_distance": "200 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f0xrOs-_1RzYCymGvJniLw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=104.04852&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.92936549101059,
+         "longitude": 18.46389090305711
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Foundry Rd",
+        "action": "turn-right",
+        "distance": 8,
+        "duration": 7,
+        "formatted_distance": "8 m",
+        "formatted_duration": "7 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R6_FxFof3wjGkqExh63Yzw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=23.015278&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.927881856606575,
+         "longitude": 18.464454935852835
+        },
+        "extensions": [
+         "Destination will be on the left"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Salt River exit 1 (Foundry Road)",
+        "distance": 43,
+        "duration": 44,
+        "formatted_distance": "43 m",
+        "formatted_duration": "44 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HG0TvNRsncROZwP0xzqwFw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=17.401758&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.92771054906415,
+         "longitude": 18.464531915351735
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-25s Kraaifontein Station",
+      "duration": 2100,
+      "formatted_duration": "35 min",
+      "start_stop": {
+       "name": "Salt River Station",
+       "time": "6:25 AM",
+       "data_id": "0x1dcc5da8e8ee133d:0xa200d3124d2e259b"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "7:00 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Koeberg Rd Station",
+        "time": "6:27 AM",
+        "data_id": "0x1dcc5c544d85548b:0xa778cc8463f70b14"
+       },
+       {
+        "name": "Maitland Station",
+        "time": "6:30 AM",
+        "data_id": "0x1dcc5c59d565a49d:0x39e47ea996e1cb96"
+       },
+       {
+        "name": "Mutual Station",
+        "time": "6:35 AM",
+        "data_id": "0x1dcc5c7dc7c5a9eb:0xec261db94d0028f9"
+       },
+       {
+        "name": "Thornton Station",
+        "time": "6:39 AM",
+        "data_id": "0x1dcc5b82936cc155:0xcc50ff829db7d591"
+       },
+       {
+        "name": "Goodwood Station",
+        "time": "6:42 AM",
+        "data_id": "0x1dcc5ba1b90a167f:0xcede115cb00b9d1"
+       },
+       {
+        "name": "Vasco Station",
+        "time": "6:45 AM",
+        "data_id": "0x1dcc5ba8b0e2e809:0x2b996b89b1bb9f8d"
+       },
+       {
+        "name": "Elsies River Station",
+        "time": "6:48 AM",
+        "data_id": "0x1dcc5bab38e20fb3:0xda75742827df1f27"
+       },
+       {
+        "name": "Parow Station",
+        "time": "6:50 AM",
+        "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+       },
+       {
+        "name": "Tygerberg Station",
+        "time": "6:54 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "5:57 AM",
+    "end_time": "7:21 AM",
+    "distance": 26044,
+    "duration": 5037,
+    "formatted_distance": "26.0 km",
+    "formatted_duration": "1 hr 24 min",
+    "cost": 12,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 291,
+      "duration": 237,
+      "formatted_distance": "290 m",
+      "formatted_duration": "4 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Lower Main Rd",
+        "action": "straight",
+        "distance": 159,
+        "duration": 126,
+        "formatted_distance": "160 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=blgxQ22l0xIAyIUuOEoh7Q&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.62592&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93826310810781,
+         "longitude": 18.46859799674283
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  toward  Florence Ave",
+        "action": "turn-slight-right",
+        "distance": 72,
+        "duration": 58,
+        "formatted_distance": "72 m",
+        "formatted_duration": "58 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4nz8IU9MtuAS6eAAS8R3sQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=251.90244&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93778247769696,
+         "longitude": 18.470266664314007
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Florence Ave",
+        "action": "turn-right",
+        "distance": 46,
+        "duration": 38,
+        "formatted_distance": "46 m",
+        "formatted_duration": "38 sec",
+        "extensions": [
+         "Destination will be on the left"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Observatory Exit 1 (Florence Rd)",
+        "distance": 14,
+        "duration": 15,
+        "formatted_distance": "14 m",
+        "formatted_duration": "15 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xn8oiNgilcCAGFW7dDU4XA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=345.7947&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93789309890819,
+         "longitude": 18.471241876293686
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Southern Line Cape Town Station",
+      "duration": 840,
+      "formatted_duration": "14 min",
+      "start_stop": {
+       "name": "Observatory Station",
+       "time": "6:01 AM",
+       "data_id": "0x1dcc5d03be28e0f3:0x7988b95813bea6e2"
+      },
+      "end_stop": {
+       "name": "Cape Town Station",
+       "time": "6:15 AM",
+       "data_id": "0x1dcc676249702433:0xb6ea53dce084e5fd"
+      },
+      "stops": [
+       {
+        "name": "Salt River Station",
+        "time": "6:04 AM",
+        "data_id": "0x1dcc5da8e8ee133d:0xa200d3124d2e259b"
+       },
+       {
+        "name": "Woodstock Station",
+        "time": "6:07 AM",
+        "data_id": "0x1dcc5d9984301627:0x18bbd4ad6f3fb1a0"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-25s Kraaifontein Station",
+      "duration": 2400,
+      "formatted_duration": "40 min",
+      "start_stop": {
+       "name": "Cape Town Station",
+       "time": "6:20 AM",
+       "data_id": "0x1dcc676249702433:0xb6ea53dce084e5fd"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "7:00 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Woodstock Station",
+        "time": "6:23 AM",
+        "data_id": "0x1dcc5d9984301627:0x18bbd4ad6f3fb1a0"
+       },
+       {
+        "name": "Salt River Station",
+        "time": "6:25 AM",
+        "data_id": "0x1dcc5da8e8ee133d:0xa200d3124d2e259b"
+       },
+       {
+        "name": "Koeberg Rd Station",
+        "time": "6:27 AM",
+        "data_id": "0x1dcc5c544d85548b:0xa778cc8463f70b14"
+       },
+       {
+        "name": "Maitland Station",
+        "time": "6:30 AM",
+        "data_id": "0x1dcc5c59d565a49d:0x39e47ea996e1cb96"
+       },
+       {
+        "name": "Mutual Station",
+        "time": "6:35 AM",
+        "data_id": "0x1dcc5c7dc7c5a9eb:0xec261db94d0028f9"
+       },
+       {
+        "name": "Thornton Station",
+        "time": "6:39 AM",
+        "data_id": "0x1dcc5b82936cc155:0xcc50ff829db7d591"
+       },
+       {
+        "name": "Goodwood Station",
+        "time": "6:42 AM",
+        "data_id": "0x1dcc5ba1b90a167f:0xcede115cb00b9d1"
+       },
+       {
+        "name": "Vasco Station",
+        "time": "6:45 AM",
+        "data_id": "0x1dcc5ba8b0e2e809:0x2b996b89b1bb9f8d"
+       },
+       {
+        "name": "Elsies River Station",
+        "time": "6:48 AM",
+        "data_id": "0x1dcc5bab38e20fb3:0xda75742827df1f27"
+       },
+       {
+        "name": "Parow Station",
+        "time": "6:50 AM",
+        "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+       },
+       {
+        "name": "Tygerberg Station",
+        "time": "6:54 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "5:57 AM",
+    "end_time": "7:31 AM",
+    "distance": 25733,
+    "duration": 5637,
+    "formatted_distance": "25.7 km",
+    "formatted_duration": "1 hr 34 min",
+    "cost": 12,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 291,
+      "duration": 237,
+      "formatted_distance": "290 m",
+      "formatted_duration": "4 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Lower Main Rd",
+        "action": "straight",
+        "distance": 159,
+        "duration": 126,
+        "formatted_distance": "160 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=blgxQ22l0xIAyIUuOEoh7Q&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.62592&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93826310810781,
+         "longitude": 18.46859799674283
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  toward  Florence Ave",
+        "action": "turn-slight-right",
+        "distance": 72,
+        "duration": 58,
+        "formatted_distance": "72 m",
+        "formatted_duration": "58 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4nz8IU9MtuAS6eAAS8R3sQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=251.90244&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93778247769696,
+         "longitude": 18.470266664314007
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Florence Ave",
+        "action": "turn-right",
+        "distance": 46,
+        "duration": 38,
+        "formatted_distance": "46 m",
+        "formatted_duration": "38 sec",
+        "extensions": [
+         "Destination will be on the left"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Observatory Exit 1 (Florence Rd)",
+        "distance": 14,
+        "duration": 15,
+        "formatted_distance": "14 m",
+        "formatted_duration": "15 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xn8oiNgilcCAGFW7dDU4XA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=345.7947&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93789309890819,
+         "longitude": 18.471241876293686
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Southern Line Cape Town Station",
+      "duration": 360,
+      "formatted_duration": "6 min",
+      "start_stop": {
+       "name": "Observatory Station",
+       "time": "6:01 AM",
+       "data_id": "0x1dcc5d03be28e0f3:0x7988b95813bea6e2"
+      },
+      "end_stop": {
+       "name": "Woodstock Station",
+       "time": "6:07 AM",
+       "data_id": "0x1dcc5d9984301627:0x18bbd4ad6f3fb1a0"
+      },
+      "stops": [
+       {
+        "name": "Salt River Station",
+        "time": "6:04 AM",
+        "data_id": "0x1dcc5da8e8ee133d:0xa200d3124d2e259b"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "duration": 199,
+      "formatted_duration": "3 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Woodstock entrance 2 (Porter St)",
+        "distance": 56,
+        "duration": 57,
+        "formatted_distance": "56 m",
+        "formatted_duration": "57 sec"
+       },
+       {
+        "title": "Walk",
+        "distance": 105,
+        "duration": 105,
+        "formatted_distance": "110 m",
+        "formatted_duration": "2 min"
+       },
+       {
+        "title": "Enter via Esplanade exit 1 (Davidson St)",
+        "distance": 36,
+        "duration": 37,
+        "formatted_distance": "36 m",
+        "formatted_duration": "37 sec"
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-34s Du Toit station",
+      "duration": 3000,
+      "formatted_duration": "50 min",
+      "start_stop": {
+       "name": "Esplanade Station",
+       "time": "6:20 AM",
+       "data_id": "0x1dcc5d9a1b504e3f:0x8a48a2870da9ccc8"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "7:10 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Ysterplaat Station",
+        "time": "6:27 AM",
+        "data_id": "0x1dcc5c52e61e9c25:0x65a3f706ebbef59f"
+       },
+       {
+        "name": "Century City Station",
+        "time": "6:38 AM",
+        "data_id": "0x1dcc5c0d4f0a4379:0xc88bd20bae86c730"
+       },
+       {
+        "name": "Monte Vista Station",
+        "time": "6:50 AM",
+        "data_id": "0x1dcc5bc19b5be2d3:0x13c2cf595158c452"
+       },
+       {
+        "name": "De Grendel Station",
+        "time": "6:57 AM",
+        "data_id": "0x1dcc5a484d83dad9:0x1f807ef31f3a64dc"
+       },
+       {
+        "name": "Avondale Station",
+        "time": "7:01 AM",
+        "data_id": "0x1dcc5a4290beaab9:0xd3eebdb3ff9cb7c7"
+       },
+       {
+        "name": "Oosterzee Station",
+        "time": "7:05 AM",
+        "data_id": "0x1dcc5a7afd7ceb3f:0xe0e56c32c745e552"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "5:45 AM",
+    "end_time": "6:56 AM",
+    "distance": 18556,
+    "duration": 4257,
+    "formatted_distance": "18.6 km",
+    "formatted_duration": "1 hr 11 min",
+    "cost": 12,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 291,
+      "duration": 237,
+      "formatted_distance": "290 m",
+      "formatted_duration": "4 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Lower Main Rd",
+        "action": "straight",
+        "distance": 159,
+        "duration": 126,
+        "formatted_distance": "160 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=blgxQ22l0xIAyIUuOEoh7Q&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.62592&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93826310810781,
+         "longitude": 18.46859799674283
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  toward  Florence Ave",
+        "action": "turn-slight-right",
+        "distance": 72,
+        "duration": 58,
+        "formatted_distance": "72 m",
+        "formatted_duration": "58 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4nz8IU9MtuAS6eAAS8R3sQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=251.90244&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93778247769696,
+         "longitude": 18.470266664314007
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Florence Ave",
+        "action": "turn-right",
+        "distance": 46,
+        "duration": 38,
+        "formatted_distance": "46 m",
+        "formatted_duration": "38 sec",
+        "extensions": [
+         "Destination will be on the left"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Observatory Exit 1 (Florence Rd)",
+        "distance": 14,
+        "duration": 15,
+        "formatted_distance": "14 m",
+        "formatted_duration": "15 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xn8oiNgilcCAGFW7dDU4XA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=345.7947&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93789309890819,
+         "longitude": 18.471241876293686
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Southern Line Cape Town Station",
+      "duration": 180,
+      "formatted_duration": "3 min",
+      "start_stop": {
+       "name": "Observatory Station",
+       "time": "5:49 AM",
+       "data_id": "0x1dcc5d03be28e0f3:0x7988b95813bea6e2"
+      },
+      "end_stop": {
+       "name": "Salt River Station",
+       "time": "5:52 AM",
+       "data_id": "0x1dcc5da8e8ee133d:0xa200d3124d2e259b"
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-32s Strand Station",
+      "duration": 2100,
+      "formatted_duration": "35 min",
+      "start_stop": {
+       "name": "Salt River Station",
+       "time": "6:00 AM",
+       "data_id": "0x1dcc5da8e8ee133d:0xa200d3124d2e259b"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "6:35 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Koeberg Rd Station",
+        "time": "6:02 AM",
+        "data_id": "0x1dcc5c544d85548b:0xa778cc8463f70b14"
+       },
+       {
+        "name": "Maitland Station",
+        "time": "6:05 AM",
+        "data_id": "0x1dcc5c59d565a49d:0x39e47ea996e1cb96"
+       },
+       {
+        "name": "Mutual Station",
+        "time": "6:10 AM",
+        "data_id": "0x1dcc5c7dc7c5a9eb:0xec261db94d0028f9"
+       },
+       {
+        "name": "Thornton Station",
+        "time": "6:14 AM",
+        "data_id": "0x1dcc5b82936cc155:0xcc50ff829db7d591"
+       },
+       {
+        "name": "Goodwood Station",
+        "time": "6:17 AM",
+        "data_id": "0x1dcc5ba1b90a167f:0xcede115cb00b9d1"
+       },
+       {
+        "name": "Vasco Station",
+        "time": "6:20 AM",
+        "data_id": "0x1dcc5ba8b0e2e809:0x2b996b89b1bb9f8d"
+       },
+       {
+        "name": "Elsies River Station",
+        "time": "6:23 AM",
+        "data_id": "0x1dcc5bab38e20fb3:0xda75742827df1f27"
+       },
+       {
+        "name": "Parow Station",
+        "time": "6:25 AM",
+        "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+       },
+       {
+        "name": "Tygerberg Station",
+        "time": "6:29 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "durations": [
+   {
+    "travel_mode": "Driving",
+    "duration": 1800,
+    "formatted_duration": "30 min"
+   },
+   {
+    "travel_mode": "Two-wheeler",
+    "duration": 1800,
+    "formatted_duration": "30 min"
+   },
+   {
+    "travel_mode": "Transit",
+    "duration": 4260,
+    "formatted_duration": "1 hr 11"
+   },
+   {
+    "travel_mode": "Walking",
+    "duration": 14420,
+    "formatted_duration": "4 hr"
+   }
+  ]
+ }
+}

@@ -1,0 +1,843 @@
+{
+ "fetched_at": "2026-10-17T21:17:16.543954+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "grocery store in Observatory, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5db93a73fbdf1db8e4d",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/ILokRre6UhQgA7vl-U1j6DNRGaAcEIop3vSwdu33KmE/6ad3e5db93a73fbdf1db8e4d.json",
+   "markdown_endpoint": "https://serpapi.com/searches/ILokRre6UhQgA7vl-U1j6DNRGaAcEIop3vSwdu33KmE/6ad3e5db93a73fbdf1db8e4d.md",
+   "created_at": "2026-10-17 21:17:15 UTC",
+   "processed_at": "2026-10-17 21:17:15 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/grocery+store+in+Observatory%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/ILokRre6UhQgA7vl-U1j6DNRGaAcEIop3vSwdu33KmE/6ad3e5db93a73fbdf1db8e4d.html",
+   "prettify_html_file": "https://serpapi.com/searches/ILokRre6UhQgA7vl-U1j6DNRGaAcEIop3vSwdu33KmE/6ad3e5db93a73fbdf1db8e4d.prettify",
+   "total_time_taken": 0.99
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "grocery store in Observatory, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "grocery store in Observatory, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "KWIKSPAR Observatory",
+    "place_id": "ChIJPXF1bXxdzB0RNqP7sVGj7Yc",
+    "data_id": "0x1dcc5d7c6d75713d:0x87eda351b1fba336",
+    "data_cid": "9794664335874433846",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d7c6d75713d%3A0x87eda351b1fba336&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d7c6d75713d%3A0x87eda351b1fba336&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9380321,
+     "longitude": 18.4696802
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPXF1bXxdzB0RNqP7sVGj7Yc",
+    "provider_id": "/g/1tf20v_f",
+    "rating": 4,
+    "reviews": 1295,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Food products supplier",
+     "Fruit and vegetable store",
+     "Supermarket"
+    ],
+    "address": "67 Station Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 am Sun",
+    "hours": "Closed · Opens 7:30 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–9 pm",
+     "sunday": "7:30 am–9 pm",
+     "monday": "7 am–9 pm",
+     "tuesday": "7 am–9 pm",
+     "wednesday": "7 am–9 pm",
+     "thursday": "7 am–9 pm",
+     "friday": "7 am–9 pm"
+    },
+    "phone": "021 448 0409",
+    "website": "https://www.spar.co.za/Home/Store-View/KWIKSPAR-Obz-Western-Cape",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Korea Market",
+    "place_id": "ChIJyc9uRxtdzB0RzGEtHGwpAi4",
+    "data_id": "0x1dcc5d1b476ecfc9:0x2e02296c1c2d61cc",
+    "data_cid": "3315257820004049356",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b476ecfc9%3A0x2e02296c1c2d61cc&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b476ecfc9%3A0x2e02296c1c2d61cc&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9424832,
+     "longitude": 18.466773
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyc9uRxtdzB0RzGEtHGwpAi4",
+    "provider_id": "/g/11b7hqv6vw",
+    "rating": 4.4,
+    "reviews": 979,
+    "type": "Asian grocery store",
+    "types": [
+     "Asian grocery store",
+     "Grocery store",
+     "Korean grocery store",
+     "Korean restaurant"
+    ],
+    "address": "1st floor, St Peters Square, 423 Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 10 am Sun",
+    "hours": "Closed · Opens 10 am Sun",
+    "operating_hours": {
+     "saturday": "9:30 am–5:30 pm",
+     "sunday": "10 am–4 pm",
+     "monday": "9:30 am–5:30 pm",
+     "tuesday": "9:30 am–5:30 pm",
+     "wednesday": "9:30 am–5:30 pm",
+     "thursday": "9:30 am–5:30 pm",
+     "friday": "9:30 am–5:30 pm"
+    },
+    "phone": "021 891 0359",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Pick n Pay Observatory",
+    "place_id": "ChIJ3eBYzB9dzB0RSu--qwOTPbk",
+    "data_id": "0x1dcc5d1fcc58e0dd:0xb93d9303abbeef4a",
+    "data_cid": "13347986514571620170",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1fcc58e0dd%3A0xb93d9303abbeef4a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1fcc58e0dd%3A0xb93d9303abbeef4a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9421959,
+     "longitude": 18.4667012
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3eBYzB9dzB0RSu--qwOTPbk",
+    "provider_id": "/g/1w2z0q7h",
+    "rating": 4.1,
+    "reviews": 3195,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Produce market",
+     "Supermarket"
+    ],
+    "address": "Saint Peters Square, Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–9 pm",
+     "sunday": "7 am–9 pm",
+     "monday": "7 am–9 pm",
+     "tuesday": "7 am–9 pm",
+     "wednesday": "7 am–9 pm",
+     "thursday": "7 am–9 pm",
+     "friday": "7 am–9 pm"
+    },
+    "phone": "021 448 9802",
+    "website": "http://www.pnp.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "Woolworths Foodstop",
+    "place_id": "ChIJX3giIvRdzB0Rlk6b9RjpmGI",
+    "data_id": "0x1dcc5df42222785f:0x6298e918f59b4e96",
+    "data_cid": "7104684705586040470",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5df42222785f%3A0x6298e918f59b4e96&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5df42222785f%3A0x6298e918f59b4e96&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9438313,
+     "longitude": 18.469228599999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX3giIvRdzB0Rlk6b9RjpmGI",
+    "provider_id": "/g/11ll22kh14",
+    "rating": 4.2,
+    "reviews": 53,
+    "type": "Convenience store",
+    "types": [
+     "Convenience store"
+    ],
+    "address": "242 Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "website": "http://www.woolworths.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "SPAR Groote Schuur",
+    "place_id": "ChIJwcwGKgRdzB0RaczqAQLJvBU",
+    "data_id": "0x1dcc5d042a06ccc1:0x15bcc90201eacc69",
+    "data_cid": "1566347780877372521",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d042a06ccc1%3A0x15bcc90201eacc69&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d042a06ccc1%3A0x15bcc90201eacc69&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.937093499999996,
+     "longitude": 18.4628335
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwcwGKgRdzB0RaczqAQLJvBU",
+    "provider_id": "/g/11c3ywdc6v",
+    "rating": 4.2,
+    "reviews": 2069,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Food products supplier",
+     "Fruit and vegetable store",
+     "Supermarket"
+    ],
+    "address": "Browning Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–9:30 pm",
+     "sunday": "7 am–9:30 pm",
+     "monday": "7 am–9:30 pm",
+     "tuesday": "7 am–9:30 pm",
+     "wednesday": "7 am–9:30 pm",
+     "thursday": "7 am–9:30 pm",
+     "friday": "7 am–9:30 pm"
+    },
+    "phone": "021 447 1652",
+    "website": "https://www.spar.co.za/Home/Store-View/SPAR-Henties-Bay-Namibia",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "title": "Rainbow Supermarket",
+    "place_id": "ChIJn-QDR1ZdzB0RPhKCdObQddA",
+    "data_id": "0x1dcc5d564703e49f:0xd075d0e67482123e",
+    "data_cid": "15021141820379894334",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d564703e49f%3A0xd075d0e67482123e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d564703e49f%3A0xd075d0e67482123e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9387249,
+     "longitude": 18.4690418
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn-QDR1ZdzB0RPhKCdObQddA",
+    "provider_id": "/g/11qg30hgc4",
+    "rating": 1,
+    "reviews": 2,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "82 Lower Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Open · Closes 2 am",
+    "hours": "Open · Closes 2 am",
+    "operating_hours": {
+     "saturday": "6:30 am–2 am",
+     "sunday": "6:30 am–2 am",
+     "monday": "6:30 am–2 am",
+     "tuesday": "6:30 am–2 am",
+     "wednesday": "6:30 am–2 am",
+     "thursday": "6:30 am–2 am",
+     "friday": "6:30 am–2 am"
+    },
+    "phone": "062 791 2994"
+   },
+   {
+    "position": 7,
+    "title": "Super Save Store",
+    "place_id": "ChIJ9eYzfgNdzB0RYj3hGQu6Z70",
+    "data_id": "0x1dcc5d037e33e6f5:0xbd67ba0b19e13d62",
+    "data_cid": "13648081752611175778",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d037e33e6f5%3A0xbd67ba0b19e13d62&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d037e33e6f5%3A0xbd67ba0b19e13d62&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.938195,
+     "longitude": 18.469214
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9eYzfgNdzB0RYj3hGQu6Z70",
+    "provider_id": "/g/11bccgvnw9",
+    "rating": 4.7,
+    "reviews": 6,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket"
+    ],
+    "address": "65 Station Rd, Observatory, Cape Town, 7935",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Mon",
+    "hours": "Closed · Opens 6 am Mon",
+    "operating_hours": {
+     "saturday": "6 am–6 pm",
+     "sunday": "Closed",
+     "monday": "6 am–6 pm",
+     "tuesday": "6 am–6 pm",
+     "wednesday": "6 am–6 pm",
+     "thursday": "6 am–6 pm",
+     "friday": "6 am–6 pm"
+    }
+   },
+   {
+    "position": 8,
+    "title": "Asian Mart",
+    "place_id": "ChIJ6XL7PgBdzB0Rc_KNX69mSiU",
+    "data_id": "0x1dcc5d003efb72e9:0x254a66af5f8df273",
+    "data_cid": "2687073031088370291",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d003efb72e9%3A0x254a66af5f8df273&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d003efb72e9%3A0x254a66af5f8df273&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9338091,
+     "longitude": 18.4747465
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6XL7PgBdzB0Rc_KNX69mSiU",
+    "provider_id": "/g/11x1zsdzcz",
+    "rating": 4.7,
+    "reviews": 10,
+    "type": "Asian grocery store",
+    "types": [
+     "Asian grocery store"
+    ],
+    "address": "51 Gogosoa St, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–5 pm",
+     "sunday": "9 am–5 pm",
+     "monday": "9 am–7 pm",
+     "tuesday": "9 am–7 pm",
+     "wednesday": "9 am–7 pm",
+     "thursday": "9 am–7 pm",
+     "friday": "9 am–7 pm"
+    }
+   },
+   {
+    "position": 9,
+    "title": "Woolworths Food Riverlands",
+    "place_id": "ChIJdZHEZQBdzB0RHYrLTTCAQ_0",
+    "data_id": "0x1dcc5d0065c49175:0xfd4380304dcb8a1d",
+    "data_cid": "18249571059987352093",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0065c49175%3A0xfd4380304dcb8a1d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0065c49175%3A0xfd4380304dcb8a1d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9335557,
+     "longitude": 18.4747563
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdZHEZQBdzB0RHYrLTTCAQ_0",
+    "provider_id": "/g/11wr2d_4xp",
+    "rating": 4.1,
+    "reviews": 163,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "51 Gogosoa St, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–7 pm",
+     "sunday": "8 am–7 pm",
+     "monday": "8 am–7 pm",
+     "tuesday": "8 am–7 pm",
+     "wednesday": "8 am–7 pm",
+     "thursday": "8 am–7 pm",
+     "friday": "8 am–7 pm"
+    },
+    "phone": "021 440 1940",
+    "website": "https://www.woolworths.co.za/?utm_source=google&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "title": "Mitra Market",
+    "place_id": "ChIJ5fX8XrhdzB0RqYLpQUhwFI0",
+    "data_id": "0x1dcc5db85efcf5e5:0x8d14704841e982a9",
+    "data_cid": "10165873714527830697",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5db85efcf5e5%3A0x8d14704841e982a9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5db85efcf5e5%3A0x8d14704841e982a9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9387026,
+     "longitude": 18.4672347
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5fX8XrhdzB0RqYLpQUhwFI0",
+    "provider_id": "/g/11q95kp2nn",
+    "rating": 4,
+    "reviews": 9,
+    "type": "Convenience store",
+    "types": [
+     "Convenience store",
+     "Store"
+    ],
+    "address": "33 Station Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–10 pm",
+     "sunday": "9 am–8 pm",
+     "monday": "8 am–10 pm",
+     "tuesday": "8 am–10 pm",
+     "wednesday": "8 am–10 pm",
+     "thursday": "8 am–10 pm",
+     "friday": "8 am–10 pm"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "KHAN'S SUPERMARKET",
+    "place_id": "ChIJV2jxXwNdzB0RrEdl7_k8oyQ",
+    "data_id": "0x1dcc5d035ff16857:0x24a33cf9ef6547ac",
+    "data_cid": "2640020850730157996",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d035ff16857%3A0x24a33cf9ef6547ac&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d035ff16857%3A0x24a33cf9ef6547ac&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9393685,
+     "longitude": 18.4691728
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV2jxXwNdzB0RrEdl7_k8oyQ",
+    "provider_id": "/g/11nk0tcq31",
+    "unclaimed_listing": true,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "60 Lower Main Rd, Observatory, Cape Town, 7935",
+    "country": "South Africa"
+   },
+   {
+    "position": 12,
+    "title": "FreshStop Observatory",
+    "place_id": "ChIJj8YZeoddzB0RgxvIKtnQ7Tw",
+    "data_id": "0x1dcc5d877a19c68f:0x3cedd0d92ac81b83",
+    "data_cid": "4390394842900339587",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d877a19c68f%3A0x3cedd0d92ac81b83&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d877a19c68f%3A0x3cedd0d92ac81b83&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.936462399999996,
+     "longitude": 18.4629461
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj8YZeoddzB0RgxvIKtnQ7Tw",
+    "provider_id": "/g/11xnn4dh10",
+    "rating": 3.5,
+    "reviews": 12,
+    "type": "Convenience store",
+    "types": [
+     "Convenience store"
+    ],
+    "address": "307 Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "website": "https://freshstop.co.za/?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Hollywood Mini Market",
+    "place_id": "ChIJq2CLZxtdzB0RyqiDOHcIarQ",
+    "data_id": "0x1dcc5d1b678b60ab:0xb46a08773883a8ca",
+    "data_cid": "13000212582500640970",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b678b60ab%3A0xb46a08773883a8ca&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b678b60ab%3A0xb46a08773883a8ca&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.942405199999996,
+     "longitude": 18.46886
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq2CLZxtdzB0RyqiDOHcIarQ",
+    "provider_id": "/g/11c3k8_9fp",
+    "rating": 5,
+    "reviews": 3,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket"
+    ],
+    "address": "Lower Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closes soon · 12 am · Opens 6:30 am Sun",
+    "hours": "Closes soon · 12 am · Opens 6:30 am Sun",
+    "operating_hours": {
+     "saturday": "6:30 am–12 am",
+     "sunday": "6:30 am–12 am",
+     "monday": "6:30 am–12 am",
+     "tuesday": "6:30 am–12 am",
+     "wednesday": "6:30 am–12 am",
+     "thursday": "6:30 am–12 am",
+     "friday": "6:30 am–12 am"
+    },
+    "phone": "074 504 2447"
+   },
+   {
+    "position": 14,
+    "title": "Lower Superatte Observatory",
+    "place_id": "ChIJjQXSuspdzB0RD2Kd_hnO7tc",
+    "data_id": "0x1dcc5dcabad2058d:0xd7eece19fe9d620f",
+    "data_cid": "15559600373652873743",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5dcabad2058d%3A0xd7eece19fe9d620f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5dcabad2058d%3A0xd7eece19fe9d620f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9334887,
+     "longitude": 18.4667241
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjQXSuspdzB0RD2Kd_hnO7tc",
+    "provider_id": "/g/11rf7xvqm1",
+    "rating": 4,
+    "reviews": 4,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "285 Lower Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–10 pm",
+     "sunday": "7 am–10 pm",
+     "monday": "7 am–10 pm",
+     "tuesday": "7 am–10 pm",
+     "wednesday": "7 am–10 pm",
+     "thursday": "7 am–10 pm",
+     "friday": "7 am–10 pm"
+    },
+    "phone": "067 965 3169"
+   },
+   {
+    "position": 15,
+    "title": "Komati Foods",
+    "place_id": "ChIJexoSnQRdzB0RmrFxbFJY0hs",
+    "data_id": "0x1dcc5d049d121a7b:0x1bd258526c71b19a",
+    "data_cid": "2004761895163244954",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d049d121a7b%3A0x1bd258526c71b19a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d049d121a7b%3A0x1bd258526c71b19a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.938929,
+     "longitude": 18.469129
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJexoSnQRdzB0RmrFxbFJY0hs",
+    "provider_id": "/g/1tkhfdbg",
+    "rating": 4.5,
+    "reviews": 228,
+    "type": "Natural goods store",
+    "types": [
+     "Natural goods store",
+     "Health food store"
+    ],
+    "address": "74 Lower Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8:30 am Mon",
+    "hours": "Closed · Opens 8:30 am Mon",
+    "operating_hours": {
+     "saturday": "9 am–3 pm",
+     "sunday": "Closed",
+     "monday": "8:30 am–5:30 pm",
+     "tuesday": "8:30 am–5:30 pm",
+     "wednesday": "8:30 am–5:30 pm",
+     "thursday": "8:30 am–5:30 pm",
+     "friday": "8:30 am–5:30 pm"
+    },
+    "phone": "021 447 2089",
+    "website": "http://www.komatifoods.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "Balmoral Supermarket",
+    "place_id": "ChIJZe3jcJ9dzB0RThwRMH3TKKQ",
+    "data_id": "0x1dcc5d9f70e3ed65:0xa428d37d30111c4e",
+    "data_cid": "11828936955919408206",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9f70e3ed65%3A0xa428d37d30111c4e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9f70e3ed65%3A0xa428d37d30111c4e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.930357199999996,
+     "longitude": 18.4530097
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZe3jcJ9dzB0RThwRMH3TKKQ",
+    "provider_id": "/g/1twt3ylg",
+    "rating": 4.4,
+    "reviews": 1350,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Supermarket"
+    ],
+    "address": "189 Victoria Rd, Woodstock, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6:30 pm",
+     "sunday": "8 am–6:30 pm",
+     "monday": "8 am–6:30 pm",
+     "tuesday": "8 am–6:30 pm",
+     "wednesday": "8 am–6:30 pm",
+     "thursday": "8 am–6:30 pm",
+     "friday": "8 am–5:30 pm"
+    },
+    "phone": "021 447 3732",
+    "website": "http://www.balmoral.online/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "title": "Seven star superette",
+    "place_id": "ChIJW1GbzX5dzB0RR-WACx6_ms8",
+    "data_id": "0x1dcc5d7ecd9b515b:0xcf9abf1e0b80e547",
+    "data_cid": "14959479248027444551",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d7ecd9b515b%3A0xcf9abf1e0b80e547&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d7ecd9b515b%3A0xcf9abf1e0b80e547&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9372001,
+     "longitude": 18.4682
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW1GbzX5dzB0RR-WACx6_ms8",
+    "provider_id": "/g/11rv0clq6_",
+    "rating": 1,
+    "reviews": 8,
+    "unclaimed_listing": true,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "171 Lower Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "phone": "064 208 9498"
+   },
+   {
+    "position": 18,
+    "title": "Checkers Riverlands",
+    "place_id": "ChIJR0G_OZxdzB0ROVMApd8_ngg",
+    "data_id": "0x1dcc5d9c39bf4147:0x89e3fdfa5005339",
+    "data_cid": "621004028402225977",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9c39bf4147%3A0x89e3fdfa5005339&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9c39bf4147%3A0x89e3fdfa5005339&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.93127,
+     "longitude": 18.47363
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR0G_OZxdzB0ROVMApd8_ngg",
+    "provider_id": "/g/11y90z69y8",
+    "rating": 4.3,
+    "reviews": 579,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket",
+     "Bakery",
+     "Butcher shop",
+     "Coffee shop",
+     "Deli",
+     "Fruit and vegetable store",
+     "Grocery delivery service",
+     "Grocery store"
+    ],
+    "address": "and, Cnr Of Berkley Rd, Liesbeek Park Way, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–8 pm",
+     "sunday": "8 am–8 pm",
+     "monday": "8 am–8 pm",
+     "tuesday": "8 am–8 pm",
+     "wednesday": "8 am–8 pm",
+     "thursday": "8 am–8 pm",
+     "friday": "8 am–8 pm"
+    },
+    "phone": "021 659 1190",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "title": "Nation Choice Superette",
+    "place_id": "ChIJkcWCHwVdzB0RnLH6wg7cFxY",
+    "data_id": "0x1dcc5d051f82c591:0x1617dc0ec2fab19c",
+    "data_cid": "1591982949257621916",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d051f82c591%3A0x1617dc0ec2fab19c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d051f82c591%3A0x1617dc0ec2fab19c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.939811,
+     "longitude": 18.4660039
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkcWCHwVdzB0RnLH6wg7cFxY",
+    "provider_id": "/g/11btt88gk8",
+    "rating": 4,
+    "reviews": 2,
+    "unclaimed_listing": true,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket"
+    ],
+    "address": "377, Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Sun",
+    "hours": "Closed · Opens 6 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–8 pm",
+     "sunday": "6 am–8 pm",
+     "monday": "6 am–8 pm",
+     "tuesday": "6 am–8 pm",
+     "wednesday": "6 am–8 pm",
+     "thursday": "6 am–8 pm",
+     "friday": "6 am–8 pm"
+    },
+    "phone": "021 447 0434"
+   },
+   {
+    "position": 20,
+    "title": "Obz Family Supermarket",
+    "place_id": "ChIJZ9nOJBtdzB0RxXE2cWVjsVs",
+    "data_id": "0x1dcc5d1b24ced967:0x5bb16365713671c5",
+    "data_cid": "6607171415671468485",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b24ced967%3A0x5bb16365713671c5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b24ced967%3A0x5bb16365713671c5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9420315,
+     "longitude": 18.466886499999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ9nOJBtdzB0RxXE2cWVjsVs",
+    "provider_id": "/g/11fnwhk4zy",
+    "unclaimed_listing": true,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "412 Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6 pm",
+     "sunday": "8 am–6 pm",
+     "monday": "8 am–7 pm",
+     "tuesday": "8 am–7 pm",
+     "wednesday": "8 am–7 pm",
+     "thursday": "8 am–7 pm",
+     "friday": "8 am–7 pm"
+    },
+    "website": "https://en-gb.nearfinderza.com/business/western-cape/cape-town/obz-family-supermarket-pty-ltd_29988+3.html"
+   }
+  ]
+ }
+}

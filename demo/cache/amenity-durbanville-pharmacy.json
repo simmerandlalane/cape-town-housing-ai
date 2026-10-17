@@ -1,0 +1,870 @@
+{
+ "fetched_at": "2026-10-17T21:17:13.606713+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "pharmacy in Durbanville, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5d845a66a0dc08d7baa",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/1DU6xhENIymqYc_271HYTz5sKzteL21ahHk79pxVW2k/6ad3e5d845a66a0dc08d7baa.json",
+   "markdown_endpoint": "https://serpapi.com/searches/1DU6xhENIymqYc_271HYTz5sKzteL21ahHk79pxVW2k/6ad3e5d845a66a0dc08d7baa.md",
+   "created_at": "2026-10-17 21:17:12 UTC",
+   "processed_at": "2026-10-17 21:17:12 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/pharmacy+in+Durbanville%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/1DU6xhENIymqYc_271HYTz5sKzteL21ahHk79pxVW2k/6ad3e5d845a66a0dc08d7baa.html",
+   "prettify_html_file": "https://serpapi.com/searches/1DU6xhENIymqYc_271HYTz5sKzteL21ahHk79pxVW2k/6ad3e5d845a66a0dc08d7baa.prettify",
+   "total_time_taken": 1.06
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "pharmacy in Durbanville, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "pharmacy in Durbanville, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Arrie Nel Medi-Plein Pharmacy",
+    "place_id": "ChIJLYZZJxBXzB0RDckL2CuIAFw",
+    "data_id": "0x1dcc57102759862d:0x5c00882bd80bc90d",
+    "data_cid": "6629448373378992397",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57102759862d%3A0x5c00882bd80bc90d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57102759862d%3A0x5c00882bd80bc90d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8258838,
+     "longitude": 18.6509893
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLYZZJxBXzB0RDckL2CuIAFw",
+    "provider_id": "/g/1pzs422kj",
+    "rating": 4.3,
+    "reviews": 123,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "8 Plein St, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–1 pm",
+     "sunday": "9 am–1 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 976 1106",
+    "website": "http://www.arrienel.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Medicare Pharmacy Village Square",
+    "place_id": "ChIJg9MDJrhQzB0Rr9K9qNIXfcg",
+    "data_id": "0x1dcc50b82603d383:0xc87d17d2a8bdd2af",
+    "data_cid": "14446729373216002735",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc50b82603d383%3A0xc87d17d2a8bdd2af&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc50b82603d383%3A0xc87d17d2a8bdd2af&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8297878,
+     "longitude": 18.647740799999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg9MDJrhQzB0Rr9K9qNIXfcg",
+    "provider_id": "/g/11b5yv2wp4",
+    "rating": 2.1,
+    "reviews": 26,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Child health care center",
+     "Health and beauty shop",
+     "Health consultant",
+     "Medical clinic",
+     "Medical examiner",
+     "Medical supply store",
+     "Women's health clinic",
+     "Registered general nurse",
+     "Vitamin & supplements store"
+    ],
+    "address": "The Village Square Shopping Centre, 36 Oxford Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8:30 am Sun",
+    "hours": "Closed · Opens 8:30 am Sun",
+    "operating_hours": {
+     "saturday": "8:30 am–5 pm",
+     "sunday": "8:30 am–5 pm",
+     "monday": "8:30 am–7 pm",
+     "tuesday": "8:30 am–7 pm",
+     "wednesday": "8:30 am–7 pm",
+     "thursday": "8:30 am–7 pm",
+     "friday": "8:30 am–7 pm"
+    },
+    "phone": "021 975 6570",
+    "website": "https://medicarehealth.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Essential Health Pharmacy - Clara Anna",
+    "place_id": "ChIJB-rFpdVXzB0RiaeiCpNX4Fg",
+    "data_id": "0x1dcc57d5a5c5ea07:0x58e057930aa2a789",
+    "data_cid": "6404214959171086217",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57d5a5c5ea07%3A0x58e057930aa2a789&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57d5a5c5ea07%3A0x58e057930aa2a789&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8187773,
+     "longitude": 18.631917299999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB-rFpdVXzB0RiaeiCpNX4Fg",
+    "provider_id": "/g/11vj94h670",
+    "rating": 4.6,
+    "reviews": 21,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Medical clinic"
+    ],
+    "address": "Shop 10, Clara Anna Square, 1 Shamwari Cl, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–7 pm"
+    },
+    "phone": "021 879 1148",
+    "website": "https://www.essentialhealth.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "Clicks Pharmacy Durbanville",
+    "place_id": "ChIJ_VwtQxFXzB0RzpEexLCzvEA",
+    "data_id": "0x1dcc5711432d5cfd:0x40bcb3b0c41e91ce",
+    "data_cid": "4664800885834944974",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5711432d5cfd%3A0x40bcb3b0c41e91ce&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5711432d5cfd%3A0x40bcb3b0c41e91ce&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8314981,
+     "longitude": 18.646730599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_VwtQxFXzB0RzpEexLCzvEA",
+    "provider_id": "/g/1pzpkq6dh",
+    "rating": 3.1,
+    "reviews": 91,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Health and beauty shop",
+     "Medical clinic",
+     "Vitamin & supplements store"
+    ],
+    "address": "Wellington Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–3 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "9 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 975 1681",
+    "website": "https://clicks.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "Mediclinic Durbanville Pharmacy T/a Disa-Med Durbanville Pharmacy",
+    "place_id": "ChIJXxMTnxpXzB0RF1Jqr_8DjJk",
+    "data_id": "0x1dcc571a9f13135f:0x998c03ffaf6a5217",
+    "data_cid": "11064222781236990487",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc571a9f13135f%3A0x998c03ffaf6a5217&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc571a9f13135f%3A0x998c03ffaf6a5217&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.825498599999996,
+     "longitude": 18.6545421
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXxMTnxpXzB0RF1Jqr_8DjJk",
+    "provider_id": "/g/11b5yrlyr2",
+    "rating": 3.5,
+    "reviews": 4,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Mediclinic Durbanville, 45 Wellington Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "phone": "021 980 2127",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "title": "Dis-Chem Durbanville Pharmacy",
+    "place_id": "ChIJdwnRvVxXzB0RFamTildcbrs",
+    "data_id": "0x1dcc575cbdd10977:0xbb6e5c578a93a915",
+    "data_cid": "13505833863587539221",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc575cbdd10977%3A0xbb6e5c578a93a915&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc575cbdd10977%3A0xbb6e5c578a93a915&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.828654,
+     "longitude": 18.650541099999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdwnRvVxXzB0RFamTildcbrs",
+    "provider_id": "/g/11fk8zj249",
+    "rating": 3.7,
+    "reviews": 117,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Civil law attorney",
+     "Health and beauty shop",
+     "Drug store",
+     "Physical therapist"
+    ],
+    "address": "Wellington Rd, Durbanville Town Centre, Cape Town, 7551",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8:30 am–3 pm",
+     "sunday": "9 am–1 pm",
+     "monday": "9 am–6 pm",
+     "tuesday": "9 am–6 pm",
+     "wednesday": "9 am–6 pm",
+     "thursday": "9 am–6 pm",
+     "friday": "9 am–6 pm"
+    },
+    "phone": "021 541 0038",
+    "website": "https://www.dischem.co.za/durbanville-cape-town",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "Dis-Chem Village Square Pharmacy",
+    "place_id": "ChIJLaG93z1XzB0Rksd_nlWY-os",
+    "data_id": "0x1dcc573ddfbda12d:0x8bfa98559e7fc792",
+    "data_cid": "10086541808948463506",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc573ddfbda12d%3A0x8bfa98559e7fc792&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc573ddfbda12d%3A0x8bfa98559e7fc792&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8298394,
+     "longitude": 18.647326
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLaG93z1XzB0Rksd_nlWY-os",
+    "provider_id": "/g/11qbv7p63p",
+    "rating": 3,
+    "reviews": 87,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Health consultant",
+     "Health food store",
+     "Occupational therapist",
+     "Drug store"
+    ],
+    "address": "Corner of Queen &, Oxford St, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8:30 am Sun",
+    "hours": "Closed · Opens 8:30 am Sun",
+    "operating_hours": {
+     "saturday": "8:30 am–5 pm",
+     "sunday": "8:30 am–5 pm",
+     "monday": "8 am–7 pm",
+     "tuesday": "8 am–7 pm",
+     "wednesday": "8 am–7 pm",
+     "thursday": "8 am–7 pm",
+     "friday": "8 am–7 pm"
+    },
+    "phone": "021 975 6570",
+    "website": "https://www.dischem.co.za/village-square-mall-durbanville",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "title": "M-KEM 24 HOUR PHARMACY",
+    "place_id": "ChIJyd84Y4VQzB0Rxh1ip6-IzME",
+    "data_id": "0x1dcc50856338dfc9:0xc1cc88afa7621dc6",
+    "data_cid": "13964686832577945030",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc50856338dfc9%3A0xc1cc88afa7621dc6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc50856338dfc9%3A0xc1cc88afa7621dc6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.888366,
+     "longitude": 18.634993599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyd84Y4VQzB0Rxh1ip6-IzME",
+    "provider_id": "/g/1tht9jdq",
+    "rating": 4.5,
+    "reviews": 1934,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Travel clinic"
+    ],
+    "address": "M-KEM 24 Hour Pharmacy, 224 Durban Rd, Bellville, Cape Town, 7530",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 948 5706",
+    "website": "http://www.mkem.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "title": "Morningstar Community Health Centre",
+    "place_id": "ChIJgd14KRpXzB0RRmW8n3KYMlg",
+    "data_id": "0x1dcc571a2978dd81:0x583298729fbc6546",
+    "data_cid": "6355309642246808902",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc571a2978dd81%3A0x583298729fbc6546&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc571a2978dd81%3A0x583298729fbc6546&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8299728,
+     "longitude": 18.654495
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgd14KRpXzB0RRmW8n3KYMlg",
+    "provider_id": "/g/1tpfg8zy",
+    "rating": 4,
+    "reviews": 4,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "De Villiers Avenue, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "title": "MediRite Durbanville",
+    "place_id": "ChIJ_VwtQxFXzB0R_V5uoVr1kYc",
+    "data_id": "0x1dcc5711432d5cfd:0x8791f55aa16e5efd",
+    "data_cid": "9768858836347543293",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5711432d5cfd%3A0x8791f55aa16e5efd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5711432d5cfd%3A0x8791f55aa16e5efd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.830951999999996,
+     "longitude": 18.647593999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_VwtQxFXzB0R_V5uoVr1kYc",
+    "provider_id": "/g/11ggw0fb46",
+    "rating": 3.9,
+    "reviews": 16,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "12 Wellington Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "8 am–7 pm",
+     "tuesday": "8 am–7 pm",
+     "wednesday": "8 am–7 pm",
+     "thursday": "8 am–7 pm",
+     "friday": "8 am–7 pm"
+    },
+    "phone": "021 976 2818",
+    "website": "https://www.medirite.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "The Local Choice Pharmacy Palm Grove",
+    "place_id": "ChIJF_sl42dXzB0RFHpvBJWOdtQ",
+    "data_id": "0x1dcc5767e325fb17:0xd4768e95046f7a14",
+    "data_cid": "15309580753968265748",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5767e325fb17%3A0xd4768e95046f7a14&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5767e325fb17%3A0xd4768e95046f7a14&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.833557,
+     "longitude": 18.647592
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF_sl42dXzB0RFHpvBJWOdtQ",
+    "provider_id": "/g/11zz4n5gwg",
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Health and beauty shop",
+     "Health consultant",
+     "Medical supply store",
+     "Vitamin & supplements store"
+    ],
+    "address": "Shop 1-4, Palm Grove Centre, Main Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "phone": "061 585 9686",
+    "website": "https://thelocalchoice.co.za/pharmacy?location=PalmGrove"
+   },
+   {
+    "position": 12,
+    "title": "Clicks Pharmacy Cobble Walk",
+    "place_id": "ChIJO-Shjs9WzB0RtOW2HZ3gLF0",
+    "data_id": "0x1dcc56cf8ea1e43b:0x5d2ce09d1db6e5b4",
+    "data_cid": "6713988109915579828",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc56cf8ea1e43b%3A0x5d2ce09d1db6e5b4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc56cf8ea1e43b%3A0x5d2ce09d1db6e5b4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8443022,
+     "longitude": 18.6771889
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO-Shjs9WzB0RtOW2HZ3gLF0",
+    "provider_id": "/g/1pzvn44zz",
+    "rating": 2.7,
+    "reviews": 156,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Health and beauty shop",
+     "Vitamin & supplements store"
+    ],
+    "address": "Shop 55 (30, Cobble Walk Shopping Centre, Cnr Legato Dr, Verdi Blvd, Sonstraal Heights, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "9 am–3 pm",
+     "monday": "9 am–7 pm",
+     "tuesday": "9 am–7 pm",
+     "wednesday": "9 am–7 pm",
+     "thursday": "9 am–7 pm",
+     "friday": "9 am–7 pm"
+    },
+    "phone": "021 979 4277",
+    "website": "https://clicks.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Clicks Pharmacy Graanendal",
+    "place_id": "ChIJOxAmpBNRzB0Ry-ZONwmDHH4",
+    "data_id": "0x1dcc5113a426103b:0x7e1c8309374ee6cb",
+    "data_cid": "9087282223732680395",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5113a426103b%3A0x7e1c8309374ee6cb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5113a426103b%3A0x7e1c8309374ee6cb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.814794,
+     "longitude": 18.6743341
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOxAmpBNRzB0Ry-ZONwmDHH4",
+    "provider_id": "/g/1yh9nch9x",
+    "rating": 3.7,
+    "reviews": 55,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Health and beauty shop",
+     "Medical clinic",
+     "Vitamin & supplements store"
+    ],
+    "address": "Brackenfell Blvd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–4 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "9 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 979 4143",
+    "website": "https://clicks.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "title": "Clicks Pharmacy Pinehurst",
+    "place_id": "ChIJlZDfz8FWzB0RIVLGyGitK2Q",
+    "data_id": "0x1dcc56c1cfdf9095:0x642bad68c8c65221",
+    "data_cid": "7218053493347996193",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc56c1cfdf9095%3A0x642bad68c8c65221&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc56c1cfdf9095%3A0x642bad68c8c65221&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.832394,
+     "longitude": 18.6856868
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlZDfz8FWzB0RIVLGyGitK2Q",
+    "provider_id": "/g/11b5yk0g8w",
+    "rating": 2.8,
+    "reviews": 83,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Health and beauty shop",
+     "Medical clinic",
+     "Vitamin & supplements store"
+    ],
+    "address": "Pinehurst Dr, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–4 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "9 am–6 pm",
+     "tuesday": "9 am–6 pm",
+     "wednesday": "9 am–6 pm",
+     "thursday": "9 am–6 pm",
+     "friday": "9 am–6 pm"
+    },
+    "phone": "021 979 2763",
+    "website": "https://clicks.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "title": "UniCare 24 Hour Pharmacy Bellville",
+    "place_id": "ChIJGVunVZ5RzB0Ry8_WRWcIJY4",
+    "data_id": "0x1dcc519e55a75b19:0x8e25086745d6cfcb",
+    "data_cid": "10242602167170420683",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc519e55a75b19%3A0x8e25086745d6cfcb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc519e55a75b19%3A0x8e25086745d6cfcb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.888366,
+     "longitude": 18.634993599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGVunVZ5RzB0Ry8_WRWcIJY4",
+    "provider_id": "/g/11zkmmgm3x",
+    "rating": 3.3,
+    "reviews": 52,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "224 Durban Rd, Bellville, Cape Town, 7530",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 948 5706",
+    "website": "https://clicks.co.za/brands/unicare?srsltid=AfmBOooYpkPb6Ld8sx8bh0Rbo-CsSQ_1pN6DySjzyoXlMrVKUsEGcrYa",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "DR HOPE MEDICAL",
+    "place_id": "ChIJ2ZHrCRNXzB0RJWL7xyjOFvA",
+    "data_id": "0x1dcc571309eb91d9:0xf016ce28c7fb6225",
+    "data_cid": "17300241693139493413",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc571309eb91d9%3A0xf016ce28c7fb6225&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc571309eb91d9%3A0xf016ce28c7fb6225&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8309812,
+     "longitude": 18.6442062
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2ZHrCRNXzB0RJWL7xyjOFvA",
+    "provider_id": "/g/11ntcfmv1m",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "20B Langenhoven St, Durbanville, Cape Town, 7550",
+    "country": "South Africa"
+   },
+   {
+    "position": 17,
+    "title": "Bloemcare Pharmacy",
+    "place_id": "ChIJ23fTBGRXzB0RpP4t6FCDNoQ",
+    "data_id": "0x1dcc576404d377db:0x84368350e82dfea4",
+    "data_cid": "9526946445264813732",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc576404d377db%3A0x84368350e82dfea4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc576404d377db%3A0x84368350e82dfea4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8294,
+     "longitude": 18.650199999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ23fTBGRXzB0RpP4t6FCDNoQ",
+    "provider_id": "/g/11h_tv_z91",
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Durbanville, Cape Town, 9330",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Mon",
+    "hours": "Closed · Opens 8 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8 am–5 pm",
+     "tuesday": "8 am–5 pm",
+     "wednesday": "8 am–5 pm",
+     "thursday": "8 am–5 pm",
+     "friday": "8 am–5 pm"
+    },
+    "phone": "051 446 2334",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "title": "Kenridge Pharmacy",
+    "place_id": "ChIJvw8cPLNQzB0RcOIJUJK4chs",
+    "data_id": "0x1dcc50b33c1c0fbf:0x1b72b8925009e270",
+    "data_cid": "1977846124916630128",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc50b33c1c0fbf%3A0x1b72b8925009e270&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc50b33c1c0fbf%3A0x1b72b8925009e270&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8616204,
+     "longitude": 18.6338884
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvw8cPLNQzB0RcOIJUJK4chs",
+    "provider_id": "/g/1tdjm97w",
+    "rating": 4.6,
+    "reviews": 82,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "IPIC Kendridge Centre, Door De Kraal Ave, Kenridge, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–1 pm",
+     "sunday": "9 am–1 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 914 1121",
+    "website": "https://www.facebook.com/kenridgepharmacy/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "title": "Sonate Apteek",
+    "place_id": "ChIJ81jEqxZXzB0Rqyzz9seUK6g",
+    "data_id": "0x1dcc5716abc458f3:0xa82b94c7f6f32cab",
+    "data_cid": "12117942808932986027",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5716abc458f3%3A0xa82b94c7f6f32cab&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5716abc458f3%3A0xa82b94c7f6f32cab&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8259414,
+     "longitude": 18.6531909
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ81jEqxZXzB0Rqyzz9seUK6g",
+    "provider_id": "/g/1tjbvfnj",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Langebergwg, Sonatesntrm, Durbanville, 7570",
+    "country": "South Africa",
+    "phone": "021 975 0438",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 20,
+    "title": "Nature's Pharmatropia ONLINE ONLY STORE",
+    "place_id": "ChIJmZz0pRxpngURw1l90WE_9iY",
+    "data_id": "0x59e691ca5f49c99:0x26f63f61d17d59c3",
+    "data_cid": "2807501107071113667",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x59e691ca5f49c99%3A0x26f63f61d17d59c3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x59e691ca5f49c99%3A0x26f63f61d17d59c3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8209403,
+     "longitude": 18.6642507
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmZz0pRxpngURw1l90WE_9iY",
+    "provider_id": "/g/11sn9_0mgq",
+    "rating": 4.9,
+    "reviews": 124,
+    "type": "Herb shop",
+    "types": [
+     "Herb shop",
+     "Herbal medicine store"
+    ],
+    "address": "Langeberg Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Mon",
+    "hours": "Closed · Opens 9 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "9 am–4 pm",
+     "tuesday": "9 am–4 pm",
+     "wednesday": "9 am–4 pm",
+     "thursday": "9 am–4 pm",
+     "friday": "9 am–4 pm"
+    },
+    "phone": "079 411 5634",
+    "website": "http://www.pharmatropia.com/"
+   }
+  ]
+ }
+}

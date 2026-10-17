@@ -1,0 +1,893 @@
+{
+ "fetched_at": "2026-10-17T21:17:17.702983+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "gym in Observatory, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5dc375c34f73a6b8532",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/LF0SXo4gzLOzb8k7d_iPqmdHJHpM1rMRDvpnIsjzoWc/6ad3e5dc375c34f73a6b8532.json",
+   "markdown_endpoint": "https://serpapi.com/searches/LF0SXo4gzLOzb8k7d_iPqmdHJHpM1rMRDvpnIsjzoWc/6ad3e5dc375c34f73a6b8532.md",
+   "created_at": "2026-10-17 21:17:16 UTC",
+   "processed_at": "2026-10-17 21:17:16 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/gym+in+Observatory%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/LF0SXo4gzLOzb8k7d_iPqmdHJHpM1rMRDvpnIsjzoWc/6ad3e5dc375c34f73a6b8532.html",
+   "prettify_html_file": "https://serpapi.com/searches/LF0SXo4gzLOzb8k7d_iPqmdHJHpM1rMRDvpnIsjzoWc/6ad3e5dc375c34f73a6b8532.prettify",
+   "total_time_taken": 0.76
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "gym in Observatory, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "gym in Observatory, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Black River Crossfit",
+    "place_id": "ChIJD5qtMQJdzB0R2sqO7uHU3SA",
+    "data_id": "0x1dcc5d0231ad9a0f:0x20ddd4e1ee8ecada",
+    "data_cid": "2368283045901814490",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0231ad9a0f%3A0x20ddd4e1ee8ecada&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0231ad9a0f%3A0x20ddd4e1ee8ecada&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.937067,
+     "longitude": 18.464707999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD5qtMQJdzB0R2sqO7uHU3SA",
+    "provider_id": "/g/11fy4sbhgz",
+    "rating": 4.7,
+    "reviews": 68,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "8 Lytton St, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5:30 am Mon",
+    "hours": "Closed · Opens 5:30 am Mon",
+    "operating_hours": {
+     "saturday": "7:30–11:30 am",
+     "sunday": "Closed",
+     "monday": "5:30 am–6:30 pm",
+     "tuesday": "5:30 am–6:30 pm",
+     "wednesday": "5:30 am–6:30 pm",
+     "thursday": "6 am–7 pm",
+     "friday": "5:30 am–5:30 pm"
+    },
+    "phone": "065 612 0230",
+    "website": "https://www.blackrivercrossfit.com/"
+   },
+   {
+    "position": 2,
+    "title": "Team Shredz Private Gym Studio",
+    "place_id": "ChIJRZJ1TkxDzB0REOc1elWP3PQ",
+    "data_id": "0x1dcc434c4e759245:0xf4dc8f557a35e710",
+    "data_cid": "17644135037416105744",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc434c4e759245%3A0xf4dc8f557a35e710&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc434c4e759245%3A0xf4dc8f557a35e710&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9368811,
+     "longitude": 18.470378
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRZJ1TkxDzB0REOc1elWP3PQ",
+    "provider_id": "/g/11lp6frg8f",
+    "rating": 5,
+    "reviews": 43,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "Block B, 10 Anson Street, Collingwood Rd, Observatory, Cape Town, 7780",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 am Sun",
+    "hours": "Closed · Opens 5 am Sun",
+    "operating_hours": {
+     "saturday": "5 am–11 pm",
+     "sunday": "5 am–11 pm",
+     "monday": "5 am–11 pm",
+     "tuesday": "5 am–11 pm",
+     "wednesday": "5 am–11 pm",
+     "thursday": "5 am–11 pm",
+     "friday": "5 am–11 pm"
+    },
+    "phone": "073 268 4501"
+   },
+   {
+    "position": 3,
+    "title": "360 SPECIALIZED TRAINING",
+    "place_id": "ChIJaxeHzpxdzB0RmEeHRFCz1h0",
+    "data_id": "0x1dcc5d9cce87176b:0x1dd6b35044874798",
+    "data_cid": "2150103029444462488",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9cce87176b%3A0x1dd6b35044874798&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9cce87176b%3A0x1dd6b35044874798&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9333203,
+     "longitude": 18.4593989
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaxeHzpxdzB0RmEeHRFCz1h0",
+    "provider_id": "/g/12lkfxy4h",
+    "rating": 4.8,
+    "reviews": 153,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Boxing gym",
+     "Personal trainer",
+     "Weightlifting area"
+    ],
+    "address": "9 Aubrey St, Salt River, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 4:30 pm Mon",
+    "hours": "Closed · Opens 4:30 pm Mon",
+    "operating_hours": {
+     "saturday": "9–10 am",
+     "sunday": "Closed",
+     "monday": "4:30–7 pm",
+     "tuesday": "6:30 am–7 pm",
+     "wednesday": "4:30–7 pm",
+     "thursday": "6:30 am–7 pm",
+     "friday": "Closed"
+    },
+    "phone": "079 105 0981",
+    "website": "http://www.360training.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "16Oz Boxfit Gym",
+    "place_id": "ChIJ18cVFlpdzB0RXyzxVSwM0U0",
+    "data_id": "0x1dcc5d5a1615c7d7:0x4dd10c2c55f12c5f",
+    "data_cid": "5607276395612941407",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d5a1615c7d7%3A0x4dd10c2c55f12c5f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d5a1615c7d7%3A0x4dd10c2c55f12c5f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9373857,
+     "longitude": 18.469162999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ18cVFlpdzB0RXyzxVSwM0U0",
+    "provider_id": "/g/11x6n9nqr0",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "and, Collingwood, Rawson St, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8:30 am Sun",
+    "hours": "Closed · Opens 8:30 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–7 pm",
+     "sunday": "8:30 am–12:30 pm",
+     "monday": "6 am–7 pm",
+     "tuesday": "6 am–7 pm",
+     "wednesday": "6 am–7 pm",
+     "thursday": "6 am–7 pm",
+     "friday": "6 am–7 pm"
+    },
+    "phone": "073 130 0330",
+    "website": "http://www.16ozboxfitgym.com/"
+   },
+   {
+    "position": 5,
+    "title": "FitBack Fitness Club",
+    "place_id": "ChIJbaE8o5xdzB0RlUuJnyxRepo",
+    "data_id": "0x1dcc5d9ca33ca16d:0x9a7a512c9f894b95",
+    "data_cid": "11131298681096588181",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9ca33ca16d%3A0x9a7a512c9f894b95&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9ca33ca16d%3A0x9a7a512c9f894b95&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.939749899999995,
+     "longitude": 18.4694
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbaE8o5xdzB0RlUuJnyxRepo",
+    "provider_id": "/g/11rtsr44ss",
+    "unclaimed_listing": true,
+    "type": "Personal trainer",
+    "types": [
+     "Personal trainer"
+    ],
+    "address": "48 Lower Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "071 754 7356"
+   },
+   {
+    "position": 6,
+    "title": "Zone Fitness Rondebosch",
+    "place_id": "ChIJCyapPC9dzB0Rm7boke0W6Xk",
+    "data_id": "0x1dcc5d2f3ca9260b:0x79e916ed91e8b69b",
+    "data_cid": "8784577757773870747",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d2f3ca9260b%3A0x79e916ed91e8b69b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d2f3ca9260b%3A0x79e916ed91e8b69b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.960462299999996,
+     "longitude": 18.4703897
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCyapPC9dzB0Rm7boke0W6Xk",
+    "provider_id": "/g/11b5yr18t1",
+    "rating": 3.6,
+    "reviews": 672,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "2nd Floor, Rondebosch Main, Main Rd, Rondebosch, Cape Town, 7700",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–3 pm",
+     "sunday": "7 am–3 pm",
+     "monday": "6 am–9 pm",
+     "tuesday": "6 am–9 pm",
+     "wednesday": "6 am–9 pm",
+     "thursday": "6 am–9 pm",
+     "friday": "6 am–8 pm"
+    },
+    "phone": "021 685 5588",
+    "website": "https://zonefitness.co.za/class/rondebosch/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "Boost Fitness",
+    "place_id": "ChIJFx7WX3JdzB0RPjbyUcOar5c",
+    "data_id": "0x1dcc5d725fd61e17:0x97af9ac351f2363e",
+    "data_cid": "10930124984335611454",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d725fd61e17%3A0x97af9ac351f2363e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d725fd61e17%3A0x97af9ac351f2363e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9276257,
+     "longitude": 18.4413753
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFx7WX3JdzB0RPjbyUcOar5c",
+    "provider_id": "/g/11kb0x1s09",
+    "rating": 4.9,
+    "reviews": 19,
+    "type": "Personal trainer",
+    "types": [
+     "Personal trainer",
+     "Gym"
+    ],
+    "address": "183 Sir Lowry Rd, Woodstock, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Mon",
+    "hours": "Closed · Opens 6 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "6 am–8 pm",
+     "tuesday": "6 am–8 pm",
+     "wednesday": "6 am–8 pm",
+     "thursday": "6 am–8 pm",
+     "friday": "6 am–7 pm"
+    },
+    "phone": "079 162 9028",
+    "website": "https://boostfitnesssa.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "title": "Old Mutual Gym",
+    "place_id": "ChIJ959gKJddzB0RlTxBpbhM-r0",
+    "data_id": "0x1dcc5d9728609ff7:0xbdfa4cb8a5413c95",
+    "data_cid": "13689338373276253333",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9728609ff7%3A0xbdfa4cb8a5413c95&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9728609ff7%3A0xbdfa4cb8a5413c95&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9238863,
+     "longitude": 18.511395399999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ959gKJddzB0RlTxBpbhM-r0",
+    "provider_id": "/g/11hxxjmbc6",
+    "rating": 4.6,
+    "reviews": 81,
+    "unclaimed_listing": true,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "Pinelands, Cape Town, 7405",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5:30 am Mon",
+    "hours": "Closed · Opens 5:30 am Mon",
+    "operating_hours": {
+     "saturday": "7 am–1 pm",
+     "sunday": "Closed",
+     "monday": "5:30 am–8:30 pm",
+     "tuesday": "5:30 am–8:30 pm",
+     "wednesday": "5:30 am–8:30 pm",
+     "thursday": "5:30 am–8:30 pm",
+     "friday": "5:30 am–7:30 pm"
+    },
+    "phone": "021 509 0361",
+    "website": "https://www.oldmutualgym.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "title": "UCT Gym",
+    "place_id": "ChIJ98WJ0CNdzB0RBVObGYxWwLA",
+    "data_id": "0x1dcc5d23d089c5f7:0xb0c0568c199b5305",
+    "data_cid": "12736274905928782597",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d23d089c5f7%3A0xb0c0568c199b5305&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d23d089c5f7%3A0xb0c0568c199b5305&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9548985,
+     "longitude": 18.4686455
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ98WJ0CNdzB0RBVObGYxWwLA",
+    "provider_id": "/g/1hdz7vfhn",
+    "rating": 4,
+    "reviews": 278,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "Woolsack Dr, Rondebosch, Cape Town, 7700",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–1 pm",
+     "sunday": "9 am–1 pm",
+     "monday": "6 am–8 pm",
+     "tuesday": "6 am–8 pm",
+     "wednesday": "6 am–8 pm",
+     "thursday": "6 am–8 pm",
+     "friday": "6 am–8 pm"
+    },
+    "phone": "021 650 5197",
+    "website": "http://www.students.uct.ac.za/students/student-life/sport-fitness/uct-gym",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "title": "Relentless Spirit",
+    "place_id": "ChIJg6ncDmtdzB0RDP6mHSUpDW8",
+    "data_id": "0x1dcc5d6b0edca983:0x6f0d29251da6fe0c",
+    "data_cid": "8002097352295251468",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d6b0edca983%3A0x6f0d29251da6fe0c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d6b0edca983%3A0x6f0d29251da6fe0c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.930569999999996,
+     "longitude": 18.4581099
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg6ncDmtdzB0RDP6mHSUpDW8",
+    "provider_id": "/g/11txnn7b7k",
+    "rating": 4.9,
+    "reviews": 34,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "Unit 4, Central Park, Hopkins St, Salt River, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Mon",
+    "hours": "Closed · Opens 6 am Mon",
+    "operating_hours": {
+     "saturday": "8–10 am",
+     "sunday": "Closed",
+     "monday": "6 am–12 pm, 5:30–7:30 pm",
+     "tuesday": "6–8 am, 5:30–7:30 pm",
+     "wednesday": "6 am–12 pm, 5:30–7:30 pm",
+     "thursday": "6–8 am, 5:30–7:30 pm",
+     "friday": "6 am–12 pm"
+    },
+    "phone": "068 642 0318",
+    "website": "https://wearerelentless.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Assistive hearing loop",
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "Sports Science Institute of SA",
+    "place_id": "ChIJXcsG-CxdzB0RoVGrPKdO8MI",
+    "data_id": "0x1dcc5d2cf806cb5d:0xc2f04ea73cab51a1",
+    "data_cid": "14046813717952942497",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d2cf806cb5d%3A0xc2f04ea73cab51a1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d2cf806cb5d%3A0xc2f04ea73cab51a1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.971834199999996,
+     "longitude": 18.4678653
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXcsG-CxdzB0RoVGrPKdO8MI",
+    "provider_id": "/g/1tg97fq9",
+    "rating": 4.6,
+    "reviews": 754,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Adaptive sports center",
+     "Indoor cycling",
+     "Personal trainer",
+     "Pilates studio",
+     "Swimming facility",
+     "Training center",
+     "Wellness center",
+     "Yoga instructor"
+    ],
+    "address": "15 Boundary Rd, Newlands, Cape Town, 7700",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "6:30 am–7 pm",
+     "sunday": "8 am–12:30 pm, 4–7 pm",
+     "monday": "5:30 am–9 pm",
+     "tuesday": "5:30 am–9 pm",
+     "wednesday": "5:30 am–9 pm",
+     "thursday": "5:30 am–9 pm",
+     "friday": "5:30 am–9 pm"
+    },
+    "phone": "021 659 5600",
+    "website": "https://www.ssisa.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "title": "Explosive Functional Fitness Bootcamp",
+    "place_id": "ChIJLSzmUghdzB0RuG-jqiVPKuE",
+    "data_id": "0x1dcc5d0852e62c2d:0xe12a4f25aaa36fb8",
+    "data_cid": "16224867630750855096",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0852e62c2d%3A0xe12a4f25aaa36fb8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0852e62c2d%3A0xe12a4f25aaa36fb8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9333716,
+     "longitude": 18.460659
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLSzmUghdzB0RuG-jqiVPKuE",
+    "provider_id": "/g/11bt_gm3mw",
+    "rating": 4.8,
+    "reviews": 244,
+    "type": "Physical fitness program",
+    "types": [
+     "Physical fitness program",
+     "Fitness center"
+    ],
+    "address": "97 Durham Avenue, Salt River, Woodstock, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 am Mon",
+    "hours": "Closed · Opens 5 am Mon",
+    "operating_hours": {
+     "saturday": "9–11 am",
+     "sunday": "Closed",
+     "monday": "5 am–7:30 pm",
+     "tuesday": "5 am–7:30 pm",
+     "wednesday": "5 am–7:30 pm",
+     "thursday": "5 am–7:30 pm",
+     "friday": "5 am–5:30 pm"
+    },
+    "phone": "021 447 1806",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Body20 Riverlands",
+    "place_id": "ChIJSwXU6hNdzB0RLqxZElX2NBc",
+    "data_id": "0x1dcc5d13ead4054b:0x1734f6551259ac2e",
+    "data_cid": "1672232206901816366",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d13ead4054b%3A0x1734f6551259ac2e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d13ead4054b%3A0x1734f6551259ac2e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9340481,
+     "longitude": 18.4744214
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSwXU6hNdzB0RLqxZElX2NBc",
+    "provider_id": "/g/11y05r56tw",
+    "rating": 4,
+    "reviews": 8,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Body shaping class",
+     "Fitness center",
+     "Personal trainer",
+     "Public sauna",
+     "Sauna",
+     "Sauna club",
+     "Training center"
+    ],
+    "address": "51 Gogosoa St, Cape Town, 7935",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Mon",
+    "hours": "Closed · Opens 6 am Mon",
+    "operating_hours": {
+     "saturday": "6 am–1 pm",
+     "sunday": "Closed",
+     "monday": "6 am–7 pm",
+     "tuesday": "6 am–7 pm",
+     "wednesday": "6 am–7 pm",
+     "thursday": "6 am–7 pm",
+     "friday": "6 am–7 pm"
+    },
+    "phone": "064 942 9911",
+    "website": "https://body20.co.za/studio-riverlands.php",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "title": "Yo Yoga",
+    "place_id": "ChIJgRaPPPVczB0RWCbOEgDEINU",
+    "data_id": "0x1dcc5cf53c8f1681:0xd520c40012ce2658",
+    "data_cid": "15357490233927935576",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5cf53c8f1681%3A0xd520c40012ce2658&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5cf53c8f1681%3A0xd520c40012ce2658&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9357171,
+     "longitude": 18.4713832
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgRaPPPVczB0RWCbOEgDEINU",
+    "provider_id": "/g/1tg96j80",
+    "rating": 4.9,
+    "reviews": 69,
+    "type": "Yoga studio",
+    "types": [
+     "Yoga studio"
+    ],
+    "address": "2 Fir Street Black River Park, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8–11:30 am",
+     "sunday": "9 am–6 pm",
+     "monday": "6 am–9 pm",
+     "tuesday": "6 am–9 pm",
+     "wednesday": "6 am–9 pm",
+     "thursday": "6 am–9 pm",
+     "friday": "6 am–6 pm"
+    },
+    "phone": "083 690 7967",
+    "website": "http://www.yoyoga.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "title": "Zero Mass Fitness",
+    "place_id": "ChIJgQSojOFczB0RR8WbQcPxoJk",
+    "data_id": "0x1dcc5ce18ca80481:0x99a0f1c3419bc547",
+    "data_cid": "11070113704998323527",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5ce18ca80481%3A0x99a0f1c3419bc547&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5ce18ca80481%3A0x99a0f1c3419bc547&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9452765,
+     "longitude": 18.4766126
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgQSojOFczB0RR8WbQcPxoJk",
+    "provider_id": "/g/11my6nv9pm",
+    "rating": 5,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "Liesbeek Pkwy, Mowbray, Cape Town, 7700",
+    "country": "South Africa"
+   },
+   {
+    "position": 16,
+    "title": "Kragsentrale",
+    "place_id": "ChIJA0u1IABdzB0R0sYEA_rNsuw",
+    "data_id": "0x1dcc5d0020b54b03:0xecb2cdfa0304c6d2",
+    "data_cid": "17055921212481652434",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0020b54b03%3A0xecb2cdfa0304c6d2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0020b54b03%3A0xecb2cdfa0304c6d2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9379354,
+     "longitude": 18.4644793
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA0u1IABdzB0R0sYEA_rNsuw",
+    "provider_id": "/g/11l_0hcrc7",
+    "rating": 5,
+    "reviews": 32,
+    "unclaimed_listing": true,
+    "type": "Rock climbing gym",
+    "types": [
+     "Rock climbing gym"
+    ],
+    "address": "48 Milton Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "website": "https://kragsentrale.co.za/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "title": "Virgin Active Gym Cape Town Foreshore",
+    "place_id": "ChIJ8zrTSIpdzB0R26jMI4skx2w",
+    "data_id": "0x1dcc5d8a48d33af3:0x6cc7248b23cca8db",
+    "data_cid": "7838273856481306843",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d8a48d33af3%3A0x6cc7248b23cca8db&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d8a48d33af3%3A0x6cc7248b23cca8db&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9176013,
+     "longitude": 18.4307393
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8zrTSIpdzB0R26jMI4skx2w",
+    "provider_id": "/g/11cnblh31w",
+    "rating": 4.3,
+    "reviews": 1077,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Fitness center",
+     "Personal trainer",
+     "Wellness center"
+    ],
+    "address": "17 Rua Bartholomeu Dias Plain, Cape Town City Centre, Cape Town, 8000",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Sun",
+    "hours": "Closed · Opens 6 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–8 pm",
+     "sunday": "6 am–8 pm",
+     "monday": "5 am–10 pm",
+     "tuesday": "5 am–10 pm",
+     "wednesday": "5 am–10 pm",
+     "thursday": "5 am–10 pm",
+     "friday": "5 am–9 pm"
+    },
+    "phone": "021 495 8369",
+    "website": "https://www.virginactive.co.za/gyms/cape-town-foreshore?utm_source=google&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "title": "YMCA Cape Town",
+    "place_id": "ChIJK86L8QJdzB0RINzBx4XtLo8",
+    "data_id": "0x1dcc5d02f18bce2b:0x8f2eed85c7c1dc20",
+    "data_cid": "10317444955190189088",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d02f18bce2b%3A0x8f2eed85c7c1dc20&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d02f18bce2b%3A0x8f2eed85c7c1dc20&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9378174,
+     "longitude": 18.4741043
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK86L8QJdzB0RINzBx4XtLo8",
+    "provider_id": "/g/12m91gg5z",
+    "rating": 4.1,
+    "reviews": 188,
+    "unclaimed_listing": true,
+    "type": "Lodging",
+    "types": [
+     "Lodging"
+    ],
+    "address": "15 Burham Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "phone": "021 447 6217",
+    "website": "http://ymcacapetown.org.za/",
+    "description": "Nonprofit center for classes & services. Community-focused nonprofit established in 1844 with recreational programs & services for all ages.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "title": "CityROCK Cape Town - Indoor Climbing Gym",
+    "place_id": "ChIJGXEu6wNdzB0RwiNhwPA1Hhk",
+    "data_id": "0x1dcc5d03eb2e7119:0x191e35f0c06123c2",
+    "data_cid": "1809943408385532866",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d03eb2e7119%3A0x191e35f0c06123c2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d03eb2e7119%3A0x191e35f0c06123c2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8988837,
+     "longitude": 18.4812312
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGXEu6wNdzB0RwiNhwPA1Hhk",
+    "provider_id": "/g/1hc2w3t4y",
+    "rating": 4.8,
+    "reviews": 650,
+    "type": "Rock climbing gym",
+    "types": [
+     "Rock climbing gym",
+     "Pilates studio",
+     "Rock climbing",
+     "Sporting goods store",
+     "Yoga studio"
+    ],
+    "address": "9 Milner St, Paarden Eiland, Cape Town, 7405",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–6 pm",
+     "sunday": "9 am–6 pm",
+     "monday": "11 am–10 pm",
+     "tuesday": "11 am–10 pm",
+     "wednesday": "11 am–10 pm",
+     "thursday": "11 am–10 pm",
+     "friday": "9 am–6 pm"
+    },
+    "phone": "021 447 1326",
+    "website": "http://www.cityrock.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 20,
+    "title": "Roark Gyms",
+    "place_id": "ChIJOTNuZn5nzB0Rd3kRVJyNgsE",
+    "data_id": "0x1dcc677e666e3339:0xc1828d9c54117977",
+    "data_cid": "13943863098857322871",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc677e666e3339%3A0xc1828d9c54117977&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc677e666e3339%3A0xc1828d9c54117977&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.932221999999996,
+     "longitude": 18.425762499999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOTNuZn5nzB0Rd3kRVJyNgsE",
+    "provider_id": "/g/11cfdzx2y",
+    "rating": 4.8,
+    "reviews": 87,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Physical fitness program",
+     "Sports club"
+    ],
+    "address": "47 De Villiers St, District Six, Cape Town, 8000",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Mon",
+    "hours": "Closed · Opens 6 am Mon",
+    "operating_hours": {
+     "saturday": "8–10 am",
+     "sunday": "Closed",
+     "monday": "6 am–7:30 pm",
+     "tuesday": "6 am–7:30 pm",
+     "wednesday": "6 am–7:30 pm",
+     "thursday": "6 am–7:30 pm",
+     "friday": "6 am–7:30 pm"
+    },
+    "phone": "072 340 2081",
+    "website": "https://roarkgyms.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

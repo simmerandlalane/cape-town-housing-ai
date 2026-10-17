@@ -1,0 +1,76 @@
+{
+ "fetched_at": "2026-10-17T20:27:56.269869+00:00",
+ "params": {
+  "engine": "google_maps_directions",
+  "start_addr": "Durbanville, Cape Town",
+  "end_addr": "Bellville, Cape Town",
+  "travel_mode": "3",
+  "time": "arrive_by:1792483200",
+  "distance_unit": "0",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3da4b93d35d23f5b52aa8",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/iT4FAj-GTnARqN74sKzVkO_Yu3rqPdBWA3ldNZjBdas/6ad3da4b93d35d23f5b52aa8.json",
+   "markdown_endpoint": "https://serpapi.com/searches/iT4FAj-GTnARqN74sKzVkO_Yu3rqPdBWA3ldNZjBdas/6ad3da4b93d35d23f5b52aa8.md",
+   "created_at": "2026-10-17 20:27:55 UTC",
+   "processed_at": "2026-10-17 20:27:55 UTC",
+   "google_maps_directions_url": "https://www.google.com/maps/dir/Durbanville%2C+Cape+Town/Bellville%2C+Cape+Town/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x1dcc571a33692941:0x3426a4a9413bb53!2m2!1d18.6526846!2d-33.8275335!1m5!1m1!1s0x1dcc5a7c88f4a7c5:0xddfdc69775a78922!2m2!1d18.629438399999998!2d-33.8942695!2m3!6e1!7e2!8j1792483200!3e3?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/iT4FAj-GTnARqN74sKzVkO_Yu3rqPdBWA3ldNZjBdas/6ad3da4b93d35d23f5b52aa8.html",
+   "prettify_html_file": "https://serpapi.com/searches/iT4FAj-GTnARqN74sKzVkO_Yu3rqPdBWA3ldNZjBdas/6ad3da4b93d35d23f5b52aa8.prettify",
+   "total_time_taken": 0.87
+  },
+  "search_parameters": {
+   "engine": "google_maps_directions",
+   "hl": "en",
+   "gl": "za",
+   "start_addr": "Durbanville, Cape Town",
+   "end_addr": "Bellville, Cape Town",
+   "travel_mode": "3",
+   "distance_unit": "0",
+   "time": "arrive_by:1792483200"
+  },
+  "places_info": [
+   {
+    "address": "Durbanville, Cape Town",
+    "data_id": "0x1dcc571a33692941:0x3426a4a9413bb53",
+    "gps_coordinates": {
+     "latitude": -33.8275335,
+     "longitude": 18.6526846
+    }
+   },
+   {
+    "address": "Bellville, Cape Town",
+    "data_id": "0x1dcc5a7c88f4a7c5:0xddfdc69775a78922",
+    "gps_coordinates": {
+     "latitude": -33.8942695,
+     "longitude": 18.629438399999998
+    }
+   }
+  ],
+  "durations": [
+   {
+    "travel_mode": "Driving",
+    "duration": 1320,
+    "formatted_duration": "22 min"
+   },
+   {
+    "travel_mode": "Two-wheeler",
+    "duration": 1200,
+    "formatted_duration": "20 min"
+   },
+   {
+    "travel_mode": "Walking",
+    "duration": 6559,
+    "formatted_duration": "1 hr 49"
+   }
+  ],
+  "search_information": {
+   "directions_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query."
+ }
+}

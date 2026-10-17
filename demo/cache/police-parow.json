@@ -1,0 +1,197 @@
+{
+ "fetched_at": "2026-10-17T21:44:42.514491+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "police station in Parow, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3ec49e8e13ab12769cffd",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/d2yuZMjkBNfNZeRtmlIw_smnApD1cKi00xgue2BllUQ/6ad3ec49e8e13ab12769cffd.json",
+   "markdown_endpoint": "https://serpapi.com/searches/d2yuZMjkBNfNZeRtmlIw_smnApD1cKi00xgue2BllUQ/6ad3ec49e8e13ab12769cffd.md",
+   "created_at": "2026-10-17 21:44:41 UTC",
+   "processed_at": "2026-10-17 21:44:41 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/police+station+in+Parow%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/d2yuZMjkBNfNZeRtmlIw_smnApD1cKi00xgue2BllUQ/6ad3ec49e8e13ab12769cffd.html",
+   "prettify_html_file": "https://serpapi.com/searches/d2yuZMjkBNfNZeRtmlIw_smnApD1cKi00xgue2BllUQ/6ad3ec49e8e13ab12769cffd.prettify",
+   "total_time_taken": 1.28
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "police station in Parow, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "police station in Parow, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "SAPS Parow Police Station",
+    "place_id": "ChIJ8xSNK2dazB0RIroGptTRMOA",
+    "data_id": "0x1dcc5a672b8d14f3:0xe030d1d4a606ba22",
+    "data_cid": "16154642574626699810",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a672b8d14f3%3A0xe030d1d4a606ba22&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a672b8d14f3%3A0xe030d1d4a606ba22&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9046711,
+     "longitude": 18.595471099999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8xSNK2dazB0RIroGptTRMOA",
+    "provider_id": "/g/1tdst49l",
+    "unclaimed_listing": true,
+    "type": "State police",
+    "types": [
+     "State police"
+    ],
+    "address": "270 Arnold Wilhelm St, Parow East, Cape Town, 7501",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 929 7000",
+    "website": "https://www.saps.gov.za/contacts/stationdetails.php?sid=127&sname=Parow",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Law Enforcement Parow",
+    "place_id": "ChIJgQDWvVlazB0ReEfW_aeg_xk",
+    "data_id": "0x1dcc5a59bdd60081:0x19ffa0a7fdd64778",
+    "data_cid": "1873392613388076920",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a59bdd60081%3A0x19ffa0a7fdd64778&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a59bdd60081%3A0x19ffa0a7fdd64778&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.908277999999996,
+     "longitude": 18.5843711
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgQDWvVlazB0ReEfW_aeg_xk",
+    "provider_id": "/g/11bt_hyb8f",
+    "type": "Police department",
+    "types": [
+     "Police department"
+    ],
+    "address": "Victoria St, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "021 480 7700",
+    "website": "http://www.capetown.gov.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "S A Policing Union",
+    "place_id": "ChIJk0xDpk9azB0RfRr0CVTPC6I",
+    "data_id": "0x1dcc5a4fa6434c93:0xa20bcf5409f41a7d",
+    "data_cid": "11676654418739337853",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a4fa6434c93%3A0xa20bcf5409f41a7d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a4fa6434c93%3A0xa20bcf5409f41a7d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.900948899999996,
+     "longitude": 18.5802191
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk0xDpk9azB0RfRr0CVTPC6I",
+    "provider_id": "/g/1pzrz2c3y",
+    "type": "Police department",
+    "types": [
+     "Police department"
+    ],
+    "address": "105 3rd avenue, cnr of, Tallent Rd, Parow, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Mon",
+    "hours": "Closed · Opens 8 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8 am–4:30 pm",
+     "tuesday": "8 am–4:30 pm",
+     "wednesday": "8 am–4:30 pm",
+     "thursday": "8 am–4:30 pm",
+     "friday": "8 am–4:30 pm"
+    },
+    "phone": "021 930 4377",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "SAPS Ravensmead Police Station",
+    "place_id": "ChIJ12h3apJazB0RZTh-dXTt0vk",
+    "data_id": "0x1dcc5a926a7768d7:0xf9d2ed74757e3865",
+    "data_cid": "18001711744996489317",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a926a7768d7%3A0xf9d2ed74757e3865&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a926a7768d7%3A0xf9d2ed74757e3865&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9224192,
+     "longitude": 18.5974406
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ12h3apJazB0RZTh-dXTt0vk",
+    "provider_id": "/g/1tfq13jp",
+    "unclaimed_listing": true,
+    "type": "State police",
+    "types": [
+     "State police"
+    ],
+    "address": "153 Christians St, Ravensmead, Cape Town, 7493",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 933 9000",
+    "website": "https://www.saps.gov.za/contacts/stationdetails.php?sid=128&sname=Ravensmead",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

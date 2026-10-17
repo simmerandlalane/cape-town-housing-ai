@@ -1,0 +1,509 @@
+{
+ "fetched_at": "2026-10-17T20:27:57.980329+00:00",
+ "params": {
+  "engine": "google_maps_directions",
+  "start_addr": "Durbanville, Cape Town",
+  "end_addr": "Bellville, Cape Town",
+  "travel_mode": "0",
+  "time": "arrive_by:1792483200",
+  "distance_unit": "0",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3da4c66900e49449439c0",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/RZVa3c14TcHRv_NTupfg5eY2YhRLW4cSekiar4PnjkQ/6ad3da4c66900e49449439c0.json",
+   "markdown_endpoint": "https://serpapi.com/searches/RZVa3c14TcHRv_NTupfg5eY2YhRLW4cSekiar4PnjkQ/6ad3da4c66900e49449439c0.md",
+   "created_at": "2026-10-17 20:27:56 UTC",
+   "processed_at": "2026-10-17 20:27:56 UTC",
+   "google_maps_directions_url": "https://www.google.com/maps/dir/Durbanville%2C+Cape+Town/Bellville%2C+Cape+Town/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x1dcc571a33692941:0x3426a4a9413bb53!2m2!1d18.6526846!2d-33.8275335!1m5!1m1!1s0x1dcc5a7c88f4a7c5:0xddfdc69775a78922!2m2!1d18.629438399999998!2d-33.8942695!2m3!6e1!7e2!8j1792483200!3e0?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/RZVa3c14TcHRv_NTupfg5eY2YhRLW4cSekiar4PnjkQ/6ad3da4c66900e49449439c0.html",
+   "prettify_html_file": "https://serpapi.com/searches/RZVa3c14TcHRv_NTupfg5eY2YhRLW4cSekiar4PnjkQ/6ad3da4c66900e49449439c0.prettify",
+   "total_time_taken": 1.3
+  },
+  "search_parameters": {
+   "engine": "google_maps_directions",
+   "hl": "en",
+   "gl": "za",
+   "start_addr": "Durbanville, Cape Town",
+   "end_addr": "Bellville, Cape Town",
+   "travel_mode": "0",
+   "distance_unit": "0",
+   "time": "arrive_by:1792483200"
+  },
+  "places_info": [
+   {
+    "address": "Durbanville, Cape Town",
+    "data_id": "0x1dcc571a33692941:0x3426a4a9413bb53",
+    "gps_coordinates": {
+     "latitude": -33.8275335,
+     "longitude": 18.6526846
+    }
+   },
+   {
+    "address": "Bellville, Cape Town",
+    "data_id": "0x1dcc5a7c88f4a7c5:0xddfdc69775a78922",
+    "gps_coordinates": {
+     "latitude": -33.8942695,
+     "longitude": 18.629438399999998
+    }
+   }
+  ],
+  "directions": [
+   {
+    "travel_mode": "Driving",
+    "via": "R302",
+    "distance": 8089,
+    "duration": 1320,
+    "leave_around": 1792473600,
+    "typical_duration_range": "14–40 min",
+    "formatted_distance": "8.1 km",
+    "formatted_duration": "22 min",
+    "formatted_leave_around": "7:20 AM",
+    "extensions": [
+     "Fastest route, despite the usual traffic"
+    ],
+    "icon": "https://serpapi.com/assets/google_maps_directions/driving.svg",
+    "trips": [
+     {
+      "travel_mode": "Driving",
+      "distance": 8089,
+      "duration": 995,
+      "formatted_distance": "8.1 km",
+      "formatted_duration": "17 min",
+      "details": [
+       {
+        "title": "Head  southwest  on  Wellington Rd / R302",
+        "action": "straight",
+        "distance": 766,
+        "duration": 171,
+        "formatted_distance": "750 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OLbAIpq_ZT3DkcqI3Dozuw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=55.815834&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.8274430242531,
+         "longitude": 18.65283035747217
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Main Rd / R302",
+        "action": "turn-left",
+        "distance": 7323,
+        "duration": 824,
+        "formatted_distance": "7.3 km",
+        "formatted_duration": "14 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VMhWvEZTOLB7lHXFoj8M1w&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=47.95541&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.83220606978256,
+         "longitude": 18.646945078487807
+        },
+        "extensions": [
+         "Continue to follow R302"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Driving",
+    "via": "M124",
+    "distance": 11870,
+    "duration": 1440,
+    "leave_around": 1792473900,
+    "typical_duration_range": "16–35 min",
+    "formatted_distance": "11.9 km",
+    "formatted_duration": "24 min",
+    "formatted_leave_around": "7:25 AM",
+    "extensions": [
+     "Some traffic, as usual"
+    ],
+    "icon": "https://serpapi.com/assets/google_maps_directions/driving.svg",
+    "trips": [
+     {
+      "travel_mode": "Driving",
+      "distance": 522,
+      "duration": 108,
+      "formatted_distance": "500 m",
+      "formatted_duration": "2 min",
+      "details": [
+       {
+        "title": "Head  southwest  on  Wellington Rd / R302",
+        "action": "straight",
+        "distance": 522,
+        "duration": 108,
+        "formatted_distance": "500 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OLbAIpq_ZT3DkcqI3Dozuw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=55.815834&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.8274430242531,
+         "longitude": 18.65283035747217
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       }
+      ]
+     },
+     {
+      "travel_mode": "Driving",
+      "title": "Take  Louw St  and  De Villiers Dr  to  Legato Dr",
+      "distance": 1801,
+      "duration": 218,
+      "formatted_distance": "1.8 km",
+      "formatted_duration": "4 min",
+      "details": [
+       {
+        "title": "Turn  left  onto  Oxford St",
+        "action": "turn-left",
+        "distance": 335,
+        "duration": 78,
+        "formatted_distance": "350 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kIvE8vUFtNs1klDRmEBJVg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=44.42982&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.83060983693538,
+         "longitude": 18.648771243757025
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Hafele St",
+        "action": "turn-right",
+        "distance": 137,
+        "duration": 19,
+        "formatted_distance": "140 m",
+        "formatted_duration": "19 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bc6lJ6SIB9CIhZDmDOYBdw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=303.58475&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.832306486618684,
+         "longitude": 18.65148640595839
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Louw St",
+        "action": "turn-left",
+        "distance": 681,
+        "duration": 67,
+        "formatted_distance": "700 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OXbeFuq6ExMl_8NquBw11g&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=42.682526&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.833185270509034,
+         "longitude": 18.65079612855561
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "At the roundabout, turn right onto  De Villiers Dr",
+        "action": "roundabout-left",
+        "distance": 648,
+        "duration": 54,
+        "formatted_distance": "650 m",
+        "formatted_duration": "54 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LPiBKjtPt0i5GMTkN7xiug&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=277.12192&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.83595956177324,
+         "longitude": 18.656687358728806
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Driving",
+      "title": "Take  M124  and  N1  to  Durban Rd / R302  in  Oakdale",
+      "distance": 9547,
+      "duration": 747,
+      "formatted_distance": "9.5 km",
+      "formatted_duration": "12 min",
+      "details": [
+       {
+        "title": "At the roundabout, turn left onto  Legato Dr",
+        "action": "roundabout-left",
+        "distance": 975,
+        "duration": 78,
+        "formatted_distance": "1.0 km",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ctNxZc_rW_2ixJJVSfBtyw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=184.78856&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.841256141650604,
+         "longitude": 18.65527588696128
+        }
+       },
+       {
+        "title": "Turn  right  onto  Fairtrees Rd / M124",
+        "action": "turn-right",
+        "distance": 4450,
+        "duration": 358,
+        "formatted_distance": "4.4 km",
+        "formatted_duration": "6 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2_mNd8VwKuEfbztT5S3gwg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=81.31561&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.840436062636634,
+         "longitude": 18.665464392767717
+        },
+        "extensions": [
+         "Continue to follow M124"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Old Oak Rd / M31",
+        "action": "turn-left",
+        "distance": 332,
+        "duration": 29,
+        "formatted_distance": "350 m",
+        "formatted_duration": "29 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b-Q2bqVojUzFZf3QyWO6mg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=52.413242&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.87523079754873,
+         "longitude": 18.658054344864716
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  left  to merge onto  N1  toward  Kaapstad / Cape Town",
+        "action": "merge",
+        "distance": 2444,
+        "duration": 116,
+        "formatted_distance": "2.4 km",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cWSFxr45nVJRz_qaB7AI4g&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=142.47626&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.87753765669036,
+         "longitude": 18.65959404522393
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_grey800_18dp.png"
+       },
+       {
+        "title": "Take exit  23  for  R302 / Durbanweg",
+        "action": "ramp-left",
+        "distance": 442,
+        "duration": 34,
+        "formatted_distance": "450 m",
+        "formatted_duration": "34 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rNtihiKN8oXqKN0Subaqqg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=245.12148&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.88545478660644,
+         "longitude": 18.639083537625716
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_left_grey800_18dp.png"
+       },
+       {
+        "title": "Merge onto  Durban Rd / Willie Van Schoor Dr / R302",
+        "action": "merge",
+        "distance": 904,
+        "duration": 132,
+        "formatted_distance": "900 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i8eRcCuEH-p6xZmFLmNWyw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=13.026542&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.887490427710574,
+         "longitude": 18.6349870639223
+        },
+        "extensions": [
+         "Continue to follow Durban Rd/R302"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Driving",
+    "via": "Carl Cronje Dr/M121",
+    "distance": 9068,
+    "duration": 1440,
+    "leave_around": 1792473600,
+    "typical_duration_range": "14–40 min",
+    "formatted_distance": "9.1 km",
+    "formatted_duration": "24 min",
+    "formatted_leave_around": "7:20 AM",
+    "extensions": [
+     "Heavy traffic, as usual"
+    ],
+    "icon": "https://serpapi.com/assets/google_maps_directions/driving.svg",
+    "trips": [
+     {
+      "travel_mode": "Driving",
+      "title": "Follow  R302  to  Church St / M13",
+      "distance": 1001,
+      "duration": 230,
+      "formatted_distance": "1.0 km",
+      "formatted_duration": "4 min",
+      "details": [
+       {
+        "title": "Head  southwest  on  Wellington Rd / R302",
+        "action": "straight",
+        "distance": 766,
+        "duration": 171,
+        "formatted_distance": "750 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OLbAIpq_ZT3DkcqI3Dozuw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=55.815834&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.8274430242531,
+         "longitude": 18.65283035747217
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Main Rd / R302",
+        "action": "turn-left",
+        "distance": 235,
+        "duration": 59,
+        "formatted_distance": "240 m",
+        "formatted_duration": "59 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VMhWvEZTOLB7lHXFoj8M1w&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=47.95541&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.83220606978256,
+         "longitude": 18.646945078487807
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       }
+      ]
+     },
+     {
+      "travel_mode": "Driving",
+      "title": "Continue on  M13 . Take  Tygerberg Valley Rd / M31  and  Carl Cronje Dr / M121  to  Durban Rd / R302  in  Bellville",
+      "distance": 7692,
+      "duration": 760,
+      "formatted_distance": "7.7 km",
+      "formatted_duration": "13 min",
+      "details": [
+       {
+        "title": "Turn  right  onto  Church St / M13",
+        "action": "turn-right",
+        "distance": 429,
+        "duration": 65,
+        "formatted_distance": "450 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nI23QJgTIDo531uBzvwVaA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=147.69601&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.833733890242755,
+         "longitude": 18.64835452498567
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "At the roundabout, turn left onto  Church St / Race Course Rd / M13",
+        "action": "roundabout-left",
+        "distance": 1508,
+        "duration": 129,
+        "formatted_distance": "1.5 km",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rlEMPgk3vdNIa3_zbVNImQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=125.63974&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.8364287372411,
+         "longitude": 18.645264804212363
+        },
+        "extensions": [
+         "Continue to follow Race Course Rd/M13"
+        ]
+       },
+       {
+        "title": "Turn  left  onto  Jip De Jager Dr",
+        "action": "turn-left",
+        "distance": 892,
+        "duration": 67,
+        "formatted_distance": "900 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K9erPiO0o_Kt0xlL9lfwFQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=256.80762&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.84329789656849,
+         "longitude": 18.635296850731287
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Tygerberg Valley Rd / M31",
+        "action": "turn-left",
+        "distance": 2193,
+        "duration": 198,
+        "formatted_distance": "2.2 km",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OUIpwhbH6ubsucv8Rx5thw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=40.935783&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.849567740950256,
+         "longitude": 18.629583369361864
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Continue onto  Carl Cronje Dr / M121",
+        "action": "straight",
+        "distance": 2551,
+        "duration": 271,
+        "formatted_distance": "2.6 km",
+        "formatted_duration": "5 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I8h5qWIMQgGacgpS1IBpGA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=175.07724&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.86866836612239,
+         "longitude": 18.633348432867496
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Frans Conradie Dr / M25",
+        "action": "turn-left",
+        "distance": 119,
+        "duration": 30,
+        "formatted_distance": "120 m",
+        "formatted_duration": "30 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e-zFF16XGt34W7sq3HJj2Q&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=14.894214&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.8908526193483,
+         "longitude": 18.630328786167627
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       }
+      ]
+     },
+     {
+      "travel_mode": "Driving",
+      "distance": 375,
+      "duration": 61,
+      "formatted_distance": "400 m",
+      "formatted_duration": "1 min",
+      "details": [
+       {
+        "title": "Turn  right  onto  Durban Rd / R302",
+        "action": "turn-right",
+        "distance": 375,
+        "duration": 61,
+        "formatted_distance": "400 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sV4FSzEoAWBhFwt7FKx81Q&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=113.6596&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.89133815176475,
+         "longitude": 18.63123756791391
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "durations": [
+   {
+    "travel_mode": "Driving",
+    "duration": 1320,
+    "formatted_duration": "22 min"
+   },
+   {
+    "travel_mode": "Two-wheeler",
+    "duration": 1200,
+    "formatted_duration": "20 min"
+   },
+   {
+    "travel_mode": "Walking",
+    "duration": 6559,
+    "formatted_duration": "1 hr 49"
+   }
+  ]
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "fetched_at": "2026-10-17T21:49:23.681560+00:00",
+ "params": {
+  "engine": "google",
+  "q": "Observatory Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\"",
+  "location": "Cape Town,Western Cape,South Africa",
+  "google_domain": "google.co.za",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3ed03d02d2af6fb88b290",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/s75oWUYDzDLPkAlKZB799_E2Ld5P1eBcf1YfCCKyeUs/6ad3ed03d02d2af6fb88b290.json",
+   "markdown_endpoint": "https://serpapi.com/searches/s75oWUYDzDLPkAlKZB799_E2Ld5P1eBcf1YfCCKyeUs/6ad3ed03d02d2af6fb88b290.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/s75oWUYDzDLPkAlKZB799_E2Ld5P1eBcf1YfCCKyeUs/6ad3ed03d02d2af6fb88b290.json_with_pixel_position",
+   "created_at": "2026-10-17 21:47:47 UTC",
+   "processed_at": "2026-10-17 21:47:47 UTC",
+   "google_url": "https://www.google.co.za/search?q=Observatory+Cape+Town+%22neighbourhood+watch%22+OR+%22improvement+district%22+OR+%22community+police+forum%22&oq=Observatory+Cape+Town+%22neighbourhood+watch%22+OR+%22improvement+district%22+OR+%22community+police+forum%22&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&hl=en&gl=za&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/s75oWUYDzDLPkAlKZB799_E2Ld5P1eBcf1YfCCKyeUs/6ad3ed03d02d2af6fb88b290.html",
+   "total_time_taken": 63.65
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Observatory Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\"",
+   "location_requested": "Cape Town,Western Cape,South Africa",
+   "location_used": "Cape Town,Western Cape,South Africa",
+   "google_domain": "google.co.za",
+   "hl": "en",
+   "gl": "za",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Observatory Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\"",
+   "total_results": 0,
+   "time_taken_displayed": 0.22,
+   "organic_results_state": "Fully empty"
+  },
+  "local_map": {
+   "link": "https://www.google.co.za/search?q=Observatory+Cape+Town+%22neighbourhood+watch%22+OR+%22improvement+district%22+OR+%22community+police+forum%22&sca_esv=28393f27b5912977&gl=za&hl=en&sxsrf=APpeQnsHubk1F7zVOS5bSlvXQMXMEc2L6A:1792273730364&udm=local&lsack=Qu3TaqDhFYDomLQPwuTc2Ag&sa=X&ved=2ahUKEwigiqf4g8KXAxUANIYAHUIyF4sQtgN6BAggEAM",
+   "image": "https://serpapi.com/searches/6ad3ed03d02d2af6fb88b290/images/eoZb6ahY83FzX5cxu72UnA.png",
+   "gps_coordinates": {
+    "latitude": -33.935144356671955,
+    "longitude": 18.469337224960327
+   }
+  },
+  "local_results": {
+   "places": [
+    {
+     "position": 1,
+     "title": "Observatory Neighbourhood Watch",
+     "type": "Non-profit organization",
+     "rating": 5,
+     "reviews": 1,
+     "links": {
+      "phone": "tel:021 447 1066",
+      "website": "http://www.obswatch.org.za/"
+     },
+     "place_id": "11649528216071187087",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&ludocid=11649528216071187087&q=Observatory+Cape+Town+%22neighbourhood+watch%22+OR+%22improvement+district%22+OR+%22community+police+forum%22",
+     "provider_id": "/g/11hf4rq40h",
+     "gps_coordinates": {
+      "latitude": -33.935347,
+      "longitude": 18.469
+     },
+     "address": "13 A St Michael Rd, Observatory Rd, Observatory, Cape Town, 7925",
+     "hours": "Open 24 hours",
+     "phone": "021 447 1066"
+    },
+    {
+     "position": 2,
+     "title": "Observatory Improvement District",
+     "type": "Community center",
+     "rating": 4.3,
+     "reviews": 22,
+     "links": {
+      "phone": "tel:021 448 7090",
+      "website": "https://www.obsid.org.za/"
+     },
+     "place_id": "1003054814474876238",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&ludocid=1003054814474876238&q=Observatory+Cape+Town+%22neighbourhood+watch%22+OR+%22improvement+district%22+OR+%22community+police+forum%22",
+     "provider_id": "/g/1thv1yjx",
+     "gps_coordinates": {
+      "latitude": -33.93519,
+      "longitude": 18.469684
+     },
+     "address": "13a St Michaels Rd, Observatory, Cape Town, 7925",
+     "hours": "Closed · Opens 8:30 am Mon",
+     "phone": "021 448 7090"
+    }
+   ]
+  },
+  "knowledge_graph": {
+   "place_id": "ChIJY_WUNy5dzB0RjyrQzzBwq6E"
+  }
+ }
+}

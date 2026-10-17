@@ -1,0 +1,1371 @@
+{
+ "fetched_at": "2026-10-17T21:01:37.128529+00:00",
+ "params": {
+  "engine": "google_news",
+  "q": "\"Parow\" Cape Town",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e22ea3f730e17c0bac60",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/87vxWOadfrIKblxO1NZKGQugsAiq_oFBDhdwYvuoseA/6ad3e22ea3f730e17c0bac60.json",
+   "markdown_endpoint": "https://serpapi.com/searches/87vxWOadfrIKblxO1NZKGQugsAiq_oFBDhdwYvuoseA/6ad3e22ea3f730e17c0bac60.md",
+   "created_at": "2026-10-17 21:01:34 UTC",
+   "processed_at": "2026-10-17 21:01:34 UTC",
+   "google_news_url": "https://news.google.com/search?q=%22Parow%22+Cape+Town&hl=en&gl=ZA",
+   "raw_html_file": "https://serpapi.com/searches/87vxWOadfrIKblxO1NZKGQugsAiq_oFBDhdwYvuoseA/6ad3e22ea3f730e17c0bac60.html",
+   "total_time_taken": 1.9
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "za",
+   "hl": "en",
+   "q": "\"Parow\" Cape Town"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "SAPS hosts All Boys Parliament in Parow",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lulama Klassen"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/saps-hosts-all-boys-parliament-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJMVTUwUVVwdmQwOXRORzUyVFJDb0FSaXNBaWdCTWdB",
+    "date": "10/03/2026, 08:30 AM, +0000 UTC",
+    "iso_date": "2026-10-03T08:30:01Z"
+   },
+   {
+    "position": 2,
+    "title": "Cape talent show celebrates the abilities of people experiencing homelessness",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/cape-talent-show-celebrates-the-abilities-of-people-experiencing-homelessness/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxRMTl0YkZodVYzaFBlSGxuVFJEZ0F4aUFCU2dLTWdhQmtKSmx1UVk",
+    "date": "10/12/2026, 11:17 AM, +0000 UTC",
+    "iso_date": "2026-10-12T11:17:02Z"
+   },
+   {
+    "position": 3,
+    "title": "Cape Town to resurface 42 roads in Bellville, Parow and Goodwood",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Se-anne Rall"
+     ]
+    },
+    "link": "https://iol.co.za/news/south-africa/2026-07-27-cape-town-to-resurface-42-roads-in-bellville-parow-and-goodwood/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5UMlpVWWw5eU9YVm5jV2xtVFJERUF4aW1CU2dLTWdZbGRZck5zUVE",
+    "date": "07/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-27T07:00:00Z"
+   },
+   {
+    "position": 4,
+    "title": "Red-hot Spurs complete double over Vasco in Parow Derby",
+    "source": {
+     "name": "Cape Town Spurs FC",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://capetownspurs.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://capetownspurs.co.za/2026/03/24/red-hot-spurs-complete-double-over-vasco-in-parow-derby/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWxXbXQwYW5kTmRrTlJWbVpRVFJEOEFoamFCU2dLTWdB",
+    "date": "03/24/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-24T07:00:00Z"
+   },
+   {
+    "position": 5,
+    "title": "Parow entrepreneur Rashaad Sambaba wins Forty Under 40 education award",
+    "source": {
+     "name": "Southern Mail",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://southernmail.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://southernmail.co.za/news/2026-10-07-parow-entrepreneur-rashaad-sambaba-wins-forty-under-40-education-award/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNjRTFhYWxWMU5GSk1jRkpJVFJDQkFoakVBU2dCTWdrVkk1SlFHV2lEeGdJ",
+    "date": "10/07/2026, 09:00 AM, +0000 UTC",
+    "iso_date": "2026-10-07T09:00:00Z"
+   },
+   {
+    "position": 6,
+    "title": "‘He has killed me too’: Father mourns daughter stabbed to death in Parow",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Velani Ludidi"
+     ]
+    },
+    "link": "https://www.news24.com/southafrica/crime-and-courts/he-has-killed-me-too-father-mourns-daughter-stabbed-to-death-in-parow-20260331-0999",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVjR2hPVEZGSExXTmhiakp2VFJDbEJCaXZCQ2dLTWdhOUE1cFJEUXM",
+    "date": "03/31/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-31T07:00:00Z"
+   },
+   {
+    "position": 7,
+    "title": "Weather Forecast and Conditions for Parow, Western Cape, South Africa - The Weather Channel | Weather.com",
+    "source": {
+     "name": "The Weather Channel",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://weather.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://weather.com/za/western-cape/city/parow/today",
+    "date": "07/18/2026, 04:19 AM, +0000 UTC",
+    "iso_date": "2026-07-18T04:19:45Z"
+   },
+   {
+    "position": 8,
+    "title": "The 54-year-old Cape Town shopping mall falling apart in front of everyone’s eyes",
+    "source": {
+     "name": "Daily Investor",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://dailyinvestor.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Bianke Neethling"
+     ]
+    },
+    "link": "https://dailyinvestor.com/property/154465/the-54-year-old-cape-town-shopping-mall-falling-apart-in-front-of-everyones-eyes/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZTVlkyYURRMVduUm9NMnBTVFJDcEFSaXNBaWdLTWdhQmtwUkxzUWM",
+    "date": "09/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-11T07:00:00Z"
+   },
+   {
+    "position": 9,
+    "title": "Guns, drugs and three arrests across Mitchells Plain, Parow and Langa",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lulama Klassen"
+     ]
+    },
+    "link": "https://www.capetownetc.com/crime/guns-drugs-and-three-arrests-across-mitchells-plain-parow-and-langa/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNNbXBOWDNabmIzRTBYMXBOVFJDb0FSaXNBaWdCTWdhWkVZUVBGUW8",
+    "date": "09/18/2026, 04:00 AM, +0000 UTC",
+    "iso_date": "2026-09-18T04:00:29Z"
+   },
+   {
+    "position": 10,
+    "title": "Parow added to Cape Town’s growing list of smash-and-grab hotspots | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/parow-added-to-cape-towns-growing-list-of-smash-and-grab-hotspots/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJkR1ZhTnpjeE9YaDBhSGh1VFJERkF4aWxCU2dLTWdZbE1KQXNuUWs",
+    "date": "06/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-01T07:00:00Z"
+   },
+   {
+    "position": 11,
+    "title": "Parow CPF issues warning on smash-and-grab hotspots",
+    "source": {
+     "name": "https://northernnews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibulele Kasa"
+     ]
+    },
+    "link": "https://northernnews.co.za/news/2026-06-02-parow-cpf-issues-warning-on-smash-and-grab-hotspots/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNMk5pZGs5UFlYWnZMVGd6VFJDc0FoaVFBeWdLTWdZQklaYlVFQWc",
+    "date": "06/02/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-02T07:00:00Z"
+   },
+   {
+    "position": 12,
+    "title": "Police arrest two alleged extortionists after Gqeberha-Cape Town trip",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capeargus/news/2026-08-31-police-arrest-two-alleged-extortionists-after-gqeberha-cape-town-trip/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJibmhhTTJKTlpWZE9jWGhhVFJDWUF4aThCU2dLTWdZWk5Zb3FIZ1k",
+    "date": "08/31/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-31T07:00:00Z"
+   },
+   {
+    "position": 13,
+    "title": "Parow police raid uncovers 27 270 mandrax tablets",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Angelica Esther Rhoda"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/parow-police-raid-mandrax-tablets/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9lbGxVYmtkVWNFOW1aRFIwVFJDZkF4ampCU2dLTWdhSlVZZ3hLUWs",
+    "date": "09/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-09T07:00:00Z"
+   },
+   {
+    "position": 14,
+    "title": "Parow North residents welcome removal of vagrants from sports complex area",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/parow-north-residents-welcome-removal-of-vagrants-from-sports-complex-area/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBTVXRqWDFKRlpVZFZVakZLVFJDcUJCaXFCQ2dLTWdrQklJUVZGQ2txOHdB",
+    "date": "06/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-01T07:00:00Z"
+   },
+   {
+    "position": 15,
+    "title": "Law-enforcement visibility operation in Parow CBD proves a success",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/law-enforcement-visibility-operation-in-parow-cbd-proves-a-success/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdRMTgwWVUxNlVuRmlZa2xKVFJDQUJSamdBeWdLTWdZQkVKYnRzUWc",
+    "date": "08/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-19T07:00:00Z"
+   },
+   {
+    "position": 16,
+    "title": "Parow’s Glenlily sees water pipe upgrades to support growing population | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/parows-glenlily-sees-water-pipe-upgrades-to-support-growing-population/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpOa3hvV25aeVUxazVVMjEzVFJEZ0F4aUFCU2dLTWdZQmNKaUxzUWM",
+    "date": "05/04/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-04T07:00:00Z"
+   },
+   {
+    "position": 17,
+    "title": "Large number of drugs taken off Parow’s streets due to tip-off | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/large-number-of-drugs-taken-off-parows-streets-due-to-tip-off/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZTRGxsTkRVeVIyNVVTVkJMVFJEZ0F4ai1CQ2dLTWdrQndJcXh3T1c0TXdF",
+    "date": "04/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-20T07:00:00Z"
+   },
+   {
+    "position": 18,
+    "title": "Thousands of mandrax tablets discovered during raid in Cape Town | TygerBurger",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/thousands-of-mandrax-tablets-discovered-during-raid-in-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRObmxsWlY5U01EUllhSGd5VFJEMEFoaTVCaWdLTWdhUlFvWlBwUWc",
+    "date": "09/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-09T07:00:00Z"
+   },
+   {
+    "position": 19,
+    "title": "Cape Town municipal workers celebrate literacy at Parow Civic Centre event",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/cape-town-municipal-workers-celebrate-literacy-at-parow-civic-centre-event/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNNV3MwUzNGVFFsUTFMVlppVFJEREF4aW5CU2dLTWdrQmNKamlMaWd0S3dJ",
+    "date": "04/14/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-14T07:00:00Z"
+   },
+   {
+    "position": 20,
+    "title": "Parow music student selected for prestigious Franschhoek Chamber Music Workshop",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/parow-music-student-selected-for-prestigious-franschhoek-chamber-music-workshop/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJjR2RJTFdSSVFUWkpRMEpKVFJERkF4aWxCU2dLTWdrQmtvNXdzV2RGY0FF",
+    "date": "10/05/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-10-05T07:00:00Z"
+   },
+   {
+    "position": 21,
+    "title": "Road resurfacing gets underway in Bellville, Parow and Goodwood",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capeargus/news/2026-07-27-road-resurfacing-gets-underway-in-bellville-parow-and-goodwood/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5UMlpVWWw5eU9YVm5jV2xtVFJERUF4aW1CU2dLTWdZbGRZck5zUVE",
+    "date": "07/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-27T07:00:00Z"
+   },
+   {
+    "position": 22,
+    "title": "Traffic Fine Roadshow at Parow Civic soon",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/traffic-fine-roadshow-at-parow-civic-soon/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtRMkp3YlRab1lWUlVhM0F6VFJEZ0F4aUFCU2dLTWdZWlVJWk54UU0",
+    "date": "09/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-08T07:00:00Z"
+   },
+   {
+    "position": 23,
+    "title": "Cape Town protest: Marchers call on state to clear occupied buildings",
+    "source": {
+     "name": "EWN",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ewn.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Puleng Maake"
+     ]
+    },
+    "link": "https://www.ewn.co.za/cape-town-marchers-call-on-state-to-clear-occupied-buildings/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBVbVZaYW1VMVZtdFljSFowVFJDZkF4ampCU2dLTWdrQllKYUxLV2dlTEFJ",
+    "date": "05/23/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-23T07:00:00Z"
+   },
+   {
+    "position": 24,
+    "title": "Another murder reported at Parow Park Municipal Flats",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/another-murder-reported-at-parow-park-municipal-flats/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNZUzFtWkhCcVRHdFJMVk5JVFJERUF4aW1CU2dLTWdaTmNZNjNLQVk",
+    "date": "03/31/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-31T07:00:00Z"
+   },
+   {
+    "position": 25,
+    "title": "Two City law enforcement officers arrested in Parow bribery sting",
+    "source": {
+     "name": "Voice of the Cape",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://vocfm.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://vocfm.co.za/two-city-law-enforcement-officers-arrested-in-parow-bribery-sting/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBWbXRpYm5nNGNIaFdUV2gyVFJDZkF4ampCU2dLTWdtQlk0eXVRU1ZVaVFJ",
+    "date": "01/14/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-14T08:00:00Z"
+   },
+   {
+    "position": 26,
+    "title": "Civil groups reject March and March, ahead of Bellville-Parow protest",
+    "source": {
+     "name": "Smile 90.4FM",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://smilefm.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Caitlin Maledo"
+     ]
+    },
+    "link": "https://smilefm.co.za/civil-groups-reject-march-and-march-ahead-of-bellville-parow-protest/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZNM0psUm01WFNuTmhUVWxTVFJEZ0F4aUFCU2dLTWdZQmdKQ2pNQWM",
+    "date": "05/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-22T07:00:00Z"
+   },
+   {
+    "position": 27,
+    "title": "Murder of Parow teen (19) investigated",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/murder-of-parow-teen-19-investigated/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdkRlkxWmpkVmQydzVkRTFSVFJERUF4aW1CU2dLTWdZUlFKQ3ZwQWM",
+    "date": "02/10/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-10T08:00:00Z"
+   },
+   {
+    "position": 28,
+    "title": "Hours-long water maintenance to affect these Cape Town suburbs",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lulama Klassen"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/water-maintenance-to-affect-cape-town-suburbs/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXpVV3R6WjNkcFJrMWhWMnh4VFJDZkF4ampCU2dLTWdzVkVvcnJMR1NLeGRvYU5n",
+    "date": "08/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-03T07:00:00Z"
+   },
+   {
+    "position": 29,
+    "title": "Cape Town's Metro Police arrest Parow driver with fraudulent licence | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/cape-towns-metro-police-arrest-parow-driver-with-fraudulent-licence/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURNVGR6VG10Q1VrTkliWFZSVFJEZ0F4aUFCU2dLTWdZQlVJNEVxUWM",
+    "date": "02/18/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-18T08:00:00Z"
+   },
+   {
+    "position": 30,
+    "title": "Latest City Traffic Fine Roadshow at the Parow Civic Centre",
+    "source": {
+     "name": "Smile 90.4FM",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://smilefm.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Danielle Mentoor"
+     ]
+    },
+    "link": "https://smilefm.co.za/latest-city-traffic-fine-roadshow-at-the-parow-civic-centre/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdjbTVwU0ZoWVVrRk5RMEYwVFJERUF4aW5CU2dLTWdZWlVZcEpLZ1k",
+    "date": "09/04/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-04T07:00:00Z"
+   },
+   {
+    "position": 31,
+    "title": "Safety partners unite in Parow to tackle crime and improve community safety",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/safety-partners-unite-in-parow-to-tackle-crime-and-improve-community-safety/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJTaTFLWTFsTlMyNTVPVGg1VFJENEFoaXZCaWdLTWdB",
+    "date": "06/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-03T07:00:00Z"
+   },
+   {
+    "position": 32,
+    "title": "Cape Town man arrested in 25-year-old woman's fatal stabbing | TygerBurger",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/cape-town-man-arrested-in-25-year-old-womans-fatal-stabbing/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJNVTk2WlZZMU1GRjRNVVZSVFJET0JCaUlCQ2dLTWdhaFpKVE1xUWM",
+    "date": "04/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-08T07:00:00Z"
+   },
+   {
+    "position": 33,
+    "title": "Rashaad Sambaba: Parow entrepreneur shines as a finalist in the Forty Under 40 South Africa Awards",
+    "source": {
+     "name": "https://northernnews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibulele Kasa"
+     ]
+    },
+    "link": "https://northernnews.co.za/news/2026-08-05-rashaad-sambaba-parow-entrepreneur-shines-as-a-finalist-in-the-forty-under-40-south-africa-awards/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJVa2xMYkVad2NGZHdTa3RtVFJEUEFSajBBU2dCTWdZbFZwanNJUWs",
+    "date": "08/05/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-05T07:00:00Z"
+   },
+   {
+    "position": 34,
+    "title": "Weekend flooding prompts proactive response in Bellville and Parow",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/weekend-flooding-prompts-proactive-response-in-bellville-and-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhXRWxHZFZOUFVqRXhObkJDVFJDc0JCaW9CQ2dLTWdZZE5JekxIUVU",
+    "date": "04/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-21T07:00:00Z"
+   },
+   {
+    "position": 35,
+    "title": "Man dies after chasing robbery suspects on Jan van Riebeeck Road",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/man-dies-chasing-robbery-suspects-jan-van-riebeeck-road-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHdVQzFyZW5oNVZ6UkJkVXB5VFJDZkF4ampCU2dLTWdB",
+    "date": "06/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-19T07:00:00Z"
+   },
+   {
+    "position": 36,
+    "title": "E-hailing driver arrested with fraudulent licence in Parow",
+    "source": {
+     "name": "Daily Voice",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dailyvoice.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Murray Swart"
+     ]
+    },
+    "link": "https://dailyvoice.co.za/news/2026-02-18-e-hailing-driver-arrested-with-fraudulent-licence-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZia1JZVmtKelZXbFlkMWRVVFJDS0F4aThCU2dLTWdZQklJd0VuUWc",
+    "date": "02/18/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-18T08:00:00Z"
+   },
+   {
+    "position": 37,
+    "title": "Corruption in Cape Town: officers arrested in undercover operation",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tracy-Lynn Williams Ruiters"
+     ]
+    },
+    "link": "https://iol.co.za/weekend-argus/2026-01-14-corruption-in-cape-town-officers-arrested-in-undercover-operation/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpXVzR3ZEd4VlNEYzBXblYyVFJDaUF4aThCU2dLTWdhUkFaaG5sZ2M",
+    "date": "01/13/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-13T08:00:00Z"
+   },
+   {
+    "position": 38,
+    "title": "The City has confirmed that two LEAP officers were arrested in Parow",
+    "source": {
+     "name": "vocfm.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://vocfm.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://vocfm.co.za/the-city-has-confirmed-that-two-leap-officers-were-arrested-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRObWhGUjJFMFF6QjBOME5pVFJEQ0F4amtCQ2dLTWdZQmNJcEhzZ2M",
+    "date": "01/14/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-14T08:00:00Z"
+   },
+   {
+    "position": 39,
+    "title": "Metro Police apprehend e-hailing driver with fake licence in Parow",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Murray Swart"
+     ]
+    },
+    "link": "https://iol.co.za/capeargus/news/2026-02-17-metro-police-apprehend-e-hailing-driver-with-fake-licence-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZia1JZVmtKelZXbFlkMWRVVFJDS0F4aThCU2dLTWdZQklJd0VuUWc",
+    "date": "02/17/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-17T08:00:00Z"
+   },
+   {
+    "position": 40,
+    "title": "Donation boosts paediatric care at Tygerberg Hospital in Parow",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/donation-boosts-paediatric-care-at-tygerberg-hospital-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVlVloyUkRJMVMyUkxaemQ1VFJDVEJCakNCQ2dLTWdrTk1aeUhwaWt1eFFJ",
+    "date": "06/04/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-04T07:00:00Z"
+   },
+   {
+    "position": 41,
+    "title": "Several areas to prepare for a 24-hour water shutdown",
+    "source": {
+     "name": "Athlone News",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://athlonenews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://athlonenews.co.za/news/2026-04-07-several-areas-to-prepare-for-a-24-hour-water-shutdown/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlTRmhDUkhsT1JGZFdOMWRhVFJDNkFoaThCU2dLTWdNQmdBbw",
+    "date": "04/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-07T07:00:00Z"
+   },
+   {
+    "position": 42,
+    "title": "Three Parow residents recognised for community service and dedication | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/three-parow-residents-recognised-for-community-service-and-dedication/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1hVXhvZW1SemJWaDVaMkUwVFJDQUJSamdBeWdLTWdB",
+    "date": "04/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-17T07:00:00Z"
+   },
+   {
+    "position": 43,
+    "title": "Two dead in Parow crash as taxi overturns in separate Camps Bay accident",
+    "source": {
+     "name": "Daily Voice",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dailyvoice.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://dailyvoice.co.za/news/western-cape/2026-01-06-two-dead-in-parow-crash-as-taxi-overturns-in-separate-camps-bay-accident/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVYME53VUhKc056Z3dZWFE0VFJEdUJCanRBeWdLTWdZQjhJSk1XUU0",
+    "date": "01/06/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-01-06T08:00:00Z"
+   },
+   {
+    "position": 44,
+    "title": "5-year-old boy tragically lost his life in Parow apartment fire",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/parow-apartment-fire/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpNVTU1YzJoU1dIWkZRMjg1VFJDZkF4ampCU2dLTWdZQk1KWURwUWc",
+    "date": "08/20/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-08-20T07:00:00Z"
+   },
+   {
+    "position": 45,
+    "title": "Parow Industria, Cape Town, Western Cape, South Africa",
+    "source": {
+     "name": "MSN",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.msn.com/en-us/weather/forecast/in-Parow-Industria,-Cape-Town,%20Western-Cape",
+    "date": "03/15/2026, 10:55 AM, +0000 UTC",
+    "iso_date": "2026-03-15T10:55:34Z"
+   },
+   {
+    "position": 46,
+    "title": "Parow cops’ corruption case postponed",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Bert Van Hees"
+     ]
+    },
+    "link": "https://iol.co.za/news/2015-12-02-parow-cops-corruption-case-postponed/",
+    "date": "12/05/2025, 06:50 PM, +0000 UTC",
+    "iso_date": "2025-12-05T18:50:11Z"
+   },
+   {
+    "position": 47,
+    "title": "City’s Parow Housing Office brings services closer to residents",
+    "source": {
+     "name": "Democratic Alliance",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.da.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.da.org.za/government/where-we-govern/2020/01/citys-parow-housing-office-brings-services-closer-to-residents",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZMVnB5U21JMFlXNXFRVm8yVFJETkF4aVpCU2dLTWdrQklwZ05LZWpBd3dJ",
+    "date": "01/22/2020, 08:00 AM, +0000 UTC",
+    "iso_date": "2020-01-22T08:00:00Z"
+   },
+   {
+    "position": 48,
+    "title": "Lack of maintenance at railway stations questioned | TygerBurger",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/lack-of-maintenance-at-railway-stations-questioned/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpPVTA1WW1oNU1IQXdVR3RUVFJDdEF4akxCU2dLTWdhQnhvcUN5Z1E",
+    "date": "12/09/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-12-09T08:00:00Z"
+   },
+   {
+    "position": 49,
+    "title": "SASSA to hold Parow Outreach as Bellville Branch struggles with high demand",
+    "source": {
+     "name": "EWN",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ewn.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Kabous Le Roux"
+     ]
+    },
+    "link": "https://www.ewn.co.za/2025/11/19/pensioners-forced-to-make-repeat-trips-to-apply-for-old-age-grants",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdhWEZaUzJJNFFsVXRkVzQyVFJDZkF4ampCU2dLTWdZVklvendGQXM",
+    "date": "11/19/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-19T08:00:00Z"
+   },
+   {
+    "position": 50,
+    "title": "Pounding Grape in Parow: Chris Groenewald’s inner-city cellar",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dalene Fourie"
+     ]
+    },
+    "link": "https://www.news24.com/life/wine/pounding-grape-in-parow-chris-groenewalds-inner-city-cellar-20251226-0426",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNhelYxTW5BeFVWZFllblIxVFJEQ0FSaURBaWdCTWdZWlJKWnBuUWs",
+    "date": "12/26/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-12-26T08:00:00Z"
+   },
+   {
+    "position": 51,
+    "title": "Cape Town fires: Child dies in Parow blaze and firefighter injured in Three Anchor Bay",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/cape-town-fires-child-dies-in-parow-blaze-and-firefighter-injured-in-three-anchor-bay/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJiRU5pUTBKbk5IQllOR3hJVFJEREJSaXlBeWdLTWdZQnNJanF6QVE",
+    "date": "08/20/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-08-20T07:00:00Z"
+   },
+   {
+    "position": 52,
+    "title": "Two people killed in Parow shooting",
+    "source": {
+     "name": "eNCA",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.enca.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.enca.com/news-top-stories/two-people-killed-parow-shooting",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBXVFJpVlhkRGJFOTNTMjlsVFJEb0FoamdBeWdLTWdZQmNKQjR1QVk",
+    "date": "07/19/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-07-19T07:00:00Z"
+   },
+   {
+    "position": 53,
+    "title": "Major renovation starts at Parow Station Arcade | TygerBurger",
+    "source": {
+     "name": "https://novanews.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/major-renovation-starts-at-parow-station-arcade/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9kMDh3UmxBd09VNVFVRGN5VFJEZ0F4aUFCU2dLTWdrTk1KRElJU2Vha2dF",
+    "date": "11/13/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-13T08:00:00Z"
+   },
+   {
+    "position": 54,
+    "title": "Commuters relieved as trains return to one of Cape Town’s busiest stations",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tariro Washinyira"
+     ]
+    },
+    "link": "https://groundup.org.za/article/commuters-relieved-as-trains-return-to-busiest-station-on-northern-line/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxhV3N4T1VaSVVYVlZRMjFVVFJENkF4amVCQ2dLTWdZQlVJNXFzQVk",
+    "date": "02/02/2023, 08:00 AM, +0000 UTC",
+    "iso_date": "2023-02-02T08:00:00Z"
+   },
+   {
+    "position": 55,
+    "title": "Cape Town’s Bellville and Parow show substantial house price growth",
+    "source": {
+     "name": "Bizcommunity",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bizcommunity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bizcommunity.com/article/cape-towns-bellville-and-parow-show-substantial-house-price-growth-450959a",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXlMVVZQY0dOUFZrdGxOVXRRVFJEc0FoaThCU2dLTWdB",
+    "date": "03/04/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-03-04T08:00:00Z"
+   },
+   {
+    "position": 56,
+    "title": "Parow’s Jewish dynasty keeps vibrant history alive",
+    "source": {
+     "name": "SA Jewish Report",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sajr.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.sajr.co.za/parows-jewish-dynasty-keeps-vibrant-history-alive/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZZbHBXV21GSFpscENjR05XVFJERUF4aW1CU2dLTWdZQmtJQ0x6UUU",
+    "date": "11/07/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-11-07T08:00:00Z"
+   },
+   {
+    "position": 57,
+    "title": "Relief for rail commuters as Cape Town’s Parow Station reopens",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tariro Washinyira"
+     ]
+    },
+    "link": "https://www.dailymaverick.co.za/article/2023-02-02-relief-for-rail-commuters-as-cape-towns-parow-station-reopens/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBibUpXYTJSalJUVkZiRkp4VFJENkF4amVCQ2dLTWdZQlVJNXFzQVk",
+    "date": "02/02/2023, 08:00 AM, +0000 UTC",
+    "iso_date": "2023-02-02T08:00:00Z"
+   },
+   {
+    "position": 58,
+    "title": "Two dead, two injured in suspected gang shooting in Cape Town",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lisalee Solomons"
+     ]
+    },
+    "link": "https://www.news24.com/southafrica/crime-and-courts/two-dead-two-injured-in-suspected-gang-shooting-in-cape-town-20250719-1057",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlPRFF3U0ZKUE0zSjFabTVuVFJEZ0F4aUFCU2dLTWdZQlJJaW9IUWs",
+    "date": "07/19/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-07-19T07:00:00Z"
+   },
+   {
+    "position": 59,
+    "title": "Parow man plans to walk 1000km from Cape Town to Namibia",
+    "source": {
+     "name": "Smile 90.4FM",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://smilefm.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://smilefm.co.za/parow-man-plans-to-walk-1000km-from-cape-town-to-namibia/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFSM3BTY0dGR1FsWmtMV05XVFJEZ0F4aUFCU2dLTWdZVjBvWVR3UVE",
+    "date": "04/24/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-04-24T07:00:00Z"
+   },
+   {
+    "position": 60,
+    "title": "6000 affordable homes coming to Parow!",
+    "source": {
+     "name": "Democratic Alliance",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.da.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Brett Herron"
+     ]
+    },
+    "link": "https://www.da.org.za/2018/08/the-city-of-cape-town-to-build-6000-affordable-homes-in-parow",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHdiVlJ0TjJWS1ptMXhSazVrVFJERUF4aW5CU2dLTWdNTmdBdw",
+    "date": "08/20/2018, 07:00 AM, +0000 UTC",
+    "iso_date": "2018-08-20T07:00:00Z"
+   },
+   {
+    "position": 61,
+    "title": "Alleged gang mass shooting leaves two dead in Parow",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/alleged-gang-mass-shooting-leaves-two-dead-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJVRGhyYkZOSU0yRjFaVWRsVFJDZUF4amtCU2dLTWdB",
+    "date": "07/19/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-07-19T07:00:00Z"
+   },
+   {
+    "position": 62,
+    "title": "Mixed reaction to City’s Parow revamp proposals",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tariro Washinyira"
+     ]
+    },
+    "link": "https://groundup.org.za/article/mixed-reaction-city-councils-parow-revamp-proposals/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUNZekZaYUhwSGFYWmxOMUZDVFJEZ0F4aUFCU2dLTWdNQllRUQ",
+    "date": "06/06/2019, 07:00 AM, +0000 UTC",
+    "iso_date": "2019-06-06T07:00:00Z"
+   },
+   {
+    "position": 63,
+    "title": "Flooding reported across Cape Town as adverse weather makes landfall",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Robin-lee Francke"
+     ]
+    },
+    "link": "https://iol.co.za/news/weather/2025-04-08-flooding-reported-across-cape-town-as-adverse-weather-makes-landfall/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdiemMyTUhOMWExOU1YMkZTVFJEX0JCamdBeWdLTWdZQlpwaUFNd2c",
+    "date": "04/08/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-04-08T07:00:00Z"
+   },
+   {
+    "position": 64,
+    "title": "‘I am shocked’ – Booysen after underworld murder-accused Andre Naudé shot dead in Parow",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tammy Petersen",
+      "Marvin Charles"
+     ]
+    },
+    "link": "https://www.news24.com/southafrica/crime-and-courts/underworld-murder-accused-andre-naude-shot-dead-in-parow-20250612-0858",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRXazAzT1V0RlNFWktjMWN0VFJERUF4aW1CU2dLTWdZUlVKSUl0Z2M",
+    "date": "06/12/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-06-12T07:00:00Z"
+   },
+   {
+    "position": 65,
+    "title": "Heritage Western Cape approves Parow Station Precinct exemption proposal",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tariro Washinyira"
+     ]
+    },
+    "link": "https://groundup.org.za/article/heritage-western-cape-approves-citys-parow-station-precinct-exemption-proposal/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxhM042YTIxcFFteFVVekZpVFJEZ0F4aUFCU2dLTWdNQmtRQQ",
+    "date": "05/15/2020, 07:00 AM, +0000 UTC",
+    "iso_date": "2020-05-15T07:00:00Z"
+   },
+   {
+    "position": 66,
+    "title": "Child dies in fire at Parow residential building",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capeargus/news/2024-08-20-child-dies-in-fire-at-parow-residential-building/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpZMlUwTkZZeVVWaFZOMWt0VFJERUF4aW1CU2dLTWdZQmdJaGxTUVE",
+    "date": "08/20/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-08-20T07:00:00Z"
+   },
+   {
+    "position": 67,
+    "title": "Address by Deputy President H.E Shipokosa Paulus Mashatile at the National Men's Parliament, Parow Chambers, Cape Town",
+    "source": {
+     "name": "The Presidency",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thepresidency.gov.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.thepresidency.gov.za/address-deputy-president-he-shipokosa-paulus-mashatile-national-mens-parliament-parow-chambers-cape",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhkSGhpWkU1YU5WWnNia0ZwVFJDQ0FoakRBU2dCTWdZZFpJNk1LUWM",
+    "date": "12/07/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-12-07T08:00:00Z"
+   },
+   {
+    "position": 68,
+    "title": "No lights, no security and piles of rubbish at Parow train station",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tariro Washinyira"
+     ]
+    },
+    "link": "https://groundup.org.za/article/no-lights-no-security-and-piles-rubbish-parow-train-station/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFTRk5KZGtsa2FqTmxZek5VVFJEM0F4amlCQ2dLTWdrQlFJNUtKYWM5S3dJ",
+    "date": "05/09/2019, 07:00 AM, +0000 UTC",
+    "iso_date": "2019-05-09T07:00:00Z"
+   },
+   {
+    "position": 69,
+    "title": "Tears and disbelief as retired couple bludgeoned to death in Parow Valley",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capeargus/news/2023-11-22-tears-and-disbelief-as-retired-couple-bludgeoned-to-death-in-parow-valley/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWplQzA1YW1oeGJGaEJMVXBQVFJERUF4aW1CU2dLTWdhQnRJaVBOUVU",
+    "date": "11/22/2023, 08:00 AM, +0000 UTC",
+    "iso_date": "2023-11-22T08:00:00Z"
+   },
+   {
+    "position": 70,
+    "title": "Police seize uncut crystal meth stash worth R30-million in Parow",
+    "source": {
+     "name": "TimesLIVE",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeslive.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.timeslive.co.za/news/south-africa/2018-03-03-police-seize-uncut-crystal-meth-stash-worth-r30-million-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtabVF4TTJKNlZrcHhWRXhYVFJDM0FSaVRBaWdCTWdB",
+    "date": "03/03/2018, 08:00 AM, +0000 UTC",
+    "iso_date": "2018-03-03T08:00:00Z"
+   },
+   {
+    "position": 71,
+    "title": "City to replace pipes at Fairfield Estate homes in Parow",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/municipality/city-to-replace-pipes-at-fairfield-estate-homes-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlaV1I0WXpsdGRFTmxNRTR4VFJDb0FSaXNBaWdCTWdrSklJaW1sdXByU2dJ",
+    "date": "05/23/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-05-23T07:00:00Z"
+   },
+   {
+    "position": 72,
+    "title": "Settle your fines at the Traffic Fine Roadshow in Parow",
+    "source": {
+     "name": "Southern Suburbs Tatler",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://southernsuburbstatler.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://southernsuburbstatler.co.za/news/2025-09-05-settle-your-fines-at-the-traffic-fine-roadshow-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9hMk56TkV3NVVtMWxRMDVHVFJERUF4aW5CU2dLTWdtWk1JN1huT21DandF",
+    "date": "09/05/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-09-05T07:00:00Z"
+   },
+   {
+    "position": 73,
+    "title": "New affordable housing development offers apartments from R450k in Parow",
+    "source": {
+     "name": "Property Wheel",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://propertywheel.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://propertywheel.co.za/2022/12/new-affordable-development-offers-apartments-from-r450k-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVlSazB3WkVScWMwRmpkRkZCVFJDLUF4aUdCU2dLTWdNSmtnWQ",
+    "date": "12/07/2022, 08:00 AM, +0000 UTC",
+    "iso_date": "2022-12-07T08:00:00Z"
+   },
+   {
+    "position": 74,
+    "title": "City of Cape Town to convert derelict Parow buildings into 6000 social housing units",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capetimes/news/2018-08-20-city-of-cape-town-to-convert-derelict-parow-buildings-into-6000-social-housing-units/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVBTVWRTTm14NVRYaEZZM2R2VFJDM0FSaVRBaWdCTWdNWlloSQ",
+    "date": "08/20/2018, 07:00 AM, +0000 UTC",
+    "iso_date": "2018-08-20T07:00:00Z"
+   },
+   {
+    "position": 75,
+    "title": "'One of the best times of my life': Jack Parow 'honoured' to perform private Cape Town gig for Boks",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lisalee Solomons"
+     ]
+    },
+    "link": "https://www.news24.com/southafrica/news/one-of-the-best-times-of-my-life-jack-parow-honoured-to-perform-private-cape-town-gig-for-boks-20231104",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJhWEF4ZVdKbVMzcEtTVTUxVFJEcUJCandBeWdLTWdhbGhJNlB0UVk",
+    "date": "11/04/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-11-04T07:00:00Z"
+   },
+   {
+    "position": 76,
+    "title": "Cape Town runner donates R51 000 to Parow rehab centre after Comrades",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/cape-town-runner-donates-r51-000-to-parow-rehab-centre-after-comrades/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpjVkZPWlRGNmVVMHlOamxSVFJDQUJSamdBeWdLTWdB",
+    "date": "10/10/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-10-10T07:00:00Z"
+   },
+   {
+    "position": 77,
+    "title": "Cape Town homeless crisis: How a movie inspired man to transform lives at MES Parow Centre of Hope",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/cape-town-homeless-crisis-how-a-movie-inspired-man-to-transform-lives-at-mes-parow-centre-of-hope-20240801-2/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNZbFJSWjBGclJHeFdabGxaVFJEckJCandBeWdLTWdZcFJKYU5JUWc",
+    "date": "08/03/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-08-03T07:00:00Z"
+   },
+   {
+    "position": 78,
+    "title": "Metrorail’s Northern Line is coming back to life, but V-E-R-Y slowly",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tariro Washinyira"
+     ]
+    },
+    "link": "https://groundup.org.za/article/metrorails-northern-line-is-slowly-coming-back-to-life/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRNMUZWWWs1M09GUndiMk4yVFJEZ0F4aUFCU2dLTWdZQklKQ0RtZ2s",
+    "date": "03/22/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-03-22T07:00:00Z"
+   },
+   {
+    "position": 79,
+    "title": "Alleged underworld kingpin Andre Naude gunned down in Parow",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Robin-lee Francke"
+     ]
+    },
+    "link": "https://iol.co.za/news/crime-and-courts/2025-06-12-breaking-alleged-underworld-kingpin-andre-naude-gunned-down-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFXVjlDZFRGNlVFeGxTVGhIVFJDdUJCanhBaWdLTWdZdE5KeVBIUW8",
+    "date": "06/12/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-06-12T07:00:00Z"
+   },
+   {
+    "position": 80,
+    "title": "Telling the story of lost Jewish community",
+    "source": {
+     "name": "sentinelnews.co.za",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sentinelnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibulele Kasa"
+     ]
+    },
+    "link": "https://sentinelnews.co.za/news/2024-11-11-telling-the-story-of-lost-jewish-community/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlTM1puTkVaNGQwRnVUbTVUVFJEQ0FSaURBaWdCTWdZQjRZcm15QVE",
+    "date": "11/11/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-11-11T08:00:00Z"
+   },
+   {
+    "position": 81,
+    "title": "Settle your fines at the Traffic Fine Roadshow in Parow",
+    "source": {
+     "name": "northernnews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://northernnews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://northernnews.co.za/news/2025-09-05-settle-your-fines-at-the-traffic-fine-roadshow-in-parow/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWliRWd3UWpCMlEwOVNVSEJvVFJDM0FSaVRBaWdCTWdtWk1JNHJ1dVkxWndJ",
+    "date": "09/05/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-09-05T07:00:00Z"
+   },
+   {
+    "position": 82,
+    "title": "Another Traffic Fine Roadshow in Cape Town",
+    "source": {
+     "name": "Smile 90.4FM",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://smilefm.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://smilefm.co.za/another-traffic-fine-roadshow-in-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlRek51TjJkWVVXWkJSWHBGVFJERUF4aW5CU2dLTWdZWlVZcEpLZ1k",
+    "date": "03/14/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-03-14T07:00:00Z"
+   },
+   {
+    "position": 83,
+    "title": "Pastor murdered in his Cape Town home",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tracy-Lynn Williams Ruiters"
+     ]
+    },
+    "link": "https://iol.co.za/capeargus/news/2024-10-10-pastor-murdered-in-his-home/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBjVU5NZDNkaVlsTTJkSGhGVFJDU0F4aThCU2dLTWdZQmNKYUlLUWc",
+    "date": "10/10/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-10-10T07:00:00Z"
+   },
+   {
+    "position": 84,
+    "title": "Shoprite robber gets 24 years for 2017 heist in Parow",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/shoprite-robber-gets-24-years/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRka0l5UWxKWmRHeHNjSFJuVFJDZkF4ampCU2dLTWdZbEVwSnRFUXM",
+    "date": "09/06/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-09-06T07:00:00Z"
+   },
+   {
+    "position": 85,
+    "title": "Water Pipe Replacement Programme underway in Parow",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/new-water-pipes-installed-20230321-4/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNOM2MwTVhCaloxOWtOMFZzVFJERUF4aW1CU2dLTWdhcGc0cU9zUVU",
+    "date": "03/22/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-03-22T07:00:00Z"
+   },
+   {
+    "position": 86,
+    "title": "Concern over Parow old-age home residents",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibulele Kasa"
+     ]
+    },
+    "link": "https://iol.co.za/weekend-argus/news/2022-10-02-concern-over-parow-old-age-home-residents/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFkR2hzVGtWeFNYQXpRWHBHVFJEX0FoaThCU2dLTWdZQndJaU53QVE",
+    "date": "10/02/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-10-02T07:00:00Z"
+   },
+   {
+    "position": 87,
+    "title": "MES Parow responds to rising need as winter grips Western Cape",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/mes-parow-responds-to-rising-need-as-winter-grips-western-cape/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhWMU15YWxab01ubGpjbnBXVFJEZ0F4aUFCU2dLTWdhUk1wYUxJUWs",
+    "date": "07/16/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-07-16T07:00:00Z"
+   },
+   {
+    "position": 88,
+    "title": "Crusader Logistics opens 20 000m2 warehousing hub in Parow Industrial",
+    "source": {
+     "name": "Cape Business News",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cbn.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://cbn.co.za/industry-news/warehousing-storage-news/crusader-logistics-opens-20-000m2-warehousing-hub-in-parow-industrial/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhNMjF2V0d4dU5XcHdOR3hSVFJDUUF4ai1CU2dLTWdB",
+    "date": "06/10/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-06-10T07:00:00Z"
+   },
+   {
+    "position": 89,
+    "title": "Clover's large Cape Town factory under the hammer",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Penelope Mashego"
+     ]
+    },
+    "link": "https://www.news24.com/business/companies/property/clovers-large-cape-town-factory-under-the-hammer-20210614",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNVMGRqZURkSVFUUkdUVTVrVFJEaEFoaUVCQ2dLTWdZTlFKZ1JKUWc",
+    "date": "06/14/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-06-14T07:00:00Z"
+   },
+   {
+    "position": 90,
+    "title": "Immigrant traders demand to know why City of Cape Town has moved them",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tariro Washinyira"
+     ]
+    },
+    "link": "https://groundup.org.za/article/informal-traders-want-to-know-why-theyre-being-moved/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDVRa1o2YUVGdFNIQldaM0ZUVFJEZkF4aUFCU2dLTWd1QklvREtuYUZrMUlnc21n",
+    "date": "04/29/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-04-29T07:00:00Z"
+   },
+   {
+    "position": 91,
+    "title": "Eight in the dock for kidnapping a woman in Parow Industrial",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Mandilakhe Tshwete"
+     ]
+    },
+    "link": "https://iol.co.za/capeargus/news/2023-06-09-eight-in-the-dock-for-kidnapping-a-woman-in-parow-industrial/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpaMGxwWDBSaFptNXZjRlkyVFJDYUF4aThCU2dLTWdrQkVJWmlGS3RBOUFB",
+    "date": "06/09/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-06-09T07:00:00Z"
+   },
+   {
+    "position": 92,
+    "title": "Vagrants who set up camp near Civic Centre in Parow have now settled in",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/tygerburger/vagrants-who-set-up-camp-near-civic-centre-in-parow-have-now-settled-in-20221116/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNkRTVSTXpoR2NFSmxNVmhwVFJEOUFoaWxCaWdLTWdhQmNwU050UWM",
+    "date": "11/16/2022, 08:00 AM, +0000 UTC",
+    "iso_date": "2022-11-16T08:00:00Z"
+   },
+   {
+    "position": 93,
+    "title": "Gang-related violence escalates in Parow with daylight shooting",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tracy-Lynn Williams Ruiters"
+     ]
+    },
+    "link": "https://iol.co.za/weekend-argus/news/2025-08-15-gang-related-violence-escalates-in-parow-with-daylight-shooting/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWFXbU0yZW5sZlIyTjZhME53VFJEZ0F4aUFCU2dLTWdNQkFDbw",
+    "date": "08/15/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-08-15T07:00:00Z"
+   },
+   {
+    "position": 94,
+    "title": "Two people shot dead in Cape Town",
+    "source": {
+     "name": "vocfm.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://vocfm.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://vocfm.co.za/two-people-shot-dead-in-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhiMEZCVVMwNGVuZDBZVWRLVFJDZkF4ampCU2dLTWdZQmNZaUdOUVk",
+    "date": "11/20/2023, 08:00 AM, +0000 UTC",
+    "iso_date": "2023-11-20T08:00:00Z"
+   },
+   {
+    "position": 95,
+    "title": "Spurs fall to Uthongathi FC at Parow Park",
+    "source": {
+     "name": "Cape Town Spurs FC",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://capetownspurs.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://capetownspurs.co.za/2021/09/17/spurs-fall-to-uthongathi-fc-at-parow-park/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBlWGsyTFdSMGRXVkVaamRxVFJEOEFoamFCU2dLTWdrVlZJaVFJU21pemdF",
+    "date": "09/17/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-09-17T07:00:00Z"
+   },
+   {
+    "position": 96,
+    "title": "Robbers escape after CIT heist at Cape Town shopping centre",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/news/south-africa/western-cape/2020-07-04-robbers-escape-after-cit-heist-at-cape-town-shopping-centre/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXVTRkE0U0VoSlFrRmhXVk41VFJEZ0FSamhBU2dCTWdB",
+    "date": "07/02/2020, 07:00 AM, +0000 UTC",
+    "iso_date": "2020-07-02T07:00:00Z"
+   },
+   {
+    "position": 97,
+    "title": "Market shifts expose Parow Centre's landlord struggles",
+    "source": {
+     "name": "Bizcommunity",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bizcommunity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bizcommunity.com/Article/196/567/240945.html",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9iR3RHT1d0Q2EydDZWbEpmVFJEc0FoaThCU2dLTWdZQk1JS2xIUWc",
+    "date": "08/14/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-08-14T07:00:00Z"
+   },
+   {
+    "position": 98,
+    "title": "Parow councillor voted Influential Woman of Year",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tracy-Lynn Williams Ruiters"
+     ]
+    },
+    "link": "https://iol.co.za/capeargus/news/2024-09-26-parow-councillor-voted-influential-woman-of-year/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFZM0UzZFZNeGJrVnRkemhsVFJEaUJSaWZBeWdLTWdZQklacHNtUWc",
+    "date": "09/26/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-09-26T07:00:00Z"
+   },
+   {
+    "position": 99,
+    "title": "Mr Heinz CPT and Jack Parow team up for ‘Tittewyt’",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/things-to-do-cape-town/mr-heinz-cpt-and-jack-parow-team-up-for-tittewyt/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtNMVo2TlcxNFNYZzJVQzFsVFJDZkF4ampCU2dLTWdtQlVKRHJPU1pGcndF",
+    "date": "08/14/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-08-14T07:00:00Z"
+   },
+   {
+    "position": 100,
+    "title": "PHOTOS | Jack Parow, Julia Anastasopoulos and more attend Prime Video's The Shakedown premiere",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.news24.com/life/arts-and-entertainment/film/photos-jack-parow-julia-anastasopoulos-and-more-attend-prime-videos-the-shakedown-premiere-20240801",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhkRWhNT1hKWmNHWlphMkpvVFJERUF4aW1CU2dLTWdZWlJKeHFIUWs",
+    "date": "08/01/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-08-01T07:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "South Africa"
+   },
+   {
+    "title": "World"
+   },
+   {
+    "title": "Your local news"
+   },
+   {
+    "title": "Business"
+   },
+   {
+    "title": "Technology"
+   },
+   {
+    "title": "Entertainment"
+   },
+   {
+    "title": "Sports"
+   },
+   {
+    "title": "Science"
+   },
+   {
+    "title": "Health"
+   }
+  ]
+ }
+}

@@ -1,0 +1,376 @@
+{
+ "fetched_at": "2026-10-17T20:26:33.315332+00:00",
+ "params": {
+  "engine": "google",
+  "q": "flat to rent in Parow Cape Town",
+  "location": "Cape Town,Western Cape,South Africa",
+  "google_domain": "google.co.za",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3d9f828b1114830b4aacc",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/0w43eU224_Y-NyPbQrKZg0PBaKLYT58tQkL7be_FQOs/6ad3d9f828b1114830b4aacc.json",
+   "markdown_endpoint": "https://serpapi.com/searches/0w43eU224_Y-NyPbQrKZg0PBaKLYT58tQkL7be_FQOs/6ad3d9f828b1114830b4aacc.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/0w43eU224_Y-NyPbQrKZg0PBaKLYT58tQkL7be_FQOs/6ad3d9f828b1114830b4aacc.json_with_pixel_position",
+   "created_at": "2026-10-17 20:26:32 UTC",
+   "processed_at": "2026-10-17 20:26:32 UTC",
+   "google_url": "https://www.google.co.za/search?q=flat+to+rent+in+Parow+Cape+Town&oq=flat+to+rent+in+Parow+Cape+Town&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&hl=en&gl=za&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/0w43eU224_Y-NyPbQrKZg0PBaKLYT58tQkL7be_FQOs/6ad3d9f828b1114830b4aacc.html",
+   "total_time_taken": 0.91
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "flat to rent in Parow Cape Town",
+   "location_requested": "Cape Town,Western Cape,South Africa",
+   "location_used": "Cape Town,Western Cape,South Africa",
+   "google_domain": "google.co.za",
+   "hl": "en",
+   "gl": "za",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "flat to rent in Parow Cape Town",
+   "total_results": 112,
+   "time_taken_displayed": 0.21,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+   {
+    "position": 1,
+    "block_position": "top",
+    "title": "32 Apartments in Parow | Parow Flat To Rent",
+    "link": "https://www.privateproperty.co.za/apartments-to-rent/parow/2497",
+    "displayed_link": "https://www.privateproperty.co.za › apartment › for-rent",
+    "tracking_link": "https://www.google.co.za/aclk?sa=L&pf=1&ai=DChsSEwjYtuHF8cGXAxXQX0cBHTeyNToYACICCAEQABoCcXU&co=1&ase=2&gclid=EAIaIQobChMI2LbhxfHBlwMV0F9HAR03sjU6EAAYASAAEgLZlPD_BwE&cid=CAASugHkaBKzWP2Q22P19sSFKsVyrb7GaUvLF9R4Y6O8wtJvh80tJWRBc1utUj12VLF-xntGpelN4zyW9ziCPVskuzJNCf0lNYQnA31bVA3GaLzWO0poeJBtQ25FsvQBQ5si-xMjCAaT6j7_1dwRGgGFB3NQQR5_9ZmFZgDiOqwNUzztgF1QT_dRAKWgzsZD4EzSu6LHR7DWRZ2hvRcYaE1KbbMIYEShyeMjsoubId0ObnHpxikM0-TXiQ9FtgM&cce=2&category=acrcp_v1_32&sig=AOD64_0hLyCsJcLFTmPQK435fJTfwk3orw&q&nis=4&adurl=https://www.privateproperty.co.za/apartments-to-rent/parow/2497?gad_source%3D1%26gad_campaignid%3D23952142275%26gbraid%3D0AAAABD7sKqcpgIOLqxdm633U2ku8G4NOV%26gclid%3DEAIaIQobChMI2LbhxfHBlwMV0F9HAR03sjU6EAAYASAAEgLZlPD_BwE",
+    "description": "Find Parow Flat To Rent for rent in Parow. Verified listings on Private Property®. Filter apartments in Parow by price, bedrooms and size. New listings daily. Garden Flat Listings. Pet... Read more",
+    "source": "Private Property",
+    "sitelinks": [
+     {
+      "title": "Garden Cottages For Rent",
+      "link": "https://www.privateproperty.co.za/garden-cottages-to-rent/parow/2497",
+      "snippets": [
+       "6 listings available View photos & contact agents"
+      ]
+     },
+     {
+      "title": "Parow Property To Rent",
+      "link": "https://www.google.co.za/aclk?sa=L&pf=1&ai=DChsSEwjYtuHF8cGXAxXQX0cBHTeyNToYACICCAEQBBoCcXU&co=1&ase=2&gclid=EAIaIQobChMI2LbhxfHBlwMV0F9HAR03sjU6EAAYASAEEgKBovD_BwE&cid=CAASugHkaBKzWP2Q22P19sSFKsVyrb7GaUvLF9R4Y6O8wtJvh80tJWRBc1utUj12VLF-xntGpelN4zyW9ziCPVskuzJNCf0lNYQnA31bVA3GaLzWO0poeJBtQ25FsvQBQ5si-xMjCAaT6j7_1dwRGgGFB3NQQR5_9ZmFZgDiOqwNUzztgF1QT_dRAKWgzsZD4EzSu6LHR7DWRZ2hvRcYaE1KbbMIYEShyeMjsoubId0ObnHpxikM0-TXiQ9FtgM&cce=2&category=acrcp_v1_32&sig=AOD64_0a4vhnWZKm1kPKjusf1zlAD7tisA&adurl=https://www.privateproperty.co.za/apartments-to-rent/parow/2497%3Fgad_source%3D1%26gad_campaignid%3D23952142275%26gbraid%3D0AAAABD7sKqcpgIOLqxdm633U2ku8G4NOV%26gclid%3DEAIaIQobChMI2LbhxfHBlwMV0F9HAR03sjU6EAAYASAEEgKBovD_BwE&q=",
+      "snippets": [
+       "Contact Parow estate agents directly from any listing. No middleman, no waiting."
+      ]
+     },
+     {
+      "title": "Compare 32 Apartments",
+      "link": "https://www.google.co.za/aclk?sa=L&pf=1&ai=DChsSEwjYtuHF8cGXAxXQX0cBHTeyNToYACICCAEQBRoCcXU&co=1&ase=2&gclid=EAIaIQobChMI2LbhxfHBlwMV0F9HAR03sjU6EAAYASAFEgIO6_D_BwE&cid=CAASugHkaBKzWP2Q22P19sSFKsVyrb7GaUvLF9R4Y6O8wtJvh80tJWRBc1utUj12VLF-xntGpelN4zyW9ziCPVskuzJNCf0lNYQnA31bVA3GaLzWO0poeJBtQ25FsvQBQ5si-xMjCAaT6j7_1dwRGgGFB3NQQR5_9ZmFZgDiOqwNUzztgF1QT_dRAKWgzsZD4EzSu6LHR7DWRZ2hvRcYaE1KbbMIYEShyeMjsoubId0ObnHpxikM0-TXiQ9FtgM&cce=2&category=acrcp_v1_32&sig=AOD64_1KD61Wn7a3hTApgz60r_G5hIw7wg&adurl=https://www.privateproperty.co.za/apartments-to-rent/parow/2497%3Fgad_source%3D1%26gad_campaignid%3D23952142275%26gbraid%3D0AAAABD7sKqcpgIOLqxdm633U2ku8G4NOV%26gclid%3DEAIaIQobChMI2LbhxfHBlwMV0F9HAR03sjU6EAAYASAFEgIO6_D_BwE&q=",
+      "snippets": [
+       "32 verified apartments for rent in Parow. View HD photos, prices and floor plans."
+      ]
+     },
+     {
+      "title": "Bond Calculator",
+      "link": "https://www.privateproperty.co.za/bond-calculator.htm",
+      "snippets": [
+       "Estimate your monthly repayment Get pre-approved"
+      ]
+     },
+     {
+      "title": "Find an Agent",
+      "link": "https://www.privateproperty.co.za/estate-agents-in-south-africa",
+      "snippets": [
+       "Qualified estate agents in you area Sell your home fast"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "block_position": "bottom",
+    "title": "32 Apartments in Parow | Parow Flat To Rent",
+    "link": "https://www.privateproperty.co.za/apartments-to-rent/parow/2497",
+    "displayed_link": "https://www.privateproperty.co.za › apartment › for-rent",
+    "tracking_link": "https://www.google.co.za/aclk?sa=L&ai=DChsSEwjYtuHF8cGXAxXQX0cBHTeyNToYACICCAIQABoCcXU&co=1&ase=2&gclid=EAIaIQobChMI2LbhxfHBlwMV0F9HAR03sjU6EAMYASAAEgLLPfD_BwE&cid=CAASugHkaBKzWP2Q22P19sSFKsVyrb7GaUvLF9R4Y6O8wtJvh80tJWRBc1utUj12VLF-xntGpelN4zyW9ziCPVskuzJNCf0lNYQnA31bVA3GaLzWO0poeJBtQ25FsvQBQ5si-xMjCAaT6j7_1dwRGgGFB3NQQR5_9ZmFZgDiOqwNUzztgF1QT_dRAKWgzsZD4EzSu6LHR7DWRZ2hvRcYaE1KbbMIYEShyeMjsoubId0ObnHpxikM0-TXiQ9FtgM&cce=2&category=acrcp_v1_32&sig=AOD64_2YleR5dtC5hTXRJDxwBbY-PrqOKQ&q&nis=4&adurl",
+    "description": "Find Parow Flat To Rent for rent in Parow. Verified listings on Private Property®. Filter apartments in Parow by price, bedrooms and size.",
+    "extensions": [
+     "1M+ visits in past month"
+    ],
+    "source": "Private Property",
+    "sitelinks": [
+     {
+      "title": "Garden Cottages For Rent",
+      "link": "https://www.privateproperty.co.za/garden-cottages-to-rent/parow/2497"
+     },
+     {
+      "title": "Parow Property To Rent",
+      "link": "https://www.google.co.za/aclk?sa=L&ai=DChsSEwjYtuHF8cGXAxXQX0cBHTeyNToYACICCAIQAxoCcXU&co=1&ase=2&gclid=EAIaIQobChMI2LbhxfHBlwMV0F9HAR03sjU6EAMYASADEgI61PD_BwE&cid=CAASugHkaBKzWP2Q22P19sSFKsVyrb7GaUvLF9R4Y6O8wtJvh80tJWRBc1utUj12VLF-xntGpelN4zyW9ziCPVskuzJNCf0lNYQnA31bVA3GaLzWO0poeJBtQ25FsvQBQ5si-xMjCAaT6j7_1dwRGgGFB3NQQR5_9ZmFZgDiOqwNUzztgF1QT_dRAKWgzsZD4EzSu6LHR7DWRZ2hvRcYaE1KbbMIYEShyeMjsoubId0ObnHpxikM0-TXiQ9FtgM&cce=2&category=acrcp_v1_32&sig=AOD64_3e1DHyQDjN22835IOFKobVoU1bcA&adurl=&q="
+     },
+     {
+      "title": "Compare 32 Apartments",
+      "link": "https://www.google.co.za/aclk?sa=L&ai=DChsSEwjYtuHF8cGXAxXQX0cBHTeyNToYACICCAIQBBoCcXU&co=1&ase=2&gclid=EAIaIQobChMI2LbhxfHBlwMV0F9HAR03sjU6EAMYASAEEgK9vvD_BwE&cid=CAASugHkaBKzWP2Q22P19sSFKsVyrb7GaUvLF9R4Y6O8wtJvh80tJWRBc1utUj12VLF-xntGpelN4zyW9ziCPVskuzJNCf0lNYQnA31bVA3GaLzWO0poeJBtQ25FsvQBQ5si-xMjCAaT6j7_1dwRGgGFB3NQQR5_9ZmFZgDiOqwNUzztgF1QT_dRAKWgzsZD4EzSu6LHR7DWRZ2hvRcYaE1KbbMIYEShyeMjsoubId0ObnHpxikM0-TXiQ9FtgM&cce=2&category=acrcp_v1_32&sig=AOD64_33NCZbF7STMsdXEXBVgc0nedUTzw&adurl=&q="
+     },
+     {
+      "title": "Property 24/7",
+      "link": "https://www.privateproperty.co.za/to-rent/western-cape/cape-town/parow/2497"
+     }
+    ]
+   }
+  ],
+  "local_map": {
+   "link": "https://www.google.co.za/search?q=flat+to+rent+in+Parow+Cape+Town&sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&udm=local&lsack=-NnTaq-uGJ-v5NoP39qykAo&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQtgN6BAhaEAM",
+   "image": "https://serpapi.com/images/i/R0lGODlhAQABAIAAAP_______yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw.gif",
+   "gps_coordinates": {
+    "latitude": -33.89036748413292,
+    "longitude": 18.58612060546875
+   }
+  },
+  "local_results": {
+   "places": [
+    {
+     "position": 1,
+     "title": "Tygerberg Flats",
+     "type": "Apartment building",
+     "rating": 4.1,
+     "reviews": 40,
+     "links": {
+      "phone": "tel:021 930 2514"
+     },
+     "place_id": "13258890146406941300",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&ludocid=13258890146406941300&q=flat+to+rent+in+Parow+Cape+Town",
+     "provider_id": "/g/1pzxcv8pz",
+     "gps_coordinates": {
+      "latitude": -33.904951,
+      "longitude": 18.596502
+     },
+     "address": "106 Arnold Wilhelm St, Parow East, Cape Town, 7500",
+     "phone": "021 930 2514"
+    },
+    {
+     "position": 2,
+     "title": "SMITHLAND GUEST APARTMENTS",
+     "type": "Apartment rental agency",
+     "rating": 4.3,
+     "reviews": 334,
+     "description": "Casual units, plus an outdoor pool",
+     "links": {
+      "phone": "tel:082 444 5609",
+      "website": "http://www.smithland.co.za/"
+     },
+     "place_id": "12394461939841463558",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&ludocid=12394461939841463558&q=flat+to+rent+in+Parow+Cape+Town",
+     "provider_id": "/g/1tdtxvtz",
+     "gps_coordinates": {
+      "latitude": -33.89165,
+      "longitude": 18.577938
+     },
+     "address": "29 Hans Strydom St, Parow North, Cape Town, 7500",
+     "phone": "082 444 5609"
+    },
+    {
+     "position": 3,
+     "title": "THE GREENS",
+     "type": "Housing complex",
+     "rating": 4.4,
+     "reviews": 35,
+     "links": {
+      "phone": "tel:021 975 1177"
+     },
+     "place_id": "14984423114021989999",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&ludocid=14984423114021989999&q=flat+to+rent+in+Parow+Cape+Town",
+     "provider_id": "/g/11hyd523pj",
+     "gps_coordinates": {
+      "latitude": -33.899524,
+      "longitude": 18.575533
+     },
+     "address": "107 Scott Rd, Churchill Estate, Cape Town, 7500",
+     "hours": "Closed · Opens 8 am Mon",
+     "phone": "021 975 1177"
+    }
+   ],
+   "more_locations_link": "https://www.google.co.za/search?q=flat+to+rent+in+Parow+Cape+Town&sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&udm=local&lsack=-NnTaq-uGJ-v5NoP39qykAo&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQjGp6BAhcEAE"
+  },
+  "knowledge_graph": {
+   "place_id": "ChIJsdFuLmdazB0RdEKD7FYKAbg"
+  },
+  "related_questions": [
+   {
+    "question": "Where is the cheapest place to rent in Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "Where can I find rooms for rent in Parow, Western Cape?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "Which town has the cheapest rent?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "How much is monthly rent in Cape Town?",
+    "type": "featured_snippet"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Apartments / flats to rent in Parow",
+    "link": "https://www.property24.com/apartments-to-rent/parow/western-cape/436",
+    "displayed_link": "https://www.property24.com › ... › Western Cape",
+    "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADwBACdASocABwAPtEwtFooIigoGAEAGglsALsMEmIhQX-srKG5w7uUkpQIBS9ZYAAA_vYBJ8Y3I_MptR_3FnfrbKWzctb3LazCcCrVhf3LjMHUc46ya_ohgtVlgAQjjOBzDx5a7RaTXtPXbkStlLa1Wogat6wps0tIEIENdfpMruIL6XJMYFR0-vqllR-1JJF3_g1dqaU-gOsqLvo7wo2Hyk-7GhfxW96OivqXsqq81l7f7cZleFQTeXG4wb9Cgg3uve4p4qssoDLMah3RaynhNpeDyeJAAAA.webp",
+    "snippet": "1 Bedroom Apartment / flat to rent in Glenlilly - Parow · ​R ​5 ​000 · Glenlilly ; 1 Bedroom Apartment / flat to rent in Glenlilly - Parow · ​R ​6 ​200 · Glenlilly.",
+    "snippet_highlighted_words": [
+     "1 Bedroom Apartment / flat to rent in Glenlilly - Parow"
+    ],
+    "source": "Property24",
+    "read_more_link": "https://www.property24.com/apartments-to-rent/parow/western-cape/436#:~:text=AVAILABLE%20NOW&text=%E2%80%8BR%20%E2%80%8B5%20%E2%80%8B000&text=1%20Bedroom%20Apartment%20in%20Glenlilly&text=AVAILABLE%20NOW&text=%E2%80%8BR%20%E2%80%8B6%20%E2%80%8B200&text=1%20Bedroom%20Apartment%20in%20Glenlilly"
+   },
+   {
+    "position": 2,
+    "title": "Apartments to rent in Parow",
+    "link": "https://www.privateproperty.co.za/apartments-to-rent/parow/2497",
+    "displayed_link": "https://www.privateproperty.co.za › ... › Cape Town",
+    "favicon": "https://serpapi.com/images/i/UklGRngBAABXRUJQVlA4IGwBAACQBwCdASocABwAPrkurlcnIacnG_DgFwlsAKXZwBagHAAeVv7LH7O-lU8cSQWTtfex0lq6B3T4yW2inxn0glwqYLhFGAAA_vfxbyDyAdD11ghbnYxv6vX5VBYczB9cIgR9XX0e68sIS45E5jNnmBEzcw7gDgj0tiJ18HctSS7i6uRTUb6jCS_8rjthvMFAzHmSZ_3u9WU5-Gvy_vNH4btEDvXnHsKCeBVMWWS6PY3MczNjwEgQxU_cy3-0bRAnOCMhFbZMZ5M9TVUXo2N3RLAwgv-WP-7ulzXYaNr0YDwj0u2OLUNFxn0syZGpnujm81OOgVyNe7rI_vYUt-l87sVuxzRvTtme6x8o23neFXacYBO-EZDAu5g2ZSCjKsUh-Fhfd3h1XtBr5b0rL6vLvHYiIsTke_NagAMdmuJj-pZnaDyeJOIndP_lKpiKDrF6QH-Zu-NotOf8v2GTDg5lv1edWf-Nia91ivzsgAAA.webp",
+    "snippet": "38 apartments to rent in Parow, Cape Town. Browse photos, floor plans and full property details. Flat New R 6 300 per month 2 Bedroom. New R 13 000 per month",
+    "snippet_highlighted_words": [
+     "38 apartments to rent in Parow, Cape Town"
+    ],
+    "source": "Private Property"
+   },
+   {
+    "position": 3,
+    "title": "Property to rent in Parow by owner",
+    "link": "https://findallrentals.co.za/for-rent/parow",
+    "displayed_link": "https://findallrentals.co.za › ... › Parow",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADwBwCdASocABwAPrkurlcnIacnG_DgFwlsALElQX4Bb5-hBANsBdme8nI0DZxPdGU21Xl3BUW1hB5kWkZSf1gjmRcQ-3LNRAAA_v7CoOEx0-llWeYLYWRydLb2UWNH2QQSOVKOzPZpecNMzoNwBUzHhWbKbA0mBP_do1__w17L-1mEauFrCfdAlzvkF07JiCDn6hC_5R9yfF_Ir-Mj9X-lsCLcIFXBrv1D4P2EIOsKNFueTvXOC0s_R0kcmGlxteCp7tJSvs9p3y3rcFruEcdlzcXrOerQeMCv9PEp_uOtQ_E5fTq3ZHUhD_ztLEAZadG1W4PkZqOWNdivZrwno1nnV4qTL1KAT64-eufvsR_BLNXZ90zjco-xGAcYjMN_RBsSn4Cq68yAebKRd093OHlhns8OMoh1FKPetWc8aGpWuge_2FK6AAAA.webp",
+    "snippet": "Easily find property to rent by owner in Parow ➤ Browse 46 apartments, houses, bachelor flats and rooms ➤ Verified listings ➤ Updated daily!",
+    "snippet_highlighted_words": [
+     "Browse 46 apartments, houses, bachelor flats and rooms"
+    ],
+    "source": "Findallrentals.co.za"
+   },
+   {
+    "position": 4,
+    "title": "Apartments / Flats to rent in Parow, Western Cape",
+    "link": "https://www.sahometraders.co.za/apartments-flats-to-rent-in-parow-c436",
+    "displayed_link": "https://www.sahometraders.co.za › apartments-flats-to-re...",
+    "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAwAwCdASoQABAAAsBMJbACdDBGyVGeKP5eMAOlil7_eyxoAP7KbLnO8zfD6_7a0OIXjZOsKGj3lZZNG_JiFZ-50D3r61wRhq0NO-2MdI7Y3RZm1GSmVf9eufdKPeVxcUz4j5Is8rBrHKxo_eAjS6A-Stu9iPaWdu9TJTIHpHql0aOXfUzprYP5r7M35_Cvx_JrFPhhVbaWR79z-aQpRXZ0S1TKkUPbB-tbJs4sc4qEH2dqTB1AXPdaya59E_p9fc_tAHaOM09n-sJ7V3bxCEZQAAA.webp",
+    "snippet": "Find Apartments / Flats to Rent in Parow, Western Cape … 45 results 1 Bedroom Apartment / Flat. Flat to Rent in Parow North AVAILABLE: 900 Apartment / Flat in ...",
+    "snippet_highlighted_words": [
+     "Apartments",
+     "Flats to Rent in Parow",
+     "Cape",
+     "Flat",
+     "Flat to Rent in Parow",
+     "Flat"
+    ],
+    "source": "SAHometraders"
+   },
+   {
+    "position": 5,
+    "title": "Parow Flats and Houses to Rent",
+    "link": "https://rawson.co.za/property/to-rent/parow",
+    "displayed_link": "https://rawson.co.za › Property to rent › Western Cape",
+    "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3lf4zcxmQAZQAIjnoN_GPafJ6eGVCMk053IAA_ucJ2MNFt663Mm66K98bz8KjP5eLivyN2tY-YG___XTB_VTHBJry1ua13_zYLvJ9_jEMJXR7lVH4gBt7J6X5iVm2N1bDrXLxNX0XnTiDxxcKhvtttuM8XFKEU4uoYeG994vD4tbaUMWS51jOt-rZbVaeNaD5kPETlxkS6jkYFNJZCWrMtkxAOMbqkwK59YC_Ztfx_Md_gN4smc2V-Uz6OxW-Zu0Oa3BVjTRyANapCdbgTLGFbOMIf9P-f-f-EvZg9542dH_EVwAAAA.webp",
+    "snippet": "Browse through our property to rent in Parow, Western Cape. Apartment / Flat House Townhouse. Garden Swimming Pool Fireplace Security Furnished Shared ...",
+    "snippet_highlighted_words": [
+     "Browse through our property to rent in Parow"
+    ],
+    "source": "Rawson Property Group"
+   },
+   {
+    "position": 6,
+    "title": "1 708 Flats to rent in Parow - Mitula Homes",
+    "link": "https://homes.mitula.co.za/homes/flats-to-rent-parow",
+    "displayed_link": "https://homes.mitula.co.za › homes › flats-to-rent-parow",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAA8ElEQVR4AWJwL_ChK2YYtfB_QACg2jK2YhCGgWgadvAKXsUraAZm8AaMwybegQHcOyouqTB3TuA9KH4J_wmdkKIzOwvIjjnhFCEkE168Oe2A4tjPQsiSU_cERByHhaiq_UGShehTOwGjQgSjESp6WiUpEZaDh1f0NSBMASktRDrvCVl1mYzMOiSFcOlVpqRutNKjB4IoTEJP81fYCUGhMoCeVlX6op-TgCBtTAhir8LtigpZD6MoNFXGU8plk55SbQ4XIhufQ2GWymf_AexHGhSj_1KKvrbsXtviRGm698a__qbRrzZz8mVXW6_qRx7Cb4b5RdOjiihlAAAAAElFTkSuQmCC.png",
+    "snippet": "Flats to rent in Parow ; 9 · House for rent in Cape Town Ward 1, Parow. R 7 400/month ; 8 · Apartment for rent in Cape Town Ward 10, Parow. R 8 395/month ; 22 · House ...",
+    "snippet_highlighted_words": [
+     "Flats to rent in Parow"
+    ],
+    "source": "mitula.co.za",
+    "read_more_link": "https://homes.mitula.co.za/homes/flats-to-rent-parow#:~:text=Flats%20to%20rent%20in%20Parow&text=9%20pictures&text=R%207%20400%2Fmonth&text=8%20pictures&text=R%208%20395%2Fmonth&text=22%20pictures&text=R%2017%20000%2Fmonth"
+   },
+   {
+    "position": 7,
+    "title": "Properties To Rent in Parow, Western Cape",
+    "link": "https://www.myproperty.co.za/en-za/to-rent/western-cape/parow",
+    "displayed_link": "https://www.myproperty.co.za › ... › Parow",
+    "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3qvFC7ghADeLPJgPkBwNXswMqcXUIgQNWholN-wBW-8AAAPnWhnOvg3vq9iKObS3R__RXh672gCJs0iExeNbdico7GCamiEawStmexY_H6tCKSJJv_1i-k7nWPzQ-t9vGEUf_yz4wXz4VlLNWUZx8uwCjtbv6OUBviisuRm5nXe7De6iJMcuuxCBDL9j6Z9dSN1uRqkZrvlsq0gU4TevxljYigqCShlcgnzXVfroHlhJ86DOUwjD1f3ETL676QCUdDzMptq7dGos5Fw3c_2qbfxNVb4ahHWBf-Ynb7K8JVZfQ1_6v4M0NnJiwnVVUWW0ks1KWCyZiY_QuwldFjch1aklgxbBZQr2h_IOCjb1VhM4nwAA.webp",
+    "snippet": "39 properties to rent in Parow, Western Cape ; R 125,000 · 84 Voortrekker Road, Parow Central · 880m² ; R 8,600 · 29 Miracle Road, Cravenby · 45 m² ; R 8,500 ...",
+    "snippet_highlighted_words": [
+     "39 properties to rent in Parow, Western Cape"
+    ],
+    "source": "MyProperty South Africa",
+    "read_more_link": "https://www.myproperty.co.za/en-za/to-rent/western-cape/parow#:~:text=Available%20now&text=R%20125%2C000per%20month&text=84%20Voortrekker%20Road%2C%20Parow%20Central&text=880m%C2%B2&text=R%208%2C600per%20month&text=29%20Miracle%20Road%2C%20Cravenby&text=45%20m%C2%B2&text=R%208%2C500per%20month"
+   },
+   {
+    "position": 8,
+    "title": "Apartments / Flats to Rent in Parow",
+    "link": "https://property.mg.co.za/apartments-flats-to-rent-in-parow-c436",
+    "displayed_link": "https://property.mg.co.za › apartments-flats-to-rent-in-pa...",
+    "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAAAQAwCdASoQABAAAsBMJbACdLoAngDeMyISJyNHkiG_f4AA4nwz_wi5rLDBgkPCXbiwDLfy4ImHpGqEgrq6v3o3T3Yn14wMbm1w55G-6AdjftnpQupWHhJSlCK0FTDcVkuWY_wNQO6zzqA9v3-BNJ5FDgz_P9MQx4YbVYAo7iMcCVd7PfotDXY2CuyOj-gQdTYzixSOvr2IDSh8kGRaVJXXg-tb_8z2dWvPBjqYH_ib3_zPWEH7cUpfcQC3rmh-8CnLOhtyQAA.webp",
+    "snippet": "Apartments / Flats to Rent in Parow ; Jawitz Western Seaboard R 6 200 · Glenlilly B Wrench, 44 Wrensch Road, Glenlilly, Parow · 1 Floor Size 40 m² ; Jawitz Western ...",
+    "snippet_highlighted_words": [
+     "Apartments / Flats to Rent in Parow"
+    ],
+    "source": "Mail & Guardian",
+    "read_more_link": "https://property.mg.co.za/apartments-flats-to-rent-in-parow-c436#:~:text=Apartments%20%2F%20Flats%20to%20Rent,in%20Parow&text=R%206%20200%201%20Bedroom&text=R%206%20200%201%20Bedroom,44%20Wrensch%20Road%2C%20Glenlilly%2C%20Parow&text=1,40%20m%C2%B2&text=R%205%20700%201%20Bedroom"
+   },
+   {
+    "position": 9,
+    "title": "Houses to rent in Parow",
+    "link": "https://www.property24.com/houses-to-rent/parow/western-cape/436",
+    "displayed_link": "https://www.property24.com › ... › Western Cape",
+    "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADwBACdASocABwAPtEwtFooIigoGAEAGglsALsMEmIhQX-srKG5w7uUkpQIBS9ZYAAA_vYBJ8Y3I_MptR_3FnfrbKWzctb3LazCcCrVhf3LjMHUc46ya_ohgtVlgAQjjOBzDx5a7RaTXtPXbkStlLa1Wogat6wps0tIEIENdfpMruIL6XJMYFR0-vqllR-1JJF3_g1dqaU-gOsqLvo7wo2Hyk-7GhfxW96OivqXsqq81l7f7cZleFQTeXG4wb9Cgg3uve4p4qssoDLMah3RaynhNpeDyeJAAAA.webp",
+    "snippet": "Houses to rent in Parow. The largest selection of apartments, flats, farms, repossessed property, private property and houses to Rent in Parow by estate ...",
+    "snippet_highlighted_words": [
+     "Houses to rent in Parow"
+    ],
+    "source": "Property24"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Flat to rent in parow cape town under r3000",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&q=Flat+to+rent+in+parow+cape+town+under+r3000&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQ1QJ6BAhHEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "One bedroom flat to rent in parow cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&q=One+bedroom+flat+to+rent+in+parow+cape+town&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQ1QJ6BAhQEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Studio flat to rent in parow cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&q=Studio+flat+to+rent+in+parow+cape+town&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQ1QJ6BAhIEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "2 bedroom flat to rent in parow cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&q=2+bedroom+flat+to+rent+in+parow+cape+town&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQ1QJ6BAhPEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "1 bedroom flat to rent in Parow",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&q=1+bedroom+flat+to+rent+in+Parow&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQ1QJ6BAhMEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Flats to rent in Parow for R1500",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&q=Flats+to+rent+in+Parow+for+R1500&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQ1QJ6BAhNEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Flats to rent in Parow for R2000",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&q=Flats+to+rent+in+Parow+for+R2000&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQ1QJ6BAhJEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Flats to rent in Parow under r3000",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQns1gXqLKL8VNbZ4nBIIwnfetWVrKw:1792268792406&q=Flats+to+rent+in+Parow+under+r3000&sa=X&ved=2ahUKEwivitrF8cGXAxWfF1kFHV-tDKIQ1QJ6BAhGEAE"
+   }
+  ]
+ }
+}

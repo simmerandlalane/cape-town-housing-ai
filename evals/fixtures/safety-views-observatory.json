@@ -1,0 +1,60 @@
+{
+ "fetched_at": "2026-10-17T21:47:46.915408+00:00",
+ "params": {
+  "q": "is Observatory Cape Town safe to live"
+ },
+ "response": {
+  "organic_results": [
+   {
+    "link": "https://en.wikipedia.org/wiki/Observatory,_Cape_Town",
+    "title": "Observatory, Cape Town",
+    "snippet": "Observatory is a suburb in Cape Town, South Africa, colloquially known as Obs. Bordered by Mowbray to the south and Salt River to the northwest, the area is ...",
+    "source": "Wikipedia"
+   },
+   {
+    "link": "https://www.chaseveritt.co.za/area-profiles/cape-town/observatory/",
+    "title": "Observatory Area Profile - Cape Town",
+    "snippet": "Close-Knit Community with Old-School Charm: In Obs, residents aren't just neighbours; there's a genuine feeling of community here. Expect friendly greetings on ...",
+    "source": "Chas Everitt"
+   },
+   {
+    "link": "https://www.facebook.com/groups/1352661338752600/posts/1920221228663272/",
+    "title": "Safest suburbs to live in Cape Town?",
+    "snippet": "I've been staying at same place in Midrand since 2018...I want to move to Cape Town this year. Safest suburb to look into? 👂🏾🧐 Help",
+    "source": "Facebook · Mmereko Le Aus Dee (New Group)"
+   },
+   {
+    "link": "https://www.quora.com/Is-Cape-Town-South-Africa-a-safe-place-for-a-young-family-to-live",
+    "title": "Is Cape Town (South Africa) a safe place for a young family ...",
+    "snippet": "Is Cape Town (South Africa) a safe place for a young family to live?",
+    "source": "Quora"
+   },
+   {
+    "link": "https://groundup.org.za/article/how-were-trying-improve-observatory/",
+    "title": "We're trying to improve Observatory",
+    "snippet": "In the shared public spaces that make up Observatory there are also many addicts. There is a thriving drug trade which is not a positive feature ...",
+    "source": "GroundUp",
+    "date": "18 Apr 2016"
+   },
+   {
+    "link": "https://roamandroot.co.za/blog/tenants/is-cape-town-safe-neighbourhood-guide",
+    "title": "Is Cape Town Safe? Neighbourhood Safety Guide for ...",
+    "snippet": "Is Cape Town safe to live in for a few months? A local guide to crime, everyday risks and how Sea Point, Gardens, Green Point and other ...",
+    "source": "roam&root",
+    "date": "06 Oct 2026"
+   },
+   {
+    "link": "https://www.privateproperty.co.za/neighbourhoods/tags/safety-security/36",
+    "title": "Neighbourhoods known for their Safety & Security",
+    "snippet": "These neighbourhoods are known for their Safety & Security. 1 - 10 of 11 results. Atlantic Seaboard. Beautiful views, beautiful people.",
+    "source": "Private Property"
+   },
+   {
+    "link": "https://www.reddit.com/r/capetown/comments/pbsqsi/will_cape_town_city_center_be_safe_for_a_21_year/",
+    "title": "Will Cape Town City Center be safe for a 21 year old ...",
+    "snippet": "Yes, it can be safe in the right areas. What you need (if you do get a car or even just ubering) is access to underground or secure parking so ...",
+    "source": "Reddit · r/capetown"
+   }
+  ]
+ }
+}

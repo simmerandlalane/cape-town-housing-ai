@@ -1,0 +1,780 @@
+{
+ "fetched_at": "2026-10-17T21:17:20.158857+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "pharmacy in Observatory, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5dfa4e3cffdbab55e56",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/TM1PnoUCzUg5CSwKaPEoMPC2BD7UXbMhoVUuketFaww/6ad3e5dfa4e3cffdbab55e56.json",
+   "markdown_endpoint": "https://serpapi.com/searches/TM1PnoUCzUg5CSwKaPEoMPC2BD7UXbMhoVUuketFaww/6ad3e5dfa4e3cffdbab55e56.md",
+   "created_at": "2026-10-17 21:17:19 UTC",
+   "processed_at": "2026-10-17 21:17:19 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/pharmacy+in+Observatory%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/TM1PnoUCzUg5CSwKaPEoMPC2BD7UXbMhoVUuketFaww/6ad3e5dfa4e3cffdbab55e56.html",
+   "prettify_html_file": "https://serpapi.com/searches/TM1PnoUCzUg5CSwKaPEoMPC2BD7UXbMhoVUuketFaww/6ad3e5dfa4e3cffdbab55e56.prettify",
+   "total_time_taken": 0.61
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "pharmacy in Observatory, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "pharmacy in Observatory, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Alpha Pharm Lifestyle Pharmacy",
+    "place_id": "ChIJoUdTIxtdzB0ReKEuex6K1AA",
+    "data_id": "0x1dcc5d1b235347a1:0xd48a1e7b2ea178",
+    "data_cid": "59824558582964600",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b235347a1%3A0xd48a1e7b2ea178&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b235347a1%3A0xd48a1e7b2ea178&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9417499,
+     "longitude": 18.4665937
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoUdTIxtdzB0ReKEuex6K1AA",
+    "provider_id": "/g/1tj3hg1b",
+    "rating": 4.5,
+    "reviews": 111,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Shop 17, St Peters Square, Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9:30 am Sun",
+    "hours": "Closed · Opens 9:30 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–6 pm",
+     "sunday": "9:30 am–1:30 pm",
+     "monday": "9 am–7 pm",
+     "tuesday": "9 am–7 pm",
+     "wednesday": "9 am–7 pm",
+     "thursday": "9 am–7 pm",
+     "friday": "9 am–7 pm"
+    },
+    "phone": "021 448 1037",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Clicks Pharmacy Observatory",
+    "place_id": "ChIJHS_DHrFdzB0RsU3RcxVOD_s",
+    "data_id": "0x1dcc5db11ec32f1d:0xfb0f4e1573d14db1",
+    "data_cid": "18090764082214948273",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5db11ec32f1d%3A0xfb0f4e1573d14db1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5db11ec32f1d%3A0xfb0f4e1573d14db1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9372338,
+     "longitude": 18.4626064
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHS_DHrFdzB0RsU3RcxVOD_s",
+    "provider_id": "/g/11g49_jvx2",
+    "rating": 3.2,
+    "reviews": 171,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Health and beauty shop",
+     "Vitamin & supplements store"
+    ],
+    "address": "368 Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "7:30 am–6 pm",
+     "tuesday": "7:30 am–6 pm",
+     "wednesday": "8:30 am–6 pm",
+     "thursday": "7:30 am–6 pm",
+     "friday": "7:30 am–6 pm"
+    },
+    "phone": "021 447 0842",
+    "website": "https://clicks.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Valkenberg Hospital Pharmacy",
+    "place_id": "ChIJp51-VPxczB0RioTYVVrgyBs",
+    "data_id": "0x1dcc5cfc547e9da7:0x1bc8e05a55d8848a",
+    "data_cid": "2002096712958117002",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5cfc547e9da7%3A0x1bc8e05a55d8848a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5cfc547e9da7%3A0x1bc8e05a55d8848a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.936293,
+     "longitude": 18.478253
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp51-VPxczB0RioTYVVrgyBs",
+    "provider_id": "/g/11b5yvz_tp",
+    "rating": 4.7,
+    "reviews": 3,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Liesbeeck Parkway, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "phone": "021 440 3146",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "Alfamed Observatory",
+    "place_id": "ChIJU8MBKV5dzB0RAScF-BX6LCE",
+    "data_id": "0x1dcc5d5e2901c353:0x212cfa15f8052701",
+    "data_cid": "2390560474489235201",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d5e2901c353%3A0x212cfa15f8052701&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d5e2901c353%3A0x212cfa15f8052701&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.939859999999996,
+     "longitude": 18.46886
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU8MBKV5dzB0RAScF-BX6LCE",
+    "provider_id": "/g/11pc0xz42m",
+    "rating": 2.7,
+    "reviews": 10,
+    "type": "Health and beauty shop",
+    "types": [
+     "Health and beauty shop"
+    ],
+    "address": "79 Lower Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "phone": "079 090 8638",
+    "website": "http://www.alfamed.co.za/"
+   },
+   {
+    "position": 5,
+    "title": "E 10 Pharmacy",
+    "place_id": "ChIJY47C0RpdzB0R2SpDVnm88qo",
+    "data_id": "0x1dcc5d1ad1c28e63:0xaaf2bc7956432ad9",
+    "data_cid": "12318115160136035033",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1ad1c28e63%3A0xaaf2bc7956432ad9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1ad1c28e63%3A0xaaf2bc7956432ad9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.941699299999996,
+     "longitude": 18.4654954
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY47C0RpdzB0R2SpDVnm88qo",
+    "provider_id": "/g/1tgyn64_",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Anzio Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "phone": "021 404 3216",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "title": "Nature's Farmacy™ - Observatory",
+    "place_id": "ChIJV3OIshVdzB0R1F9a6rfSG4E",
+    "data_id": "0x1dcc5d15b2887357:0x811bd2b7ea5a5fd4",
+    "data_cid": "9303261142616530900",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d15b2887357%3A0x811bd2b7ea5a5fd4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d15b2887357%3A0x811bd2b7ea5a5fd4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.933824699999995,
+     "longitude": 18.4672676
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV3OIshVdzB0R1F9a6rfSG4E",
+    "provider_id": "/g/11ygn5pxmh",
+    "rating": 4.8,
+    "reviews": 8,
+    "type": "Cannabis club",
+    "types": [
+     "Cannabis club"
+    ],
+    "address": "154 Lower Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 10 am Sun",
+    "hours": "Closed · Opens 10 am Sun",
+    "operating_hours": {
+     "saturday": "10 am–10 pm",
+     "sunday": "10 am–6 pm",
+     "monday": "10 am–10 pm",
+     "tuesday": "10 am–10 pm",
+     "wednesday": "10 am–10 pm",
+     "thursday": "10 am–10 pm",
+     "friday": "10 am–10 pm"
+    },
+    "phone": "063 509 4559",
+    "website": "https://www.naturesfarmacy.co.za/"
+   },
+   {
+    "position": 7,
+    "title": "Brewelskloof Hospital Pharmacy",
+    "place_id": "ChIJY4oSdr1dzB0RNQXcepadbpY",
+    "data_id": "0x1dcc5dbd76128a63:0x966e9d967adc0535",
+    "data_cid": "10839774622759257397",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5dbd76128a63%3A0x966e9d967adc0535&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5dbd76128a63%3A0x966e9d967adc0535&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9382,
+     "longitude": 18.4685
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY4oSdr1dzB0RNQXcepadbpY",
+    "provider_id": "/g/11jgvdk4sv",
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Observatory, Cape Town, 6850",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Mon",
+    "hours": "Closed · Opens 8 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8 am–5 pm",
+     "tuesday": "8 am–5 pm",
+     "wednesday": "8 am–5 pm",
+     "thursday": "8 am–5 pm",
+     "friday": "8 am–5 pm"
+    },
+    "phone": "023 348 1310",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "title": "Clicks Pharmacy Riverlands Mall - River Club",
+    "place_id": "ChIJ90h6awBdzB0RMDeRKBhqwl8",
+    "data_id": "0x1dcc5d006b7a48f7:0x5fc26a1828913730",
+    "data_cid": "6900194231077386032",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d006b7a48f7%3A0x5fc26a1828913730&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d006b7a48f7%3A0x5fc26a1828913730&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.933692199999996,
+     "longitude": 18.4751759
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ90h6awBdzB0RMDeRKBhqwl8",
+    "provider_id": "/g/11wnlt89lp",
+    "rating": 2,
+    "reviews": 71,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Health and beauty shop",
+     "Vitamin & supplements store"
+    ],
+    "address": "Shop G52, The Riverlands Mall, Liesbeek Pkwy, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–5 pm",
+     "sunday": "9 am–5 pm",
+     "monday": "9 am–7 pm",
+     "tuesday": "9 am–7 pm",
+     "wednesday": "9 am–7 pm",
+     "thursday": "9 am–7 pm",
+     "friday": "9 am–7 pm"
+    },
+    "phone": "021 488 8480",
+    "website": "https://clicks.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "title": "Adi",
+    "place_id": "ChIJbxIFWmZdzB0R1MZeTdGJDzE",
+    "data_id": "0x1dcc5d665a05126f:0x310f89d14d5ec6d4",
+    "data_cid": "3535195764548355796",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d665a05126f%3A0x310f89d14d5ec6d4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d665a05126f%3A0x310f89d14d5ec6d4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9379765,
+     "longitude": 18.4733297
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbxIFWmZdzB0R1MZeTdGJDzE",
+    "provider_id": "/g/11g07ymxry",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "27 Lower Trill Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "title": "Druggists Distributors",
+    "place_id": "ChIJMbq4dwFdzB0R0Klov7aPvOE",
+    "data_id": "0x1dcc5d0177b8ba31:0xe1bc8fb6bf68a9d0",
+    "data_cid": "16266033969213516240",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0177b8ba31%3A0xe1bc8fb6bf68a9d0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0177b8ba31%3A0xe1bc8fb6bf68a9d0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.934303299999996,
+     "longitude": 18.4717332
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMbq4dwFdzB0R0Klov7aPvOE",
+    "provider_id": "/g/1tf8hs56",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "6 Fir St, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "Ringpharm Medisphere Pharmacy",
+    "place_id": "ChIJQacjcYZdzB0RSCIyJc0ZhcM",
+    "data_id": "0x1dcc5d867123a741:0xc38519cd25322248",
+    "data_cid": "14088695378181497416",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d867123a741%3A0xc38519cd25322248&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d867123a741%3A0xc38519cd25322248&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9498574,
+     "longitude": 18.472052299999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQacjcYZdzB0RSCIyJc0ZhcM",
+    "provider_id": "/g/11pgtg9xfc",
+    "rating": 4.4,
+    "reviews": 20,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "34 Main Rd, Mowbray, Cape Town, 7700",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Mon",
+    "hours": "Closed · Opens 9 am Mon",
+    "operating_hours": {
+     "saturday": "9 am–1 pm",
+     "sunday": "Closed",
+     "monday": "9 am–6 pm",
+     "tuesday": "9 am–6 pm",
+     "wednesday": "9 am–6 pm",
+     "thursday": "9 am–6 pm",
+     "friday": "9 am–12:30 pm, 2–6 pm"
+    },
+    "phone": "021 501 0707",
+    "website": "https://ringpharm.co.za/find-us-2/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "title": "Fine Pharmaceuticals C C",
+    "place_id": "ChIJy_ORgQFdzB0RuTk32BQpNBw",
+    "data_id": "0x1dcc5d018191f3cb:0x1c342914d83739b9",
+    "data_cid": "2032294501354518969",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d018191f3cb%3A0x1c342914d83739b9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d018191f3cb%3A0x1c342914d83739b9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9346269,
+     "longitude": 18.4721968
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy_ORgQFdzB0RuTk32BQpNBw",
+    "provider_id": "/g/1tqhmfh8",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "A308 Minolta House, Black River Park, Fir St, Observatory, 7925",
+    "country": "South Africa",
+    "phone": "021 447 1399",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Netcare U C T Pharmacy",
+    "place_id": "ChIJz65yww9dzB0R3h4Ck9KxSfY",
+    "data_id": "0x1dcc5d0fc372aecf:0xf649b1d293021ede",
+    "data_cid": "17746911324597788382",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0fc372aecf%3A0xf649b1d293021ede&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0fc372aecf%3A0xf649b1d293021ede&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.942273199999995,
+     "longitude": 18.4632821
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz65yww9dzB0R3h4Ck9KxSfY",
+    "provider_id": "/g/11b5yvc_h4",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "D-Level, Groote Schuur Hosp, New Main Building, Anzio Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "phone": "021 442 1828",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "title": "SALT RIVER PHARMACY",
+    "place_id": "ChIJKRbLVYldzB0RRHwZ-0lJ_sI",
+    "data_id": "0x1dcc5d8955cb1629:0xc2fe4949fb197c44",
+    "data_cid": "14050748469536717892",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d8955cb1629%3A0xc2fe4949fb197c44&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d8955cb1629%3A0xc2fe4949fb197c44&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9277231,
+     "longitude": 18.458305499999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKRbLVYldzB0RRHwZ-0lJ_sI",
+    "provider_id": "/g/11py9tf73b",
+    "rating": 4.4,
+    "reviews": 18,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "407 Albert Rd, Woodstock, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Mon",
+    "hours": "Closed · Opens 9 am Mon",
+    "operating_hours": {
+     "saturday": "9 am–6 pm",
+     "sunday": "Closed",
+     "monday": "9 am–6 pm",
+     "tuesday": "9 am–6 pm",
+     "wednesday": "9 am–6 pm",
+     "thursday": "9 am–6 pm",
+     "friday": "9 am–6 pm"
+    },
+    "phone": "021 285 0671",
+    "website": "http://www.saltriverpharmacy.co.za/"
+   },
+   {
+    "position": 15,
+    "title": "Groote Schuur Hospital - Pharmacy Bulk Store",
+    "place_id": "ChIJET2oMhtdzB0RwhiELgFO42c",
+    "data_id": "0x1dcc5d1b32a83d11:0x67e34e012e8418c2",
+    "data_cid": "7485912772602239170",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b32a83d11%3A0x67e34e012e8418c2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1b32a83d11%3A0x67e34e012e8418c2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9410899,
+     "longitude": 18.4669269
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJET2oMhtdzB0RwhiELgFO42c",
+    "provider_id": "/g/11b5z33lr8",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "A Floor Groote Schuur Hospital, Main Road, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–12 pm",
+     "sunday": "9 am–12 pm",
+     "monday": "8 am–4:30 pm",
+     "tuesday": "8 am–4:30 pm",
+     "wednesday": "8 am–4:30 pm",
+     "thursday": "8 am–4:30 pm",
+     "friday": "8 am–4:30 pm"
+    },
+    "phone": "021 404 4367",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "Dheda K",
+    "place_id": "ChIJm5VJyRpdzB0RP5z2lQVSANE",
+    "data_id": "0x1dcc5d1ac949959b:0xd100520595f69c3f",
+    "data_cid": "15060127337871219775",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1ac949959b%3A0xd100520595f69c3f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1ac949959b%3A0xd100520595f69c3f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.941759999999995,
+     "longitude": 18.46504
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJm5VJyRpdzB0RP5z2lQVSANE",
+    "provider_id": "/g/11b5yhtwdl",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Room 6 Uct Private Hospital, Anzio Road, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "phone": "021 404 7650",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "title": "Mediplace Family Pharmacy",
+    "place_id": "ChIJtc8HR6BdzB0RPaX7DjGkBi0",
+    "data_id": "0x1dcc5da04707cfb5:0x2d06a4310efba53d",
+    "data_cid": "3244461112178746685",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5da04707cfb5%3A0x2d06a4310efba53d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5da04707cfb5%3A0x2d06a4310efba53d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9312694,
+     "longitude": 18.4548748
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtc8HR6BdzB0RPaX7DjGkBi0",
+    "provider_id": "/g/1tg0h8rs",
+    "rating": 4.4,
+    "reviews": 177,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "288 Victoria Rd, Woodstock, Cape Town, 7915",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–10 pm",
+     "sunday": "9 am–10 pm",
+     "monday": "8 am–10 pm",
+     "tuesday": "8 am–10 pm",
+     "wednesday": "8 am–10 pm",
+     "thursday": "8 am–10 pm",
+     "friday": "8 am–10 pm"
+    },
+    "phone": "021 447 6871",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "title": "Salmarz Pinelands Pharmacy",
+    "place_id": "ChIJ1e9CLe9czB0RRefxSFhavW4",
+    "data_id": "0x1dcc5cef2d42efd5:0x6ebd5a5848f1e745",
+    "data_cid": "7979633449997821765",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5cef2d42efd5%3A0x6ebd5a5848f1e745&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5cef2d42efd5%3A0x6ebd5a5848f1e745&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.942923799999996,
+     "longitude": 18.4892847
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1e9CLe9czB0RRefxSFhavW4",
+    "provider_id": "/g/11bv3mpj7m",
+    "rating": 4.5,
+    "reviews": 35,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Ground The Park, Park Rd, Oude Molen Village, Cape Town, 7405",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Mon",
+    "hours": "Closed · Opens 9 am Mon",
+    "operating_hours": {
+     "saturday": "9 am–1 pm",
+     "sunday": "Closed",
+     "monday": "9 am–5:30 pm",
+     "tuesday": "9 am–5:30 pm",
+     "wednesday": "9 am–5:30 pm",
+     "thursday": "9 am–5:30 pm",
+     "friday": "9 am–12:30 pm, 2–5:30 pm"
+    },
+    "phone": "021 510 1213",
+    "website": "https://ringpharm.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "title": "SPAR Groote Schuur",
+    "place_id": "ChIJwcwGKgRdzB0RaczqAQLJvBU",
+    "data_id": "0x1dcc5d042a06ccc1:0x15bcc90201eacc69",
+    "data_cid": "1566347780877372521",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d042a06ccc1%3A0x15bcc90201eacc69&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d042a06ccc1%3A0x15bcc90201eacc69&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.937093499999996,
+     "longitude": 18.4628335
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwcwGKgRdzB0RaczqAQLJvBU",
+    "provider_id": "/g/11c3ywdc6v",
+    "rating": 4.2,
+    "reviews": 2069,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Food products supplier",
+     "Fruit and vegetable store",
+     "Supermarket"
+    ],
+    "address": "Browning Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–9:30 pm",
+     "sunday": "7 am–9:30 pm",
+     "monday": "7 am–9:30 pm",
+     "tuesday": "7 am–9:30 pm",
+     "wednesday": "7 am–9:30 pm",
+     "thursday": "7 am–9:30 pm",
+     "friday": "7 am–9:30 pm"
+    },
+    "phone": "021 447 1652",
+    "website": "https://www.spar.co.za/Home/Store-View/SPAR-Henties-Bay-Namibia",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 20,
+    "title": "Sereni Pharmacy",
+    "place_id": "ChIJDSVifAJdzB0RFVb3DDDwgc0",
+    "data_id": "0x1dcc5d027c62250d:0xcd81f0300cf75615",
+    "data_cid": "14808381138937533973",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d027c62250d%3A0xcd81f0300cf75615&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d027c62250d%3A0xcd81f0300cf75615&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9378952,
+     "longitude": 18.4508136
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDSVifAJdzB0RFVb3DDDwgc0",
+    "provider_id": "/g/11p1z37s88",
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "100 Upper Roodebloem Rd, University Estate, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 10 am Sun",
+    "hours": "Closed · Opens 10 am Sun",
+    "operating_hours": {
+     "saturday": "8:30 am–1 pm",
+     "sunday": "10 am–3 pm",
+     "monday": "8:30 am–6:30 pm",
+     "tuesday": "8:30 am–6:30 pm",
+     "wednesday": "8:30 am–6:30 pm",
+     "thursday": "8:30 am–6:30 pm",
+     "friday": "8:30 am–12:30 pm, 2–6 pm"
+    },
+    "phone": "082 736 0886"
+   }
+  ]
+ }
+}

@@ -1,0 +1,40 @@
+[project]
+name = "cape-town-housing-ai"
+version = "0.1.0"
+description = "Evidence-based neighbourhood finder for people moving to Cape Town, built on SerpApi."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+    "serpapi>=1.1.2",
+    "streamlit>=1.66.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ct_housing"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "ruff>=0.17.1",
+]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "S"]  # pycodestyle, pyflakes, isort, bugbear, pyupgrade, bandit (security)
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S101", "S105", "S106", "E501"]  # asserts, fake secrets and long real-data fixtures are fine in tests
+"evals/*" = ["E501"]  # report prose

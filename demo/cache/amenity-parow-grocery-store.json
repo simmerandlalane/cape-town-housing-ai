@@ -1,0 +1,887 @@
+{
+ "fetched_at": "2026-10-17T21:01:30.636758+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "grocery store in Parow, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e229392e0bfe66f0dabc",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/KXsqIIRhpimmsQ3YEWcX2vOYbjDk0gRwb1vBMnifvsU/6ad3e229392e0bfe66f0dabc.json",
+   "markdown_endpoint": "https://serpapi.com/searches/KXsqIIRhpimmsQ3YEWcX2vOYbjDk0gRwb1vBMnifvsU/6ad3e229392e0bfe66f0dabc.md",
+   "created_at": "2026-10-17 21:01:29 UTC",
+   "processed_at": "2026-10-17 21:01:29 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/grocery+store+in+Parow%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/KXsqIIRhpimmsQ3YEWcX2vOYbjDk0gRwb1vBMnifvsU/6ad3e229392e0bfe66f0dabc.html",
+   "prettify_html_file": "https://serpapi.com/searches/KXsqIIRhpimmsQ3YEWcX2vOYbjDk0gRwb1vBMnifvsU/6ad3e229392e0bfe66f0dabc.prettify",
+   "total_time_taken": 0.96
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "grocery store in Parow, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "grocery store in Parow, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Food Lover's Market Parow",
+    "place_id": "ChIJlY7eDV5azB0RguEdd0Vzd2c",
+    "data_id": "0x1dcc5a5e0dde8e95:0x67777345771de182",
+    "data_cid": "7455554450323530114",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5e0dde8e95%3A0x67777345771de182&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5e0dde8e95%3A0x67777345771de182&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9053673,
+     "longitude": 18.592293299999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlY7eDV5azB0RguEdd0Vzd2c",
+    "provider_id": "/g/1tplsl91",
+    "rating": 4.4,
+    "reviews": 2654,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Fresh food market",
+     "Supermarket"
+    ],
+    "address": "Shop 33 Shoprite Park, Voortrekker Road, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6 pm",
+     "sunday": "8 am–3 pm",
+     "monday": "9 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 911 0778",
+    "website": "https://foodloversmarket.co.za/stores/western-cape/food-lovers-market-parow?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Pick 'n Pay - Parow Family Centre",
+    "place_id": "ChIJOXaJKFpazB0RS63Grfovy1s",
+    "data_id": "0x1dcc5a5a28897639:0x5bcb2ffaadc6ad4b",
+    "data_cid": "6614433231427513675",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5a28897639%3A0x5bcb2ffaadc6ad4b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5a28897639%3A0x5bcb2ffaadc6ad4b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9077444,
+     "longitude": 18.5770461
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOXaJKFpazB0RS63Grfovy1s",
+    "provider_id": "/g/1v8yzr0q",
+    "rating": 4.2,
+    "reviews": 6342,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket",
+     "Liquor store"
+    ],
+    "address": "Voortrekker Rd, Richmond, Cape Town, 7460",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–10 pm",
+     "sunday": "8 am–10 pm",
+     "monday": "8 am–10 pm",
+     "tuesday": "8 am–10 pm",
+     "wednesday": "8 am–10 pm",
+     "thursday": "8 am–10 pm",
+     "friday": "7 am–10 pm"
+    },
+    "phone": "021 939 5029",
+    "website": "http://www.picknpay.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Ravensmead supermarket",
+    "place_id": "ChIJ97zUgjBbzB0RhICyDdtEXFA",
+    "data_id": "0x1dcc5b3082d4bcf7:0x505c44db0db28084",
+    "data_cid": "5790578928509943940",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b3082d4bcf7%3A0x505c44db0db28084&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b3082d4bcf7%3A0x505c44db0db28084&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.920178299999996,
+     "longitude": 18.5918679
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ97zUgjBbzB0RhICyDdtEXFA",
+    "provider_id": "/g/11rg2n1x0w",
+    "rating": 4,
+    "reviews": 170,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "1 Webner St, Parow, Cape Town, 7493",
+    "country": "South Africa",
+    "phone": "081 498 6135",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "SPAR Parow Valley",
+    "place_id": "ChIJR4ZxGvVazB0RYrrymIieEFY",
+    "data_id": "0x1dcc5af51a718647:0x56109e8898f2ba62",
+    "data_cid": "6201630996407958114",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5af51a718647%3A0x56109e8898f2ba62&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5af51a718647%3A0x56109e8898f2ba62&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9127534,
+     "longitude": 18.5916268
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR4ZxGvVazB0RYrrymIieEFY",
+    "provider_id": "/g/11g697y6jm",
+    "rating": 4.1,
+    "reviews": 1714,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket",
+     "Butcher shop",
+     "Food products supplier",
+     "Fruit and vegetable store",
+     "Gourmet grocery store",
+     "Grocery store"
+    ],
+    "address": "50 Market St, Parow Valley, Cape Town, 7503",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–8 pm",
+     "sunday": "8 am–8 pm",
+     "monday": "8 am–8 pm",
+     "tuesday": "8 am–8 pm",
+     "wednesday": "8 am–8 pm",
+     "thursday": "8 am–8 pm",
+     "friday": "8 am–8 pm"
+    },
+    "phone": "021 931 6551",
+    "website": "https://www.spar.co.za/Store-Finder",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "Shoprite Parow Park",
+    "place_id": "ChIJRf4Q3V1azB0RgaXP_lxvXpM",
+    "data_id": "0x1dcc5a5ddd10fe45:0x935e6f5cfecfa581",
+    "data_cid": "10619047416588903809",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5ddd10fe45%3A0x935e6f5cfecfa581&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5ddd10fe45%3A0x935e6f5cfecfa581&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.906756,
+     "longitude": 18.5923071
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRf4Q3V1azB0RgaXP_lxvXpM",
+    "provider_id": "/g/1tk1wfkq",
+    "rating": 3.9,
+    "reviews": 1656,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket",
+     "Bakery",
+     "Deli",
+     "Grocery store"
+    ],
+    "address": "and, Cnr Voortrekker Rd, Jean Simonis St, Simmons, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "8 am–6:30 pm",
+     "tuesday": "8 am–6:30 pm",
+     "wednesday": "8 am–6:30 pm",
+     "thursday": "8 am–6:30 pm",
+     "friday": "8 am–6:30 pm"
+    },
+    "phone": "021 929 1340",
+    "website": "https://www.shoprite.co.za/store-directory-and-leaflets",
+    "description": "Groceries, personal care items & more. Supermarket chain with brand-name & house-label groceries, plus a bakery & a deli.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "title": "Parow Mark BK",
+    "place_id": "ChIJVXDv-VlazB0R5j8PgQxu-EQ",
+    "data_id": "0x1dcc5a59f9ef7055:0x44f86e0c810f3fe6",
+    "data_cid": "4969843188787265510",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a59f9ef7055%3A0x44f86e0c810f3fe6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a59f9ef7055%3A0x44f86e0c810f3fe6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.90723,
+     "longitude": 18.582629999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVXDv-VlazB0R5j8PgQxu-EQ",
+    "provider_id": "/g/1pzrcdrnp",
+    "rating": 3.8,
+    "reviews": 92,
+    "unclaimed_listing": true,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Fruit and vegetable store",
+     "Market"
+    ],
+    "address": "Cnr. King Edward & Steenbras St, Parow Centre, Parow, 7500",
+    "country": "South Africa",
+    "phone": "021 930 3875",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "MY SUPER",
+    "place_id": "ChIJ10BJlK5bzB0R4ib8231LQVM",
+    "data_id": "0x1dcc5bae944940d7:0x53414b7ddbfc26e2",
+    "data_cid": "5999159182567941858",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5bae944940d7%3A0x53414b7ddbfc26e2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5bae944940d7%3A0x53414b7ddbfc26e2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8924075,
+     "longitude": 18.579572199999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ10BJlK5bzB0R4ib8231LQVM",
+    "provider_id": "/g/11h3n3nds2",
+    "rating": 4.3,
+    "reviews": 92,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket"
+    ],
+    "address": "17 M E Rothman St, Parow North, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–8 pm",
+     "sunday": "8 am–8 pm",
+     "monday": "6:30 am–8 pm",
+     "tuesday": "6:30 am–8 pm",
+     "wednesday": "6:30 am–8 pm",
+     "thursday": "6:30 am–8 pm",
+     "friday": "6:30 am–8 pm"
+    },
+    "phone": "021 911 5225",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "title": "Korine Supermarket",
+    "place_id": "ChIJCyYIIvJazB0R4Cq4XvAN7v8",
+    "data_id": "0x1dcc5af22208260b:0xffee0df05eb82ae0",
+    "data_cid": "18441692850161199840",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5af22208260b%3A0xffee0df05eb82ae0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5af22208260b%3A0xffee0df05eb82ae0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9205992,
+     "longitude": 18.5881708
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCyYIIvJazB0R4Cq4XvAN7v8",
+    "provider_id": "/g/11gh2qkgvk",
+    "rating": 4.3,
+    "reviews": 188,
+    "type": "Convenience store",
+    "types": [
+     "Convenience store",
+     "Supermarket"
+    ],
+    "address": "C/O CONNAUGHT &, Francie Van Zijl Dr, Beaconvale, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–10 pm",
+     "sunday": "7 am–9 pm",
+     "monday": "7 am–10 pm",
+     "tuesday": "7 am–10 pm",
+     "wednesday": "7 am–10 pm",
+     "thursday": "7 am–10 pm",
+     "friday": "7 am–10 pm"
+    },
+    "phone": "021 933 8236",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "title": "Groceries Express",
+    "place_id": "ChIJ22PJVgBbzB0RfU33HILz2hc",
+    "data_id": "0x1dcc5b0056c963db:0x17daf3821cf74d7d",
+    "data_cid": "1718953947952532861",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b0056c963db%3A0x17daf3821cf74d7d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b0056c963db%3A0x17daf3821cf74d7d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9004426,
+     "longitude": 18.5738907
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ22PJVgBbzB0RfU33HILz2hc",
+    "provider_id": "/g/11z7q8xg15",
+    "rating": 3.9,
+    "reviews": 37,
+    "type": "Store",
+    "types": [
+     "Store"
+    ],
+    "address": "41 4th Ave, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6:30 am Sun",
+    "hours": "Closed · Opens 6:30 am Sun",
+    "operating_hours": {
+     "saturday": "6:30 am–10:30 pm",
+     "sunday": "6:30 am–10:30 pm",
+     "monday": "6:30 am–10:30 pm",
+     "tuesday": "6:30 am–10:30 pm",
+     "wednesday": "6:30 am–10:30 pm",
+     "thursday": "6:30 am–10:30 pm",
+     "friday": "6:30 am–10:30 pm"
+    }
+   },
+   {
+    "position": 10,
+    "title": "KWIKSPAR De Tyger",
+    "place_id": "ChIJEW4jzUNazB0RDyzDAu1COrk",
+    "data_id": "0x1dcc5a43cd236e11:0xb93a42ed02c32c0f",
+    "data_cid": "13347054031386913807",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a43cd236e11%3A0xb93a42ed02c32c0f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a43cd236e11%3A0xb93a42ed02c32c0f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.895855399999995,
+     "longitude": 18.5903831
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEW4jzUNazB0RDyzDAu1COrk",
+    "provider_id": "/g/1tf4_4q7",
+    "rating": 3.8,
+    "reviews": 849,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Food products supplier",
+     "Fruit and vegetable store",
+     "Supermarket"
+    ],
+    "address": "22 Frans Conradie Dr, Parow, Cape Town, 7490",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "6:30 am–9 pm",
+     "sunday": "7 am–9 pm",
+     "monday": "6:30 am–9 pm",
+     "tuesday": "6:30 am–9 pm",
+     "wednesday": "6:30 am–9 pm",
+     "thursday": "6:30 am–9 pm",
+     "friday": "6:30 am–9 pm"
+    },
+    "phone": "021 939 2295",
+    "website": "https://www.spar.co.za/Home/Store-View/KWIKSPAR-De-Tyger-Western-Cape",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "STAR SUPERMARKET AND CASH &CARRY",
+    "place_id": "ChIJ9bQIPABbzB0R3Y_Bq4HesmQ",
+    "data_id": "0x1dcc5b003c08b4f5:0x64b2de81abc18fdd",
+    "data_cid": "7256106598161027037",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b003c08b4f5%3A0x64b2de81abc18fdd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b003c08b4f5%3A0x64b2de81abc18fdd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9071402,
+     "longitude": 18.5857854
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9bQIPABbzB0R3Y_Bq4HesmQ",
+    "provider_id": "/g/11zks3my_g",
+    "unclaimed_listing": true,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "102 King Edward St, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "062 299 5220"
+   },
+   {
+    "position": 12,
+    "title": "Shoprite Parow",
+    "place_id": "ChIJ4xItfllazB0RCYg9eWoGflk",
+    "data_id": "0x1dcc5a597e2d12e3:0x597e066a793d8809",
+    "data_cid": "6448598770811504649",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a597e2d12e3%3A0x597e066a793d8809&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a597e2d12e3%3A0x597e066a793d8809&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.906301,
+     "longitude": 18.585230499999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4xItfllazB0RCYg9eWoGflk",
+    "provider_id": "/g/11csp_9qfb",
+    "rating": 4,
+    "reviews": 310,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket",
+     "Bakery",
+     "Deli",
+     "Grocery store"
+    ],
+    "address": "178 Voortrekker Rd, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "8 am–6:30 pm",
+     "tuesday": "8 am–6:30 pm",
+     "wednesday": "8 am–6:30 pm",
+     "thursday": "8 am–6:30 pm",
+     "friday": "8 am–6:30 pm"
+    },
+    "phone": "021 929 1320",
+    "website": "https://www.shoprite.co.za/store-directory-and-leaflets",
+    "description": "Groceries, personal care items & more. Supermarket chain with brand-name & house-label groceries, plus a bakery & a deli.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Checkers Hyper Parow",
+    "place_id": "ChIJP3iYZWFazB0RtEIGic6rMjE",
+    "data_id": "0x1dcc5a616598783f:0x3132abce890642b4",
+    "data_cid": "3545084760244503220",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a616598783f%3A0x3132abce890642b4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a616598783f%3A0x3132abce890642b4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9062,
+     "longitude": 18.5991
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP3iYZWFazB0RtEIGic6rMjE",
+    "provider_id": "/g/1hc5xc1qr",
+    "rating": 4.2,
+    "reviews": 1327,
+    "type": "Hypermarket",
+    "types": [
+     "Hypermarket",
+     "Bakery",
+     "Butcher shop",
+     "Clothing store",
+     "Coffee shop",
+     "Deli",
+     "Electronics store",
+     "Grocery delivery service",
+     "Grocery store",
+     "Supermarket"
+    ],
+    "address": "Sanlam Centre,Cnr Voortrekker &, De La Rey St, Roads, Cape Town, 7501",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "9 am–3 pm",
+     "monday": "9 am–7 pm",
+     "tuesday": "9 am–7 pm",
+     "wednesday": "9 am–7 pm",
+     "thursday": "9 am–7 pm",
+     "friday": "9 am–7 pm"
+    },
+    "phone": "021 929 1400",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "title": "Pick n Pay Parow Exchange",
+    "place_id": "ChIJJXDsmflbzB0Rf9lVcl_4r4c",
+    "data_id": "0x1dcc5bf999ec7025:0x87aff85f7255d97f",
+    "data_cid": "9777306404868446591",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5bf999ec7025%3A0x87aff85f7255d97f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5bf999ec7025%3A0x87aff85f7255d97f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9060469,
+     "longitude": 18.6005912
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJXDsmflbzB0Rf9lVcl_4r4c",
+    "provider_id": "/g/11j9dbfx_y",
+    "rating": 3.7,
+    "reviews": 105,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "De La Rey St, Parow Centre, Cape Town, 7501",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "8 am–3 pm",
+     "monday": "8 am–12 pm",
+     "tuesday": "8 am–12 pm",
+     "wednesday": "8 am–12 pm",
+     "thursday": "8 am–12 pm",
+     "friday": "8 am–12 pm"
+    },
+    "phone": "021 285 0266",
+    "website": "https://www.pnp.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "title": "Flamingo Supermarket",
+    "place_id": "ChIJEzNdTIhazB0RS41URswB1fA",
+    "data_id": "0x1dcc5a884c5d3313:0xf0d501cc46548d4b",
+    "data_cid": "17353778716006976843",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a884c5d3313%3A0xf0d501cc46548d4b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a884c5d3313%3A0xf0d501cc46548d4b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.910917,
+     "longitude": 18.6029707
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEzNdTIhazB0RS41URswB1fA",
+    "provider_id": "/g/1tgv9d8z",
+    "rating": 4.1,
+    "reviews": 60,
+    "unclaimed_listing": true,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket"
+    ],
+    "address": "149 Mark Street, Klipkop, Cape Town, 7501",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "8 am–5 pm",
+     "monday": "8 am–5 pm",
+     "tuesday": "8 am–5 pm",
+     "wednesday": "8 am–5 pm",
+     "thursday": "8 am–5 pm",
+     "friday": "8 am–5 pm"
+    },
+    "website": "http://mobilewindowtinting.yolasite.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "Parow Mini Supermarket",
+    "place_id": "ChIJ3e7IellazB0RAJ5YhJV1Cr4",
+    "data_id": "0x1dcc5a597ac8eedd:0xbe0a759584589e00",
+    "data_cid": "13693886902004391424",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a597ac8eedd%3A0xbe0a759584589e00&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a597ac8eedd%3A0xbe0a759584589e00&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8752254,
+     "longitude": 18.5268101
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3e7IellazB0RAJ5YhJV1Cr4",
+    "provider_id": "/g/11b808ywnt",
+    "rating": 5,
+    "reviews": 3,
+    "unclaimed_listing": true,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket"
+    ],
+    "address": "Sunshine Court, 4 Station Rd, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6 pm",
+     "sunday": "8 am–6 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "084 546 3703"
+   },
+   {
+    "position": 17,
+    "title": "McIntyre SPAR & TOPS",
+    "place_id": "ChIJK8oFBVxazB0R8IlRlZH5wJ8",
+    "data_id": "0x1dcc5a5c0505ca2b:0x9fc0f991955189f0",
+    "data_cid": "11511475051229710832",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5c0505ca2b%3A0x9fc0f991955189f0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5c0505ca2b%3A0x9fc0f991955189f0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9050331,
+     "longitude": 18.5879862
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK8oFBVxazB0R8IlRlZH5wJ8",
+    "provider_id": "/g/1tdv9zs2",
+    "rating": 4,
+    "reviews": 1945,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "1 McIntyre St, Glenlily, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 am Sun",
+    "hours": "Closed · Opens 7:30 am Sun",
+    "operating_hours": {
+     "saturday": "7:30 am–8 pm",
+     "sunday": "7:30 am–8 pm",
+     "monday": "7 am–8 pm",
+     "tuesday": "7 am–8 pm",
+     "wednesday": "7 am–8 pm",
+     "thursday": "7 am–8 pm",
+     "friday": "7 am–8 pm"
+    },
+    "phone": "021 911 0611",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "title": "The CJ SHOP",
+    "place_id": "ChIJPxf_qn1bzB0RW3kMaSNS9n4",
+    "data_id": "0x1dcc5b7daaff173f:0x7ef65223690c795b",
+    "data_cid": "9148590005089499483",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b7daaff173f%3A0x7ef65223690c795b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b7daaff173f%3A0x7ef65223690c795b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9070056,
+     "longitude": 18.5939118
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPxf_qn1bzB0RW3kMaSNS9n4",
+    "provider_id": "/g/11sqbbhbf3",
+    "rating": 4.3,
+    "reviews": 188,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "17 Jean Simonis St, Parow, Cape Town, 7501",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–3:55 pm",
+     "sunday": "9 am–1:55 pm",
+     "monday": "9 am–4:55 pm",
+     "tuesday": "9 am–4:55 pm",
+     "wednesday": "9 am–4:55 pm",
+     "thursday": "9 am–4:55 pm",
+     "friday": "9 am–4:55 pm"
+    }
+   },
+   {
+    "position": 19,
+    "title": "Parow Cash & Carry",
+    "place_id": "ChIJqXoyI1xazB0R3Akc8SZMQtM",
+    "data_id": "0x1dcc5a5c23327aa9:0xd3424c26f11c09dc",
+    "data_cid": "15222813420603312604",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5c23327aa9%3A0xd3424c26f11c09dc&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5c23327aa9%3A0xd3424c26f11c09dc&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.905196,
+     "longitude": 18.589536199999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqXoyI1xazB0R3Akc8SZMQtM",
+    "provider_id": "/g/1tg3dc7l",
+    "rating": 5,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "225 Voortrekker Rd, Glenlily, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "021 930 2570"
+   },
+   {
+    "position": 20,
+    "title": "KWIKSPAR Welgelegen",
+    "place_id": "ChIJgRcnXBVZzB0RM-0DJcajsfg",
+    "data_id": "0x1dcc59155c271781:0xf8b1a3c62503ed33",
+    "data_cid": "17920284463703780659",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc59155c271781%3A0xf8b1a3c62503ed33&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc59155c271781%3A0xf8b1a3c62503ed33&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.869639,
+     "longitude": 18.5688323
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgRcnXBVZzB0RM-0DJcajsfg",
+    "provider_id": "/g/11fnjmg1g2",
+    "rating": 4.2,
+    "reviews": 490,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Food products supplier",
+     "Fruit and vegetable store",
+     "Supermarket"
+    ],
+    "address": "Malmesbury Rd, Malmesbury Centre, Cape Town, 7499",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–8:30 pm",
+     "sunday": "7 am–8:30 pm",
+     "monday": "7 am–8:30 pm",
+     "tuesday": "7 am–8:30 pm",
+     "wednesday": "7 am–8:30 pm",
+     "thursday": "7 am–8:30 pm",
+     "friday": "7 am–8:30 pm"
+    },
+    "phone": "021 558 2075",
+    "website": "https://www.spar.co.za/Home/Store-View/KWIKSPAR-Welgelegen-Western-Cape",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,276 @@
+{
+ "fetched_at": "2026-10-17T21:44:40.883419+00:00",
+ "params": {
+  "engine": "google",
+  "q": "Parow Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\"",
+  "location": "Cape Town,Western Cape,South Africa",
+  "google_domain": "google.co.za",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3ec47dd17b1a2c9e8a332",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Ylq6OAu61RnSy2_ku0_Ev22QwDqzERRH9iznw7rtKCQ/6ad3ec47dd17b1a2c9e8a332.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Ylq6OAu61RnSy2_ku0_Ev22QwDqzERRH9iznw7rtKCQ/6ad3ec47dd17b1a2c9e8a332.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/Ylq6OAu61RnSy2_ku0_Ev22QwDqzERRH9iznw7rtKCQ/6ad3ec47dd17b1a2c9e8a332.json_with_pixel_position",
+   "created_at": "2026-10-17 21:44:39 UTC",
+   "processed_at": "2026-10-17 21:44:39 UTC",
+   "google_url": "https://www.google.co.za/search?q=Parow+Cape+Town+%22neighbourhood+watch%22+OR+%22improvement+district%22+OR+%22community+police+forum%22&oq=Parow+Cape+Town+%22neighbourhood+watch%22+OR+%22improvement+district%22+OR+%22community+police+forum%22&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&hl=en&gl=za&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/Ylq6OAu61RnSy2_ku0_Ev22QwDqzERRH9iznw7rtKCQ/6ad3ec47dd17b1a2c9e8a332.html",
+   "total_time_taken": 0.81
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Parow Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\"",
+   "location_requested": "Cape Town,Western Cape,South Africa",
+   "location_used": "Cape Town,Western Cape,South Africa",
+   "google_domain": "google.co.za",
+   "hl": "en",
+   "gl": "za",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Parow Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\"",
+   "total_results": 16300,
+   "time_taken_displayed": 0.38,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+   "title": "Pacrif Neighbourhood Watch, Parow",
+   "type": "Association / Organization",
+   "entity_type": "local_nav",
+   "kgmid": "/g/11k8f6blmk",
+   "knowledge_graph_search_link": "https://www.google.co.za/search?kgmid=/g/11k8f6blmk&hl=en-ZA&q=Pacrif+Neighbourhood+Watch%2C+Parow",
+   "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en-ZA&kgmid=%2Fg%2F11k8f6blmk&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&q=Pacrif+Neighbourhood+Watch%2C+Parow",
+   "place_id": "ChIJQawUONdbzB0RKiI-H7_q5ck",
+   "directions": "https://maps.google.co.za/maps?hl=en&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&gl=za&um=1&ie=UTF-8&fb=1&sa=X&geocode=KUGsFDjXW8wdMSoiPh-_6uXJ&daddr=44+Parow+St,+Parow,+Cape+Town,+7500",
+   "local_map": {
+    "image": "https://serpapi.com/searches/6ad3ec47dd17b1a2c9e8a332/images/tB2aAdEuIYsKIwxLLUw1-U5BvKY1OYFCrJwMVO8tyGc.webp",
+    "link": "https://www.google.co.za/maps/place/Pacrif+Neighbourhood+Watch,+Parow/data=!4m2!3m1!1s0x0:0xc9e5eabf1f3e222a?sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ_BJ6BAgkEAA&hl=en&gl=za"
+   },
+   "address": "44 Parow St, Parow, Cape Town, 7500",
+   "address_links": [
+    {
+     "text": "Address",
+     "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=pacrif+neighbourhood+watch,+parow+cape+town+address&ludocid=14548292277874074154&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ6BN6BAggEAI"
+    }
+   ],
+   "phone": "083 546 7276",
+   "phone_links": [
+    {
+     "text": "Phone",
+     "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=pacrif+neighbourhood+watch,+parow+cape+town+phone&ludocid=14548292277874074154&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ6BN6BAgjEAI"
+    }
+   ],
+   "raw_hours": "Open 24 hours",
+   "hours": {
+    "saturday": {
+     "opens": "Open 24 hours"
+    },
+    "sunday": {
+     "opens": "Open 24 hours"
+    },
+    "monday": {
+     "opens": "Open 24 hours"
+    },
+    "tuesday": {
+     "opens": "Open 24 hours"
+    },
+    "wednesday": {
+     "opens": "Open 24 hours"
+    },
+    "thursday": {
+     "opens": "Open 24 hours"
+    },
+    "friday": {
+     "opens": "Open 24 hours"
+    }
+   },
+   "unclaimed_listing": true
+  },
+  "related_questions": [
+   {
+    "question": "What are the duties of a neighbourhood watch?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "What is parow known for?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "Who keeps a watch in the neighbourhood?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "How do I register a neighborhood watch?",
+    "type": "featured_snippet"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Parow Park Neighbourhood Watch | Cape Town",
+    "link": "https://www.facebook.com/parowparkneighbourhoodwatch/",
+    "displayed_link": "1,6K+ followers",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Parow Park Neighbourhood Watch. we are a community based safety organization that not only focus on the safety of our community but that ...",
+    "snippet_highlighted_words": [
+     "Parow",
+     "Neighbourhood Watch"
+    ],
+    "source": "Facebook · Parow Park Neighbourhood Watch",
+    "read_more_link": "https://www.facebook.com/parowparkneighbourhoodwatch/#:~:text=Parow%20Park%20Neighbourhood%20Watch,and%20the%20greater%20South%20Africa."
+   },
+   {
+    "position": 2,
+    "title": "The City salutes the work of the many dedicated ...",
+    "link": "https://www.facebook.com/CityofCT/videos/parow-neighbourhood-watch/982519608892110/",
+    "displayed_link": "40+ reactions · 5 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Alderman JP Smith joined the Parow West Neighbourhood Watch on patrol last night, and was greatly impressed with their dedication and efficiency ...",
+    "duration": "1:45",
+    "source": "Facebook · City of Cape Town"
+   },
+   {
+    "position": 3,
+    "title": "Neighbourhood Watch bolsters safety with focus on house- ...",
+    "link": "https://www.capetown.gov.za/Media-and-news/Neighbourhood%20Watch%20bolsters%20safety%20with%20focus%20on%20house-breaking",
+    "displayed_link": "https://www.capetown.gov.za › Media-and-news",
+    "favicon": "https://serpapi.com/images/i/UklGRpQBAABXRUJQVlA4IIgBAADwCQCdASocABwAPtE-tFooIigoFAEAGglsAKwgm0gG2A8TPqLecB1AHoAfpn6YH7AfBv-4fpDJ4FACGbeSFMl_VUOzY-RPPJz05r_Bp-vvgJrJQ2NxXMgAAP72B8hhrOwlUdcFq4JBl2vw7r1euHEpu4ZfW-7KMMOldqkrMG6XkxkS9Ln9ARQJa4I15UEU-mR_6hpoqvU0tdLw1jOL7EFkTfLBf-JZd130md-SM_bheZTAm57U-sSV8-b1DJ0-8Hxhlg9QLzUS2G7pKeqTfe43rFVNX97MiMbA2eBbeaNLaQwxwoxuFMb53ACCPX6ItxVuxfxH9b0vj3HXzLM-HMI4Nl25WD124zlPoAjTn7h33MVwON5urdadLz95E0tsuvjBOod5fRagpHbxV9umlsERmrdQJEVTj575KFSAb4j3EYb_6ZF4fvaXmwPEaAps_8Rmpf0zdz2J72P1CzqoKHnx4o-mjtS7LbTnGyKU8KBHRbh4Md_fKJB1hHoiLl4nqdtBwUldBxfgAA.webp",
+    "date": "24 May 2021",
+    "snippet": "The Parow Valley Community Neighbourhood Watch was established in 2015 and has been working steadily to address crime prevention. During the ...",
+    "snippet_highlighted_words": [
+     "Parow",
+     "Neighbourhood Watch"
+    ],
+    "source": "City of Cape Town",
+    "read_more_link": "https://www.capetown.gov.za/Media-and-news/Neighbourhood%20Watch%20bolsters%20safety%20with%20focus%20on%20house-breaking#:~:text=The%20Parow%20Valley%20Community%20Neighbourhood,address%20crime%20prevention.%20During%20the"
+   },
+   {
+    "position": 4,
+    "title": "Neighbourhood Watch Accreditation and Support ...",
+    "link": "https://www.westerncape.gov.za/service/neighbourhood-watch-accreditation-and-support-programme-0",
+    "displayed_link": "https://www.westerncape.gov.za › service › neighbourho...",
+    "favicon": "https://serpapi.com/images/i/UklGRhwCAABXRUJQVlA4IBACAACwCgCdASogACAAPrUurVanIacnG_DgFolsAJ0y66udIvoAwqXTK95X_4VAUZBkWVgNgB1AlQSNr0Es3L0xv2vRPJb9RL2nwDSTQOblfujOsrBc4hKai8CyOjfLVlqAAP74umkmpn6CptDWT4f1tb7zvxbeDO6iqUg2UaHXXuEHf5QN-E2vI3K2jRWt-eUXsExSd9UMy6uf0ZI7pEpLE7IAHffToef7643i4O8HVXE5mhFLf_yrpfwDA2FDeym_7vvBsHGfyJAu7_1dmfpwmcu7_Qn6_LaERmpR-ujNi0t5-v0iB5jgVWjEryP-0TDJGWHp7z80vpY9zicbhOJffHXUH36OWWNL7_-8Ide37Z9JYWRNkWp69Ub2P35-lEvtg7Z9z8--Xk7vNQfbe_uT0hG3HMfoJ5nifk1tLUg2DcwOxcKBmSRB7tCgBLytJt_25GHaIO92QJVOnKisc_huQaDKIRIokYUtFu1m0DWip5KZ6n7kx_2QbRGEJka-oWwjp0xTjij6EP4nK_qBCGyrA4wqZvtGhKNL5FFN_2xoNz8MeyIl-hshJW7qm_90tK7DKafYRb02ynFbVWXXgCFxt0a8kyIATH09mfqRSoMHYfUM_muOuytPt7LIZk4aLrGtNWuKZE-TwqpZ_7aSspTXK3gdIRgHvLCssXLmeOP85tWPbXMIyrAojfxidd_R2aYHAAA.webp",
+    "snippet": "Neighbourhood Watch Accreditation and Support Programme. Service ID: 10119. Tags: Community Police Forum Community project Safety Support. Your Neighbourhood ...",
+    "snippet_highlighted_words": [
+     "Neighbourhood Watch",
+     "Community Police Forum"
+    ],
+    "source": "Western Cape Government",
+    "read_more_link": "https://www.westerncape.gov.za/service/neighbourhood-watch-accreditation-and-support-programme-0#:~:text=Neighbourhood%20Watch%20Accreditation%20and%20Support,Your%20Neighbourhood%20needs%20you"
+   },
+   {
+    "position": 5,
+    "title": "Is Parow Safe? Crime Data & Safety (2026) - StreetSignal",
+    "link": "https://streetsignal.co.za/cape-town/suburbs/parow/",
+    "displayed_link": "https://streetsignal.co.za › Cape Town › Suburbs",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAA3UlEQVR4AbzSIQyDMBCF4fOpmVd4MUXmENPzHonDB4PGYtFL8KkPdg5XVYurxXXJC-xauG5uv4Cm_aAVJf-jPwObXVFmE6CmrToB6JMMNAMtggeDhwQcBTkBDFjJC7wGAWRYsQte2RkYLKgdmhNoMd9532PQngDtH1pCRzDxtMJoOoCSf9xhWMZgJTTzcWmNwBhuTGiMQE5E92qb002piPIQWOqNj3LjxQbA4bkeDIMtpT2yTfrCFDX2lwFfiCoBnjS1AIsAkME2OL4EEP8_AW7KfwevQgbc_B6peRMAQaEgZj6bkPQAAAAASUVORK5CYII.png",
+    "snippet": "Is Parow in a City Improvement District? 1 area. Part of Parow (31.8% of its area) falls within the VRCID Special Rating Area. A Special Rating Area, also ...",
+    "snippet_highlighted_words": [
+     "Parow",
+     "Improvement District",
+     "Parow"
+    ],
+    "source": "streetsignal.co.za",
+    "read_more_link": "https://streetsignal.co.za/cape-town/suburbs/parow/#:~:text=Is%20Parow%20in%20a%20City,A%20Special%20Rating%20Area%2C%20also"
+   },
+   {
+    "position": 6,
+    "title": "Home - PAROW INDUSTRIA",
+    "link": "https://www.parowindustriacid.co.za/",
+    "displayed_link": "https://www.parowindustriacid.co.za",
+    "favicon": "https://serpapi.com/images/i/UklGRhQCAABXRUJQVlA4IAgCAADwCACdASocABwAPrUurVanIacnG_DgFolsALUXgewCMNbYC7K_QA6TOWxy17HZWoKZL46Pnsj-9kdvAorXrY9Hue4duR_Pp8keZsFgWHcHAADgNlXtY5YJlNe0jEhenzUU5SNxNlESnnXjYVb1Y2MTDjiBKYC1nemf5OdSN9I9htbcQjrl__2UfWEAf-z0tGHej6aqQ0gqjdU0Pt0nwv8XJm6yFdL8CAxXn_6V6r_-Jd3U8nLN6tRwyApa_vp76nuoVWjz7AHcw4la7tbVfm4c6F0P2EvCDNGVMxdyZZ3PnOh9oxY6o3H0fTXUyeB_TdlbxQ8jo4GLGbaJO5TOBVX3ARn82gvbmgyVZDGbqXIk4owHwUQzoxm8svI5vmlpP_2e9m-2q-P-ARXJ1iGJmRflcV43_1CfRk7JzDV__kdBRamvhmV1jnQ_8uTxvHJYX_EXASDK-1PaNfWoehCzoK9pzvqy5vy0-Xrn3kRE_YZ-fWsP2z5VJespAXw-AiWXMKwXPX8_L9_-v--aXErY2elYz2z__QarvzO_14qNTrv6fyZ_git_wVRyQgCNxTdCU8_ibBQ9jgA6-NqxV0XIFJqeO17N0BpXZZTXL6E77D-lG-Ul6wL9dDfVQRkZotkvrWKqai2aRSdFKS7rA3U6yLSCP3pZsg_4QGDF2f8koTRgx-XNoh10AAAA.webp",
+    "snippet": "Parow Industria Improvement District Association (CID) NPC is a non-profit company operating in Parow Industria and Tygerberg Business Park. The CID is also ...",
+    "snippet_highlighted_words": [
+     "Parow",
+     "Improvement District",
+     "Parow"
+    ],
+    "source": "parow industria",
+    "read_more_link": "https://www.parowindustriacid.co.za/#:~:text=Parow%20Industria%20Improvement%20District%20Association,as%20a%20Special%20Rating%20Area."
+   },
+   {
+    "position": 7,
+    "title": "Parow CPF issues warning on smash-and-grab hotspots",
+    "link": "https://northernnews.co.za/news/2026-06-02-parow-cpf-issues-warning-on-smash-and-grab-hotspots/",
+    "displayed_link": "https://northernnews.co.za › news › 2026-06-02-parow...",
+    "favicon": "https://serpapi.com/images/i/UklGRlAAAABXRUJQVlA4IEQAAABQAwCdASogAAgAPtEutFooIagoGAEAGglpAABcnXNUkEfIAAD-8DUsjcc4i5SvcdhOrzph4FM_VKqirYcVNrENngAAAA.webp",
+    "date": "02 Jun 2026",
+    "snippet": "The Parow Community Police Forum (CPF) has warned motorists to be vigilant at intersections that have been identified as emerging hotspots.",
+    "snippet_highlighted_words": [
+     "Parow Community Police Forum"
+    ],
+    "source": "northernnews.co.za",
+    "read_more_link": "https://northernnews.co.za/news/2026-06-02-parow-cpf-issues-warning-on-smash-and-grab-hotspots/#:~:text=The%20Parow%20Community%20Police%20Forum,been%20identified%20as%20emerging%20hotspots."
+   },
+   {
+    "position": 8,
+    "title": "neighbourhood watch structures exceeds 600 and 17 000 ...",
+    "link": "https://stanonprodmtpdxpzan.blob.core.windows.net/dxp/2023-11/nhw_bulletin_-march_2023.pdf",
+    "displayed_link": "https://stanonprodmtpdxpzan.blob.core.windows.net › ...",
+    "date": "01 Mar 2023",
+    "snippet": "This feature aims to address questions you may have about the running and operations of your neighbourhood watch. MARCH 2023 I 2. FAQs. Can ...",
+    "snippet_highlighted_words": [
+     "neighbourhood watch"
+    ],
+    "source": "windows.net",
+    "read_more_link": "https://stanonprodmtpdxpzan.blob.core.windows.net/dxp/2023-11/nhw_bulletin_-march_2023.pdf#:~:text=This%20feature%20aims%20to%20address,accreditation%20(new%20or%20renewal)%20online%3F"
+   },
+   {
+    "position": 9,
+    "title": "Cravenby Street Patrols: This is real community policing on the ...",
+    "link": "https://www.facebook.com/geordinhl/videos/cravenby-street-patrols-this-is-real-community-policing-on-the-ground-%EF%B8%8F/844346684847643/",
+    "displayed_link": "2,4K+ reactions · 10 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "‍♂️ Our dedicated Neighbourhood Watch groups are working with our Metro Police to make communities safer across Cape Town. Margie Morkel ...",
+    "duration": "0:35",
+    "source": "Facebook · Mayor Geordin Hill-Lewis"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Neighbourhood Watch Constitution South Africa",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=Neighbourhood+Watch+Constitution+South+Africa&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ1QJ6BAheEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Neighbourhood Watch funding",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=Neighbourhood+Watch+funding&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ1QJ6BAhkEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Neighbourhood Watch Code of Conduct",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=Neighbourhood+Watch+Code+of+Conduct&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ1QJ6BAhjEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Neighbourhood Watch application form",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=Neighbourhood+Watch+application+form&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ1QJ6BAhiEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "PWP neighbourhood watch",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=PWP+neighbourhood+watch&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ1QJ6BAhhEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "City of Cape Town Neighbourhood Watch",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=City+of+Cape+Town+Neighbourhood+Watch&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ1QJ6BAhgEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Western Cape Neighbourhood Watch",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=Western+Cape+Neighbourhood+Watch&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ1QJ6BAhfEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Ottery neighbourhood watch",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnsWQX71cSaumK5kS8Io1bhmnzUijw:1792273480000&q=Ottery+neighbourhood+watch&sa=X&ved=2ahUKEwj-h_aAg8KXAxVJD1kFHbtdHYQQ1QJ6BAhdEAE"
+   }
+  ]
+ }
+}

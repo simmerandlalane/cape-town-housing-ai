@@ -1,0 +1,828 @@
+{
+ "fetched_at": "2026-10-17T21:17:12.113398+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "park in Durbanville, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5d7ff78238bf4d54438",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/jiv_CGyDAvyl7hu476USgR0rO2IXWzin4A0LWG9wgQs/6ad3e5d7ff78238bf4d54438.json",
+   "markdown_endpoint": "https://serpapi.com/searches/jiv_CGyDAvyl7hu476USgR0rO2IXWzin4A0LWG9wgQs/6ad3e5d7ff78238bf4d54438.md",
+   "created_at": "2026-10-17 21:17:11 UTC",
+   "processed_at": "2026-10-17 21:17:11 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/park+in+Durbanville%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/jiv_CGyDAvyl7hu476USgR0rO2IXWzin4A0LWG9wgQs/6ad3e5d7ff78238bf4d54438.html",
+   "prettify_html_file": "https://serpapi.com/searches/jiv_CGyDAvyl7hu476USgR0rO2IXWzin4A0LWG9wgQs/6ad3e5d7ff78238bf4d54438.prettify",
+   "total_time_taken": 0.98
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "park in Durbanville, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "park in Durbanville, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Aurora Park",
+    "place_id": "ChIJa5HQdmVXzB0RCCj3HNsfYxI",
+    "data_id": "0x1dcc576576d0916b:0x12631fdb1cf72808",
+    "data_cid": "1324937741321316360",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc576576d0916b%3A0x12631fdb1cf72808&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc576576d0916b%3A0x12631fdb1cf72808&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8321916,
+     "longitude": 18.6284797
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa5HQdmVXzB0RCCj3HNsfYxI",
+    "provider_id": "/g/11hcfqcmng",
+    "rating": 4.5,
+    "reviews": 62,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "Aurora, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Vierlanden Dog Park",
+    "place_id": "ChIJrTDzCyNXzB0RxmjAY7k4q2A",
+    "data_id": "0x1dcc57230bf330ad:0x60ab38b963c068c6",
+    "data_cid": "6965723617552263366",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57230bf330ad%3A0x60ab38b963c068c6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57230bf330ad%3A0x60ab38b963c068c6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8092057,
+     "longitude": 18.6593965
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrTDzCyNXzB0RxmjAY7k4q2A",
+    "provider_id": "/g/11ry8qgbq3",
+    "rating": 4.6,
+    "reviews": 244,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "Vierlanden, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Boland Park",
+    "place_id": "ChIJH3qOb81XzB0R39PUHzi6m2Y",
+    "data_id": "0x1dcc57cd6f8e7a1f:0x669bba381fd4d3df",
+    "data_cid": "7393707963473777631",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57cd6f8e7a1f%3A0x669bba381fd4d3df&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57cd6f8e7a1f%3A0x669bba381fd4d3df&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8177278,
+     "longitude": 18.662091099999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH3qOb81XzB0R39PUHzi6m2Y",
+    "provider_id": "/g/11gjm713m5",
+    "rating": 4.8,
+    "reviews": 36,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "Boland Way, Vierlanden, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "Sonstraal Dam",
+    "place_id": "ChIJyQ7ixihXzB0RJ2Ug3ONLVAg",
+    "data_id": "0x1dcc5728c6e20ec9:0x8544be3dc206527",
+    "data_cid": "600188092369888551",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5728c6e20ec9%3A0x8544be3dc206527&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5728c6e20ec9%3A0x8544be3dc206527&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.847919399999995,
+     "longitude": 18.6601228
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyQ7ixihXzB0RJ2Ug3ONLVAg",
+    "provider_id": "/g/11b_2xjwc7",
+    "rating": 4.5,
+    "reviews": 1749,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "66 Vygeboom Rd, Sonstraal, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "website": "https://capechronicle.co.za/sonstraaldam/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "Durbanville Rose Garden",
+    "place_id": "ChIJKdF07TdXzB0RR9xe417Qwzg",
+    "data_id": "0x1dcc5737ed74d129:0x38c3d05ee35edc47",
+    "data_cid": "4090341992542690375",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5737ed74d129%3A0x38c3d05ee35edc47&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5737ed74d129%3A0x38c3d05ee35edc47&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8502778,
+     "longitude": 18.6433333
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKdF07TdXzB0RR9xe417Qwzg",
+    "provider_id": "/g/11bbtlgdhd",
+    "rating": 4.3,
+    "reviews": 1157,
+    "unclaimed_listing": true,
+    "type": "Tourist attraction",
+    "types": [
+     "Tourist attraction",
+     "Community garden"
+    ],
+    "address": "33 Drakenstein Rd, Durbanville Hills, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "8 am–5 pm",
+     "monday": "6 am–4 pm",
+     "tuesday": "8 am–4 pm",
+     "wednesday": "8 am–4 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–4 pm"
+    },
+    "phone": "021 444 9587",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "title": "Durbanville Nature Reserve",
+    "place_id": "ChIJc8xpnz9XzB0RL5-oAXlrKyw",
+    "data_id": "0x1dcc573f9f69cc73:0x2c2b6b7901a89f2f",
+    "data_cid": "3182755729130430255",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc573f9f69cc73%3A0x2c2b6b7901a89f2f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc573f9f69cc73%3A0x2c2b6b7901a89f2f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8409154,
+     "longitude": 18.643465799999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc8xpnz9XzB0RL5-oAXlrKyw",
+    "provider_id": "/m/0gg4c55",
+    "rating": 4.1,
+    "reviews": 288,
+    "unclaimed_listing": true,
+    "type": "Nature preserve",
+    "types": [
+     "Nature preserve",
+     "Tourist attraction"
+    ],
+    "address": "Race Course Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 12 pm Sun",
+    "hours": "Closed · Opens 12 pm Sun",
+    "operating_hours": {
+     "saturday": "7:30 am–1 pm",
+     "sunday": "12–5 pm",
+     "monday": "7:30 am–4 pm",
+     "tuesday": "7:30 am–4 pm",
+     "wednesday": "7:30 am–4 pm",
+     "thursday": "7:30 am–4 pm",
+     "friday": "7:30 am–4 pm"
+    },
+    "website": "http://www.capetown.gov.za/Family%20and%20home/see-all-city-facilities/our-recreational-facilities/Nature%20reserves/Durbanville%20Nature%20Reserve",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "Majik Forest",
+    "place_id": "ChIJr_59q1NXzB0RT7DmLNBJnNw",
+    "data_id": "0x1dcc5753ab7dfeaf:0xdc9c49d02ce6b04f",
+    "data_cid": "15896661943166349391",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5753ab7dfeaf%3A0xdc9c49d02ce6b04f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5753ab7dfeaf%3A0xdc9c49d02ce6b04f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.860220399999996,
+     "longitude": 18.6138466
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr_59q1NXzB0RT7DmLNBJnNw",
+    "provider_id": "/g/11j0w9v7bw",
+    "rating": 4.6,
+    "reviews": 1632,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park",
+     "Garden"
+    ],
+    "address": "Van Riebeeckshof Rd, Van Riebeeckshof, Cape Town, 7530",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–7 pm",
+     "sunday": "7 am–7 pm",
+     "monday": "7 am–7 pm",
+     "tuesday": "7 am–7 pm",
+     "wednesday": "7 am–7 pm",
+     "thursday": "7 am–7 pm",
+     "friday": "7 am–7 pm"
+    }
+   },
+   {
+    "position": 8,
+    "title": "Ipic Play",
+    "place_id": "ChIJVxeJ55RXzB0R7E6yEOW5x1Y",
+    "data_id": "0x1dcc5794e7891757:0x56c7b9e510b24eec",
+    "data_cid": "6253171001105993452",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5794e7891757%3A0x56c7b9e510b24eec&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5794e7891757%3A0x56c7b9e510b24eec&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8335668,
+     "longitude": 18.6309886
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVxeJ55RXzB0R7E6yEOW5x1Y",
+    "provider_id": "/g/11h5ryhv6s",
+    "rating": 4.4,
+    "reviews": 1632,
+    "type": "Children's amusement center",
+    "types": [
+     "Children's amusement center"
+    ],
+    "address": "Corner of Burton and, Aurora St, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–6 pm",
+     "sunday": "9 am–6 pm",
+     "monday": "Closed",
+     "tuesday": "10 am–6 pm",
+     "wednesday": "10 am–6 pm",
+     "thursday": "10 am–6 pm",
+     "friday": "10 am–6 pm"
+    },
+    "phone": "021 205 3844",
+    "website": "http://www.ipicplay.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "title": "Botterblom Nature Reserve",
+    "place_id": "ChIJKYH2m0NXzB0R2UYTYK3wD2w",
+    "data_id": "0x1dcc57439bf68129:0x6c0ff0ad601346d9",
+    "data_cid": "7786706908178761433",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57439bf68129%3A0x6c0ff0ad601346d9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57439bf68129%3A0x6c0ff0ad601346d9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.805506699999995,
+     "longitude": 18.6576685
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKYH2m0NXzB0R2UYTYK3wD2w",
+    "provider_id": "/g/11g1sb20c3",
+    "rating": 4.4,
+    "reviews": 105,
+    "unclaimed_listing": true,
+    "type": "Nature preserve",
+    "types": [
+     "Nature preserve",
+     "Tourist attraction"
+    ],
+    "address": "Botterblom Street, Vierlanden Heights, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 979 0060",
+    "website": "https://www.capetowngreenmap.co.za/cape-town-green-map-online-map/nature/nature-reserve/botterblom-nature-reserve"
+   },
+   {
+    "position": 10,
+    "title": "Play Park at Helderzicht Dam",
+    "place_id": "ChIJJyT-tyxXzB0R_jAzoJelxDM",
+    "data_id": "0x1dcc572cb7fe2427:0x33c4a597a03330fe",
+    "data_cid": "3730288462015967486",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc572cb7fe2427%3A0x33c4a597a03330fe&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc572cb7fe2427%3A0x33c4a597a03330fe&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8110591,
+     "longitude": 18.654651599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJyT-tyxXzB0R_jAzoJelxDM",
+    "provider_id": "/g/11hz0k5w44",
+    "rating": 3.9,
+    "reviews": 13,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "Unclear, Cape Town, 7550",
+    "country": "South Africa",
+    "phone": "083 270 4564",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "9 Fairtrees Park",
+    "place_id": "ChIJt5DBjOBWzB0RlKJ-vsUJUN0",
+    "data_id": "0x1dcc56e08cc190b7:0xdd5009c5be7ea294",
+    "data_cid": "15947257025428103828",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc56e08cc190b7%3A0xdd5009c5be7ea294&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc56e08cc190b7%3A0xdd5009c5be7ea294&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8328515,
+     "longitude": 18.668667199999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt5DBjOBWzB0RlKJ-vsUJUN0",
+    "provider_id": "/g/1tctj55r",
+    "rating": 4.8,
+    "reviews": 6,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "Eldorado Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa"
+   },
+   {
+    "position": 12,
+    "title": "Odendaal Park",
+    "place_id": "ChIJ8aCZKXtXzB0Rs8f5Jg_03hY",
+    "data_id": "0x1dcc577b2999a0f1:0x16def40f26f9c7b3",
+    "data_cid": "1648022859579770803",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc577b2999a0f1%3A0x16def40f26f9c7b3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc577b2999a0f1%3A0x16def40f26f9c7b3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8297273,
+     "longitude": 18.6263191
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8aCZKXtXzB0Rs8f5Jg_03hY",
+    "provider_id": "/g/11g6xrzgp7",
+    "rating": 3.8,
+    "reviews": 28,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "70 Odendaal Rd, Aurora, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 444 7367"
+   },
+   {
+    "position": 13,
+    "title": "Oxford Park",
+    "place_id": "ChIJH03EMgBXzB0RQ6xGG8PSc8w",
+    "data_id": "0x1dcc570032c44d1f:0xcc73d2c31b46ac43",
+    "data_cid": "14732350541477096515",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc570032c44d1f%3A0xcc73d2c31b46ac43&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc570032c44d1f%3A0xcc73d2c31b46ac43&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.829147999999996,
+     "longitude": 18.6453149
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH03EMgBXzB0RQ6xGG8PSc8w",
+    "provider_id": "/g/11vm4ssz1r",
+    "rating": 4,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "46 Oxford St, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    }
+   },
+   {
+    "position": 14,
+    "title": "Hibiscus Park",
+    "place_id": "ChIJVVVVQAVXzB0RRbirJ1zd_Aw",
+    "data_id": "0x1dcc570540555555:0xcfcdd5c27abb845",
+    "data_cid": "935866210458515525",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc570540555555%3A0xcfcdd5c27abb845&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc570540555555%3A0xcfcdd5c27abb845&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8245602,
+     "longitude": 18.65449
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVQAVXzB0RRbirJ1zd_Aw",
+    "provider_id": "/g/11txv1x469",
+    "rating": 5,
+    "reviews": 2,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "15 Hibiscus Way, Durbanville, Cape Town, 7550",
+    "country": "South Africa"
+   },
+   {
+    "position": 15,
+    "title": "Durbanville Memorial Park",
+    "place_id": "ChIJw3vei01XzB0R5pXs7TgD0CI",
+    "data_id": "0x1dcc574d8bde7bc3:0x22d00338edec95e6",
+    "data_cid": "2508508535490123238",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc574d8bde7bc3%3A0x22d00338edec95e6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc574d8bde7bc3%3A0x22d00338edec95e6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.7919999,
+     "longitude": 18.6990867
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw3vei01XzB0R5pXs7TgD0CI",
+    "provider_id": "/g/1tgldqb3",
+    "rating": 4.2,
+    "reviews": 59,
+    "type": "Cemetery",
+    "types": [
+     "Cemetery"
+    ],
+    "type_id": "cemetery",
+    "type_ids": [
+     "cemetery"
+    ],
+    "address": "Darwin St, Fisantekraal, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–6 pm",
+     "sunday": "7 am–6 pm",
+     "monday": "7 am–6 pm",
+     "tuesday": "7 am–6 pm",
+     "wednesday": "7 am–6 pm",
+     "thursday": "7 am–6 pm",
+     "friday": "7 am–8 pm"
+    },
+    "phone": "021 975 5199",
+    "website": "https://memorialparksbycalgro.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ],
+    "user_review": "\"The surroundings are so beautiful, safe and serene.\""
+   },
+   {
+    "position": 16,
+    "title": "Clara Anna Fontein Game Reserve",
+    "place_id": "ChIJUXoOJsFXzB0RjcDg3seLZO8",
+    "data_id": "0x1dcc57c1260e7a51:0xef648bc7dee0c08d",
+    "data_cid": "17250066163289866381",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57c1260e7a51%3A0xef648bc7dee0c08d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57c1260e7a51%3A0xef648bc7dee0c08d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.828249299999996,
+     "longitude": 18.6284511
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUXoOJsFXzB0RjcDg3seLZO8",
+    "provider_id": "/g/11kj0vgg4t",
+    "rating": 4.5,
+    "reviews": 40,
+    "type": "Wildlife and safari park",
+    "types": [
+     "Wildlife and safari park"
+    ],
+    "address": "Odendaal Road, Ferguson St, Aurora, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 1 pm Sun",
+    "hours": "Closed · Opens 1 pm Sun",
+    "operating_hours": {
+     "saturday": "9 am–5 pm",
+     "sunday": "1–5 pm",
+     "monday": "9 am–5 pm",
+     "tuesday": "9 am–5 pm",
+     "wednesday": "9 am–5 pm",
+     "thursday": "9 am–5 pm",
+     "friday": "9 am–5 pm"
+    },
+    "phone": "072 686 3470",
+    "website": "https://claraannafonteingamereserve.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "title": "Arderne Gardens",
+    "place_id": "ChIJl68pHNtCzB0RFkwA0Kg6hMY",
+    "data_id": "0x1dcc42db1c29af97:0xc6843aa8d0004c16",
+    "data_cid": "14304622813154135062",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc42db1c29af97%3A0xc6843aa8d0004c16&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc42db1c29af97%3A0xc6843aa8d0004c16&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9872914,
+     "longitude": 18.4648833
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl68pHNtCzB0RFkwA0Kg6hMY",
+    "provider_id": "/m/0131v_vb",
+    "rating": 4.6,
+    "reviews": 3177,
+    "type": "Park",
+    "types": [
+     "Park",
+     "Arboretum",
+     "Garden",
+     "Botanical garden",
+     "Tourist attraction"
+    ],
+    "address": "222 Main Rd, Claremont, Cape Town, 7708",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6 pm",
+     "sunday": "8 am–6 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 444 1697",
+    "website": "http://www.ardernegardens.org.za/",
+    "description": "Arboretum known for exotic trees. Tranquil arboretum with a noted collection of old, exotic trees, plus shady paths & picnic areas.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "title": "Kwagga Park",
+    "place_id": "ChIJN_GnPipXzB0RlWJOg_0UjKo",
+    "data_id": "0x1dcc572a3ea7f137:0xaa8c14fd834e6295",
+    "data_cid": "12289220562249474709",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc572a3ea7f137%3A0xaa8c14fd834e6295&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc572a3ea7f137%3A0xaa8c14fd834e6295&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8234458,
+     "longitude": 18.6762676
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN_GnPipXzB0RlWJOg_0UjKo",
+    "provider_id": "/g/11p_8tw6p1",
+    "rating": 4,
+    "reviews": 2,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "21 Kwagga St, Goedemoed, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    }
+   },
+   {
+    "position": 19,
+    "title": "Durbanville Skate Park",
+    "place_id": "ChIJaec5gBlXzB0RdOWVOqlqdDw",
+    "data_id": "0x1dcc57198039e769:0x3c746aa93a95e574",
+    "data_cid": "4356224014639031668",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57198039e769%3A0x3c746aa93a95e574&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57198039e769%3A0x3c746aa93a95e574&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8310561,
+     "longitude": 18.6560444
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaec5gBlXzB0RdOWVOqlqdDw",
+    "provider_id": "/g/11c2jx8qlr",
+    "rating": 2.4,
+    "reviews": 56,
+    "unclaimed_listing": true,
+    "type": "Skatepark",
+    "types": [
+     "Skatepark"
+    ],
+    "address": "Durbanville, Cape Town, 7551",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    }
+   },
+   {
+    "position": 20,
+    "title": "Tygerberg Nature Reserve",
+    "place_id": "ChIJt1J-Xx9azB0R6Q-Mc7GqAv8",
+    "data_id": "0x1dcc5a1f5f7e52b7:0xff02aab1738c0fe9",
+    "data_cid": "18375437108749537257",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a1f5f7e52b7%3A0xff02aab1738c0fe9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a1f5f7e52b7%3A0xff02aab1738c0fe9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8778329,
+     "longitude": 18.5998181
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt1J-Xx9azB0R6Q-Mc7GqAv8",
+    "provider_id": "/m/0gg7rww",
+    "rating": 4.5,
+    "reviews": 2672,
+    "unclaimed_listing": true,
+    "type": "Nature preserve",
+    "types": [
+     "Nature preserve",
+     "Tourist attraction"
+    ],
+    "address": "27 Totius St, Welgemoed, Cape Town, 7530",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 am Sun",
+    "hours": "Closed · Opens 7:30 am Sun",
+    "operating_hours": {
+     "saturday": "7:30 am–7 pm",
+     "sunday": "7:30 am–7 pm",
+     "monday": "7:30 am–6 pm",
+     "tuesday": "7:30 am–6 pm",
+     "wednesday": "7:30 am–6 pm",
+     "thursday": "7:30 am–6 pm",
+     "friday": "7:30 am–6 pm"
+    },
+    "phone": "021 444 8971",
+    "website": "https://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Nature%20reserves/Tygerberg%20Nature%20Reserve",
+    "description": "Birdlife, tortoises & Cape Town views. Hilly haven for birds & tortoises, known for nature walks, trail running & views of Cape Town.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

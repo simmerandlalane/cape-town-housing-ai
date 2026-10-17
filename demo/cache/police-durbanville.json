@@ -1,0 +1,92 @@
+{
+ "fetched_at": "2026-10-17T21:47:40.632331+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "police station in Durbanville, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3ecfbfdb977bfd485d8be",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/9gsyd9M9dqCNUwuKCONW_Jlji0YtidTUonzzEyEeYnA/6ad3ecfbfdb977bfd485d8be.json",
+   "markdown_endpoint": "https://serpapi.com/searches/9gsyd9M9dqCNUwuKCONW_Jlji0YtidTUonzzEyEeYnA/6ad3ecfbfdb977bfd485d8be.md",
+   "created_at": "2026-10-17 21:47:39 UTC",
+   "processed_at": "2026-10-17 21:47:39 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/police+station+in+Durbanville%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/9gsyd9M9dqCNUwuKCONW_Jlji0YtidTUonzzEyEeYnA/6ad3ecfbfdb977bfd485d8be.html",
+   "prettify_html_file": "https://serpapi.com/searches/9gsyd9M9dqCNUwuKCONW_Jlji0YtidTUonzzEyEeYnA/6ad3ecfbfdb977bfd485d8be.prettify",
+   "total_time_taken": 0.96
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "police station in Durbanville, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+   "query_displayed": "police station in Durbanville, Cape Town"
+  },
+  "place_results": {
+   "title": "SAPS Durbanville Police Station",
+   "place_id": "ChIJoRZ75RZXzB0RsP1S3y4Vub4",
+   "data_id": "0x1dcc5716e57b16a1:0xbeb9152edf52fdb0",
+   "data_cid": "13743039028957216176",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5716e57b16a1%3A0xbeb9152edf52fdb0&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5716e57b16a1%3A0xbeb9152edf52fdb0&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": -33.8336937,
+    "longitude": 18.6490564
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoRZ75RZXzB0RsP1S3y4Vub4",
+   "provider_id": "/g/1tqhmfgz",
+   "unclaimed_listing": true,
+   "type": [
+    "State police",
+    "Police department"
+   ],
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible entrance"
+     ]
+    }
+   ],
+   "address": "2 Church St, Durbanville, Cape Town, 7550",
+   "country": "South Africa",
+   "website": "https://www.saps.gov.za/contacts/stationdetails.php?sid=112",
+   "phone": "021 970 3800",
+   "open_state": "Open 24 hours",
+   "plus_code": "5J8X+GJ Durbanville, Cape Town",
+   "hours": [
+    {
+     "saturday": "Open 24 hours"
+    },
+    {
+     "sunday": "Open 24 hours"
+    },
+    {
+     "monday": "Open 24 hours"
+    },
+    {
+     "tuesday": "Open 24 hours"
+    },
+    {
+     "wednesday": "Open 24 hours"
+    },
+    {
+     "thursday": "Open 24 hours"
+    },
+    {
+     "friday": "Open 24 hours"
+    }
+   ]
+  }
+ }
+}

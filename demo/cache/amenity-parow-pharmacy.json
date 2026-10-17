@@ -1,0 +1,833 @@
+{
+ "fetched_at": "2026-10-17T21:01:34.646843+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "pharmacy in Parow, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e22de3567a7de14867df",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/5QLOt8Z_KFrO0NTh6Ny8E0yxMm-OZmoPPiHQC3DiH4I/6ad3e22de3567a7de14867df.json",
+   "markdown_endpoint": "https://serpapi.com/searches/5QLOt8Z_KFrO0NTh6Ny8E0yxMm-OZmoPPiHQC3DiH4I/6ad3e22de3567a7de14867df.md",
+   "created_at": "2026-10-17 21:01:33 UTC",
+   "processed_at": "2026-10-17 21:01:33 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/pharmacy+in+Parow%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/5QLOt8Z_KFrO0NTh6Ny8E0yxMm-OZmoPPiHQC3DiH4I/6ad3e22de3567a7de14867df.html",
+   "prettify_html_file": "https://serpapi.com/searches/5QLOt8Z_KFrO0NTh6Ny8E0yxMm-OZmoPPiHQC3DiH4I/6ad3e22de3567a7de14867df.prettify",
+   "total_time_taken": 0.83
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "pharmacy in Parow, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "pharmacy in Parow, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Parow Family Pharmacy",
+    "place_id": "ChIJpW_eyzpazB0RFDh62QcLoxQ",
+    "data_id": "0x1dcc5a3acbde6fa5:0x14a30b07d97a3814",
+    "data_cid": "1487044430303737876",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a3acbde6fa5%3A0x14a30b07d97a3814&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a3acbde6fa5%3A0x14a30b07d97a3814&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9081407,
+     "longitude": 18.5775398
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpW_eyzpazB0RFDh62QcLoxQ",
+    "provider_id": "/g/1vf_2zww",
+    "rating": 4.5,
+    "reviews": 395,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "C/o Jan van Riebeeck and Voortrekker Road, Parow, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–10 pm",
+     "sunday": "8 am–10 pm",
+     "monday": "8 am–10 pm",
+     "tuesday": "8 am–10 pm",
+     "wednesday": "8 am–10 pm",
+     "thursday": "8 am–10 pm",
+     "friday": "7 am–10 pm"
+    },
+    "phone": "021 939 9000",
+    "website": "http://www.parowpharmacy.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Clicks Pharmacy Sanlam (Parow)",
+    "place_id": "ChIJfXrdwmNazB0RwnoI2ED_OCI",
+    "data_id": "0x1dcc5a63c2dd7a7d:0x2238ff40d8087ac2",
+    "data_cid": "2466001449952770754",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a63c2dd7a7d%3A0x2238ff40d8087ac2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a63c2dd7a7d%3A0x2238ff40d8087ac2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9060954,
+     "longitude": 18.5990049
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfXrdwmNazB0RwnoI2ED_OCI",
+    "provider_id": "/g/1td6jr5w",
+    "rating": 3,
+    "reviews": 57,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Health and beauty shop",
+     "Medical clinic",
+     "Vitamin & supplements store"
+    ],
+    "address": "Voortrekker Rd Parow Centre Parow, Parow East, Cape Town, 7501",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "9 am–6 pm",
+     "tuesday": "9 am–6 pm",
+     "wednesday": "9 am–6 pm",
+     "thursday": "9 am–6 pm",
+     "friday": "9 am–7 pm"
+    },
+    "phone": "021 930 6400",
+    "website": "https://clicks.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Parow Community Health Centre Pharmacy",
+    "place_id": "ChIJf0cUlFtazB0RpEiyogG9Y8I",
+    "data_id": "0x1dcc5a5b9414477f:0xc263bd01a2b248a4",
+    "data_cid": "14007247080774584484",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5b9414477f%3A0xc263bd01a2b248a4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5b9414477f%3A0xc263bd01a2b248a4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9043334,
+     "longitude": 18.5868231
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf0cUlFtazB0RpEiyogG9Y8I",
+    "provider_id": "/g/11b5z8533w",
+    "rating": 3,
+    "reviews": 43,
+    "unclaimed_listing": true,
+    "type": "Medical clinic",
+    "types": [
+     "Medical clinic"
+    ],
+    "address": "22 Smith St, Glenlily, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Mon",
+    "hours": "Closed · Opens 7 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "7 am–4 pm",
+     "tuesday": "7 am–4 pm",
+     "wednesday": "7 am–4 pm",
+     "thursday": "7 am–4 pm",
+     "friday": "7 am–4 pm"
+    },
+    "phone": "021 444 0928",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "Valley Pharmacy - Parow Valley",
+    "place_id": "ChIJK40aOYpazB0R4U41ab8Et9U",
+    "data_id": "0x1dcc5a8a391a8d2b:0xd5b704bf69354ee1",
+    "data_cid": "15399782670967066337",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a8a391a8d2b%3A0xd5b704bf69354ee1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a8a391a8d2b%3A0xd5b704bf69354ee1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9119731,
+     "longitude": 18.5973009
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK40aOYpazB0R4U41ab8Et9U",
+    "provider_id": "/g/11b5zdnc8f",
+    "rating": 4.2,
+    "reviews": 42,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "110 Market Street, Parow Valley, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8:30 am Mon",
+    "hours": "Closed · Opens 8:30 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8:30 am–2 pm",
+     "tuesday": "8:30 am–1 pm",
+     "wednesday": "8:30 am–2 pm",
+     "thursday": "8:30 am–1 pm",
+     "friday": "8:30 am–12 pm"
+    },
+    "phone": "021 933 0533",
+    "website": "https://www.medpages.info/sf/index.php?page=organisation&orgcode=152168",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "Faull's Pharmacy",
+    "place_id": "ChIJh7XnNVpazB0RuIdeEajM5_U",
+    "data_id": "0x1dcc5a5a35e7b587:0xf5e7cca8115e87b8",
+    "data_cid": "17719356281130485688",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5a35e7b587%3A0xf5e7cca8115e87b8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5a35e7b587%3A0xf5e7cca8115e87b8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.905868,
+     "longitude": 18.5852158
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh7XnNVpazB0RuIdeEajM5_U",
+    "provider_id": "/g/1tg96j9q",
+    "rating": 3.4,
+    "reviews": 27,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "169 Voortrekker Rd, Glenlily, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8:30 am Mon",
+    "hours": "Closed · Opens 8:30 am Mon",
+    "operating_hours": {
+     "saturday": "8:30 am–1 pm",
+     "sunday": "Closed",
+     "monday": "8:30 am–4:50 pm",
+     "tuesday": "8:30 am–4:50 pm",
+     "wednesday": "8:30 am–4:50 pm",
+     "thursday": "8:30 am–4:50 pm",
+     "friday": "8:30 am–4:50 pm"
+    },
+    "phone": "021 939 2120",
+    "website": "https://www.africanadvice.com/1107240/Pharmacies/Western_Cape/Faull's_Pharmacy/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "title": "Dis-Chem Parow Centre Pharmacy",
+    "place_id": "ChIJIaN3xzBbzB0Rv1N6vWSxKWk",
+    "data_id": "0x1dcc5b30c777a321:0x6929b164bd7a53bf",
+    "data_cid": "7577782894261326783",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b30c777a321%3A0x6929b164bd7a53bf&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b30c777a321%3A0x6929b164bd7a53bf&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.905035399999996,
+     "longitude": 18.5985641
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIaN3xzBbzB0Rv1N6vWSxKWk",
+    "provider_id": "/g/11hjkl7_06",
+    "rating": 3.7,
+    "reviews": 83,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Diving center",
+     "Health and beauty shop",
+     "Drug store",
+     "Physical therapist"
+    ],
+    "address": "Centre, De La Rey Street, Voortrekker Rd, Parow, Cape Town, 7501",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–5 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "9 am–6 pm",
+     "tuesday": "9 am–6 pm",
+     "wednesday": "9 am–6 pm",
+     "thursday": "9 am–6 pm",
+     "friday": "9 am–6 pm"
+    },
+    "phone": "021 541 0160",
+    "website": "https://www.dischem.co.za/find-a-store",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "M-KEM 24 HOUR PHARMACY",
+    "place_id": "ChIJyd84Y4VQzB0Rxh1ip6-IzME",
+    "data_id": "0x1dcc50856338dfc9:0xc1cc88afa7621dc6",
+    "data_cid": "13964686832577945030",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc50856338dfc9%3A0xc1cc88afa7621dc6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc50856338dfc9%3A0xc1cc88afa7621dc6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.888366,
+     "longitude": 18.634993599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyd84Y4VQzB0Rxh1ip6-IzME",
+    "provider_id": "/g/1tht9jdq",
+    "rating": 4.5,
+    "reviews": 1934,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy",
+     "Travel clinic"
+    ],
+    "address": "M-KEM 24 Hour Pharmacy, 224 Durban Rd, Bellville, Cape Town, 7530",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 948 5706",
+    "website": "http://www.mkem.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "title": "Nature’s Farmacy™ - Parow",
+    "place_id": "ChIJSV_8JQBbzB0RTx3eTOSD7zc",
+    "data_id": "0x1dcc5b0025fc5f49:0x37ef83e44cde1d4f",
+    "data_cid": "4030585208085290319",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b0025fc5f49%3A0x37ef83e44cde1d4f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b0025fc5f49%3A0x37ef83e44cde1d4f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9015584,
+     "longitude": 18.587578
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSV_8JQBbzB0RTx3eTOSD7zc",
+    "provider_id": "/g/11wp12gf2b",
+    "rating": 4.7,
+    "reviews": 24,
+    "type": "Social club",
+    "types": [
+     "Social club"
+    ],
+    "address": "54 McIntyre St, Glenlily, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 10 am Sun",
+    "hours": "Closed · Opens 10 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–10 pm",
+     "sunday": "10 am–8 pm",
+     "monday": "9 am–9 pm",
+     "tuesday": "9 am–9 pm",
+     "wednesday": "9 am–9 pm",
+     "thursday": "9 am–9 pm",
+     "friday": "9 am–10 pm"
+    },
+    "phone": "063 507 5860",
+    "website": "https://naturesfarmacy.co.za/"
+   },
+   {
+    "position": 9,
+    "title": "Atana Pharmacy",
+    "place_id": "ChIJEdm6jE9bzB0R8WQf0gaYJUQ",
+    "data_id": "0x1dcc5b4f8cbad911:0x44259806d21f64f1",
+    "data_cid": "4910498123779892465",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b4f8cbad911%3A0x44259806d21f64f1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b4f8cbad911%3A0x44259806d21f64f1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9130269,
+     "longitude": 18.5870774
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEdm6jE9bzB0R8WQf0gaYJUQ",
+    "provider_id": "/g/11y1zy25tp",
+    "rating": 4.9,
+    "reviews": 19,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "1 Market St, Parow Valley, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6 pm",
+     "sunday": "8 am–6 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "title": "Broadway Apteek",
+    "place_id": "ChIJ7dzUjWRazB0RgQXRJuJxXjg",
+    "data_id": "0x1dcc5a648dd4dced:0x385e71e226d10581",
+    "data_cid": "4061809130062546305",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a648dd4dced%3A0x385e71e226d10581&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a648dd4dced%3A0x385e71e226d10581&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9028079,
+     "longitude": 18.6033056
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7dzUjWRazB0RgQXRJuJxXjg",
+    "provider_id": "/g/1trzmbbh",
+    "rating": 5,
+    "reviews": 2,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Voortrekker Rd, Oostersee, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "021 948 1611",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "Pharmaclin 5th Avenue Pharmacy",
+    "place_id": "ChIJXR-ATgBbzB0R9hfS2YNI9Cg",
+    "data_id": "0x1dcc5b004e801f5d:0x28f44883d9d217f6",
+    "data_cid": "2951063386966857718",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b004e801f5d%3A0x28f44883d9d217f6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b004e801f5d%3A0x28f44883d9d217f6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.896698,
+     "longitude": 18.577436
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXR-ATgBbzB0R9hfS2YNI9Cg",
+    "provider_id": "/g/11ynz_whtt",
+    "rating": 4.9,
+    "reviews": 17,
+    "unclaimed_listing": true,
+    "type": "Medical Center",
+    "types": [
+     "Medical Center"
+    ],
+    "address": "Fifth Ave, Churchill Estate, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–6 pm",
+     "sunday": "9 am–6 pm",
+     "monday": "9 am–8 pm",
+     "tuesday": "9 am–8 pm",
+     "wednesday": "9 am–8 pm",
+     "thursday": "9 am–8 pm",
+     "friday": "9 am–8 pm"
+    },
+    "phone": "079 974 0275",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "title": "Pofadder Pharmacy",
+    "place_id": "ChIJY3bCJgBbzB0RjdtEPPnhnsQ",
+    "data_id": "0x1dcc5b0026c27663:0xc49ee1f93c44db8d",
+    "data_cid": "14168009938328411021",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b0026c27663%3A0xc49ee1f93c44db8d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b0026c27663%3A0xc49ee1f93c44db8d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9061245,
+     "longitude": 18.5839386
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY3bCJgBbzB0RjdtEPPnhnsQ",
+    "provider_id": "/g/11z1t8fd2c",
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "153 Voortrekker Rd, Glenlily, Pof, 7500",
+    "country": "South Africa",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Cavalier Pharmacy",
+    "place_id": "ChIJywLBia9azB0Rpxf0bXm4T_c",
+    "data_id": "0x1dcc5aaf89c102cb:0xf74fb8796df417a7",
+    "data_cid": "17820665082203608999",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5aaf89c102cb%3A0xf74fb8796df417a7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5aaf89c102cb%3A0xf74fb8796df417a7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9407999,
+     "longitude": 18.60765
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJywLBia9azB0Rpxf0bXm4T_c",
+    "provider_id": "/g/1thv27c4",
+    "rating": 5,
+    "reviews": 3,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Modderdam Rd, Parow Industrial, Cape Town, 7493",
+    "country": "South Africa",
+    "phone": "021 935 0891",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "title": "Faull’s Pharmacy & Laundry",
+    "place_id": "ChIJz7s6CABbzB0R_xTHwLBTWq8",
+    "data_id": "0x1dcc5b00083abbcf:0xaf5a53b0c0c714ff",
+    "data_cid": "12635503723154969855",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b00083abbcf%3A0xaf5a53b0c0c714ff&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b00083abbcf%3A0xaf5a53b0c0c714ff&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.905938299999995,
+     "longitude": 18.585256599999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz7s6CABbzB0R_xTHwLBTWq8",
+    "provider_id": "/g/11zfrlnr0s",
+    "rating": 5,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Laundry service",
+    "types": [
+     "Laundry service"
+    ],
+    "address": "169 Voortrekker Rd, Glenlily, Cape Town, 7500",
+    "country": "South Africa"
+   },
+   {
+    "position": 15,
+    "title": "Welgelegen Pharmacy",
+    "place_id": "ChIJ2T9blX9ZzB0Rts0t4ECPm58",
+    "data_id": "0x1dcc597f955b3fd9:0x9f9b8f40e02dcdb6",
+    "data_cid": "11500943582222470582",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc597f955b3fd9%3A0x9f9b8f40e02dcdb6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc597f955b3fd9%3A0x9f9b8f40e02dcdb6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8698366,
+     "longitude": 18.568517399999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2T9blX9ZzB0Rts0t4ECPm58",
+    "provider_id": "/g/1tfdvmkj",
+    "rating": 4.7,
+    "reviews": 46,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Malmesbury Rd, Welgelegen 2, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8:30 am Mon",
+    "hours": "Closed · Opens 8:30 am Mon",
+    "operating_hours": {
+     "saturday": "8:30 am–1 pm",
+     "sunday": "Closed",
+     "monday": "8:30 am–6:30 pm",
+     "tuesday": "8:30 am–6:30 pm",
+     "wednesday": "8:30 am–6:30 pm",
+     "thursday": "8:30 am–6:30 pm",
+     "friday": "8:30 am–6:30 pm"
+    },
+    "phone": "021 558 0056",
+    "website": "https://www.medpages.co.za/sf/index.php?page=organisation&orgcode=88172",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "Middestad Apteek B K",
+    "place_id": "ChIJQSXxAFxazB0RITkgVh0QEG4",
+    "data_id": "0x1dcc5a5c00f12541:0x6e10101d56203921",
+    "data_cid": "7930856661984491809",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5c00f12541%3A0x6e10101d56203921&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5c00f12541%3A0x6e10101d56203921&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.905720699999996,
+     "longitude": 18.5878525
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQSXxAFxazB0RITkgVh0QEG4",
+    "provider_id": "/g/1tjx0zq_",
+    "rating": 5,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "212 Voortrekker Rd, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "021 930 2841",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "title": "A White Chemist",
+    "place_id": "ChIJoXNW2GdazB0RPw_xPfouj2s",
+    "data_id": "0x1dcc5a67d85673a1:0x6b8f2efa3df10f3f",
+    "data_cid": "7750465136043822911",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a67d85673a1%3A0x6b8f2efa3df10f3f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a67d85673a1%3A0x6b8f2efa3df10f3f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.89965,
+     "longitude": 18.5958599
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoXNW2GdazB0RPw_xPfouj2s",
+    "provider_id": "/g/1tg_6wh2",
+    "rating": 4.5,
+    "reviews": 4,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "61 Plein Rd, Fairfield Estate, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "021 465 2743",
+    "website": "http://www.whitechem.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "title": "Panorama Apteek & Medisyne Depot",
+    "place_id": "ChIJ4UWq0zNazB0Rp9sm4F4S0II",
+    "data_id": "0x1dcc5a33d3aa45e1:0x82d0125ee026dba7",
+    "data_cid": "9426054218783316903",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a33d3aa45e1%3A0x82d0125ee026dba7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a33d3aa45e1%3A0x82d0125ee026dba7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.883486399999995,
+     "longitude": 18.5820115
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4UWq0zNazB0Rp9sm4F4S0II",
+    "provider_id": "/g/11b5ys1h_z",
+    "rating": 4.1,
+    "reviews": 80,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Uys Krige Dr, Panorama, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–2 pm",
+     "sunday": "9 am–1 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 930 2916",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "title": "West Care Pharmacy",
+    "place_id": "ChIJJyzF8OJazB0RIZheFFd0Ut4",
+    "data_id": "0x1dcc5ae2f0c52c27:0xde527457145e9821",
+    "data_cid": "16019994741862996001",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5ae2f0c52c27%3A0xde527457145e9821&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5ae2f0c52c27%3A0xde527457145e9821&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9291741,
+     "longitude": 18.575310299999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJyzF8OJazB0RIZheFFd0Ut4",
+    "provider_id": "/g/1v2f2s8k",
+    "rating": 4.1,
+    "reviews": 107,
+    "unclaimed_listing": true,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "306 Halt Rd, Norwood, Cape Town, 7490",
+    "country": "South Africa",
+    "open_state": "Closes soon · 12 am · Opens 8 am Sun",
+    "hours": "Closes soon · 12 am · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "8–10 am",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 933 1778",
+    "website": "https://www.africanadvice.com/1245691/Pharmacies/Cape_Town/West_Care_Pharmacy/"
+   },
+   {
+    "position": 20,
+    "title": "Craven Park Pharmacy Alphapharm",
+    "place_id": "ChIJhzZrUPlazB0RUAdxDiY0Ouo",
+    "data_id": "0x1dcc5af9506b3687:0xea3a34260e710750",
+    "data_cid": "16877859891580045136",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5af9506b3687%3A0xea3a34260e710750&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5af9506b3687%3A0xea3a34260e710750&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9278446,
+     "longitude": 18.589489099999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhzZrUPlazB0RUAdxDiY0Ouo",
+    "provider_id": "/g/1tkrc958",
+    "rating": 4.5,
+    "reviews": 35,
+    "type": "Pharmacy",
+    "types": [
+     "Pharmacy"
+    ],
+    "address": "Cravenby Street, Connaught Rd, Cape Town, 7490",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–7 pm",
+     "sunday": "9 am–4 pm",
+     "monday": "9 am–8 pm",
+     "tuesday": "9 am–8 pm",
+     "wednesday": "9 am–8 pm",
+     "thursday": "9 am–8 pm",
+     "friday": "9 am–8 pm"
+    },
+    "phone": "021 565 0445",
+    "website": "https://www.africanadvice.com/1129213/Pharmacies/Cape_Town/Craven_Park_Pharmacy/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "fetched_at": "2026-10-17T20:27:55.070409+00:00",
+ "params": {
+  "engine": "google_maps_directions",
+  "start_addr": "Parow, Cape Town",
+  "end_addr": "Bellville, Cape Town",
+  "travel_mode": "0",
+  "time": "arrive_by:1792483200",
+  "distance_unit": "0",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3da493023945bfd033da2",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/JSjdvgpFZnb1qgTH4EIeBVWOZ3g0fdJeBVJfeHxXaRg/6ad3da493023945bfd033da2.json",
+   "markdown_endpoint": "https://serpapi.com/searches/JSjdvgpFZnb1qgTH4EIeBVWOZ3g0fdJeBVJfeHxXaRg/6ad3da493023945bfd033da2.md",
+   "created_at": "2026-10-17 20:27:53 UTC",
+   "processed_at": "2026-10-17 20:27:53 UTC",
+   "google_maps_directions_url": "https://www.google.com/maps/dir/Parow%2C+Cape+Town/Bellville%2C+Cape+Town/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x1dcc5a5cb46e5bd5:0xb29f46122cdcbd13!2m2!1d18.5808115!2d-33.9067916!1m5!1m1!1s0x1dcc5a7c88f4a7c5:0xddfdc69775a78922!2m2!1d18.629438399999998!2d-33.8942695!2m3!6e1!7e2!8j1792483200!3e0?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/JSjdvgpFZnb1qgTH4EIeBVWOZ3g0fdJeBVJfeHxXaRg/6ad3da493023945bfd033da2.html",
+   "prettify_html_file": "https://serpapi.com/searches/JSjdvgpFZnb1qgTH4EIeBVWOZ3g0fdJeBVJfeHxXaRg/6ad3da493023945bfd033da2.prettify",
+   "total_time_taken": 1.25
+  },
+  "search_parameters": {
+   "engine": "google_maps_directions",
+   "hl": "en",
+   "gl": "za",
+   "start_addr": "Parow, Cape Town",
+   "end_addr": "Bellville, Cape Town",
+   "travel_mode": "0",
+   "distance_unit": "0",
+   "time": "arrive_by:1792483200"
+  },
+  "places_info": [
+   {
+    "address": "Parow, Cape Town",
+    "data_id": "0x1dcc5a5cb46e5bd5:0xb29f46122cdcbd13",
+    "gps_coordinates": {
+     "latitude": -33.9067916,
+     "longitude": 18.5808115
+    }
+   },
+   {
+    "address": "Bellville, Cape Town",
+    "data_id": "0x1dcc5a7c88f4a7c5:0xddfdc69775a78922",
+    "gps_coordinates": {
+     "latitude": -33.8942695,
+     "longitude": 18.629438399999998
+    }
+   }
+  ],
+  "directions": [
+   {
+    "travel_mode": "Driving",
+    "via": "Voortrekker Rd/R102",
+    "distance": 5129,
+    "duration": 720,
+    "leave_around": 1792474560,
+    "typical_duration_range": "7–24 min",
+    "formatted_distance": "5.1 km",
+    "formatted_duration": "12 min",
+    "formatted_leave_around": "7:36 AM",
+    "extensions": [
+     "Fastest route, despite the usual traffic"
+    ],
+    "icon": "https://serpapi.com/assets/google_maps_directions/driving.svg",
+    "trips": [
+     {
+      "travel_mode": "Driving",
+      "distance": 5129,
+      "duration": 660,
+      "formatted_distance": "5.1 km",
+      "formatted_duration": "11 min",
+      "details": [
+       {
+        "title": "Head toward  Tygervallei St",
+        "action": "straight",
+        "distance": 4349,
+        "duration": 564,
+        "formatted_distance": "4.3 km",
+        "formatted_duration": "9 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChIP1uKTUxj5lQN2qOqJbg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.18716&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.906867889909066,
+         "longitude": 18.580660467643998
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd / R302",
+        "action": "turn-left",
+        "distance": 780,
+        "duration": 96,
+        "formatted_distance": "800 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_zDJLUVDzFdF88_P1n2_dg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=86.17877&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90106405243196,
+         "longitude": 18.627013156297483
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Driving",
+    "via": "Frans Conradie Dr/M25",
+    "distance": 6148,
+    "duration": 840,
+    "leave_around": 1792474440,
+    "typical_duration_range": "9–26 min",
+    "formatted_distance": "6.1 km",
+    "formatted_duration": "14 min",
+    "formatted_leave_around": "7:34 AM",
+    "extensions": [
+     "Some traffic, as usual"
+    ],
+    "icon": "https://serpapi.com/assets/google_maps_directions/driving.svg",
+    "trips": [
+     {
+      "travel_mode": "Driving",
+      "distance": 6148,
+      "duration": 723,
+      "formatted_distance": "6.1 km",
+      "formatted_duration": "12 min",
+      "details": [
+       {
+        "title": "Head toward  Tygervallei St",
+        "action": "straight",
+        "distance": 1461,
+        "duration": 207,
+        "formatted_distance": "1.5 km",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChIP1uKTUxj5lQN2qOqJbg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.18716&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.906867889909066,
+         "longitude": 18.580660467643998
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Tierberg Rd / M29",
+        "action": "turn-left",
+        "distance": 1033,
+        "duration": 97,
+        "formatted_distance": "1.0 km",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L81O-RAft5NEq1UfBZx9gg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.59564&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90413348173062,
+         "longitude": 18.596105512072896
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Frans Conradie Dr / M25",
+        "action": "turn-right",
+        "distance": 3279,
+        "duration": 358,
+        "formatted_distance": "3.3 km",
+        "formatted_duration": "6 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yN-geukN--0tVf53ux1HDg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=6.6610355&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.89511731154686,
+         "longitude": 18.597292253779596
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Durban Rd / R302",
+        "action": "turn-right",
+        "distance": 375,
+        "duration": 61,
+        "formatted_distance": "400 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sV4FSzEoAWBhFwt7FKx81Q&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=113.6596&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.89133815176475,
+         "longitude": 18.63123756791391
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "durations": [
+   {
+    "travel_mode": "Driving",
+    "duration": 720,
+    "formatted_duration": "12 min"
+   },
+   {
+    "travel_mode": "Two-wheeler",
+    "duration": 720,
+    "formatted_duration": "12 min"
+   },
+   {
+    "travel_mode": "Transit",
+    "duration": 2580,
+    "formatted_duration": "43 min"
+   },
+   {
+    "travel_mode": "Walking",
+    "duration": 4390,
+    "formatted_duration": "1 hr 13"
+   }
+  ]
+ }
+}

@@ -1,0 +1,290 @@
+{
+ "fetched_at": "2026-10-17T21:44:57.275167+00:00",
+ "params": {
+  "engine": "google",
+  "q": "is Durbanville Cape Town safe to live",
+  "location": "Cape Town,Western Cape,South Africa",
+  "google_domain": "google.co.za",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3ec4ad20e1659592aab00",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/R6cXyhy19m90cPZm4pmDjQcDdGfhYshY5LoVcm75JXo/6ad3ec4ad20e1659592aab00.json",
+   "markdown_endpoint": "https://serpapi.com/searches/R6cXyhy19m90cPZm4pmDjQcDdGfhYshY5LoVcm75JXo/6ad3ec4ad20e1659592aab00.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/R6cXyhy19m90cPZm4pmDjQcDdGfhYshY5LoVcm75JXo/6ad3ec4ad20e1659592aab00.json_with_pixel_position",
+   "created_at": "2026-10-17 21:44:42 UTC",
+   "processed_at": "2026-10-17 21:44:42 UTC",
+   "google_url": "https://www.google.co.za/search?q=is+Durbanville+Cape+Town+safe+to+live&oq=is+Durbanville+Cape+Town+safe+to+live&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&hl=en&gl=za&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/R6cXyhy19m90cPZm4pmDjQcDdGfhYshY5LoVcm75JXo/6ad3ec4ad20e1659592aab00.html",
+   "total_time_taken": 14.23
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "is Durbanville Cape Town safe to live",
+   "location_requested": "Cape Town,Western Cape,South Africa",
+   "location_used": "Cape Town,Western Cape,South Africa",
+   "google_domain": "google.co.za",
+   "hl": "en",
+   "gl": "za",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "is Durbanville Cape Town safe to live",
+   "total_results": 113,
+   "time_taken_displayed": 0.29,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+   {
+    "question": "Is Durbanville a good area in Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "What areas should I avoid staying in Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "What are the top 10 safest areas in Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "What are the red zones in Cape Town?",
+    "type": "featured_snippet"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Durbanville : r/capetown",
+    "link": "https://www.reddit.com/r/capetown/comments/17ys7wj/durbanville/",
+    "displayed_link": "20+ comments · 2 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "snippet": "I've had no problems with safety here, Very safe and very green and well kept. feel safe, but you have to be on your guard because it can feel ...",
+    "snippet_highlighted_words": [
+     "Very safe and very green and well kept"
+    ],
+    "sitelinks": {
+     "list": [
+      {
+       "title": "Durbanville and surrounds",
+       "link": "https://www.reddit.com/r/capetown/comments/1dy1thb/durbanville_and_surrounds/",
+       "answer_count": 54,
+       "date": "08 Jul 2024"
+      },
+      {
+       "title": "Safest areas in Cape Town?",
+       "link": "https://www.reddit.com/r/capetown/comments/1hsi65i/safest_areas_in_cape_town/",
+       "answer_count": 57,
+       "date": "04 Jan 2025"
+      }
+     ]
+    },
+    "source": "Reddit · r/capetown"
+   },
+   {
+    "position": 2,
+    "title": "How safe are Durbanville and Belleville, Western Cape?",
+    "link": "https://capetowndata.com/en/products/blogpost/712/",
+    "displayed_link": "https://capetowndata.com › products › blogpost",
+    "favicon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAACwBgCdASocABwAPtEutFooIagoGAEAGglAF2QVb0Bz7dktHMw4Oj2BWQAfPF6sjHWwueONaQNLlBr2EUqdAAD-_sIX9KPdDzddBzpRZbLXq0hyTjCom6uEi_v4Ofp__TX5j7-DX_-KDMf-x73WEbE8oM4_Yf2m8NR1TX8OdeIdB5fJlRpFCwu4B73hszw-IkVpNQ1v_AmB_l1Jdjdb7q9fU4D8096VFusbOaDtNtXL5KqdFtXFz8Q5tFTz7_6ZJV_fB9sApjJsFN5E9rLLfACQMVzP-rwtOCfbeQC3FgoeP9x6pLKuDWW-7aRs1LV2bZWC0NTTD71K47EgfdQARpRl9ttVkC4AAAA.webp",
+    "snippet": "7 Safety Rating Moderate–Good. Durbanville sit above average, ranked among Cape Town's top-10 safest suburbs. Above average for Cape Town, with the Durbanville ...",
+    "snippet_highlighted_words": [
+     "Durbanville sit above average, ranked among Cape Town's top-10 safest suburbs"
+    ],
+    "sitelinks": {
+     "inline": [
+      {
+       "title": "Safety & Security",
+       "link": "https://capetowndata.com/en/products/blogpost/712/#safety"
+      },
+      {
+       "title": "Daily Life & Attractions",
+       "link": "https://capetowndata.com/en/products/blogpost/712/#daily-life"
+      },
+      {
+       "title": "Historical & Cultural Overview",
+       "link": "https://capetowndata.com/en/products/blogpost/712/#history"
+      }
+     ]
+    },
+    "source": "capetowndata.com"
+   },
+   {
+    "position": 3,
+    "title": "Top 10 Safest Suburbs in Cape Town in 2025",
+    "link": "https://ifearless.co.za/safest-suburbs-in-cape-town/",
+    "displayed_link": "https://ifearless.co.za › safest-suburbs-in-cape-town",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAAAQBgCdASogAB4APtEutFooIagoGAEAGglsAL9q9FgBDAbOxA1wpil52YDwf___0OzHpP_yDO7eQAAA_u_2yG8bMP8vNg2B1UKcHAN6PB0kOg9od_Mx7Oy6AKdZv2kd7IPpq6Qdeclxp_rnYLa91Q0lhowC7axVxtvP3K0sKb1nYlTNjMSRHfU3xM5AMdaxqr8X_DDw4KPtHQA7PRIUEXBGOZGhJOdnlJu50BNS2b16cwhwkHBPIN78cMZosz2JQQEBBuYhf1n_rg2iaq7A8YND96adWY7ZUjYjmrxnv6AYl_nYmgn-5oUdjo8FxlYg1zFxOlQYIkVYtps8BQYjd-jXPZVj_9zywzOzGNv8FsOlKR00tI_1MgxcDff2Cxp8AAA.webp",
+    "date": "21 Oct 2025",
+    "snippet": "5. Durbanville · Tight-knit community where neighbors look out for each other. · Regular community events fostering resident connections. · Well- ...",
+    "snippet_highlighted_words": [
+     "Tight-knit community where neighbors look out for each other"
+    ],
+    "source": "iFearLESS",
+    "read_more_link": "https://ifearless.co.za/safest-suburbs-in-cape-town/#:~:text=5.%20Durbanville&text=Tight%2Dknit%20community%20where%20neighbors%20look,out%20for%20each%20other.&text=Regular%20community%20events%20fostering%20resident,connections.&text=Well%2Dplanned%20residential%20developments%20with%20security,considerations."
+   },
+   {
+    "position": 4,
+    "title": "Explore the Durbanville Neighbourhood",
+    "link": "https://www.privateproperty.co.za/neighbourhoods/durbanville/739",
+    "displayed_link": "https://www.privateproperty.co.za › neighbourhoods",
+    "favicon": "https://serpapi.com/images/i/UklGRngBAABXRUJQVlA4IGwBAACQBwCdASocABwAPrkurlcnIacnG_DgFwlsAKXZwBagHAAeVv7LH7O-lU8cSQWTtfex0lq6B3T4yW2inxn0glwqYLhFGAAA_vfxbyDyAdD11ghbnYxv6vX5VBYczB9cIgR9XX0e68sIS45E5jNnmBEzcw7gDgj0tiJ18HctSS7i6uRTUb6jCS_8rjthvMFAzHmSZ_3u9WU5-Gvy_vNH4btEDvXnHsKCeBVMWWS6PY3MczNjwEgQxU_cy3-0bRAnOCMhFbZMZ5M9TVUXo2N3RLAwgv-WP-7ulzXYaNr0YDwj0u2OLUNFxn0syZGpnujm81OOgVyNe7rI_vYUt-l87sVuxzRvTtme6x8o23neFXacYBO-EZDAu5g2ZSCjKsUh-Fhfd3h1XtBr5b0rL6vLvHYiIsTke_NagAMdmuJj-pZnaDyeJOIndP_lKpiKDrF6QH-Zu-NotOf8v2GTDg5lv1edWf-Nia91ivzsgAAA.webp",
+    "snippet": "The neighbourhoods are quiet and safe. Children play in the streets after school and just have fun in a secure environment.",
+    "snippet_highlighted_words": [
+     "The neighbourhoods are quiet and safe"
+    ],
+    "source": "Private Property"
+   },
+   {
+    "position": 5,
+    "title": "Moving down to the Cape - Safest areas?",
+    "link": "https://mybroadband.co.za/forum/threads/moving-down-to-the-cape-safest-areas.1229647/",
+    "displayed_link": "https://mybroadband.co.za › forum › threads › moving...",
+    "favicon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAAAQBQCdASocABwAPtE-tFooIigoFAEAGglnALipi8xxtrsj6Q15O9KQYjn7WzRi0ZQAAP7r0FyYtQHX520m1adAOR-R6E-wYhhvcB0I-Wn8D7P13xadh9znqvaVXXcfZePInj0_ZPHkY7Zei7Ff8dEduP29CgE41mkdETJktXnM-H3jwW8vAyxOGjUe-vyyGY9__Bk0nsCK0Sp-shoSkAX6mj44ivaK_dgVoTiXEC-IbSLm-431DGRR9QJSKLg54B3DqAmbWmc3ISpN8AA.webp",
+    "date": "15 Mar 2023",
+    "snippet": "I've been living in Durbanville for the last 18 years and still very happy here. Low Crime , Good Schools, Good Hospitals, Lots of shopping ...",
+    "snippet_highlighted_words": [
+     "Low Crime"
+    ],
+    "source": "MyBroadband",
+    "read_more_link": "https://mybroadband.co.za/forum/threads/moving-down-to-the-cape-safest-areas.1229647/#:~:text=I've%20been%20living%20in%20Durbanville,Hospitals%2C%20Lots%20of%20shopping%20malls."
+   },
+   {
+    "position": 6,
+    "title": "Is Durbanville Safe? Crime Data & Safety (2026) - StreetSignal",
+    "link": "https://streetsignal.co.za/cape-town/suburbs/durbanville/",
+    "displayed_link": "https://streetsignal.co.za › Cape Town › Suburbs",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAA3UlEQVR4AbzSIQyDMBCF4fOpmVd4MUXmENPzHonDB4PGYtFL8KkPdg5XVYurxXXJC-xauG5uv4Cm_aAVJf-jPwObXVFmE6CmrToB6JMMNAMtggeDhwQcBTkBDFjJC7wGAWRYsQte2RkYLKgdmhNoMd9532PQngDtH1pCRzDxtMJoOoCSf9xhWMZgJTTzcWmNwBhuTGiMQE5E92qb002piPIQWOqNj3LjxQbA4bkeDIMtpT2yTfrCFDX2lwFfiCoBnjS1AIsAkME2OL4EEP8_AW7KfwevQgbc_B6peRMAQaEgZj6bkPQAAAAASUVORK5CYII.png",
+    "snippet": "Is Durbanville safe? It scores 45/100 - moderate reported crime. See the full crime breakdown, property values, and school data.",
+    "snippet_highlighted_words": [
+     "moderate reported crime"
+    ],
+    "source": "streetsignal.co.za"
+   },
+   {
+    "position": 7,
+    "title": "Hi everyone! 👋 We're moving to Cape Town soon and ...",
+    "link": "https://www.facebook.com/groups/208865412478939/posts/25833800202892108/",
+    "displayed_link": "200+ comments · 10 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Durbanville is a best kept secret. Great value property wise compared to SSuburbs. Great schools (private and public) and English is ...",
+    "snippet_highlighted_words": [
+     "Durbanville is a best kept secret"
+    ],
+    "source": "Facebook · Durbanville",
+    "read_more_link": "https://www.facebook.com/groups/208865412478939/posts/25833800202892108/#:~:text=Durbanville%20is%20a%20best%20kept,girls%20were%20English%20first%20language)."
+   },
+   {
+    "position": 8,
+    "title": "5 Reasons why people are moving to Cape Towns Northern ...",
+    "link": "https://www.youtube.com/watch?v=IBZbMRcqUM8",
+    "displayed_link": "6,6K+ views · 1 year ago",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "snippet": "From Brackenfell to Durbanville and Kuils River, the Northern Suburbs are fast becoming some of the most popular places to live in Cape Town.",
+    "duration": "6:03",
+    "key_moments": [
+     {
+      "time": "00:00",
+      "title": "Introduction",
+      "link": "https://www.youtube.com/watch?v=IBZbMRcqUM8&t=0"
+     },
+     {
+      "time": "00:25",
+      "title": "Highest turnover areas at the moment",
+      "link": "https://www.youtube.com/watch?v=IBZbMRcqUM8&t=25"
+     },
+     {
+      "time": "01:20",
+      "title": "Reason 1",
+      "link": "https://www.youtube.com/watch?v=IBZbMRcqUM8&t=80"
+     },
+     {
+      "time": "02:57",
+      "title": "Reason 2",
+      "link": "https://www.youtube.com/watch?v=IBZbMRcqUM8&t=177"
+     },
+     {
+      "time": "03:52",
+      "title": "Reason 3",
+      "link": "https://www.youtube.com/watch?v=IBZbMRcqUM8&t=232"
+     },
+     {
+      "time": "04:19",
+      "title": "Reason 4",
+      "link": "https://www.youtube.com/watch?v=IBZbMRcqUM8&t=259"
+     },
+     {
+      "time": "04:54",
+      "title": "Reason 5",
+      "link": "https://www.youtube.com/watch?v=IBZbMRcqUM8&t=294"
+     },
+     {
+      "time": "05:43",
+      "title": "Reach out to us",
+      "link": "https://www.youtube.com/watch?v=IBZbMRcqUM8&t=343"
+     }
+    ],
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRTGqcQBT56_scJauJs8UQQ2QV29M4aF4uWlg",
+    "source": "YouTube · The Property Corner with Rowan Alexander"
+   },
+   {
+    "position": 9,
+    "title": "Expat Guide to Durbanville and Northern Suburbs",
+    "link": "https://www.expatcapetown.com/cape-town-northern-suburbs.html",
+    "displayed_link": "https://www.expatcapetown.com › cape-town-northern-s...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAMklEQVR4AWP4zwBGM9P-pxn__88AQVBRVP5Mhv9pQAaEB1I9k4CGNLCeoWPDqA2jNgAAVyqGiKHxROIAAAAASUVORK5CYII.png",
+    "snippet": "Many expats choose living in these northern suburbs as these are among the safest around Cape Town. It is here where kids still walk to school or ride their ...",
+    "snippet_highlighted_words": [
+     "these are among the safest around Cape Town"
+    ],
+    "source": "Expat Cape Town",
+    "read_more_link": "https://www.expatcapetown.com/cape-town-northern-suburbs.html#:~:text=Many%20expats%20choose%20living%20in,their%20bikes%20in%20the%20streets."
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Is durbanville cape town safe to live reddit",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnukz0SYAoy8lsL3scXht_Wj1CbGYg:1792273496220&q=Is+durbanville+cape+town+safe+to+live+reddit&sa=X&ved=2ahUKEwj8itSIg8KXAxVksCsGHWe8OeAQ1QJ6BAg1EAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Is durbanville cape town safe to live in south africa",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnukz0SYAoy8lsL3scXht_Wj1CbGYg:1792273496220&q=Is+durbanville+cape+town+safe+to+live+in+south+africa&sa=X&ved=2ahUKEwj8itSIg8KXAxVksCsGHWe8OeAQ1QJ6BAg6EAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Top 10 most dangerous areas in Cape Town",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnukz0SYAoy8lsL3scXht_Wj1CbGYg:1792273496220&q=Top+10+most+dangerous+areas+in+Cape+Town&sa=X&ved=2ahUKEwj8itSIg8KXAxVksCsGHWe8OeAQ1QJ6BAg7EAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Is Durbanville safe",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnukz0SYAoy8lsL3scXht_Wj1CbGYg:1792273496220&q=Is+Durbanville+safe&sa=X&ved=2ahUKEwj8itSIg8KXAxVksCsGHWe8OeAQ1QJ6BAhBEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Affordable safe areas in Cape Town",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnukz0SYAoy8lsL3scXht_Wj1CbGYg:1792273496220&q=Affordable+safe+areas+in+Cape+Town&sa=X&ved=2ahUKEwj8itSIg8KXAxVksCsGHWe8OeAQ1QJ6BAhGEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Is Oakglen Bellville safe",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnukz0SYAoy8lsL3scXht_Wj1CbGYg:1792273496220&q=Is+Oakglen+Bellville+safe&sa=X&ved=2ahUKEwj8itSIg8KXAxVksCsGHWe8OeAQ1QJ6BAhFEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Is Bellville Cape Town safe",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnukz0SYAoy8lsL3scXht_Wj1CbGYg:1792273496220&q=Is+Bellville+Cape+Town+safe&sa=X&ved=2ahUKEwj8itSIg8KXAxVksCsGHWe8OeAQ1QJ6BAg9EAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Safest areas in Cape Town to live",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnukz0SYAoy8lsL3scXht_Wj1CbGYg:1792273496220&q=Safest+areas+in+Cape+Town+to+live&sa=X&ved=2ahUKEwj8itSIg8KXAxVksCsGHWe8OeAQ1QJ6BAg5EAE"
+   }
+  ]
+ }
+}

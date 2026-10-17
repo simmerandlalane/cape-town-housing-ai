@@ -1,0 +1,90 @@
+{
+  "_about": "Hand labels for the real search results in evals/fixtures (fetched 17 Oct 2026). Labelled by what a careful human reader would conclude, not by what the code does. 'skip' marks genuinely ambiguous items, which are left out of scoring.",
+
+  "listings": {
+    "_about": "source_type per result, and the residential monthly rents a reader would take from the title + snippet",
+    "durbanville": [
+      {"source_type": "social_post", "prices": [7300]},
+      {"source_type": "portal_search_page", "prices": [7965, 50000]},
+      {"source_type": "portal_search_page", "prices": [6000]},
+      {"source_type": "short_term", "prices": []},
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "portal_search_page", "prices": [16000]},
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "unknown_source", "prices": [6500]},
+      {"source_type": "portal_search_page", "prices": [9200, 11000]}
+    ],
+    "observatory": [
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "portal_search_page", "prices": [16000, 13500]},
+      {"source_type": "classifieds", "prices": []},
+      {"source_type": "already_rented", "prices": [21500, 14000, 10300]},
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "individual_listing", "prices": []}
+    ],
+    "parow": [
+      {"source_type": "portal_search_page", "prices": [5000, 6200]},
+      {"source_type": "portal_search_page", "prices": [6300, 13000]},
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "portal_search_page", "prices": []},
+      {"source_type": "portal_search_page", "prices": [7400, 8395]},
+      {"source_type": "portal_search_page", "prices": [8600, 8500]},
+      {"source_type": "portal_search_page", "prices": [6200]},
+      {"source_type": "portal_search_page", "prices": []}
+    ]
+  },
+
+  "resident_views": {
+    "_about": "per organic result: is it about living in THIS suburb (include), and if so who is speaking (kind)",
+    "parow": [
+      {"include": true, "kind": "discussion"},
+      {"include": true, "kind": "rating_site"},
+      {"include": true, "kind": "rating_site"},
+      {"include": true, "kind": "discussion"},
+      {"include": true, "kind": "rating_site"},
+      {"include": true, "kind": "estate_agent"},
+      {"include": false},
+      {"include": true, "kind": "rating_site"},
+      {"include": false}
+    ],
+    "durbanville": [
+      {"include": true, "kind": "discussion"},
+      {"include": true, "kind": "rating_site"},
+      {"include": true, "kind": "other"},
+      {"include": true, "kind": "estate_agent"},
+      {"include": true, "kind": "discussion"},
+      {"include": true, "kind": "rating_site"},
+      {"include": true, "kind": "discussion"},
+      {"include": true, "kind": "other"},
+      {"include": true, "kind": "other"}
+    ],
+    "observatory": [
+      {"include": true, "kind": "other"},
+      {"include": true, "kind": "estate_agent"},
+      {"include": false},
+      {"include": false},
+      {"include": true, "kind": "news"},
+      {"include": false},
+      {"include": false},
+      {"include": false}
+    ]
+  },
+
+  "patrol_groups": {
+    "_about": "per candidate (local places first as L0.., then web results): is it evidence of a Neighbourhood Watch / CID / CPF serving THIS suburb",
+    "parow": {"organic": [true, true, true, false, false, true, true, false, "skip"]},
+    "durbanville": {"organic": [true, true, false, true, true, true, false, false, false]},
+    "observatory": {"local": [true, true], "organic": []}
+  },
+
+  "police": {
+    "_about": "SAPS (state police) stations a reader should be shown, in a valid order: stations named after the suburb first",
+    "parow": {"valid": ["SAPS Parow Police Station", "SAPS Ravensmead Police Station"], "named": "SAPS Parow Police Station"},
+    "durbanville": {"valid": ["SAPS Durbanville Police Station"], "named": "SAPS Durbanville Police Station"},
+    "observatory": {"valid": ["SAPS Mowbray Police Station", "SAPS Woodstock Police Station", "SAPS Rondebosch Police Station", "SAPS Maitland Police Station"], "named": null}
+  }
+}

@@ -1,0 +1,972 @@
+{
+ "fetched_at": "2026-10-17T21:17:09.748986+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "grocery store in Durbanville, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5d41290d95e94a0d33c",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/8a9Ss8QPtCZGKNcy9lSEUccYMmXy7d-kE_iY7nqt6r0/6ad3e5d41290d95e94a0d33c.json",
+   "markdown_endpoint": "https://serpapi.com/searches/8a9Ss8QPtCZGKNcy9lSEUccYMmXy7d-kE_iY7nqt6r0/6ad3e5d41290d95e94a0d33c.md",
+   "created_at": "2026-10-17 21:17:08 UTC",
+   "processed_at": "2026-10-17 21:17:08 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/grocery+store+in+Durbanville%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/8a9Ss8QPtCZGKNcy9lSEUccYMmXy7d-kE_iY7nqt6r0/6ad3e5d41290d95e94a0d33c.html",
+   "prettify_html_file": "https://serpapi.com/searches/8a9Ss8QPtCZGKNcy9lSEUccYMmXy7d-kE_iY7nqt6r0/6ad3e5d41290d95e94a0d33c.prettify",
+   "total_time_taken": 0.89
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "grocery store in Durbanville, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "grocery store in Durbanville, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Woolworths Emporium Village Square",
+    "place_id": "ChIJ5ydSfnlXzB0RHZtCgPn5ZmM",
+    "data_id": "0x1dcc57797e5227e7:0x6366f9f980429b1d",
+    "data_cid": "7162687107373374237",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57797e5227e7%3A0x6366f9f980429b1d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57797e5227e7%3A0x6366f9f980429b1d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8293393,
+     "longitude": 18.6487642
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5ydSfnlXzB0RHZtCgPn5ZmM",
+    "provider_id": "/g/11h20rhdm8",
+    "rating": 4.5,
+    "reviews": 2348,
+    "unclaimed_listing": true,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "C/O, Oxford &, The Village Square, Queen St, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 am Sun",
+    "hours": "Closed · Opens 7:30 am Sun",
+    "operating_hours": {
+     "saturday": "7:30 am–7:30 pm",
+     "sunday": "7:30 am–7:30 pm",
+     "monday": "7:30 am–7:30 pm",
+     "tuesday": "7:30 am–7:30 pm",
+     "wednesday": "7:30 am–7:30 pm",
+     "thursday": "7:30 am–7:30 pm",
+     "friday": "7:30 am–7:30 pm"
+    },
+    "phone": "021 970 1200",
+    "website": "http://www.woolworths.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Morning star supermarket",
+    "place_id": "ChIJ56AvYG9XzB0RY-4JD8v3RR8",
+    "data_id": "0x1dcc576f602fa0e7:0x1f45f7cb0f09ee63",
+    "data_cid": "2253479640071532131",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc576f602fa0e7%3A0x1f45f7cb0f09ee63&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc576f602fa0e7%3A0x1f45f7cb0f09ee63&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.827050199999995,
+     "longitude": 18.6596568
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ56AvYG9XzB0RY-4JD8v3RR8",
+    "provider_id": "/g/11zfkzkfx2",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "59 pikkewyn street Morning star, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6:30 am Sun",
+    "hours": "Closed · Opens 6:30 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–9:30 pm",
+     "sunday": "6:30 am–9:30 pm",
+     "monday": "6 am–9:30 pm",
+     "tuesday": "6 am–9:30 pm",
+     "wednesday": "6 am–9:30 pm",
+     "thursday": "6 am–9:30 pm",
+     "friday": "6 am–9:30 pm"
+    },
+    "phone": "063 929 6970"
+   },
+   {
+    "position": 3,
+    "title": "Pick n Pay Durbanville",
+    "place_id": "ChIJV0ig-BNXzB0RZiOtq3c96f8",
+    "data_id": "0x1dcc5713f8a04857:0xffe93d77abad2366",
+    "data_cid": "18440337733435859814",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5713f8a04857%3A0xffe93d77abad2366&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5713f8a04857%3A0xffe93d77abad2366&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8312558,
+     "longitude": 18.646534499999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV0ig-BNXzB0RZiOtq3c96f8",
+    "provider_id": "/g/1tcthw52",
+    "rating": 4,
+    "reviews": 813,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Produce market",
+     "Supermarket"
+    ],
+    "address": "Durbanville Town Centre, Wellington Rd, Durbanville, Cape Town, 7551",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–12 pm",
+     "sunday": "8 am–5 pm",
+     "monday": "8 am–7 pm",
+     "tuesday": "8 am–7 pm",
+     "wednesday": "8 am–7 pm",
+     "thursday": "8 am–7 pm",
+     "friday": "8 am–7 pm"
+    },
+    "phone": "021 980 5312",
+    "website": "http://www.pnp.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "Durbanville Supermarket",
+    "place_id": "ChIJZVX-0xpXzB0RTPyo2CEDwKw",
+    "data_id": "0x1dcc571ad3fe5565:0xacc00321d8a8fc4c",
+    "data_cid": "12447952813955808332",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc571ad3fe5565%3A0xacc00321d8a8fc4c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc571ad3fe5565%3A0xacc00321d8a8fc4c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8317367,
+     "longitude": 18.6477951
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZVX-0xpXzB0RTPyo2CEDwKw",
+    "provider_id": "/g/1tp4lh2h",
+    "rating": 5,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket"
+    ],
+    "address": "Shop 5, Albina Court, 6 Wellington Rd, Durbanville, Cape Town, 7551",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Sun",
+    "hours": "Closed · Opens 6 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–9 pm",
+     "sunday": "6 am–9 pm",
+     "monday": "6 am–9 pm",
+     "tuesday": "6 am–9 pm",
+     "wednesday": "6 am–9 pm",
+     "thursday": "6 am–9 pm",
+     "friday": "6 am–9 pm"
+    },
+    "phone": "021 976 2411"
+   },
+   {
+    "position": 5,
+    "title": "WINFIELD ASIAN SUPERMARKET",
+    "place_id": "ChIJUXxKCTdXzB0RyLB7N1f1U38",
+    "data_id": "0x1dcc5737094a7c51:0x7f53f557377bb0c8",
+    "data_cid": "9174946620825645256",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5737094a7c51%3A0x7f53f557377bb0c8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5737094a7c51%3A0x7f53f557377bb0c8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.833185,
+     "longitude": 18.6462589
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUXxKCTdXzB0RyLB7N1f1U38",
+    "provider_id": "/g/11j8mnz87c",
+    "rating": 4.6,
+    "reviews": 43,
+    "type": "Frozen food store",
+    "types": [
+     "Frozen food store"
+    ],
+    "address": "SHOP R2B, SECTION 4 GROUND FLOOR Heritage Square, ZA, Vrede St, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8:30 am–5:30 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "8:30 am–5:30 pm",
+     "tuesday": "8:30 am–5:30 pm",
+     "wednesday": "8:30 am–5:30 pm",
+     "thursday": "8:30 am–5:30 pm",
+     "friday": "8:30 am–5:30 pm"
+    },
+    "phone": "063 665 8801",
+    "website": "http://winfieldasiansupermarket.business.site/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "title": "KWIKSPAR Durbanville",
+    "place_id": "ChIJ7b_7oxNXzB0RQnFADESHf-E",
+    "data_id": "0x1dcc5713a3fbbfed:0xe17f87440c407142",
+    "data_cid": "16248854706909114690",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5713a3fbbfed%3A0xe17f87440c407142&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5713a3fbbfed%3A0xe17f87440c407142&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.831024899999996,
+     "longitude": 18.6445877
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7b_7oxNXzB0RQnFADESHf-E",
+    "provider_id": "/g/11cfgw95g",
+    "rating": 4,
+    "reviews": 132,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Food products supplier",
+     "Fruit and vegetable store",
+     "Supermarket"
+    ],
+    "address": "Main Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "6:30 am–9 pm",
+     "sunday": "8 am–8 pm",
+     "monday": "6:30 am–9 pm",
+     "tuesday": "6:30 am–9 pm",
+     "wednesday": "6:30 am–9 pm",
+     "thursday": "6:30 am–9 pm",
+     "friday": "6:30 am–9 pm"
+    },
+    "phone": "021 976 0864",
+    "website": "https://www.spar.co.za/Home/Store-View/KWIKSPAR-Durbanville-Western-Cape",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "SPAR Palm Grove",
+    "place_id": "ChIJh4GziU5XzB0R0OO0P3DkScs",
+    "data_id": "0x1dcc574e89b38187:0xcb49e4703fb4e3d0",
+    "data_cid": "14648490433755538384",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc574e89b38187%3A0xcb49e4703fb4e3d0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc574e89b38187%3A0xcb49e4703fb4e3d0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.833587699999995,
+     "longitude": 18.6475337
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh4GziU5XzB0R0OO0P3DkScs",
+    "provider_id": "/g/11h8dwl613",
+    "rating": 4.4,
+    "reviews": 737,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Food products supplier",
+     "Fruit and vegetable store",
+     "Supermarket"
+    ],
+    "address": "Palm Grove Centre, Main Rd, Durbanville, Cape Town, 7551",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "7:30 am–8 pm",
+     "sunday": "8 am–8 pm",
+     "monday": "7:30 am–8 pm",
+     "tuesday": "7:30 am–8 pm",
+     "wednesday": "7:30 am–8 pm",
+     "thursday": "7:30 am–8 pm",
+     "friday": "7:30 am–8 pm"
+    },
+    "phone": "021 976 2148",
+    "website": "https://www.spar.co.za/Store-Finder",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "title": "Durbanville Market",
+    "place_id": "ChIJvT36HhRXzB0R6hv4N6MK-u4",
+    "data_id": "0x1dcc57141efa3dbd:0xeefa0aa337f81bea",
+    "data_cid": "17220087821339466730",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57141efa3dbd%3A0xeefa0aa337f81bea&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57141efa3dbd%3A0xeefa0aa337f81bea&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.833512,
+     "longitude": 18.647044299999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvT36HhRXzB0R6hv4N6MK-u4",
+    "provider_id": "/g/1tcvf4sd",
+    "rating": 4.4,
+    "reviews": 994,
+    "unclaimed_listing": true,
+    "type": "Produce market",
+    "types": [
+     "Produce market"
+    ],
+    "address": "1 Scher Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6 pm",
+     "sunday": "8 am–1 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 976 9250",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "title": "Checkers Durbanville",
+    "place_id": "ChIJ_VwtQxFXzB0Rm5yHsz4CWbk",
+    "data_id": "0x1dcc5711432d5cfd:0xb959023eb3879c9b",
+    "data_cid": "13355708638267153563",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5711432d5cfd%3A0xb959023eb3879c9b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5711432d5cfd%3A0xb959023eb3879c9b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8307388,
+     "longitude": 18.648465899999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_VwtQxFXzB0Rm5yHsz4CWbk",
+    "provider_id": "/g/1hc1bskh_",
+    "rating": 4,
+    "reviews": 1898,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket",
+     "Bakery",
+     "Butcher shop",
+     "Coffee shop",
+     "Deli",
+     "Fruit and vegetable store",
+     "Grocery delivery service",
+     "Grocery store"
+    ],
+    "address": "Midville Centre, 13 Wellington Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–9 pm",
+     "sunday": "9 am–9 pm",
+     "monday": "8 am–9 pm",
+     "tuesday": "8 am–9 pm",
+     "wednesday": "8 am–9 pm",
+     "thursday": "8 am–9 pm",
+     "friday": "8 am–9 pm"
+    },
+    "phone": "021 970 4940",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "title": "Woolworths Food Cobble Walk",
+    "place_id": "ChIJf9JEC4xQzB0Ras8HIxz3CVI",
+    "data_id": "0x1dcc508c0b44d27f:0x5209f71c2307cf6a",
+    "data_cid": "5911527686119346026",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc508c0b44d27f%3A0x5209f71c2307cf6a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc508c0b44d27f%3A0x5209f71c2307cf6a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.843993,
+     "longitude": 18.677308999999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf9JEC4xQzB0Ras8HIxz3CVI",
+    "provider_id": "/g/12lrkd6rb",
+    "rating": 4.2,
+    "reviews": 440,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "10, Cobblewalk Shopping Centre, Corner Verdi Blvd & Legato Road, Sonstraal Heights, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–7 pm",
+     "sunday": "8 am–6 pm",
+     "monday": "8 am–7 pm",
+     "tuesday": "8 am–7 pm",
+     "wednesday": "8 am–7 pm",
+     "thursday": "8 am–7 pm",
+     "friday": "8 am–7 pm"
+    },
+    "phone": "021 970 4900",
+    "website": "https://www.woolworths.co.za/?utm_source=google&utm_medium=organic&utm_content=cobblewalk&utm_campaign=places",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "Vierlanden Kwikspar",
+    "place_id": "ChIJ5f0ZHgFXzB0RbrMruknXmUg",
+    "data_id": "0x1dcc57011e19fde5:0x4899d749ba2bb36e",
+    "data_cid": "5231449153823552366",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57011e19fde5%3A0x4899d749ba2bb36e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57011e19fde5%3A0x4899d749ba2bb36e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8168763,
+     "longitude": 18.660429999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5f0ZHgFXzB0RbrMruknXmUg",
+    "provider_id": "/g/1v1m98c2",
+    "rating": 4.4,
+    "reviews": 307,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Bakery",
+     "Butcher shop",
+     "Fruit and vegetable store",
+     "Gourmet grocery store",
+     "Wine store"
+    ],
+    "address": "Protea Way, Vierlanden, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–8 pm",
+     "sunday": "7 am–8 pm",
+     "monday": "7 am–8 pm",
+     "tuesday": "7 am–8 pm",
+     "wednesday": "7 am–8 pm",
+     "thursday": "7 am–8 pm",
+     "friday": "7 am–8 pm"
+    },
+    "phone": "021 975 0711",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "title": "Shoprite Durbanville",
+    "place_id": "ChIJlRbQWgNXzB0RulXh4a4sCww",
+    "data_id": "0x1dcc57035ad01695:0xc0b2caee1e155ba",
+    "data_cid": "867836482824525242",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57035ad01695%3A0xc0b2caee1e155ba&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57035ad01695%3A0xc0b2caee1e155ba&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.828429199999995,
+     "longitude": 18.6508343
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlRbQWgNXzB0RulXh4a4sCww",
+    "provider_id": "/g/11b5ypry5m",
+    "rating": 4.1,
+    "reviews": 202,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket",
+     "Bakery",
+     "Deli",
+     "Grocery store"
+    ],
+    "address": "Durbanville Town Centre, 31 Wellington Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "8 am–2 pm",
+     "monday": "8 am–6:30 pm",
+     "tuesday": "8 am–6:30 pm",
+     "wednesday": "8 am–6:30 pm",
+     "thursday": "8 am–6:30 pm",
+     "friday": "8 am–7 pm"
+    },
+    "phone": "021 970 4760",
+    "website": "https://www.shoprite.co.za/store-directory-and-leaflets",
+    "description": "Groceries, personal-care items & more. Supermarket chain with brand-name & house-label groceries, a bakery & a deli. Many have pharmacies.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Durbanville convenience centre",
+    "place_id": "ChIJYzpSHPxXzB0RCLG_pXxbjWo",
+    "data_id": "0x1dcc57fc1c523a63:0x6a8d5b7ca5bfb108",
+    "data_cid": "7677893530651439368",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57fc1c523a63%3A0x6a8d5b7ca5bfb108&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57fc1c523a63%3A0x6a8d5b7ca5bfb108&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8333528,
+     "longitude": 18.6729609
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYzpSHPxXzB0RCLG_pXxbjWo",
+    "provider_id": "/g/11zzc9lt_d",
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "Langeberg road,goedemoed Rd,country place, Durvanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Sun",
+    "hours": "Closed · Opens 6 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–11 pm",
+     "sunday": "6 am–11 pm",
+     "monday": "6 am–11 pm",
+     "tuesday": "6 am–11 pm",
+     "wednesday": "6 am–11 pm",
+     "thursday": "6 am–11 pm",
+     "friday": "6 am–11 pm"
+    },
+    "phone": "021 975 1711",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "title": "Checkers Foods Clara Anna",
+    "place_id": "ChIJA1JP7llXzB0R2vmZGh2DaPE",
+    "data_id": "0x1dcc5759ee4f5203:0xf168831d1a99f9da",
+    "data_cid": "17395297721742129626",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5759ee4f5203%3A0xf168831d1a99f9da&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5759ee4f5203%3A0xf168831d1a99f9da&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.818329999999996,
+     "longitude": 18.632179999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA1JP7llXzB0R2vmZGh2DaPE",
+    "provider_id": "/g/11l6xj2n0s",
+    "rating": 4,
+    "reviews": 187,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket",
+     "Bakery",
+     "Butcher shop",
+     "Coffee shop",
+     "Dairy store",
+     "Deli",
+     "Fruit and vegetable store",
+     "Grocery delivery service",
+     "Grocery store",
+     "Wine store"
+    ],
+    "address": "and, Clara Anna Square Corner Clara Anna Fontein Blvd, Verlorenvlei Cres, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–7 pm",
+     "sunday": "8 am–7 pm",
+     "monday": "7 am–7 pm",
+     "tuesday": "7 am–7 pm",
+     "wednesday": "7 am–7 pm",
+     "thursday": "7 am–7 pm",
+     "friday": "7 am–7 pm"
+    },
+    "phone": "021 970 4770",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "title": "SPAR Sonstraal",
+    "place_id": "ChIJ20j7SW1XzB0RoC4PRv_mSpY",
+    "data_id": "0x1dcc576d49fb48db:0x964ae6ff460f2ea0",
+    "data_cid": "10829722238032228000",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc576d49fb48db%3A0x964ae6ff460f2ea0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc576d49fb48db%3A0x964ae6ff460f2ea0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8363037,
+     "longitude": 18.6754264
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ20j7SW1XzB0RoC4PRv_mSpY",
+    "provider_id": "/g/12hp85psj",
+    "rating": 4.2,
+    "reviews": 1320,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Food products supplier",
+     "Fruit and vegetable store",
+     "Supermarket"
+    ],
+    "address": "Verdi Blvd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 am Sun",
+    "hours": "Closed · Opens 7:30 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–8 pm",
+     "sunday": "7:30 am–8:30 pm",
+     "monday": "7 am–8 pm",
+     "tuesday": "7 am–8 pm",
+     "wednesday": "7 am–8 pm",
+     "thursday": "7 am–8 pm",
+     "friday": "7 am–8 pm"
+    },
+    "phone": "021 975 0602",
+    "website": "https://www.spar.co.za/Store-Finder",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "OK Urban Sonstraal (corp)",
+    "place_id": "ChIJE4hnN3FXzB0RJzLRSaLDcZQ",
+    "data_id": "0x1dcc577137678813:0x9471c3a249d13227",
+    "data_cid": "10696545691772203559",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc577137678813%3A0x9471c3a249d13227&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc577137678813%3A0x9471c3a249d13227&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8528991,
+     "longitude": 18.6627318
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE4hnN3FXzB0RJzLRSaLDcZQ",
+    "provider_id": "/g/11kppyymfy",
+    "rating": 4.3,
+    "reviews": 254,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Fruit and vegetable store",
+     "Supermarket"
+    ],
+    "address": "Fisant St, Amanda Glen, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–8 pm",
+     "sunday": "7 am–8 pm",
+     "monday": "6 am–8 pm",
+     "tuesday": "6 am–8 pm",
+     "wednesday": "6 am–8 pm",
+     "thursday": "6 am–8 pm",
+     "friday": "6 am–8 pm"
+    },
+    "phone": "021 207 6831",
+    "website": "https://www.okfoods.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "title": "Durbanville",
+    "place_id": "ChIJaf0sFRFXzB0RsSjWn_s8tLQ",
+    "data_id": "0x1dcc5711152cfd69:0xb4b43cfb9fd628b1",
+    "data_cid": "13021099474051016881",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5711152cfd69%3A0xb4b43cfb9fd628b1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5711152cfd69%3A0xb4b43cfb9fd628b1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8305382,
+     "longitude": 18.6487463
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaf0sFRFXzB0RsSjWn_s8tLQ",
+    "provider_id": "/g/11vz6qk8gq",
+    "rating": 4.3,
+    "reviews": 3,
+    "unclaimed_listing": true,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store"
+    ],
+    "address": "Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open · Closes 10:30 am Sun",
+    "hours": "Open · Closes 10:30 am Sun",
+    "operating_hours": {
+     "saturday": "12–10:30 am, 6:01 pm–12 am",
+     "sunday": "12–10:30 am, 6:01 pm–12 am",
+     "monday": "12–10:30 am, 6:01 pm–12 am",
+     "tuesday": "12–10:30 am, 6:01 pm–12 am",
+     "wednesday": "12–10:30 am, 6:01 pm–12 am",
+     "thursday": "12–10:30 am, 6:01 pm–12 am",
+     "friday": "12–10:30 am, 6:01 pm–12 am"
+    }
+   },
+   {
+    "position": 18,
+    "title": "Econofoods Durbanville",
+    "place_id": "ChIJhXm-lkFXzB0RulQwHzbi1SQ",
+    "data_id": "0x1dcc574196be7985:0x24d5e2361f3054ba",
+    "data_cid": "2654276277484147898",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc574196be7985%3A0x24d5e2361f3054ba&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc574196be7985%3A0x24d5e2361f3054ba&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8279658,
+     "longitude": 18.6507187
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhXm-lkFXzB0RulQwHzbi1SQ",
+    "provider_id": "/g/11yjl1fs_8",
+    "rating": 4.3,
+    "reviews": 28,
+    "type": "Wholesale grocer",
+    "types": [
+     "Wholesale grocer"
+    ],
+    "address": "Durbanville Town Centre, Wellington Rd, Durbanville, Cape Town, 7551",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–5 pm",
+     "sunday": "9 am–2 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 493 6271",
+    "website": "https://econofoods.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "title": "FreshStop Durbanville",
+    "place_id": "ChIJX3RUnnNXzB0RXu2cIRPVZv4",
+    "data_id": "0x1dcc57739e54745f:0xfe66d513219ced5e",
+    "data_cid": "18331573611403210078",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57739e54745f%3A0xfe66d513219ced5e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57739e54745f%3A0xfe66d513219ced5e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8320809,
+     "longitude": 18.647693399999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX3RUnnNXzB0RXu2cIRPVZv4",
+    "provider_id": "/g/11gh8807pr",
+    "rating": 3.9,
+    "reviews": 15,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Coffee shop",
+     "Convenience store",
+     "Takeout restaurant",
+     "Soft drinks shop"
+    ],
+    "address": "4 Wellington Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 976 3168",
+    "website": "https://freshstop.co.za/?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Assistive hearing loop",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 20,
+    "title": "Pick n Pay Graanendal",
+    "place_id": "ChIJGwCY0OFXzB0Rhcv-cdfCZlk",
+    "data_id": "0x1dcc57e1d098001b:0x5966c2d771fecb85",
+    "data_cid": "6442050547586354053",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57e1d098001b%3A0x5966c2d771fecb85&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57e1d098001b%3A0x5966c2d771fecb85&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.814721999999996,
+     "longitude": 18.6740057
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGwCY0OFXzB0Rhcv-cdfCZlk",
+    "provider_id": "/g/1tl6ntc4",
+    "rating": 4.2,
+    "reviews": 1105,
+    "type": "Grocery store",
+    "types": [
+     "Grocery store",
+     "Produce market",
+     "Supermarket"
+    ],
+    "address": "Graanendal Winkel Sentrum, Brackenfell Blvd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 am Sun",
+    "hours": "Closed · Opens 7:30 am Sun",
+    "operating_hours": {
+     "saturday": "7:30 am–7 pm",
+     "sunday": "7:30 am–5 pm",
+     "monday": "7:30 am–7 pm",
+     "tuesday": "7:30 am–7 pm",
+     "wednesday": "7:30 am–7 pm",
+     "thursday": "7:30 am–7 pm",
+     "friday": "7:30 am–7 pm"
+    },
+    "phone": "021 979 4264",
+    "website": "http://www.pnp.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

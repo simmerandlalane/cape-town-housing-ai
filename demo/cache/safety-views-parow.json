@@ -1,0 +1,220 @@
+{
+ "fetched_at": "2026-10-17T21:44:39.630315+00:00",
+ "params": {
+  "engine": "google",
+  "q": "is Parow Cape Town safe to live",
+  "location": "Cape Town,Western Cape,South Africa",
+  "google_domain": "google.co.za",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3ec47eb6ec566ffc7cb42",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/awvt9RRXPw1FICvuXu15-2E1N5ZopaJWhMbOo0XMDfw/6ad3ec47eb6ec566ffc7cb42.json",
+   "markdown_endpoint": "https://serpapi.com/searches/awvt9RRXPw1FICvuXu15-2E1N5ZopaJWhMbOo0XMDfw/6ad3ec47eb6ec566ffc7cb42.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/awvt9RRXPw1FICvuXu15-2E1N5ZopaJWhMbOo0XMDfw/6ad3ec47eb6ec566ffc7cb42.json_with_pixel_position",
+   "created_at": "2026-10-17 21:44:39 UTC",
+   "processed_at": "2026-10-17 21:44:39 UTC",
+   "google_url": "https://www.google.co.za/search?q=is+Parow+Cape+Town+safe+to+live&oq=is+Parow+Cape+Town+safe+to+live&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&hl=en&gl=za&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/awvt9RRXPw1FICvuXu15-2E1N5ZopaJWhMbOo0XMDfw/6ad3ec47eb6ec566ffc7cb42.html",
+   "total_time_taken": 0.45
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "is Parow Cape Town safe to live",
+   "location_requested": "Cape Town,Western Cape,South Africa",
+   "location_used": "Cape Town,Western Cape,South Africa",
+   "google_domain": "google.co.za",
+   "hl": "en",
+   "gl": "za",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "is Parow Cape Town safe to live",
+   "total_results": 130,
+   "time_taken_displayed": 0.25,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+   {
+    "question": "Is it safe to walk in a parow?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "What are the worst areas to avoid in Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "Is Parow a nice area?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "How is crime in a parow Cape Town?",
+    "type": "featured_snippet"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Is Parow a safe neighbourhood to live in? : r/capetown",
+    "link": "https://www.reddit.com/r/capetown/comments/1por9ko/is_parow_a_safe_neighbourhood_to_live_in/",
+    "displayed_link": "20+ comments · 10 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "snippet": "I’ve been looking at places to live and I think I’ve found a place in Parow Valley in Klipkop. I just wanted to know if the area is safe? Parow in ...",
+    "sitelinks": {
+     "list": [
+      {
+       "title": "Where to live in or around Parow?",
+       "link": "https://www.reddit.com/r/capetown/comments/fdjn97/where_to_live_in_or_around_parow/",
+       "answer_count": 32,
+       "date": "04 Mar 2020"
+      },
+      {
+       "title": "Crime in Parow",
+       "link": "https://www.reddit.com/r/capetown/comments/6wqofd/crime_in_parow/",
+       "answer_count": 8,
+       "date": "29 Aug 2017"
+      }
+     ]
+    },
+    "source": "Reddit · r/capetown"
+   },
+   {
+    "position": 2,
+    "title": "How safe is Parow, Western Cape? - Cape Town Data",
+    "link": "https://capetowndata.com/en/products/blogpost/1001/",
+    "displayed_link": "https://capetowndata.com › products › blogpost",
+    "favicon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAACwBgCdASocABwAPtEutFooIagoGAEAGglAF2QVb0Bz7dktHMw4Oj2BWQAfPF6sjHWwueONaQNLlBr2EUqdAAD-_sIX9KPdDzddBzpRZbLXq0hyTjCom6uEi_v4Ofp__TX5j7-DX_-KDMf-x73WEbE8oM4_Yf2m8NR1TX8OdeIdB5fJlRpFCwu4B73hszw-IkVpNQ1v_AmB_l1Jdjdb7q9fU4D8096VFusbOaDtNtXL5KqdFtXFz8Q5tFTz7_6ZJV_fB9sApjJsFN5E9rLLfACQMVzP-rwtOCfbeQC3FgoeP9x6pLKuDWW-7aRs1LV2bZWC0NTTD71K47EgfdQARpRl9ttVkC4AAAA.webp",
+    "snippet": "6/10 Safety Rating Moderate • Varies by Neighbourhood. Crime rates very low with heavy private security. The safety concerns are real and concentrated: street ...",
+    "snippet_highlighted_words": [
+     "6/10 Safety Rating Moderate"
+    ],
+    "source": "capetowndata.com"
+   },
+   {
+    "position": 3,
+    "title": "Is Parow Safe? Crime Data & Safety (2026) - StreetSignal",
+    "link": "https://streetsignal.co.za/cape-town/suburbs/parow/",
+    "displayed_link": "https://streetsignal.co.za › Cape Town › Suburbs",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAA3UlEQVR4AbzSIQyDMBCF4fOpmVd4MUXmENPzHonDB4PGYtFL8KkPdg5XVYurxXXJC-xauG5uv4Cm_aAVJf-jPwObXVFmE6CmrToB6JMMNAMtggeDhwQcBTkBDFjJC7wGAWRYsQte2RkYLKgdmhNoMd9532PQngDtH1pCRzDxtMJoOoCSf9xhWMZgJTTzcWmNwBhuTGiMQE5E92qb002piPIQWOqNj3LjxQbA4bkeDIMtpT2yTfrCFDX2lwFfiCoBnjS1AIsAkME2OL4EEP8_AW7KfwevQgbc_B6peRMAQaEgZj6bkPQAAAAASUVORK5CYII.png",
+    "snippet": "It scores 43/100 - moderate reported crime. than 22% of Cape Town suburbs. The area's safety profile is below the city average for reported safety.",
+    "snippet_highlighted_words": [
+     "moderate reported crime"
+    ],
+    "source": "streetsignal.co.za"
+   },
+   {
+    "position": 4,
+    "title": "Revitalizing Parow Suburb in Cape Town",
+    "link": "https://www.facebook.com/groups/parowdiegoeieoudae/posts/1679048422926106/",
+    "displayed_link": "110+ comments · 2 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Yes, Parow might not be the same as it used to be and yes, it might be dangerous. You are not safer in Brackenfell or Durbanville than you are ...",
+    "snippet_highlighted_words": [
+     "Parow might not be the same as it used to be"
+    ],
+    "sitelinks": {
+     "list": [
+      {
+       "title": "What are the best areas to live in Cape Town?",
+       "link": "https://www.facebook.com/groups/2546123372160231/posts/9407586282680538/",
+       "date": "17 May 2025"
+      },
+      {
+       "title": "Safest suburbs to live in Cape Town?",
+       "link": "https://www.facebook.com/groups/1352661338752600/posts/1920221228663272/",
+       "date": "27 Feb 2026"
+      }
+     ]
+    },
+    "source": "Facebook · Parow: Die Goeie Ou Dae"
+   },
+   {
+    "position": 5,
+    "title": "Parow North Crime Statistics - City of Cape Town - SafeSuburb",
+    "link": "https://safesuburb.co.za/western-cape/city-of-cape-town/parow/parow-north/",
+    "displayed_link": "https://safesuburb.co.za › ... › Parow Precinct",
+    "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACQBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0vd6baYPcAOwF4T6BQ2oTqI9L1t6KrQ8FkLgUfyUFoGWQAAP78107akfl7GtQX8nKC8X8HRYTU39p3hhAEiGSoE6D5TEjoS0ENs4ACy5pNCy_nnS_rPD7OSOEt4AcFzwNv1VvrVNSbc5Dd7qe_etHjN7MnPf6WIZHenuaKTk0JUe74dBWuUxVP_swLz5M3mP0O3-xX6PLQCZtJ27g99vOLEcIf9lBISl1big_NwuBHi8GolNoOXVmxhFcN9LIkMw2aP0G1RMAqZCc2xGydFK-43X8UUkrNVO0faDzc1DmbR1WCgVB4Pt4gGEDSmZeFTlAzdapNrkOhO3QUYQKEPiX4UWg8tUHyCRnP9cA_T_jwkY1H7VzwsWrAAAAA.webp",
+    "snippet": "Is Parow North safe to live in? The Parow precinct (covering Parow North) recorded 4,734 crimes in Apr 2025–Mar 2026 — roughly stable vs Apr 2024–Mar 2025.",
+    "snippet_highlighted_words": [
+     "Is Parow",
+     "safe to live",
+     "Parow",
+     "Parow"
+    ],
+    "source": "safesuburb.co.za",
+    "read_more_link": "https://safesuburb.co.za/western-cape/city-of-cape-town/parow/parow-north/#:~:text=Is%20Parow%20North%20safe%20to,live%20in%3F"
+   },
+   {
+    "position": 6,
+    "title": "Parow Area Profile - Red Properties",
+    "link": "https://www.redproperties.co.za/area-profiles/parow/",
+    "displayed_link": "https://www.redproperties.co.za › area-profiles › parow",
+    "favicon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAAAQBQCdASocABwAPtEwtFooIigoGAEAGgloAMb1ijnzkb7XVfkQJFbbc0cru18Qc0gAAP72ASfTn0yJsuEWrygCoMa6kQIP_vmjJsiLeuKO7Y_ufIRz1NQzGwWvaZF1NMCPrwailH8tjKNfpYrvxIyjAeYM_YQ5l4zwWf6uQwR2FxD6mX91K1cf_wtQktKKjRvPBbVMbp0OYa4yjxZDpA6RNCojfS0VpO7psTtCHkAAAA.webp",
+    "snippet": "Parow is a suburban area known for its family-friendly environment, collaboration ensures a secure environment for residents.",
+    "snippet_highlighted_words": [
+     "Parow is a suburban area known for its family-friendly environment"
+    ],
+    "source": "redproperties.co.za"
+   },
+   {
+    "position": 7,
+    "title": "Cape Town Safety: Where To Stay & Where To Avoid",
+    "link": "https://www.plumguide.com/journal/cape-town-safety",
+    "displayed_link": "https://www.plumguide.com › journal › cape-town-safety",
+    "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3tcSYlgDeVSIyC_16GWq-WPYlAhmz-iCq04NAAP7S36IlWdjp745QTuFs7md990GIJjFyGeZ9CzjE940QkK8qg2q5pr3Tv0qauP_3tZn_8Wfu0Tt4N6X3ZsLZf8QpJM5HxjerekBlFVeIlq8bPiEar_tptESgrc8fwtDIwDrk5DK4Iu_17I8VB59Zsh1auMovidUiv00jJhhRvJHdzEAxACIkhPr95_I-chwGMf1i43nD08HadIrxvI4bJ1H3w4zsGStiPt11Jz-ohGtlWRSagSrhBTBQnXl33urAT1Y_TeMHZEJcsnSkmAAAAA.webp",
+    "date": "07 Jun 2024",
+    "snippet": "As a general rule, avoid Cape Town's township areas. These have high crime rates and aren't suitable for tourists. Some neighbourhoods to stay ...",
+    "snippet_highlighted_words": [
+     "avoid Cape Town's township areas"
+    ],
+    "source": "Plum Guide",
+    "read_more_link": "https://www.plumguide.com/journal/cape-town-safety#:~:text=As%20a%20general%20rule%2C%20avoid,tourists.%20Some%20neighbourhoods%20to%20stay"
+   },
+   {
+    "position": 8,
+    "title": "Is Parow Valley Safe? Crime Data & Safety (2026) - StreetSignal",
+    "link": "https://streetsignal.co.za/cape-town/suburbs/parow-valley/",
+    "displayed_link": "https://streetsignal.co.za › Cape Town › Suburbs",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAA3UlEQVR4AbzSIQyDMBCF4fOpmVd4MUXmENPzHonDB4PGYtFL8KkPdg5XVYurxXXJC-xauG5uv4Cm_aAVJf-jPwObXVFmE6CmrToB6JMMNAMtggeDhwQcBTkBDFjJC7wGAWRYsQte2RkYLKgdmhNoMd9532PQngDtH1pCRzDxtMJoOoCSf9xhWMZgJTTzcWmNwBhuTGiMQE5E92qb002piPIQWOqNj3LjxQbA4bkeDIMtpT2yTfrCFDX2lwFfiCoBnjS1AIsAkME2OL4EEP8_AW7KfwevQgbc_B6peRMAQaEgZj6bkPQAAAAASUVORK5CYII.png",
+    "snippet": "It scores 44/100 - moderate reported crime. than 25% of Cape Town suburbs. The area's safety profile is below the city average for reported safety.",
+    "snippet_highlighted_words": [
+     "moderate reported crime"
+    ],
+    "source": "streetsignal.co.za"
+   },
+   {
+    "position": 9,
+    "title": "Moving to Cape Town Guide | Pros, Cons, and Best ...",
+    "link": "https://wandercapetown.com/tips/moving-to-cape-town/",
+    "displayed_link": "https://wandercapetown.com › tips › moving-to-cape-to...",
+    "favicon": "https://serpapi.com/images/i/UklGRuIAAABXRUJQVlA4INYAAABwBQCdASocABwAPtEutFooIagoGAEAGgljAMDdqDecB9JG-1u5GYTKyCLHdy70pWuziwAAAP72ASeeo8zxe_S-143wA3nLeLfkC7Vb1k2pf4QwWCHWwQLclOxNOdCU8zcNLfrgmOZ9su7z85t1dbcfaw8UAQW_FuRH_FQPdtsvSCUbBspML3WJHhWe3lydipv5_5q0tAbY_UptaoyQW1UI0MeWus4QMFj-KzlQsfUpmy0aoxT0CfSQOEaJ0QkSQhmTYlPrxtdRkwQ0nUbrHEcWag-N-AAA.webp",
+    "snippet": "Cape Town is not the safest city in the world – that's a fact. However, it's a sprawling city, and most areas you'll be considering are actually very safe, with ...",
+    "snippet_highlighted_words": [
+     "Cape Town is not the safest city in the world"
+    ],
+    "source": "Wander Cape Town",
+    "read_more_link": "https://wandercapetown.com/tips/moving-to-cape-town/#:~:text=Cape%20Town%20is%20not%20the,support%20(like%20neighbourhood%20Whatsapp%20groups)."
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Is parow cape town safe to live reddit",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&gl=za&hl=en&sxsrf=APpeQns-8iH_bYPReq9E5BVBJgXfRNXmxg:1792273479121&q=Is+parow+cape+town+safe+to+live+reddit&sa=X&ved=2ahUKEwibt8CAg8KXAxWeg4QIHVXvEhsQ1QJ6BAhBEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Is parow cape town safe to live in south africa",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&gl=za&hl=en&sxsrf=APpeQns-8iH_bYPReq9E5BVBJgXfRNXmxg:1792273479121&q=Is+parow+cape+town+safe+to+live+in+south+africa&sa=X&ved=2ahUKEwibt8CAg8KXAxWeg4QIHVXvEhsQ1QJ6BAhAEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Is Bellville safe",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&gl=za&hl=en&sxsrf=APpeQns-8iH_bYPReq9E5BVBJgXfRNXmxg:1792273479121&q=Is+Bellville+safe&sa=X&ved=2ahUKEwibt8CAg8KXAxWeg4QIHVXvEhsQ1QJ6BAhCEAE"
+   }
+  ]
+ }
+}

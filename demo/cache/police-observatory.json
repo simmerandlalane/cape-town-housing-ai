@@ -1,0 +1,242 @@
+{
+ "fetched_at": "2026-10-17T21:49:44.433683+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "police station in Observatory, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3ed77a4e3cfb2b4312ace",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/DHINuiM_kReI8bE8D3_naduiS1rdSEi5LfCQwDX5dUM/6ad3ed77a4e3cfb2b4312ace.json",
+   "markdown_endpoint": "https://serpapi.com/searches/DHINuiM_kReI8bE8D3_naduiS1rdSEi5LfCQwDX5dUM/6ad3ed77a4e3cfb2b4312ace.md",
+   "created_at": "2026-10-17 21:49:43 UTC",
+   "processed_at": "2026-10-17 21:49:43 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/police+station+in+Observatory%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/DHINuiM_kReI8bE8D3_naduiS1rdSEi5LfCQwDX5dUM/6ad3ed77a4e3cfb2b4312ace.html",
+   "prettify_html_file": "https://serpapi.com/searches/DHINuiM_kReI8bE8D3_naduiS1rdSEi5LfCQwDX5dUM/6ad3ed77a4e3cfb2b4312ace.prettify",
+   "total_time_taken": 0.67
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "police station in Observatory, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "police station in Observatory, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "SAPS Mowbray Police Station",
+    "place_id": "ChIJT6uCkB9dzB0Rka-zIrOlSdM",
+    "data_id": "0x1dcc5d1f9082ab4f:0xd349a5b322b3af91",
+    "data_cid": "15224882204102602641",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1f9082ab4f%3A0xd349a5b322b3af91&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1f9082ab4f%3A0xd349a5b322b3af91&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9501517,
+     "longitude": 18.472099699999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT6uCkB9dzB0Rka-zIrOlSdM",
+    "provider_id": "/g/1tdj6ss3",
+    "unclaimed_listing": true,
+    "type": "State police",
+    "types": [
+     "State police"
+    ],
+    "address": "32 Main Rd, Mowbray, Cape Town, 7700",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 680 9588",
+    "website": "http://www.saps.gov.za/contacts/stationdetails.php?sid=232",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "SAPS Woodstock Police Station",
+    "place_id": "ChIJ455j3p5dzB0R-vRbk00LItY",
+    "data_id": "0x1dcc5d9ede639ee3:0xd6220b4d935bf4fa",
+    "data_cid": "15429907701137405178",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9ede639ee3%3A0xd6220b4d935bf4fa&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d9ede639ee3%3A0xd6220b4d935bf4fa&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9290446,
+     "longitude": 18.4481264
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ455j3p5dzB0R-vRbk00LItY",
+    "provider_id": "/g/11h_vw60wj",
+    "unclaimed_listing": true,
+    "type": "State police",
+    "types": [
+     "State police"
+    ],
+    "address": "93 Victoria Rd, Woodstock, Cape Town, 7915",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 442 3117",
+    "website": "https://www.saps.gov.za/contacts/stationdetails.php?sid=257&sname=Woodstock",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "SAPS Rondebosch Police Station",
+    "place_id": "ChIJQ6uCkB9dzB0R39Df28As_10",
+    "data_id": "0x1dcc5d1f9082ab43:0x5dff2cc0dbdfd0df",
+    "data_cid": "6773181571422736607",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1f9082ab43%3A0x5dff2cc0dbdfd0df&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1f9082ab43%3A0x5dff2cc0dbdfd0df&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.962701599999995,
+     "longitude": 18.468564
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ6uCkB9dzB0R39Df28As_10",
+    "provider_id": "/g/1tdg093h",
+    "unclaimed_listing": true,
+    "type": "State police",
+    "types": [
+     "State police"
+    ],
+    "address": "Church St, Rondebosch, Cape Town, 7700",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 685 6600",
+    "website": "https://www.saps.gov.za/contacts/stationdetails.php?sid=246&sname=Rondebosch",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "City Of Cape Town Metropolitan Police Training Academy",
+    "place_id": "ChIJf6Lo87ddzB0RFLeS1TrmJyo",
+    "data_id": "0x1dcc5db7f3e8a27f:0x2a27e63ad592b714",
+    "data_cid": "3037649614050342676",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5db7f3e8a27f%3A0x2a27e63ad592b714&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5db7f3e8a27f%3A0x2a27e63ad592b714&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9376356,
+     "longitude": 18.4692221
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf6Lo87ddzB0RFLeS1TrmJyo",
+    "provider_id": "/g/11sqj6cqv_",
+    "unclaimed_listing": true,
+    "type": "Police academy",
+    "types": [
+     "Police academy"
+    ],
+    "address": "84 Station Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "phone": "069 818 3532",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "SAPS Maitland Police Station",
+    "place_id": "ChIJkzYL4VlczB0RMoCaD-5Lw2w",
+    "data_id": "0x1dcc5c59e10b3693:0x6cc34bee0f9a8032",
+    "data_cid": "7837191262390878258",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5c59e10b3693%3A0x6cc34bee0f9a8032&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5c59e10b3693%3A0x6cc34bee0f9a8032&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.923589299999996,
+     "longitude": 18.4832914
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkzYL4VlczB0RMoCaD-5Lw2w",
+    "provider_id": "/g/1tdqx37q",
+    "unclaimed_listing": true,
+    "type": "State police",
+    "types": [
+     "State police",
+     "Civil police"
+    ],
+    "address": "236 Voortrekker Rd, Maitland, Cape Town, 7405",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "082 302 9574",
+    "website": "https://www.saps.gov.za/contacts/stationdetails.php?sid=1074&sname=Maitland",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

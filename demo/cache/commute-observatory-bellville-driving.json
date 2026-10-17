@@ -1,0 +1,491 @@
+{
+ "fetched_at": "2026-10-17T20:28:00.704208+00:00",
+ "params": {
+  "engine": "google_maps_directions",
+  "start_addr": "Observatory, Cape Town",
+  "end_addr": "Bellville, Cape Town",
+  "travel_mode": "0",
+  "time": "arrive_by:1792483200",
+  "distance_unit": "0",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3da4f217adeb012ec8eff",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/U1by3W3E0-_mLDXqvF8NFEEcJ0ZF58n5ykTwbhOKU8k/6ad3da4f217adeb012ec8eff.json",
+   "markdown_endpoint": "https://serpapi.com/searches/U1by3W3E0-_mLDXqvF8NFEEcJ0ZF58n5ykTwbhOKU8k/6ad3da4f217adeb012ec8eff.md",
+   "created_at": "2026-10-17 20:27:59 UTC",
+   "processed_at": "2026-10-17 20:27:59 UTC",
+   "google_maps_directions_url": "https://www.google.com/maps/dir/Observatory%2C+Cape+Town%2C+7925/Bellville%2C+Cape+Town/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x1dcc5d02b0ab656b:0x80c93da7b9287f9!2m2!1d18.4687792!2d-33.9382014!1m5!1m1!1s0x1dcc5a7c88f4a7c5:0xddfdc69775a78922!2m2!1d18.629438399999998!2d-33.8942695!2m3!6e1!7e2!8j1792483200!3e0?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/U1by3W3E0-_mLDXqvF8NFEEcJ0ZF58n5ykTwbhOKU8k/6ad3da4f217adeb012ec8eff.html",
+   "prettify_html_file": "https://serpapi.com/searches/U1by3W3E0-_mLDXqvF8NFEEcJ0ZF58n5ykTwbhOKU8k/6ad3da4f217adeb012ec8eff.prettify",
+   "total_time_taken": 1.08
+  },
+  "search_parameters": {
+   "engine": "google_maps_directions",
+   "hl": "en",
+   "gl": "za",
+   "start_addr": "Observatory, Cape Town",
+   "end_addr": "Bellville, Cape Town",
+   "travel_mode": "0",
+   "distance_unit": "0",
+   "time": "arrive_by:1792483200"
+  },
+  "places_info": [
+   {
+    "address": "Observatory, Cape Town, 7925",
+    "data_id": "0x1dcc5d02b0ab656b:0x80c93da7b9287f9",
+    "gps_coordinates": {
+     "latitude": -33.9382014,
+     "longitude": 18.4687792
+    }
+   },
+   {
+    "address": "Bellville, Cape Town",
+    "data_id": "0x1dcc5a7c88f4a7c5:0xddfdc69775a78922",
+    "gps_coordinates": {
+     "latitude": -33.8942695,
+     "longitude": 18.629438399999998
+    }
+   }
+  ],
+  "directions": [
+   {
+    "travel_mode": "Driving",
+    "via": "N1",
+    "distance": 20980,
+    "duration": 1680,
+    "leave_around": 1792473600,
+    "typical_duration_range": "22–40 min",
+    "formatted_distance": "21.0 km",
+    "formatted_duration": "28 min",
+    "formatted_leave_around": "7:20 AM",
+    "extensions": [
+     "Fastest route now due to traffic conditions"
+    ],
+    "icon": "https://serpapi.com/assets/google_maps_directions/driving.svg",
+    "trips": [
+     {
+      "travel_mode": "Driving",
+      "title": "Get on  Black River Pkwy / M5  in  Ndabeni  from  Station Rd / M163 ,  Liesbeek Pkwy / M57  and  Berkley Rd",
+      "distance": 2689,
+      "duration": 437,
+      "formatted_distance": "2.7 km",
+      "formatted_duration": "7 min",
+      "details": [
+       {
+        "title": "Head toward  James Rd",
+        "action": "straight",
+        "distance": 80,
+        "duration": 24,
+        "formatted_distance": "80 m",
+        "formatted_duration": "24 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oQglguhLqbCr2-u0q8XaEA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=65.13128&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93815075561002,
+         "longitude": 18.46895038606309
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Arnold St",
+        "action": "turn-right",
+        "distance": 159,
+        "duration": 52,
+        "formatted_distance": "160 m",
+        "formatted_duration": "52 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vPAB6pgoeLYoKmG3vNTdPg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=70.86592&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93839680924396,
+         "longitude": 18.46814317867266
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Milton Rd",
+        "action": "turn-right",
+        "distance": 84,
+        "duration": 32,
+        "formatted_distance": "84 m",
+        "formatted_duration": "32 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AR-_7gnvdvPNLYsSCxLOCA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=161.19472&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93724393699616,
+         "longitude": 18.467463126241075
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Lower Main Rd",
+        "action": "turn-right",
+        "distance": 160,
+        "duration": 36,
+        "formatted_distance": "160 m",
+        "formatted_duration": "36 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U2sxKVSVygPP2X71VAtlzQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=249.1728&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93689300387182,
+         "longitude": 18.468061941815975
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Station Rd / M163",
+        "action": "turn-left",
+        "distance": 606,
+        "duration": 87,
+        "formatted_distance": "600 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BYduPbB_JNrx7G0nTae-iw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=162.21326&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93798927249458,
+         "longitude": 18.468729225723187
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Liesbeek Pkwy / M57",
+        "action": "turn-left",
+        "distance": 605,
+        "duration": 78,
+        "formatted_distance": "600 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B6cr6cJunhHBPm3RCDMjXw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=71.030876&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93650701965263,
+         "longitude": 18.474774959599024
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Keep  right  to continue toward  Berkley Rd",
+        "action": "turn-right",
+        "distance": 85,
+        "duration": 20,
+        "formatted_distance": "85 m",
+        "formatted_duration": "20 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BRsPWiq17fQDUyyVzsCWNw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=169.39117&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93179091389718,
+         "longitude": 18.472286645802
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Berkley Rd",
+        "action": "turn-right",
+        "distance": 637,
+        "duration": 76,
+        "formatted_distance": "650 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gFAZZcr-mKvacDy2MVf9og&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=170.24968&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.9310602469889,
+         "longitude": 18.472148623020644
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  to merge onto  Black River Pkwy / M5",
+        "action": "merge",
+        "distance": 273,
+        "duration": 32,
+        "formatted_distance": "270 m",
+        "formatted_duration": "32 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TAxLU4YdXT2ic8IHnua85g&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=65.95379&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.929165308504935,
+         "longitude": 18.478441394452283
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_grey800_18dp.png"
+       }
+      ]
+     },
+     {
+      "travel_mode": "Driving",
+      "title": "Continue to  N1 . Take the  N1  exit from  Black River Pkwy / M5",
+      "distance": 1813,
+      "duration": 94,
+      "formatted_distance": "1.8 km",
+      "formatted_duration": "2 min",
+      "details": [
+       {
+        "title": "Merge onto  Black River Pkwy / M5",
+        "action": "merge",
+        "distance": 639,
+        "duration": 32,
+        "formatted_distance": "650 m",
+        "formatted_duration": "32 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z3qIJ_bGGTBhajvxQM-9lw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=156.98425&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.92707995196396,
+         "longitude": 18.477725728842536
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_grey800_18dp.png"
+       },
+       {
+        "title": "Use the left 2 lanes to merge onto  N1  toward  Paarl",
+        "distance": 1174,
+        "duration": 62,
+        "formatted_distance": "1.2 km",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gYf0L0znUAFUp6cFiaMtrA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=27.247301&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.92173858918425,
+         "longitude": 18.477980767190484
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Driving",
+      "title": "Follow  N1  to  Durban Rd / Willie Van Schoor Dr / R302  in  Bo Oakdale . Exit from  N1",
+      "distance": 15409,
+      "duration": 665,
+      "formatted_distance": "15.4 km",
+      "formatted_duration": "11 min",
+      "details": [
+       {
+        "title": "Merge onto  N1",
+        "action": "merge",
+        "distance": 14755,
+        "duration": 595,
+        "formatted_distance": "14.8 km",
+        "formatted_duration": "10 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aqOjBLCBojr5Sd61gGZRwg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=76.85568&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.91636128327784,
+         "longitude": 18.487602804684144
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_grey800_18dp.png"
+       },
+       {
+        "title": "Take the exit toward  Durban Rd / Willie Van Schoor Dr / R302",
+        "action": "ramp-left",
+        "distance": 654,
+        "duration": 70,
+        "formatted_distance": "650 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uxnCkHZ0WDl4Q1RXFj4BFg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=81.28201&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.888038719199095,
+         "longitude": 18.628322950641408
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_left_grey800_18dp.png"
+       }
+      ]
+     },
+     {
+      "travel_mode": "Driving",
+      "distance": 1069,
+      "duration": 163,
+      "formatted_distance": "1.1 km",
+      "formatted_duration": "3 min",
+      "details": [
+       {
+        "title": "Use the right 2 lanes to turn  right  onto  Durban Rd / Willie Van Schoor Dr / R302",
+        "action": "turn-right",
+        "distance": 1069,
+        "duration": 163,
+        "formatted_distance": "1.1 km",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t2xNtm82z7gSuxoC89kOsQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=81.93412&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.88617005236205,
+         "longitude": 18.634962871749032
+        },
+        "extensions": [
+         "Continue to follow Durban Rd/R302"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Driving",
+    "via": "Black River Pkwy/M5 and N1",
+    "distance": 22576,
+    "duration": 1800,
+    "leave_around": 1792473600,
+    "typical_duration_range": "22–40 min",
+    "formatted_distance": "22.6 km",
+    "formatted_duration": "30 min",
+    "formatted_leave_around": "7:20 AM",
+    "extensions": [
+     "Some traffic, as usual"
+    ],
+    "icon": "https://serpapi.com/assets/google_maps_directions/driving.svg",
+    "trips": [
+     {
+      "travel_mode": "Driving",
+      "title": "Continue to  Mowbray",
+      "distance": 1391,
+      "duration": 297,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "5 min",
+      "details": [
+       {
+        "title": "Head toward  James Rd",
+        "action": "straight",
+        "distance": 336,
+        "duration": 95,
+        "formatted_distance": "350 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oQglguhLqbCr2-u0q8XaEA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=65.13128&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93815075561002,
+         "longitude": 18.46895038606309
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Main Rd / M4",
+        "action": "turn-left",
+        "distance": 735,
+        "duration": 164,
+        "formatted_distance": "750 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DQrW5HYRCBBFT5EFjX1i2Q&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=248.7598&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.93914408904597,
+         "longitude": 18.465554566973534
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  left (signs for  N2 / Cape Town International Airport / Somerset )",
+        "action": "turn-slight-left",
+        "distance": 320,
+        "duration": 38,
+        "formatted_distance": "300 m",
+        "formatted_duration": "38 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jMKgTGgqZTud0Ncu2cVF1A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=339.34543&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.944688267240416,
+         "longitude": 18.469410820244306
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     },
+     {
+      "travel_mode": "Driving",
+      "title": "Take  N1  to  Durban Rd / Willie Van Schoor Dr / R302  in  Bo Oakdale . Exit from  N1",
+      "distance": 20116,
+      "duration": 904,
+      "formatted_distance": "20.1 km",
+      "formatted_duration": "15 min",
+      "details": [
+       {
+        "title": "Merge onto  Settlers Way / N2",
+        "action": "merge",
+        "distance": 820,
+        "duration": 42,
+        "formatted_distance": "800 m",
+        "formatted_duration": "42 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hTY0lVRwqAqJT2TQZTXBpg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=267.2203&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.944523161418275,
+         "longitude": 18.472469317769388
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_grey800_18dp.png"
+       },
+       {
+        "title": "Take exit  9A  to merge onto  Black River Pkwy / M5  toward  N1",
+        "action": "ramp-left",
+        "distance": 2713,
+        "duration": 134,
+        "formatted_distance": "2.7 km",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mlZzB81G-YDD4kf3JhK91g&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=264.27048&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.943670519056475,
+         "longitude": 18.48126784418468
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_left_grey800_18dp.png"
+       },
+       {
+        "title": "Use the left 2 lanes to merge onto  N1  toward  Paarl",
+        "distance": 15929,
+        "duration": 658,
+        "formatted_distance": "15.9 km",
+        "formatted_duration": "11 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gYf0L0znUAFUp6cFiaMtrA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=27.247301&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.92173858918425,
+         "longitude": 18.477980767190484
+        }
+       },
+       {
+        "title": "Take the exit toward  Durban Rd / Willie Van Schoor Dr / R302",
+        "action": "ramp-left",
+        "distance": 654,
+        "duration": 70,
+        "formatted_distance": "650 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uxnCkHZ0WDl4Q1RXFj4BFg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=81.28201&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.888038719199095,
+         "longitude": 18.628322950641408
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/merge_left_grey800_18dp.png"
+       }
+      ]
+     },
+     {
+      "travel_mode": "Driving",
+      "distance": 1069,
+      "duration": 163,
+      "formatted_distance": "1.1 km",
+      "formatted_duration": "3 min",
+      "details": [
+       {
+        "title": "Use the right 2 lanes to turn  right  onto  Durban Rd / Willie Van Schoor Dr / R302",
+        "action": "turn-right",
+        "distance": 1069,
+        "duration": 163,
+        "formatted_distance": "1.1 km",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t2xNtm82z7gSuxoC89kOsQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=81.93412&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.88617005236205,
+         "longitude": 18.634962871749032
+        },
+        "extensions": [
+         "Continue to follow Durban Rd/R302"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "durations": [
+   {
+    "travel_mode": "Driving",
+    "duration": 1680,
+    "formatted_duration": "28 min"
+   },
+   {
+    "travel_mode": "Two-wheeler",
+    "duration": 1800,
+    "formatted_duration": "30 min"
+   },
+   {
+    "travel_mode": "Transit",
+    "duration": 4260,
+    "formatted_duration": "1 hr 11"
+   },
+   {
+    "travel_mode": "Walking",
+    "duration": 14420,
+    "formatted_duration": "4 hr"
+   }
+  ]
+ }
+}

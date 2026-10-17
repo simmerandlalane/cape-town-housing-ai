@@ -1,0 +1,23 @@
+[theme]
+base = "light"
+primaryColor = "#1D4E6B"          # Atlantic blue
+backgroundColor = "#FBF8F3"       # sandstone
+secondaryBackgroundColor = "#F1ECE3"
+textColor = "#1E2A33"
+linkColor = "#1D4E6B"
+borderColor = "#E4DCCE"
+font = "Figtree:https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap, sans-serif"
+headingFont = "Outfit:https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap, sans-serif"
+baseRadius = "0.75rem"
+buttonRadius = "full"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.sidebar]
+backgroundColor = "#F4EFE6"
+
+[server]
+enableStaticServing = true  # serves ./static at app/static (the hero photo)
+
+[browser]
+gatherUsageStats = false

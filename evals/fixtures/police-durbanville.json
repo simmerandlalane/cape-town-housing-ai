@@ -1,0 +1,17 @@
+{
+ "fetched_at": "2026-10-17T21:47:40.632331+00:00",
+ "params": {
+  "q": "police station in Durbanville, Cape Town"
+ },
+ "response": {
+  "place_results": {
+   "title": "SAPS Durbanville Police Station",
+   "type": [
+    "State police",
+    "Police department"
+   ],
+   "address": "2 Church St, Durbanville, Cape Town, 7550",
+   "phone": "021 970 3800"
+  }
+ }
+}

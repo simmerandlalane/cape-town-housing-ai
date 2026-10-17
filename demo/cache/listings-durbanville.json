@@ -1,0 +1,405 @@
+{
+ "fetched_at": "2026-10-17T20:27:03.233288+00:00",
+ "params": {
+  "engine": "google",
+  "q": "flat to rent in Durbanville Cape Town",
+  "location": "Cape Town,Western Cape,South Africa",
+  "google_domain": "google.co.za",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3d9fc3d87019f07302913",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/nbXpAAcdQ98eJxg2m_sr4Z2PVrVR5xk7TgRJHX88oQQ/6ad3d9fc3d87019f07302913.json",
+   "markdown_endpoint": "https://serpapi.com/searches/nbXpAAcdQ98eJxg2m_sr4Z2PVrVR5xk7TgRJHX88oQQ/6ad3d9fc3d87019f07302913.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/nbXpAAcdQ98eJxg2m_sr4Z2PVrVR5xk7TgRJHX88oQQ/6ad3d9fc3d87019f07302913.json_with_pixel_position",
+   "created_at": "2026-10-17 20:26:36 UTC",
+   "processed_at": "2026-10-17 20:26:36 UTC",
+   "google_url": "https://www.google.co.za/search?q=flat+to+rent+in+Durbanville+Cape+Town&oq=flat+to+rent+in+Durbanville+Cape+Town&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&hl=en&gl=za&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/nbXpAAcdQ98eJxg2m_sr4Z2PVrVR5xk7TgRJHX88oQQ/6ad3d9fc3d87019f07302913.html",
+   "total_time_taken": 26.5
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "flat to rent in Durbanville Cape Town",
+   "location_requested": "Cape Town,Western Cape,South Africa",
+   "location_used": "Cape Town,Western Cape,South Africa",
+   "google_domain": "google.co.za",
+   "hl": "en",
+   "gl": "za",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "flat to rent in Durbanville Cape Town",
+   "total_results": 132,
+   "time_taken_displayed": 0.21,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+   {
+    "position": 1,
+    "block_position": "top",
+    "title": "New Listings in Durbanville | View Homes to Rent",
+    "link": "https://www.property24.com/to-rent/durbanville/western-cape/439",
+    "displayed_link": "https://www.property24.com",
+    "tracking_link": "https://www.google.co.za/aclk?sa=L&pf=1&ai=DChsSEwj_rPbT8cGXAxUJGYcDHX1CKdwYACICCAEQARoCamY&co=1&ase=2&gclid=EAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAAYASAAEgJl9_D_BwE&cid=CAASugHkaNG1Mr2vWmUfg4njTlw0IWzA4fqJvQcLRxCjCxvi4k2tLUrUffdn2K0rbC2Dmk_-KD9e8HiI1SdlZJpq_3qjRcR6P1fof3oJ6Qt3xoERWsQAZoriUsYMgw5fxTLaTEbPu4IjAk-d7Quvdbggto66PvZrXNlirCQbshCSvef39yI0WxC0bvkWzmz713UiMIpTskNoKI1KnGnLZhkA_F96wZDxV3J-86LT2Xk4fcs6NrC-ee-slSEqaLI&cce=2&category=acrcp_v1_32&sig=AOD64_1cyu73L1Ft-cdQG07vWO7rnTOeeg&q&nis=4&adurl=https://www.property24.com/to-rent/durbanville/western-cape/439?gad_source%3D1%26gad_campaignid%3D264761055%26gbraid%3D0AAAAAD2HGEt11RpTL8itobFyFUlKE4A3C%26gclid%3DEAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAAYASAAEgJl9_D_BwE",
+    "description": "View Homes to Rent in Durbanville. Select from Up-to-the-Minute Listings on Property24! Find, View & Evaluate Home Rental Listings Easily on Your Mobile or Desktop, 24/7. Buy, Rent, Sell Property.",
+    "source": "Property24",
+    "sitelinks": [
+     {
+      "title": "Western Cape Flat Rentals",
+      "link": "https://www.property24.com/apartments-to-rent/western-cape/9",
+      "snippets": [
+       "Find the perfect apartment rental in the Western Cape on Property24."
+      ]
+     },
+     {
+      "title": "Western Cape Townhouses",
+      "link": "https://www.property24.com/townhouses-to-rent/western-cape/9",
+      "snippets": [
+       "Safe and secure townhouses to rent in the Western Cape on Property24."
+      ]
+     },
+     {
+      "title": "Western Cape Homes To Let",
+      "link": "https://www.property24.com/houses-to-rent/western-cape/9",
+      "snippets": [
+       "Beautiful and spacious home rentals in the Western Cape on Property24."
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "block_position": "top",
+    "title": "85 Properties in Durbanville | Durbanville Property To Let",
+    "link": "https://www.privateproperty.co.za/to-rent/western-cape/cape-town/durbanville/739",
+    "displayed_link": "https://www.privateproperty.co.za › property › for-rent",
+    "tracking_link": "https://www.google.co.za/aclk?sa=L&pf=1&ai=DChsSEwj_rPbT8cGXAxUJGYcDHX1CKdwYACICCAEQDBoCamY&co=1&ase=2&gclid=EAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAAYAiAEEgJzFPD_BwE&cid=CAASugHkaNG1Mr2vWmUfg4njTlw0IWzA4fqJvQcLRxCjCxvi4k2tLUrUffdn2K0rbC2Dmk_-KD9e8HiI1SdlZJpq_3qjRcR6P1fof3oJ6Qt3xoERWsQAZoriUsYMgw5fxTLaTEbPu4IjAk-d7Quvdbggto66PvZrXNlirCQbshCSvef39yI0WxC0bvkWzmz713UiMIpTskNoKI1KnGnLZhkA_F96wZDxV3J-86LT2Xk4fcs6NrC-ee-slSEqaLI&cce=2&category=acrcp_v1_32&sig=AOD64_3yv0YcU8iiaFoOAETJJWayBl43ng&q=&nis=4&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQh78CegQIERAB&adurl=https://www.privateproperty.co.za/to-rent/western-cape/cape-town/durbanville/739%3Fgad_source%3D1%26gad_campaignid%3D23952142260%26gbraid%3D0AAAABD7sKqdAn1kVCO61rBQ5KsbCKBbeH%26gclid%3DEAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAAYAiAEEgJzFPD_BwE",
+    "description": "Filter properties in Durbanville by price, bedrooms and size. New listings daily.",
+    "source": "Private Property",
+    "sitelinks": [
+     {
+      "title": "Garden Cottages For Rent",
+      "link": "https://www.privateproperty.co.za/garden-cottages-to-rent/durbanville/739"
+     },
+     {
+      "title": "New Durbanville Listings Daily",
+      "link": "https://www.google.co.za/aclk?sa=L&pf=1&ai=DChsSEwj_rPbT8cGXAxUJGYcDHX1CKdwYACICCAEQDRoCamY&co=1&ase=2&gclid=EAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAAYAiAFEgJRl_D_BwE&cid=CAASugHkaNG1Mr2vWmUfg4njTlw0IWzA4fqJvQcLRxCjCxvi4k2tLUrUffdn2K0rbC2Dmk_-KD9e8HiI1SdlZJpq_3qjRcR6P1fof3oJ6Qt3xoERWsQAZoriUsYMgw5fxTLaTEbPu4IjAk-d7Quvdbggto66PvZrXNlirCQbshCSvef39yI0WxC0bvkWzmz713UiMIpTskNoKI1KnGnLZhkA_F96wZDxV3J-86LT2Xk4fcs6NrC-ee-slSEqaLI&cce=2&category=acrcp_v1_32&sig=AOD64_0uTjqsDZhpi-idTJ2WxN_KzxHKkg&adurl=https://www.privateproperty.co.za/to-rent/western-cape/cape-town/durbanville/739%3Fgad_source%3D1%26gad_campaignid%3D23952142260%26gbraid%3D0AAAABD7sKqdAn1kVCO61rBQ5KsbCKBbeH%26gclid%3DEAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAAYAiAFEgJRl_D_BwE&q="
+     },
+     {
+      "title": "Apartments For Rent",
+      "link": "https://www.privateproperty.co.za/apartments-to-rent/durbanville/739"
+     },
+     {
+      "title": "Houses For Rent",
+      "link": "https://www.privateproperty.co.za/houses-to-rent/durbanville/739"
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "block_position": "top",
+    "title": "Durbanville Flats by Owner - Flats To Rent In Durbanville",
+    "link": "https://findallrentals.co.za/for-rent/apartment/durbanville",
+    "displayed_link": "https://www.findallrentals.co.za",
+    "tracking_link": "https://www.google.co.za/aclk?sa=L&ai=DChsSEwj_rPbT8cGXAxUJGYcDHX1CKdwYACICCAEQABoCamY&co=1&ase=2&gclid=EAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAAYAyAAEgLZOPD_BwE&cid=CAASugHkaNG1Mr2vWmUfg4njTlw0IWzA4fqJvQcLRxCjCxvi4k2tLUrUffdn2K0rbC2Dmk_-KD9e8HiI1SdlZJpq_3qjRcR6P1fof3oJ6Qt3xoERWsQAZoriUsYMgw5fxTLaTEbPu4IjAk-d7Quvdbggto66PvZrXNlirCQbshCSvef39yI0WxC0bvkWzmz713UiMIpTskNoKI1KnGnLZhkA_F96wZDxV3J-86LT2Xk4fcs6NrC-ee-slSEqaLI&cce=2&category=acrcp_v1_32&sig=AOD64_3V7o3fpxG5SA90qyF0RtEp0RODqg&q&nis=4&adurl",
+    "description": "Findallrentals. Apartments / flats to rent in Durbanville by owner",
+    "source": "Findallrentals",
+    "sitelinks": [
+     {
+      "title": "Apartments / flats to rent in Durbanville by owner",
+      "link": "https://www.google.co.za/aclk?sa=L&ai=DChsSEwj_rPbT8cGXAxUJGYcDHX1CKdwYACICCAEQBhoCamY&co=1&ase=2&gclid=EAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAAYAyACEgIEtvD_BwE&cid=CAASugHkaNG1Mr2vWmUfg4njTlw0IWzA4fqJvQcLRxCjCxvi4k2tLUrUffdn2K0rbC2Dmk_-KD9e8HiI1SdlZJpq_3qjRcR6P1fof3oJ6Qt3xoERWsQAZoriUsYMgw5fxTLaTEbPu4IjAk-d7Quvdbggto66PvZrXNlirCQbshCSvef39yI0WxC0bvkWzmz713UiMIpTskNoKI1KnGnLZhkA_F96wZDxV3J-86LT2Xk4fcs6NrC-ee-slSEqaLI&cce=2&category=acrcp_v1_32&sig=AOD64_065pH7cGqj86rD3ofJgX4l-NgTng&adurl=&q="
+     },
+     {
+      "title": "Bachelor Flats in Durbanville",
+      "link": "https://findallrentals.co.za/for-rent/apartment/durbanville"
+     },
+     {
+      "title": "How It Works",
+      "link": "https://findallrentals.co.za/about-us"
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "block_position": "bottom",
+    "title": "Durbanville Flats by Owner - Flats To Rent In Durbanville",
+    "link": "https://findallrentals.co.za/for-rent/apartment/durbanville",
+    "displayed_link": "https://www.findallrentals.co.za",
+    "tracking_link": "https://www.google.co.za/aclk?sa=L&ai=DChsSEwj_rPbT8cGXAxUJGYcDHX1CKdwYACICCAIQABoCamY&co=1&ase=2&gclid=EAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAMYASAAEgIeSfD_BwE&cid=CAASugHkaNG1Mr2vWmUfg4njTlw0IWzA4fqJvQcLRxCjCxvi4k2tLUrUffdn2K0rbC2Dmk_-KD9e8HiI1SdlZJpq_3qjRcR6P1fof3oJ6Qt3xoERWsQAZoriUsYMgw5fxTLaTEbPu4IjAk-d7Quvdbggto66PvZrXNlirCQbshCSvef39yI0WxC0bvkWzmz713UiMIpTskNoKI1KnGnLZhkA_F96wZDxV3J-86LT2Xk4fcs6NrC-ee-slSEqaLI&cce=2&category=acrcp_v1_32&sig=AOD64_2FfgECyK7K_wluYaUg7dUazvX6AA&q&nis=4&adurl",
+    "description": "Findallrentals. Apartments / flats to rent in Durbanville by owner. Easily find an apartment or flat to rent by owner in Durbanville. Search Properties. Submit A Request. Sign Up Online. Highlights: Offering A Range Of Features, Serving In Multiple Cities, Photo Gallery Available.",
+    "extensions": [
+     "100K+ visits in past month"
+    ],
+    "source": "Findallrentals"
+   },
+   {
+    "position": 5,
+    "block_position": "bottom",
+    "title": "85 Properties in Durbanville | Durbanville Property To Let",
+    "link": "https://www.privateproperty.co.za/to-rent/western-cape/cape-town/durbanville/739",
+    "displayed_link": "https://www.privateproperty.co.za › property › for-rent",
+    "tracking_link": "https://www.google.co.za/aclk?sa=L&ai=DChsSEwj_rPbT8cGXAxUJGYcDHX1CKdwYACICCAIQARoCamY&co=1&ase=2&gclid=EAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAMYAiAAEgLY1_D_BwE&cid=CAASugHkaNG1Mr2vWmUfg4njTlw0IWzA4fqJvQcLRxCjCxvi4k2tLUrUffdn2K0rbC2Dmk_-KD9e8HiI1SdlZJpq_3qjRcR6P1fof3oJ6Qt3xoERWsQAZoriUsYMgw5fxTLaTEbPu4IjAk-d7Quvdbggto66PvZrXNlirCQbshCSvef39yI0WxC0bvkWzmz713UiMIpTskNoKI1KnGnLZhkA_F96wZDxV3J-86LT2Xk4fcs6NrC-ee-slSEqaLI&cce=2&category=acrcp_v1_32&sig=AOD64_2XFym5uXm2GZDHExOZyePf5gHuaQ&q&nis=4&adurl",
+    "description": "Filter properties in Durbanville by price, bedrooms and size. New listings daily. Find Durbanville Property To Let for rent in Durbanville. Verified listings on Private Property®. Long Term Rentals. Garden Flat Listings. Short Term Rentals. Unfurnished Listings. Month to Month Rentals. HD Photos.",
+    "extensions": [
+     "1M+ visits in past month"
+    ],
+    "source": "Private Property",
+    "sitelinks": [
+     {
+      "title": "Garden Cottages For Rent",
+      "link": "https://www.privateproperty.co.za/garden-cottages-to-rent/durbanville/739"
+     },
+     {
+      "title": "New Durbanville Listings Daily",
+      "link": "https://www.google.co.za/aclk?sa=L&ai=DChsSEwj_rPbT8cGXAxUJGYcDHX1CKdwYACICCAIQBRoCamY&co=1&ase=2&gclid=EAIaIQobChMI_6z20_HBlwMVCRmHAx19QincEAMYAiAEEgL7cPD_BwE&cid=CAASugHkaNG1Mr2vWmUfg4njTlw0IWzA4fqJvQcLRxCjCxvi4k2tLUrUffdn2K0rbC2Dmk_-KD9e8HiI1SdlZJpq_3qjRcR6P1fof3oJ6Qt3xoERWsQAZoriUsYMgw5fxTLaTEbPu4IjAk-d7Quvdbggto66PvZrXNlirCQbshCSvef39yI0WxC0bvkWzmz713UiMIpTskNoKI1KnGnLZhkA_F96wZDxV3J-86LT2Xk4fcs6NrC-ee-slSEqaLI&cce=2&category=acrcp_v1_32&sig=AOD64_1xpzypK-ClpJymRnrk813KiiHFtw&adurl=&q="
+     },
+     {
+      "title": "Apartments For Rent",
+      "link": "https://www.privateproperty.co.za/apartments-to-rent/durbanville/739"
+     },
+     {
+      "title": "Houses For Rent",
+      "link": "https://www.privateproperty.co.za/houses-to-rent/durbanville/739"
+     }
+    ]
+   }
+  ],
+  "local_map": {
+   "link": "https://www.google.co.za/search?q=flat+to+rent+in+Durbanville+Cape+Town&sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&udm=local&lsack=FtrTaq30BpHZruEPra6VmA8&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQtgN6BAhGEAM",
+   "image": "https://serpapi.com/images/i/R0lGODlhAQABAIAAAP_______yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw.gif",
+   "gps_coordinates": {
+    "latitude": -33.84333046657819,
+    "longitude": 18.646202087402344
+   }
+  },
+  "local_results": {
+   "places": [
+    {
+     "position": 1,
+     "title": "Fontijn on Newhaven",
+     "type": "Apartment complex",
+     "rating": 4.2,
+     "reviews": 29,
+     "description": "\"Modern apartment complex with units for rent.\"",
+     "links": {
+      "phone": "tel:087 941 3884",
+      "website": "http://www.fontijn.co.za/"
+     },
+     "place_id": "5268781514055162495",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&ludocid=5268781514055162495&q=flat+to+rent+in+Durbanville+Cape+Town",
+     "provider_id": "/g/11j0v5w1j0",
+     "gps_coordinates": {
+      "latitude": -33.832204,
+      "longitude": 18.654366
+     },
+     "address": "1 Newhaven St, Durbanville, Cape Town, 7550",
+     "hours": "Closed · Opens 8 am Sun",
+     "phone": "087 941 3884"
+    },
+    {
+     "position": 2,
+     "title": "Durbanville Self Catering Apartments",
+     "type": "Hotel",
+     "rating": 4.9,
+     "reviews": 65,
+     "description": "\"Close to all amenities, but still private and very safe.\"",
+     "links": {
+      "phone": "tel:083 286 7151",
+      "website": "https://www.facebook.com/profile.php?id=100"
+     },
+     "place_id": "8702408767722994654",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&ludocid=8702408767722994654&q=flat+to+rent+in+Durbanville+Cape+Town",
+     "provider_id": "/g/11w9707cxl",
+     "gps_coordinates": {
+      "latitude": -33.870464,
+      "longitude": 18.638331
+     },
+     "address": "D' Urban Ridge, 2 Alf St, Kenridge, Cape Town, 7550",
+     "phone": "083 286 7151"
+    },
+    {
+     "position": 3,
+     "title": "Durbanville Square",
+     "type": "Housing complex",
+     "rating": 4.5,
+     "reviews": 34,
+     "place_id": "4808012281047364421",
+     "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&ludocid=4808012281047364421&q=flat+to+rent+in+Durbanville+Cape+Town",
+     "provider_id": "/g/11gd0rlry5",
+     "gps_coordinates": {
+      "latitude": -33.823869,
+      "longitude": 18.64851
+     },
+     "address": "1 Murray St, Durbanville, Cape Town, 7550"
+    }
+   ],
+   "more_locations_link": "https://www.google.co.za/search?q=flat+to+rent+in+Durbanville+Cape+Town&sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&udm=local&lsack=FtrTaq30BpHZruEPra6VmA8&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQjGp6BAhHEAE"
+  },
+  "knowledge_graph": {
+   "place_id": "ChIJ18grU4RXzB0RfxpnMN94Hkk"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Rental apartment in Durbanville available",
+    "link": "https://www.facebook.com/groups/208865412478939/posts/24385433367728806/",
+    "displayed_link": "7 comments · 1 year ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "1 bedroom apartment in Durbanville centre for rent starting 1 September 2025 for R7300 per month. Features: Generous open-plan kitchen and ...",
+    "snippet_highlighted_words": [
+     "apartment",
+     "Durbanville",
+     "rent"
+    ],
+    "source": "Facebook · Durbanville",
+    "read_more_link": "https://www.facebook.com/groups/208865412478939/posts/24385433367728806/#:~:text=1%20bedroom%20apartment%20in%20Durbanville,open%2Dplan%20kitchen%20and%20living%20area."
+   },
+   {
+    "position": 2,
+    "title": "31 Properties To Rent in Durbanville",
+    "link": "https://propertycentral.co.za/area/Durbanville/159/property-to-rent",
+    "displayed_link": "https://propertycentral.co.za › ... › Western Cape",
+    "favicon": "https://serpapi.com/images/i/UklGRuABAABXRUJQVlA4INQBAAAwCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhILPkHDtOG9PjAbYDzAfqr-t3BHf0DrTfQA6SjyWnj9x6j60Tv-yrisAQlEcojAcVyM6hrggr4dF9V_AoQAA_vfxZx_7_l_pvio3WchgbU_k2JOcfzMPKF-rHrzXaFFZ5n8oFyCfq1YrRJdE9cspro67hrH10_xqeclbOzTtWTAOjnhtmZP5cj-vZ8HYOg_0UhoNkDvmjB_17M76uLr9SljA3Ce5y9EHE_VsHgfw-dk-0Fyt-reXj4wxcvDyPLKTWP2fvvWM_tTfRT5dF3-Ola-3Gm547Yfbl0_dKoZ3QJpjcIHQH6Aeeht-9U77QNCvo2rL5OrCrmdvM7nxGGu1bl-__i36KqNKC2U-X_Fzri59t_GVyWVfgD94DWtzaXmRo_1NkYkMPz4TK4AR1znUKWWEVd_bHPO8N5y4j51zDe6ulxsQOvqWpVrkaQJHVFFanYqoXi9Nqm-7k-rguaYrmuYIlP_PLVroQcaXYL0KmWf6ZhgQJPsAHpg-5gHNrxqu5HXt6NbIvysqnNm248GFWLsYuVAFX6kQoSrRw_mULy0rfgvdSOltYxRY9GQcLSC01S_xpq7uEAA.webp",
+    "snippet": "Browse 31+ properties for rent in Durbanville from R7965 to R50000. Find houses, stands, farms and townhouses with PropertyCentral's extensive listings.",
+    "snippet_highlighted_words": [
+     "Browse 31+ properties for rent in Durbanville"
+    ],
+    "source": "PropertyCentral"
+   },
+   {
+    "position": 3,
+    "title": "407 flats to rent in Durbanville, City of Cape Town",
+    "link": "https://homes.trovit.co.za/for-rent-durbanville-flat",
+    "displayed_link": "https://homes.trovit.co.za › ... › Durbanville",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwUgfcUgfcUgfcTgfcUgfcUgfcAevcEfvcAdvd-sPr___-61PxSmfny9_8xi_imx_vS4_1-L0Y0AAAAB3RSTlMAUr3w_9DPTmi3dQAAALZJREFUeAGtk0UCxDAIACN0gRD9_2c31P3UqYaJi-lY5-GEd9aMDHDL79EpQ68TNhCAYMMatyU4iATe0s6sfSGM0om8FvZmrTJlyaXoC2FmkVxFKhPpN_BBEjTJaYxxEmlEmyQNoAY0QU0k0SoxzlWtTVTcy0KbxHSWsEFfS8Rnia3ho-Sc-VsJzEwqlXKSuRM467ezSK_1hDESOOaZQONiO1DLCgHyjDpwxsIj9n1rPll1r8fhD-GaEsZZjUgUAAAAAElFTkSuQmCC.png",
+    "snippet": "We have 407 flats to rent in Durbanville, City of Cape Town from R 6 000 / month. short term lease possible. 1 to 6 months or longer, even a year.",
+    "snippet_highlighted_words": [
+     "flats to rent in Durbanville",
+     "Cape Town"
+    ],
+    "source": "Trovit"
+   },
+   {
+    "position": 4,
+    "title": "Durbanville, South Africa Furnished Monthly Rentals ... - Airbnb",
+    "link": "https://www.airbnb.co.za/durbanville-cape-town-south-africa/stays/monthly",
+    "displayed_link": "https://www.airbnb.co.za › ... › Cape Town › Durbanville",
+    "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAACwBgCdASocABwAPrUurVanIacnG_DgFolsAJ0yhIDxAC7AN5TZwDdBb3zKUfUGPy24utIr4zPhzVZzK3XwAADWj3wPTSbfVXpGn6uzq0S3fpGeYQsF7zXqn1zr_Fn-Y3ztdUGn7Fmx9E9KjuHwM5XR_8s_6JY53jT9jC-55nT1ccdx9Ym6trwcZqyybB1RPRdh4KlQWkjlFmZ-d8mY2ABdbzjnbIrUW8z2v9fl2alFv3eKgeRR29WGe_rHBh_KH1qbsl-RsbM9rLd3tRDrL9nPJxAgQD6AUC1q4fKCAL9gKWYnCcjsGRh17yf3c8bTGdsEHLK92yUfk0Enspd4_bAa3ivAAA.webp",
+    "snippet": "Fully furnished rentals that include a kitchen and wifi, so you can settle in and live comfortably for a month or longer in Durbanville, South Africa.",
+    "snippet_highlighted_words": [
+     "Fully furnished rentals that include a kitchen and wifi"
+    ],
+    "source": "airbnb.co.za"
+   },
+   {
+    "position": 5,
+    "title": "Property and houses to rent in Durbanville",
+    "link": "https://www.property24.com/to-rent/durbanville/western-cape/439/p8",
+    "displayed_link": "https://www.property24.com › ... › Durbanville",
+    "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADwBACdASocABwAPtEwtFooIigoGAEAGglsALsMEmIhQX-srKG5w7uUkpQIBS9ZYAAA_vYBJ8Y3I_MptR_3FnfrbKWzctb3LazCcCrVhf3LjMHUc46ya_ohgtVlgAQjjOBzDx5a7RaTXtPXbkStlLa1Wogat6wps0tIEIENdfpMruIL6XJMYFR0-vqllR-1JJF3_g1dqaU-gOsqLvo7wo2Hyk-7GhfxW96OivqXsqq81l7f7cZleFQTeXG4wb9Cgg3uve4p4qssoDLMah3RaynhNpeDyeJAAAA.webp",
+    "snippet": "Property to rent in Durbanville. The largest selection of apartments, flats, farms, repossessed property, private property and houses To Rent in Durbanville ...",
+    "snippet_highlighted_words": [
+     "Property to rent in Durbanville"
+    ],
+    "source": "Property24"
+   },
+   {
+    "position": 6,
+    "title": "Property to rent in Durbanville | Page 3",
+    "link": "https://www.privateproperty.co.za/to-rent/western-cape/cape-town/durbanville/739?page=3",
+    "displayed_link": "https://www.privateproperty.co.za › ... › Durbanville",
+    "favicon": "https://serpapi.com/images/i/UklGRngBAABXRUJQVlA4IGwBAACQBwCdASocABwAPrkurlcnIacnG_DgFwlsAKXZwBagHAAeVv7LH7O-lU8cSQWTtfex0lq6B3T4yW2inxn0glwqYLhFGAAA_vfxbyDyAdD11ghbnYxv6vX5VBYczB9cIgR9XX0e68sIS45E5jNnmBEzcw7gDgj0tiJ18HctSS7i6uRTUb6jCS_8rjthvMFAzHmSZ_3u9WU5-Gvy_vNH4btEDvXnHsKCeBVMWWS6PY3MczNjwEgQxU_cy3-0bRAnOCMhFbZMZ5M9TVUXo2N3RLAwgv-WP-7ulzXYaNr0YDwj0u2OLUNFxn0syZGpnujm81OOgVyNe7rI_vYUt-l87sVuxzRvTtme6x8o23neFXacYBO-EZDAu5g2ZSCjKsUh-Fhfd3h1XtBr5b0rL6vLvHYiIsTke_NagAMdmuJj-pZnaDyeJOIndP_lKpiKDrF6QH-Zu-NotOf8v2GTDg5lv1edWf-Nia91ivzsgAAA.webp",
+    "snippet": "104 properties to rent in Durbanville, Cape Town. Browse photos, floor plans and full property details. Flat New R 16 000 per month 2 Bedroom FlatDurbanville. ...",
+    "snippet_highlighted_words": [
+     "104 properties to rent in Durbanville, Cape Town"
+    ],
+    "source": "Private Property"
+   },
+   {
+    "position": 7,
+    "title": "Bachelor flats to rent in Durbanville by owner",
+    "link": "https://findallrentals.co.za/for-rent/studio/durbanville-region",
+    "displayed_link": "https://findallrentals.co.za › studio › durbanville-region",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADwBwCdASocABwAPrkurlcnIacnG_DgFwlsALElQX4Bb5-hBANsBdme8nI0DZxPdGU21Xl3BUW1hB5kWkZSf1gjmRcQ-3LNRAAA_v7CoOEx0-llWeYLYWRydLb2UWNH2QQSOVKOzPZpecNMzoNwBUzHhWbKbA0mBP_do1__w17L-1mEauFrCfdAlzvkF07JiCDn6hC_5R9yfF_Ir-Mj9X-lsCLcIFXBrv1D4P2EIOsKNFueTvXOC0s_R0kcmGlxteCp7tJSvs9p3y3rcFruEcdlzcXrOerQeMCv9PEp_uOtQ_E5fTq3ZHUhD_ztLEAZadG1W4PkZqOWNdivZrwno1nnV4qTL1KAT64-eufvsR_BLNXZ90zjco-xGAcYjMN_RBsSn4Cq68yAebKRd093OHlhns8OMoh1FKPetWc8aGpWuge_2FK6AAAA.webp",
+    "snippet": "Easily find a bachelor flat to rent by owner in Durbanville ➤ Browse 8 studio flats for long-term rent ➤ Verified listings ➤ Updated daily!",
+    "snippet_highlighted_words": [
+     "bachelor flat to rent by owner in Durbanville"
+    ],
+    "source": "Findallrentals.co.za"
+   },
+   {
+    "position": 8,
+    "title": "Accommodation in durbanville cape town for rent",
+    "link": "https://tbwydarqsqrx.pics/xuhsmuudznkyildljvjcrjmocy",
+    "displayed_link": "https://tbwydarqsqrx.pics › xuhsmuudznkyildljvjcrjmocy",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAACwBgCdASogACAAPtEutFooIagoGAEAGglsAKkjgULj9O_8CPA2fyDh3_r3xc-XBFiOKhJz0vsv64b3qXtwAAD-9govJ0QnyjEAUjb8baG6ZM__EvlmzCAej4yUt_QQXKGGqC16bQPn3V0tZ66fXIvlxU29M1zIFztsMU7z6Xri1TeUE1GZNVKmTJjE0cwC0kwFy_881VW0CKI-_uKf1gN0Kd5_kRRb1d-VH39gAIftxkHYa-MMG55RfR-_u7N3W3glUE_0jcpRgzJSiN5_Z0x4NMDWpI7xI0i8mCpGfutmIITBmnY14XZZmFR6bHb_7JENKut350cZ_H-3NJpQqVXMBtdTggAA.webp",
+    "date": "5 days ago",
+    "snippet": "1 Bedroom Apartment To Rent in Durbanville Cape Town R 6 500 per month. ... 2 Bedroom Flat For Rent in Uitzicht, Durbanville, Western Cape ...",
+    "snippet_highlighted_words": [
+     "1 Bedroom Apartment To Rent in Durbanville Cape Town R 6 500 per month"
+    ],
+    "source": "tbwydarqsqrx.pics",
+    "read_more_link": "https://tbwydarqsqrx.pics/xuhsmuudznkyildljvjcrjmocy#:~:text=1%20Bedroom%20Apartment%20To%20Rent,R%206%20500%20per%20month.&text=2%20Bedroom%20Flat%20For%20Rent,for%20ZAR%206400%20per%20month."
+   },
+   {
+    "position": 9,
+    "title": "110 flats garden to rent in Durbanville, City of Cape Town",
+    "link": "https://homes.trovit.co.za/for-rent-durbanville-garden-flat",
+    "displayed_link": "https://homes.trovit.co.za › ... › Durbanville",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwUgfcUgfcUgfcTgfcUgfcUgfcAevcEfvcAdvd-sPr___-61PxSmfny9_8xi_imx_vS4_1-L0Y0AAAAB3RSTlMAUr3w_9DPTmi3dQAAALZJREFUeAGtk0UCxDAIACN0gRD9_2c31P3UqYaJi-lY5-GEd9aMDHDL79EpQ68TNhCAYMMatyU4iATe0s6sfSGM0om8FvZmrTJlyaXoC2FmkVxFKhPpN_BBEjTJaYxxEmlEmyQNoAY0QU0k0SoxzlWtTVTcy0KbxHSWsEFfS8Rnia3ho-Sc-VsJzEwqlXKSuRM467ezSK_1hDESOOaZQONiO1DLCgHyjDpwxsIj9n1rPll1r8fhD-GaEsZZjUgUAAAAAElFTkSuQmCC.png",
+    "snippet": "1 Bedroom Apartment / Flat to Rent in Valmary Park · R 9 200/month · 84 m² ; 1 Bedroom Garden Cottage To Let in Bergbron · R 11 000/month · 105 m² ; 2 Bedroom House ...",
+    "snippet_highlighted_words": [
+     "1 Bedroom Apartment / Flat to Rent in Valmary Park · R 9 200/month"
+    ],
+    "source": "Trovit",
+    "read_more_link": "https://homes.trovit.co.za/for-rent-durbanville-garden-flat#:~:text=new&text=R%209%20200%2Fmonth&text=84%20m%C2%B2&text=19%20Pictures&text=R%2011%20000%2Fmonth&text=105%20m%C2%B2&text=17%20Pictures"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Flat to rent in durbanville cape town under r3000",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&q=Flat+to+rent+in+durbanville+cape+town+under+r3000&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQ1QJ6BAg6EAE"
+   },
+   {
+    "block_position": 1,
+    "query": "One bedroom flat to rent in durbanville cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&q=One+bedroom+flat+to+rent+in+durbanville+cape+town&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQ1QJ6BAhBEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Studio flat to rent in durbanville cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&q=Studio+flat+to+rent+in+durbanville+cape+town&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQ1QJ6BAhAEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "2 bedroom flat to rent in durbanville cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&q=2+bedroom+flat+to+rent+in+durbanville+cape+town&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQ1QJ6BAg8EAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Cheap flats to rent in Durbanville by owner",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&q=Cheap+flats+to+rent+in+Durbanville+by+owner&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQ1QJ6BAg7EAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Granny flats to rent in Durbanville by owner",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&q=Granny+flats+to+rent+in+Durbanville+by+owner&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQ1QJ6BAg9EAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Flats to rent in Durbanville for r3000",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&q=Flats+to+rent+in+Durbanville+for+r3000&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQ1QJ6BAg-EAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Granny flats to rent in Durbanville by Owner no Deposit",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQntTEeN-jq3scelHDm_o9Tr_pJIyEQ:1792268822118&q=Granny+flats+to+rent+in+Durbanville+by+Owner+no+Deposit&sa=X&ved=2ahUKEwit1-_T8cGXAxWRrCsGHS1XBfMQ1QJ6BAg_EAE"
+   }
+  ]
+ }
+}

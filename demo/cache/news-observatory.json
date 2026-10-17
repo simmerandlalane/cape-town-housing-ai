@@ -1,0 +1,1405 @@
+{
+ "fetched_at": "2026-10-17T21:17:23.140011+00:00",
+ "params": {
+  "engine": "google_news",
+  "q": "\"Observatory\" Cape Town",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5e05fda0b6154457b7c",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/YjjR-GFtYZEkrlqe3NpuP4jVfLUF7fGjzmXvempXSsI/6ad3e5e05fda0b6154457b7c.json",
+   "markdown_endpoint": "https://serpapi.com/searches/YjjR-GFtYZEkrlqe3NpuP4jVfLUF7fGjzmXvempXSsI/6ad3e5e05fda0b6154457b7c.md",
+   "created_at": "2026-10-17 21:17:20 UTC",
+   "processed_at": "2026-10-17 21:17:20 UTC",
+   "google_news_url": "https://news.google.com/search?q=%22Observatory%22+Cape+Town&hl=en&gl=ZA",
+   "raw_html_file": "https://serpapi.com/searches/YjjR-GFtYZEkrlqe3NpuP4jVfLUF7fGjzmXvempXSsI/6ad3e5e05fda0b6154457b7c.html",
+   "total_time_taken": 2.51
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "za",
+   "hl": "en",
+   "q": "\"Observatory\" Cape Town"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Man dies in fire in Observatory informal settlement",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/man-dies-in-fire-in-observatory-informal-settlement/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVVWGxmV0UxTll6UjZUVVJtVFJDb0FSaXNBaWdCTWdZSlVJakpMQVU",
+    "date": "10/15/2026, 01:30 PM, +0000 UTC",
+    "iso_date": "2026-10-15T13:30:55Z"
+   },
+   {
+    "position": 2,
+    "title": "7 things to do in Cape Town and surrounds this weekend",
+    "source": {
+     "name": "CapeTowner",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://capetowner.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://capetowner.co.za/things-to-do/2026-10-09-7-things-to-do-in-cape-town-and-surrounds-this-weekend/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlTa1pJZFhZek1GOVFiMkpLVFJDTEFoaVFBeWdLTWdhQmM0ek11UWM",
+    "date": "10/09/2026, 01:57 PM, +0000 UTC",
+    "iso_date": "2026-10-09T13:57:56Z"
+   },
+   {
+    "position": 3,
+    "title": "Cape Town (ZAF) Exports, Imports, and Trade Partners",
+    "source": {
+     "name": "The Observatory of Economic Complexity",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://oec.world&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://oec.world/en/profile/subnational_zaf/cape-town",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhNREF3UldwbWFGTjNNVk56VFJEQ0FSaURBaWdCTWdNQndBZw",
+    "date": "10/02/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-10-02T07:00:00Z"
+   },
+   {
+    "position": 4,
+    "title": "A rare new investment opportunity has landed in Observatory",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.dailymaverick.co.za/article/2026-06-23-a-rare-new-investment-opportunity-has-landed-in-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHdaelp6WmpnMlJYaGZaREpCVFJEN0FoaWdCaWdLTWdNQnNBSQ",
+    "date": "06/23/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-23T07:00:00Z"
+   },
+   {
+    "position": 5,
+    "title": "Stargazing in Cape Town: What to expect at the South African Astronomical Observatory this July",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Gerry Cupido"
+     ]
+    },
+    "link": "https://iol.co.za/travel/south-africa/2026-07-10-stargazing-in-cape-town-what-to-expect-at-the-south-african-astronomical-observatory-this-july/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJjVFJxUTIxbFoySkRTemRLVFJDYkF4aThCU2dLTWdhcDRZUXlTUVE",
+    "date": "07/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-11T07:00:00Z"
+   },
+   {
+    "position": 6,
+    "title": "Cape Town Observatory Is Opening Its Doors For A Month Of Stargazing",
+    "source": {
+     "name": "2oceansvibe News",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.2oceansvibe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.2oceansvibe.com/cape-town-2/cape-town-observatory-is-opening-its-doors-for-a-month-of-stargazing/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSMEZmU2xWM0xUSm9iRWxaVFJEaEFSaXNBaWdLTWdZWklvaU1LUVE",
+    "date": "07/06/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-06T07:00:00Z"
+   },
+   {
+    "position": 7,
+    "title": "Cape Town Observatory Invites Visitors to Discover the Wonders of the Night Sky",
+    "source": {
+     "name": "The Newspaper",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thenewspaper.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thenewspaper.co.za/cape-town-observatory-invites-visitors-to-discover-the-wonders-of-the-night-sky/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFTWFV6TjFCSFRXMHlSVFJwVFJERkF4aW1CU2dLTWdhaDRZWXlTUVE",
+    "date": "07/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-08T07:00:00Z"
+   },
+   {
+    "position": 8,
+    "title": "Observatory land occupiers wait to hear their fate",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://groundup.org.za/article/group-occupying-observatory-main-road-to-be-relocated/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpjV3hKZW5OYVNsOUhZMEpUVFJERUF4aW1CU2dLTWdZQllKUW1xZ2c",
+    "date": "03/05/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-03-05T08:00:00Z"
+   },
+   {
+    "position": 9,
+    "title": "Cape Town battles land constraints as High Court orders eviction of Observatory informal settlement",
+    "source": {
+     "name": "EWN",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ewn.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ewn.co.za/cape-town-battles-land-constraints-as-high-court-orders-eviction-of-observatory-informal-settlement/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZaMjF4V1hkTFMySXlSRlZuVFJDZkF4ampCU2dLTWdhVk1JU3BIUWs",
+    "date": "09/15/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-15T07:00:00Z"
+   },
+   {
+    "position": 10,
+    "title": "Cape Town night tours: Explore the SAAO this September",
+    "source": {
+     "name": "Getaway Magazine",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.getaway.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ann Steyn",
+      "Lee-ann Steyn"
+     ]
+    },
+    "link": "https://www.getaway.co.za/news/cape-town-night-tours-explore-the-saao-this-september/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWlMVm95Um5CM2NGbHFibTAwVFJDZkF4ampCU2dLTWdB",
+    "date": "09/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-07T07:00:00Z"
+   },
+   {
+    "position": 11,
+    "title": "Cape Town Observatory opens its doors for a month of stargazing",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/things-to-do-cape-town/cape-town-observatory-july-events-2026/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXBVemRoVGpsNFFUTjJVbEZ5VFJDZkF4ampCU2dLTWdPNWxCUQ",
+    "date": "07/05/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-05T07:00:00Z"
+   },
+   {
+    "position": 12,
+    "title": "Observatory occupiers “at the mercy of the City and Gugulethu residents”",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Mary-anne Gontsana"
+     ]
+    },
+    "link": "https://groundup.org.za/article/observitory-occupiers-are-at-the-mercy-of-the-city-of-cape-town-and-gugulethu-residents/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpjV3hKZW5OYVNsOUhZMEpUVFJERUF4aW1CU2dLTWdZQllKUW1xZ2c",
+    "date": "09/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-03T07:00:00Z"
+   },
+   {
+    "position": 13,
+    "title": "From stargazing to live entertainment: 7 things to do in Cape Town this weekend",
+    "source": {
+     "name": "CapeTowner",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://capetowner.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://capetowner.co.za/things-to-do/2026-09-11-from-stargazing-to-live-entertainment-7-things-to-do-in-cape-town-this-weekend/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdXamMwU1hGSGFVeG9MVzVCVFJESEFSai1BU2dCTWdZQm9KSVNRUVk",
+    "date": "09/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-11T07:00:00Z"
+   },
+   {
+    "position": 14,
+    "title": "Observatory: Cape Town’s creative hub beyond the student strip",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Miriam Kimvangu"
+     ]
+    },
+    "link": "https://www.capetownetc.com/lifestyle/observatory-cape-towns-creative-hub/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDVSMWh3YUVONFdIRmxhVnBZVFJDZkF4ampCU2dLTWdNSmtnSQ",
+    "date": "02/01/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-01T08:00:00Z"
+   },
+   {
+    "position": 15,
+    "title": "Gugulethu residents refuse to share land with Observatory occupiers",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Mary-anne Gontsana"
+     ]
+    },
+    "link": "https://groundup.org.za/article/gugulethu-residents-lambast-citys-plan-for-them-to-share-land-with-observatory-occupiers/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJVbGRPUTE4eWMwTk1URzlCVFJEZ0F4aUFCU2dLTWdZQmNKQmFyQWc",
+    "date": "07/30/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-30T07:00:00Z"
+   },
+   {
+    "position": 16,
+    "title": "Late Night Thrift turns Observatory into an after-dark market",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/whats-on-single/late-night-thrift-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZjWEpHVWtkTlZuSlJSRVV0VFJDZkF4ampCU2dLTWdtQkFvb09oU2MtUUFN",
+    "date": "09/25/2026, 11:06 AM, +0000 UTC",
+    "iso_date": "2026-09-25T11:06:07Z"
+   },
+   {
+    "position": 17,
+    "title": "Celebrate International Coffee Day at Coffee Rave in Observatory",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/whats-on-single/celebrate-international-coffee-day-coffee-rave/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdiV2hVU1ZoVVJXUklhVUU1VFJDcEFSaXFBaWdCTWdZQnc0U01SUVE",
+    "date": "09/30/2026, 10:17 AM, +0000 UTC",
+    "iso_date": "2026-09-30T10:17:18Z"
+   },
+   {
+    "position": 18,
+    "title": "Look up, Cape Town: Stars await at SAAO night tours",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/lifestyle/cape-town-stars-await-saao-night-tours/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBPVUZEYkc5dmVuZHZkVzlmVFJEU0FoallCQ2dLTWdhVkU0eXFuUVk",
+    "date": "03/31/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-31T07:00:00Z"
+   },
+   {
+    "position": 19,
+    "title": "Celebrate Youth Day with exclusive tours at SA’s premier observatory",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibuliso Duba"
+     ]
+    },
+    "link": "https://www.capetownetc.com/visitorsguide/celebrate-youth-day-with-exclusive-tours-at-sas-premier-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXpTbFpzWVhCa1IwRlVhRU5uVFJDb0FSaXNBaWdCTWdB",
+    "date": "06/15/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-15T07:00:00Z"
+   },
+   {
+    "position": 20,
+    "title": "Gugulethu residents reject City's plan to relocate Observatory shack dwellers | City Vision",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/cityvision/singabalapha-relocation-gugulethu/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJUQzFuUjE4eE0yRlFNa2xNVFJEZ0F4aUFCU2dLTWdZQm9wSVRPUVk",
+    "date": "09/23/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-23T07:00:00Z"
+   },
+   {
+    "position": 21,
+    "title": "Free SAAO tours open for National Science Month in Cape Town | People's Post",
+    "source": {
+     "name": "https://peoplespost.co.za/",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/peoplespost/free-saao-tours-open-for-national-science-month-in-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVTVTFuVnkxVlZqRldMVTVyVFJERUF4aW1CU2dLTWdhZDRZWXlTUVE",
+    "date": "07/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-08T07:00:00Z"
+   },
+   {
+    "position": 22,
+    "title": "Strengthening India-South Africa scientific collaboration: A banner handover at the South African Astronomical Observatory",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lilita Gcwabe"
+     ]
+    },
+    "link": "https://iol.co.za/news/2026-05-09-strengthening-india-south-africa-scientific-collaboration-a-banner-handover-at-the-south-african-astronomical-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRieTFrWm10ZlNtdFJabGxRVFJDN0F4aTBCU2dLTWdhTlVvNXV2UVU",
+    "date": "05/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-09T07:00:00Z"
+   },
+   {
+    "position": 23,
+    "title": "Pizza Shed fires up in the southern suburbs",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Richard Holmes"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/news/pizza-shed-fires-up-in-the-southern-suburbs-080526",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFVRk5OTlZKaFVHNHhaVWw1VFJDZkF4amlCU2dLTWdrQkVJQ3JYS0U4aEFJ",
+    "date": "08/05/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-05T07:00:00Z"
+   },
+   {
+    "position": 24,
+    "title": "Panchos Mexican Restaurant bids farewell to Observatory after 41 years",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibuliso Duba"
+     ]
+    },
+    "link": "https://www.capetownetc.com/things-to-do-cape-town/panchos-mexican-restaurant-bids-farewell-to-observatory-after-41-years/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZNMFJKVGxkVU1XbE5kekptVFJDZkF4ampCU2dLTWdtaEFvb3VIV1o3SkFN",
+    "date": "05/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-25T07:00:00Z"
+   },
+   {
+    "position": 25,
+    "title": "Observatory Library marks 128 years of enriching community life",
+    "source": {
+     "name": "Cape Argus",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://capeargus.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Murray Swart"
+     ]
+    },
+    "link": "https://capeargus.co.za/news/2026-03-22-observatory-library-marks-128-years-of-enriching-community-life/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVBVVlEwUVV0aWNGRk9SVzFRVFJERUF4aW1CU2dLTWdB",
+    "date": "03/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-22T07:00:00Z"
+   },
+   {
+    "position": 26,
+    "title": "After 41 Years, Panchos Mexican Restaurant Is Leaving Observatory",
+    "source": {
+     "name": "2oceansvibe News",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.2oceansvibe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.2oceansvibe.com/1-lifestyle/food/after-41-years-panchos-mexican-restaurant-is-leaving-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVNUzFNZGxoeFNHNDVNbXQxVFJEaEFSaXNBaWdLTWdtUkFZWlBuU09MREFJ",
+    "date": "05/26/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-26T07:00:00Z"
+   },
+   {
+    "position": 27,
+    "title": "Observatory Library celebrates 128 years as historic Cape Town community hub",
+    "source": {
+     "name": "novanews.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://novanews.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://novanews.co.za/peoplespost/observatory-library-celebrates-128-years-as-historic-cape-town-community-hub/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9XRmhxV0d0bkxXaGFaWEZuVFJDN0F4aTBCU2dLTWdrQlFJb0FwQ1pxOHdB",
+    "date": "03/24/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-24T07:00:00Z"
+   },
+   {
+    "position": 28,
+    "title": "Cape Town's Ultra Run Club unites for women's safety this Saturday",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/whats-on-single/ultra-run-club-unites-womens-safety/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNWbmRmYmtSNlJ5MVBkVjgzVFJDZkF4ampCU2dLTWdrQk1KQkFJaWdtNndF",
+    "date": "09/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-19T07:00:00Z"
+   },
+   {
+    "position": 29,
+    "title": "The 7 best stargazing getaways near Cape Town",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Selene Brophy",
+      "Gabi Zietsman"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/things-to-do/best-stargazing-getaways-close-to-cape-town",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRabFZaYmpCMlFXTk5abFJpVFJEZkF4aUFCU2dLTWdZVkVJSk1VUU0",
+    "date": "03/10/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-10T07:00:00Z"
+   },
+   {
+    "position": 30,
+    "title": "Your complete Cape Town Marathon guide: Road closures, transport and race weekend info",
+    "source": {
+     "name": "Cape Times",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://capetimes.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://capetimes.co.za/news/south-africa/2026-05-20-your-complete-cape-town-marathon-guide--road-closures-transport-and-race-weekend-info/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVSR05FZVhST1pteDVSR0ZuVFJERUF4aW1CU2dLTWdZQlFKYkZJQWc",
+    "date": "05/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-20T07:00:00Z"
+   },
+   {
+    "position": 31,
+    "title": "Observatory Cape Town: Drugs, Feces & Illegal Shacks on Main Road",
+    "source": {
+     "name": "YouTube",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://youtu.be&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://youtu.be/rgnmnu7bgEk?si=_TF4xghcvkrvI85v",
+    "date": "06/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-09T07:00:00Z"
+   },
+   {
+    "position": 32,
+    "title": "5 local venues turning ordinary spaces into shared experiences",
+    "source": {
+     "name": "Getaway Magazine",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.getaway.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Miriam Kimvangu"
+     ]
+    },
+    "link": "https://www.getaway.co.za/things-to-do/5-local-venues-turning-ordinary-spaces-into-shared-experiences/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVSelp2ZGs5alMwOWpWMTlJVFJESUJCaU5CQ2dLTWdZQklJRHFPUU0",
+    "date": "05/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-11T07:00:00Z"
+   },
+   {
+    "position": 33,
+    "title": "Outrage as driver rams into GBV shutdown protesters in Cape Town",
+    "source": {
+     "name": "eNCA",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.enca.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.enca.com/news-top-stories/outrage-driver-rams-gbv-shutdown-protesters-cape-town",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVSVWRETXpkS1lYTTFTakpXVFJDWkFSajFBU2dLTWdrQkFZcEdodXNTRXdF",
+    "date": "11/24/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-24T08:00:00Z"
+   },
+   {
+    "position": 34,
+    "title": "Streetopia OBS 2025 – Free Community Arts Festival in Observatory",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/whats-on-single/streetopia-2025/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTVZbTQ1VFZocVJHNTRabE5ZVFJDZkF4ampCU2dLTWdB",
+    "date": "11/29/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-29T08:00:00Z"
+   },
+   {
+    "position": 35,
+    "title": "After the shelter: Cape Town’s urgent need to house homeless people",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Matthew Hirsch"
+     ]
+    },
+    "link": "https://groundup.org.za/article/after-the-shelter-cape-towns-urgent-need-to-home-the-homeless/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWpibEJZWldKUVVIaHNURkpzVFJERUF4aW1CU2dLTWdNQllCSQ",
+    "date": "12/10/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-12-10T08:00:00Z"
+   },
+   {
+    "position": 36,
+    "title": "India hands over IUCAA banner to South African Astronomical Observatory in Cape Town",
+    "source": {
+     "name": "News On AIR",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://newsonair.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://newsonair.gov.in/india-hands-over-iucaa-banner-to-south-african-astronomical-observatory-in-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVZV2N3TkU5YVUwbFJMVjlHVFJDUUF4allCQ2dLTWdhSlVveHV2UVU",
+    "date": "05/10/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-10T07:00:00Z"
+   },
+   {
+    "position": 37,
+    "title": "The Stranger — Brett Bailey’s ode to Orpheus arrives in Cape Town",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Keith Bain"
+     ]
+    },
+    "link": "https://www.dailymaverick.co.za/article/2026-02-26-brett-baileys-orpheus-returns-as-ritual-for-a-fractured-age/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5WM2h6VFVkVE16WmhYMUpTVFJDT0F4aUNCaWdLTWdB",
+    "date": "02/26/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-26T08:00:00Z"
+   },
+   {
+    "position": 38,
+    "title": "Cape Town Marathon 2026: Know the road closures and transport arrangements",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/cape-town-marathon-2026-know-the-road-closures-and-transport-arrangements/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTRXRU14VG5kellreE1PVmMwVFJDZkF4ampCU2dLTWdrQklKYVpxR21TU2dJ",
+    "date": "05/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-21T07:00:00Z"
+   },
+   {
+    "position": 39,
+    "title": "Pancho’s Mexican restaurant begins a new chapter in Pinelands",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/lifestyle/panchos-mexican-restaurant-pineland-opening/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVpSSEE1WjFsZlEydE1XVVI2VFJDZkF4ampCU2dLTWdNQk1RQQ",
+    "date": "08/02/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-02T07:00:00Z"
+   },
+   {
+    "position": 40,
+    "title": "Thrift and party like a student in Cape Town’s vibrant Obz",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Gabi Zietsman"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/things-to-do/thrift-and-party-like-a-student-in-cape-towns-vibrant-obz",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFUVXR6ZUhGcGVIbExlbmhIVFJEZkF4aUFCU2dLTWdtQkVZYnVvS1dTU0FJ",
+    "date": "09/23/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-09-23T07:00:00Z"
+   },
+   {
+    "position": 41,
+    "title": "World-class hockey reaches its climax in the Mother City",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/events/world-class-hockey-reaches-its-climax-in-the-mother-city/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUdaRWxYUzA0NVVrRlFXR1JZVFJDb0FSaXNBaWdCTWd1Qk1aRE9uS2hySkF0MmV3",
+    "date": "06/18/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-18T07:00:00Z"
+   },
+   {
+    "position": 42,
+    "title": "Court battle looms over Observatory pavement occupation",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Marecia Damons"
+     ]
+    },
+    "link": "https://groundup.org.za/article/observatory-occupiers-to-challenge-citys-offer-to-relocate-them-to-delft-south/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpaV295Vm5aUVIxQkpVVnBmVFJERUF4aW1CU2dLTWdhQmdZd1NOUVU",
+    "date": "02/02/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-02-02T08:00:00Z"
+   },
+   {
+    "position": 43,
+    "title": "Inside Cape Town’s coolest urban strip",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/things-to-do-cape-town/inside-cape-towns-coolest-urban-strip/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW9SRTVmVURsUGVrTmlUV2RFVFJDb0FSaXNBaWdCTWdB",
+    "date": "11/14/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-14T08:00:00Z"
+   },
+   {
+    "position": 44,
+    "title": "All The Road Closures For This Weekend’s Cape Town Marathon",
+    "source": {
+     "name": "2oceansvibe News",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.2oceansvibe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Helen Wallace"
+     ]
+    },
+    "link": "https://www.2oceansvibe.com/1-lifestyle/cape-town-events/sub-the-road-closures-to-know-for-this-weekends-cape-town-marathon/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDFZVGt0U0hrMVRVaFBWMjlIVFJEZkF4aUFCU2dLTWdzQlVKS0FwbWdXYWNyaWtn",
+    "date": "05/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-19T07:00:00Z"
+   },
+   {
+    "position": 45,
+    "title": "Cape Town’s best spots to watch Bafana Bafana take on Mexico",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibuliso Duba"
+     ]
+    },
+    "link": "https://www.capetownetc.com/things-to-do-cape-town/nightlife/cape-towns-best-spots-to-watch-bafana-bafana-take-on-mexico/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHplRUZWVG5KNmFFZDJkSE5RVFJDZkF4ampCU2dLTWdhQllveW1wUWM",
+    "date": "06/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-09T07:00:00Z"
+   },
+   {
+    "position": 46,
+    "title": "Cape Town Observatory opens new gateway to the stars",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lulama Klassen"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/cape-town-observatory-opens-new-gateway-to-the-stars/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROa3d6YzJVdFkxRlBWM0ZoVFJDZkF4ampCU2dLTWdZQnNJd1RPUVk",
+    "date": "08/20/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-08-20T07:00:00Z"
+   },
+   {
+    "position": 47,
+    "title": "70-year-old woman injured as driver ploughs through GBV protest in Observatory",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/news/2025-11-22-70-year-old-woman-injured-as-driver-ploughs-through-gbv-protest-in-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtkbk5RYmpadlpsTjFZa2x1VFJEN0F4alZCQ2dLTWdB",
+    "date": "11/22/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-22T08:00:00Z"
+   },
+   {
+    "position": 48,
+    "title": "After the shelter: Cape Town’s urgent need to house homeless people",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Matthew Hirsch"
+     ]
+    },
+    "link": "https://www.capetownetc.com/news/after-the-shelter-cape-towns-urgent-need-to-house-homeless-people/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBRVTR6WjBwSFUxWkxjRlIxVFJDZkF4ampCU2dLTWdrQlFKQ3RLR2VTeGdJ",
+    "date": "12/10/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-12-10T08:00:00Z"
+   },
+   {
+    "position": 49,
+    "title": "Music and astronomy: a celebration of wonder, sound and space",
+    "source": {
+     "name": "UCT News",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news.uct.ac.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.news.uct.ac.za/article/-2025-07-23-music-and-astronomy-a-celebration-of-wonder-sound-and-space",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtNRmxCYURSRWMxUllhbkpXVFJDM0FSaVRBaWdCTWdZaGxJeXN0UVU",
+    "date": "07/23/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-07-23T07:00:00Z"
+   },
+   {
+    "position": 50,
+    "title": "9 Nares Street, Observatory, Cape Town: The Latest Architecture and News",
+    "source": {
+     "name": "ArchDaily",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.archdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.archdaily.com/city/9-nares-street-observatory-cape-town",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZVbTl1YTAxRVlUbFdWM2xDVFJDckF4aUFCU2dLTWdZQjQ0SWp6Z0k",
+    "date": "04/04/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-04-04T07:00:00Z"
+   },
+   {
+    "position": 51,
+    "title": "City of Cape Town to evict dozens of Observatory residents",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Steve Kretzmann"
+     ]
+    },
+    "link": "https://groundup.org.za/article/city-evict-observatory-collective/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpjemxEWjFkMVEwZHRkMUZ2VFJEX0F4allCQ2dLTWdhbFZaTHNvUWc",
+    "date": "06/04/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-06-04T07:00:00Z"
+   },
+   {
+    "position": 52,
+    "title": "The South African Astronomical Observatory celebrates 200 years of its existence",
+    "source": {
+     "name": "South African History Online",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sahistory.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://sahistory.org.za/dated-event/south-african-astronomical-observatory-celebrates-200-years-its-existence",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFlRk5UZWtWRVZUQldPRGxWVFJDc0FoakNBeWdLTWdZQm9JaG13Z1E",
+    "date": "10/21/2020, 07:00 AM, +0000 UTC",
+    "iso_date": "2020-10-21T07:00:00Z"
+   },
+   {
+    "position": 53,
+    "title": "Celebrating 200 years of the South African Astronomical Observatory",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.dailymaverick.co.za/article/2020-10-16-200-years-of-the-south-african-astronomical-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUplRUpQU1VOa01VeFdTbTFHVFJERUF4aW1CU2dLTWdZMUU0RXgxUUk",
+    "date": "10/16/2020, 07:00 AM, +0000 UTC",
+    "iso_date": "2020-10-16T07:00:00Z"
+   },
+   {
+    "position": 54,
+    "title": "Celebrating 200 years of the South African Astronomical Observatory by Karel van der Vyver (Daily Maverick), 16 October 2020",
+    "source": {
+     "name": "South African History Online",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sahistory.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://sahistory.org.za/archive/celebrating-200-years-south-african-astronomical-observatory-karel-van-der-vyver-daily",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXpOV2h3VkRsMVdYcGZlbEJ6VFJEeUJCaXZBeWdLTWdNQlVBdw",
+    "date": "10/16/2020, 07:00 AM, +0000 UTC",
+    "iso_date": "2020-10-16T07:00:00Z"
+   },
+   {
+    "position": 55,
+    "title": "9 Nares Street, Observatory, Cape Town: The Latest Architecture and News",
+    "source": {
+     "name": "ArchDaily",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.archdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.archdaily.com/tag/9-nares-street-observatory-cape-town",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZVbTl1YTAxRVlUbFdWM2xDVFJDckF4aUFCU2dLTWdZQjQ0SWp6Z0k",
+    "date": "04/04/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-04-04T07:00:00Z"
+   },
+   {
+    "position": 56,
+    "title": "Court battle looms over Observatory pavement occupation",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/news/court-battle-looms-over-observatory-pavement-occupation/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhUak01ZFU5a1ZHWndWVGx2VFJDb0FSaXNBaWdCTWdhQllZenlNQVU",
+    "date": "02/03/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-02-03T08:00:00Z"
+   },
+   {
+    "position": 57,
+    "title": "People occupying Observatory site reject City of Cape Town’s housing offers",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Steve Kretzmann"
+     ]
+    },
+    "link": "https://groundup.org.za/article/observatory-occupants-refuse-city-of-cape-towns-offers-for-alternative-accommodation/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZhRXhLZVVsNFNGTklibmsxVFJEZ0F4aUFCU2dLTWdZUk1ZUm9zZ2M",
+    "date": "04/14/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-04-14T07:00:00Z"
+   },
+   {
+    "position": 58,
+    "title": "$570,000 Homes in Cape Town, South Africa",
+    "source": {
+     "name": "The New York Times",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Roxana Popescu"
+     ]
+    },
+    "link": "https://www.nytimes.com/2025/11/07/realestate/570000-homes-cape-town-south-africa.html",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXpSRFJPUkdSak0wNWhNV1Z4VFJDcUJCaXFCQ2dLTWdNQllBSQ",
+    "date": "11/07/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-11-07T08:00:00Z"
+   },
+   {
+    "position": 59,
+    "title": "Occupiers petition City of Cape Town to lease circus school land in Observatory",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.dailymaverick.co.za/article/2020-08-25-occupiers-petition-city-of-cape-town-to-lease-circus-school-land-in-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHlObU5TVkVsa1J6QmFObVJOVFJDSEF4aVBCaWdLTWdB",
+    "date": "08/25/2020, 07:00 AM, +0000 UTC",
+    "iso_date": "2020-08-25T07:00:00Z"
+   },
+   {
+    "position": 60,
+    "title": "New astronomy attraction launched in Cape Town",
+    "source": {
+     "name": "Tourism Update",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tourismupdate.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.tourismupdate.com/article/new-astronomy-attraction-launched-in-cape-town",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNVbG81V0Y5MlRYQmhNMUJMVFJDZkF4ampCU2dLTWdZQlE0YVBtUWM",
+    "date": "07/10/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-07-10T07:00:00Z"
+   },
+   {
+    "position": 61,
+    "title": "Cape Town Temple: Rendering and Location Announced",
+    "source": {
+     "name": "news-africa.churchofjesuschrist.org",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news-africa.churchofjesuschrist.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://news-africa.churchofjesuschrist.org/article/cape-town-temple-rendering-and-location-announced",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhXVEZhUzIxblNEY3hjREl0VFJDZkF4ampCU2dLTWdZaFZZRE1wUU0",
+    "date": "12/08/2021, 08:00 AM, +0000 UTC",
+    "iso_date": "2021-12-08T08:00:00Z"
+   },
+   {
+    "position": 62,
+    "title": "Sisulu and her adviser implicated in R4bn Cape Town development with Amazon as tenant",
+    "source": {
+     "name": "Mail & Guardian",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mg.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sheree Bega"
+     ]
+    },
+    "link": "https://mg.co.za/the-green-guardian/2021-08-26-sisulu-and-her-adviser-implicated-in-r4bn-cape-town-development-with-amazon-as-tenant/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBVbTl4T0dSd1VUSjJUMlZUVFJDM0FSaVRBaWdCTWdZWlNJeHBIZ2s",
+    "date": "08/26/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-08-26T07:00:00Z"
+   },
+   {
+    "position": 63,
+    "title": "City of Cape Town to evict dozens of Observatory residents from former circus school grounds",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Steve Kretzmann"
+     ]
+    },
+    "link": "https://www.dailymaverick.co.za/article/2021-06-04-city-of-cape-town-to-evict-dozens-of-observatory-residents-from-former-circus-school-grounds/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWtkRGhPZG14VVMzRmZjVVpWVFJEX0F4allCQ2dLTWdB",
+    "date": "06/04/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-06-04T07:00:00Z"
+   },
+   {
+    "position": 64,
+    "title": "Observatory's Rainbow House Residents Join The 14,000 Other Homeless People In Cape Town",
+    "source": {
+     "name": "2oceansvibe News",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.2oceansvibe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.2oceansvibe.com/2024/04/04/observatorys-rainbow-house-residents-join-the-14000-other-homeless-people-in-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRjblJZV25GUE5taE5Na3h4VFJEZ0F4aUFCU2dLTWdrQllJNUNMYWNWU3dJ",
+    "date": "04/04/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-04-04T07:00:00Z"
+   },
+   {
+    "position": 65,
+    "title": "The River Club: Flawed processes and a dirty fight over development and heritage",
+    "source": {
+     "name": "Mail & Guardian",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mg.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Jens Horber"
+     ]
+    },
+    "link": "https://mg.co.za/2022-10-29-the-river-club-flawed-processes-and-a-dirty-fight-over-development-and-heritage/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVdNREZ2TlVSbFVuQTBhWFZ6VFJDM0FSaVRBaWdCTWdNQkFBVQ",
+    "date": "10/29/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-10-29T07:00:00Z"
+   },
+   {
+    "position": 66,
+    "title": "Court dismisses Observatory occupants’ application against City of Cape Town",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Liezl Human"
+     ]
+    },
+    "link": "https://groundup.org.za/article/former-circus-school-occupants-lose-court-bid-to-exclude-the-citys-housing-report/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJNVlp6UTAxT1FWRXdiblZXVFJEZ0F4aUFCU2dLTWdrZE1vWkpHbXBGYVFJ",
+    "date": "07/06/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-07-06T07:00:00Z"
+   },
+   {
+    "position": 67,
+    "title": "Pavement occupiers in Observatory blame the City of Cape Town for recent shack fire",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capeargus/news/2022-04-12-pavement-occupiers-in-observatory-blame-the-city-of-cape-town-for-recent-shack-fire/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdiSE5RZERJeFNVUlVNVFJ0VFJEZ0F4aUFCU2dLTWdZQkFJeEhIUWc",
+    "date": "04/12/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-04-12T07:00:00Z"
+   },
+   {
+    "position": 68,
+    "title": "Township residents occupy city old age home",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ashraf Hendricks",
+      "Moira Levy"
+     ]
+    },
+    "link": "https://groundup.org.za/article/cape-town-old-age-home-occupied/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHpTMUJwTlhVek5qRlhVVWd5VFJERUF4aW1CU2dLTWdPbGdRdw",
+    "date": "10/01/2019, 07:00 AM, +0000 UTC",
+    "iso_date": "2019-10-01T07:00:00Z"
+   },
+   {
+    "position": 69,
+    "title": "Exploring the Cosmos A New Western Cape Experience",
+    "source": {
+     "name": "The Newspaper",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thenewspaper.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thenewspaper.co.za/exploring-the-cosmos-a-new-western-cape-experience/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdTRzVhWkhnNVN6Rm5Sa1pTVFJDLUF4aXdCU2dLTWdZQlpJeXZvUWM",
+    "date": "08/13/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-08-13T07:00:00Z"
+   },
+   {
+    "position": 70,
+    "title": "Amazon’s new home in Cape Town",
+    "source": {
+     "name": "MyBroadband",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mybroadband.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Hanno Labuschagne"
+     ]
+    },
+    "link": "https://mybroadband.co.za/news/business/575497-amazons-new-home-in-cape-town.html",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZUWGhVVFZwdlJVaFdWVnB5VFJDZkF4ampCU2dLTWdZQmdJUVVVUVE",
+    "date": "12/12/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-12-12T08:00:00Z"
+   },
+   {
+    "position": 71,
+    "title": "Cape Town Observatory Free Open Nights Become Sell-Out Hit 2 Months in a Row",
+    "source": {
+     "name": "Good Things Guy",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.goodthingsguy.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tyler Leigh Vivier"
+     ]
+    },
+    "link": "https://www.goodthingsguy.com/cape-town-observatory-free-opens-nights-become-sell-out-hit-2-months-in-a-row/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRXVzU0ZVdSUk56aGFSV3MyVFJDN0F4aTBCU2dLTWdZQlpJcXVvUWM",
+    "date": "03/15/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-03-15T07:00:00Z"
+   },
+   {
+    "position": 72,
+    "title": "Amazon’s colonial HQ in Cape Town must be stopped",
+    "source": {
+     "name": "Mail & Guardian",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mg.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Michael Kwet"
+     ]
+    },
+    "link": "https://mg.co.za/2022-01-26-amazon-s-colonial-hq-in-cape-town-must-be-stopped/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNhRUZPWlZaemNqQmxTVkZ2VFJDbUFSaXZBaWdCTWdZQmtJNm12QVU",
+    "date": "01/26/2022, 08:00 AM, +0000 UTC",
+    "iso_date": "2022-01-26T08:00:00Z"
+   },
+   {
+    "position": 73,
+    "title": "A lifestyle revolution: Riverlands Mall brings holistic living to Observatory",
+    "source": {
+     "name": "Cape Town ETC",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capetownetc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.capetownetc.com/property/a-lifestyle-revolution-riverlands-mall-brings-holistic-living-to-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRYMmhvWW5GaVdXdFliV3RPVFJEMUF4amtCQ2dLTWdZQndJVFVVQVE",
+    "date": "12/02/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-12-02T08:00:00Z"
+   },
+   {
+    "position": 74,
+    "title": "South African astronomy has a long, rich history of discovery – and a promising future",
+    "source": {
+     "name": "The Conversation",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ian Glass"
+     ]
+    },
+    "link": "https://theconversation.com/south-african-astronomy-has-a-long-rich-history-of-discovery-and-a-promising-future-152777",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRZWE0xTjFOMllVUkZNVmN3VFJERUF4aW1CU2dLTWdZUm9JNVB0UVU",
+    "date": "01/12/2021, 08:00 AM, +0000 UTC",
+    "iso_date": "2021-01-12T08:00:00Z"
+   },
+   {
+    "position": 75,
+    "title": "Probing mysteries of the dead: Top forensic pathologist looks back as Cape Town gets shiny new mortuary",
+    "source": {
+     "name": "www.spotlightnsp.co.za",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.spotlightnsp.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Bienne Huisman"
+     ]
+    },
+    "link": "https://www.spotlightnsp.co.za/2024/02/26/probing-mysteries-of-the-dead-professor-lorna-martin-looks-back-as-cape-town-gets-shiny-new-mortuary/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdkMTg0UlhseE56Tm1URnBXVFJEZEF4aURCU2dLTWdhNUU2QlJsUW8",
+    "date": "02/26/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-02-26T08:00:00Z"
+   },
+   {
+    "position": 76,
+    "title": "Homeless: “I never grew up to stand by a robot with a board”",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ashraf Hendricks"
+     ]
+    },
+    "link": "https://groundup.org.za/article/homeless-i-never-ever-grew-up-stand-by-robot-with-board/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRUVE55VVZkUGVFSkVkRGxDVFJERUF4aW1CU2dLTWdZQm9wQXV1UVU",
+    "date": "10/28/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-10-28T07:00:00Z"
+   },
+   {
+    "position": 77,
+    "title": "Total lunar eclipse coming! Where to see the Blood Moon over Cape Town",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Selene Brophy"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/news/total-lunar-eclipse-coming-where-to-see-the-blood-moon-over-cape-town-082925",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtPVFJMVkhBeVdXRndlVXhzVFJDZkF4amlCU2dLTWdhQkE0eGdRd1U",
+    "date": "08/29/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-08-29T07:00:00Z"
+   },
+   {
+    "position": 78,
+    "title": "Eviction must not make immigrants homeless, says court",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tania Broughton"
+     ]
+    },
+    "link": "https://groundup.org.za/article/high-court-reverses-eviction-of-circusproperty-occupiers-in-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiRVJzYUhoSmFXOUpUVlZrVFJERUF4aW1CU2dLTWdZQjBaQkZQUVU",
+    "date": "04/02/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-04-02T07:00:00Z"
+   },
+   {
+    "position": 79,
+    "title": "The Top Things To See And Do In Observatory, Cape Town",
+    "source": {
+     "name": "Culture Trip",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://theculturetrip.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://theculturetrip.com/africa/south-africa/cape-town/articles/the-top-things-to-see-and-do-in-observatory-cape-town",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRWMFJSWXpKMVZEa3RZVEJhVFJDcUJCaXFCQ2dLTWdZQlVJS0d4Z1E",
+    "date": "02/20/2020, 08:00 AM, +0000 UTC",
+    "iso_date": "2020-02-20T08:00:00Z"
+   },
+   {
+    "position": 80,
+    "title": "The Best Vintage Stores in Cape Town",
+    "source": {
+     "name": "Vogue",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.vogue.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lilah Ramzi"
+     ]
+    },
+    "link": "https://www.vogue.com/article/best-vintage-stores-in-cape-town",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVBkVWxRTTNsUVExY3lOVTFyVFJEZ0F4aUFCU2dLTWdPWkFRNA",
+    "date": "04/22/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-04-22T07:00:00Z"
+   },
+   {
+    "position": 81,
+    "title": "'We belong here': Singabalapha residents challenge Cape Town's eviction, relocation plan",
+    "source": {
+     "name": "News24",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.news24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Marvin Charles"
+     ]
+    },
+    "link": "https://www.news24.com/southafrica/news/we-belong-here-singabalapha-residents-challenge-cape-towns-eviction-relocation-plan-20240202",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlkbWhVYjI5c2VXcHdVa3gyVFJERUF4aW1CU2dLTWdZQklaUXJzUVk",
+    "date": "02/02/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-02-02T08:00:00Z"
+   },
+   {
+    "position": 82,
+    "title": "Amazon threatens to end contract with HQ developers",
+    "source": {
+     "name": "ITWeb",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.itweb.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.itweb.co.za/article/amazon-threatens-to-end-contract-with-hq-developers/JBwErvn35KY76Db2",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlVbnBpZFVaRGNITTVPVlV3VFJDZ0FoaUFCQ2dLTWdNQmdBdw",
+    "date": "07/25/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-07-25T07:00:00Z"
+   },
+   {
+    "position": 83,
+    "title": "Super Moon coming! Where to see it over Cape Town",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Selene Brophy"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/news/cape-towns-night-sky-set-for-three-back-to-back-supermoons-100725",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlTelprY25CbE1qZGxUUzFXVFJDZkF4amlCU2dLTWdhcFk0cU9wUVU",
+    "date": "10/07/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-10-07T07:00:00Z"
+   },
+   {
+    "position": 84,
+    "title": "Thousands of jobs at stake, warns Amazon HQ developer",
+    "source": {
+     "name": "ITWeb",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.itweb.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sibahle Malinga"
+     ]
+    },
+    "link": "https://www.itweb.co.za/article/thousands-of-jobs-at-stake-warns-amazon-hq-developer/raYAyqodLpzvJ38N",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFkelZmVm5oUE1VSndOMUZqVFJDZkFoaUFCQ2dLTWdZRmtJcnV4QVE",
+    "date": "03/24/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-03-24T07:00:00Z"
+   },
+   {
+    "position": 85,
+    "title": "Observatory Forensic Pathology Institute nears completion",
+    "source": {
+     "name": "University of Cape Town",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://health.uct.ac.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://health.uct.ac.za/forensic-medicine/articles/2020-12-17-observatory-forensic-pathology-institute-nears-completion",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHdUR3QwTVVoRlRsRXRlazlxVFJEQ0FSaURBaWdCTWdzQk1JeURJR1hvQ1NxSlRR",
+    "date": "12/17/2020, 08:00 AM, +0000 UTC",
+    "iso_date": "2020-12-17T08:00:00Z"
+   },
+   {
+    "position": 86,
+    "title": "City of Cape Town takes down tents erected by Observatory resident for homeless",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ashraf Hendricks"
+     ]
+    },
+    "link": "https://groundup.org.za/article/observatory-resident-loggerheads-city-over-removal-marquees-homeless/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJlWEpYZVVwQ1prOVZaems1VFJERUF4aW1CU2dLTWdrQlVaRDBJS2pRa0FF",
+    "date": "06/10/2020, 07:00 AM, +0000 UTC",
+    "iso_date": "2020-06-10T07:00:00Z"
+   },
+   {
+    "position": 87,
+    "title": "A “Bohemian French” Victorian Cottage in Cape Town",
+    "source": {
+     "name": "Apartment Therapy",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.apartmenttherapy.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.apartmenttherapy.com/house-tour-a-bohemian-french-victorian-cape-town-cottage-238829",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBZblZwV0dRMFVUZHRVbmxyVFJDcUJCaXFCQ2dLTWdZQmNwUVRLUWc",
+    "date": "04/30/2019, 07:00 AM, +0000 UTC",
+    "iso_date": "2019-04-30T07:00:00Z"
+   },
+   {
+    "position": 88,
+    "title": "Pinelands shooting suspect discovered dead in Observatory",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Byron Lukas"
+     ]
+    },
+    "link": "https://iol.co.za/capeargus/news/2024-10-16-pinelands-shooting-suspect-discovered-dead-in-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpTbVpSTlRGV1FuaGtVbWcxVFJERUF4aW1CU2dLTWdrQllKQVlyS2F3emdF",
+    "date": "10/16/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-10-16T07:00:00Z"
+   },
+   {
+    "position": 89,
+    "title": "Before the flood: What’s really going on at the River Club, and why it’s in the wrong place",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Jens Horber"
+     ]
+    },
+    "link": "https://www.dailymaverick.co.za/article/2021-08-04-before-the-flood-whats-really-going-on-at-the-river-club-and-why-its-in-the-wrong-place/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhOM0p1TlRacFJqVnVjbnB2VFJDT0F4aURCaWdLTWdZUndJYTF6QU0",
+    "date": "08/04/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-08-04T07:00:00Z"
+   },
+   {
+    "position": 90,
+    "title": "Agora Apartments / Two Five Five Architects",
+    "source": {
+     "name": "ArchDaily",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.archdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Hana Abdel"
+     ]
+    },
+    "link": "https://www.archdaily.com/976081/agora-apartments-two-five-five-architects",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRiM001ZEU1TU9GbEtlRGhZVFJDSEF4aVFCQ2dLTWdZTklvaHFvUWM",
+    "date": "02/03/2022, 08:00 AM, +0000 UTC",
+    "iso_date": "2022-02-03T08:00:00Z"
+   },
+   {
+    "position": 91,
+    "title": "Fierce battle over future of landmark Cape Town site",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Steve Kretzmann"
+     ]
+    },
+    "link": "https://groundup.org.za/article/first-nations-fight-preserve-sacred-land-cape-town/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVaVnB0V21VM1ppMWZXSFp4VFJERUF4aW1CU2dLTWdZQnNJcTBSQVU",
+    "date": "11/27/2019, 08:00 AM, +0000 UTC",
+    "iso_date": "2019-11-27T08:00:00Z"
+   },
+   {
+    "position": 92,
+    "title": "Observatory residents demand transparency over the protracted swimming pool closure",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capeargus/news/2023-01-20-observatory-residents-demand-transparency-over-the-protracted-swimming-pool-closure/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUxTak5xVWpSRk9YTkhhamRxVFJDMkF4aTdCU2dLTWdB",
+    "date": "01/20/2023, 08:00 AM, +0000 UTC",
+    "iso_date": "2023-01-20T08:00:00Z"
+   },
+   {
+    "position": 93,
+    "title": "City of Cape Town inaction sees residents pay to house homeless",
+    "source": {
+     "name": "Daily Maverick",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymaverick.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.dailymaverick.co.za/article/2021-10-14-city-of-cape-town-inaction-sees-residents-pay-to-house-homeless/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkbEpzTlc5WU9URjNXbTgyVFJDbkF4alZCU2dLTWdZQkVva0owUU0",
+    "date": "10/14/2021, 07:00 AM, +0000 UTC",
+    "iso_date": "2021-10-14T07:00:00Z"
+   },
+   {
+    "position": 94,
+    "title": "New R1.2 million micro apartments for Cape Town – here’s what they look like",
+    "source": {
+     "name": "BusinessTech",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://businesstech.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://businesstech.co.za/news/property/345834/new-r1-2-million-micro-apartments-for-cape-town-heres-what-they-look-like/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRTV2hZVDBkRU0ySnBTRUZhVFJES0FSaXNBaWdLTWdNQjhBWQ",
+    "date": "10/12/2019, 07:00 AM, +0000 UTC",
+    "iso_date": "2019-10-12T07:00:00Z"
+   },
+   {
+    "position": 95,
+    "title": "Now it’s official - best pizza in SA is to be found in Observatory",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capetimes/arts-portal/food-and-wine/2022-11-14-now-its-official-best-pizza-in-sa-is-to-be-found-in-observatory/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpNVGRJVDFGNlEyTldZMGs0VFJERUF4aW1CU2dLTWdtUmdZUXNPV09pMVFB",
+    "date": "11/14/2022, 08:00 AM, +0000 UTC",
+    "iso_date": "2022-11-14T08:00:00Z"
+   },
+   {
+    "position": 96,
+    "title": "The music that changed my life",
+    "source": {
+     "name": "Africa Is a Country",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://africasacountry.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dylan Valley"
+     ]
+    },
+    "link": "https://africasacountry.com/2014/05/the-music-that-changed-my-life",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRYM0ZMU1VWZlV6bHBlWEJLVFJDM0FSaVVBaWdCTWdhQjhJSW8xUUk",
+    "date": "03/26/2018, 05:02 PM, +0000 UTC",
+    "iso_date": "2018-03-26T17:02:33Z"
+   },
+   {
+    "position": 97,
+    "title": "Help raise funds for the Observatory Rainbow House",
+    "source": {
+     "name": "IOL",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://iol.co.za/capeargus/news/2022-10-08-help-raise-funds-for-the-observatory-rainbow-house/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHlaWE5HTjFvM1JrNUxTak5aVFJEZ0F4aUFCU2dLTWdB",
+    "date": "10/08/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-10-08T07:00:00Z"
+   },
+   {
+    "position": 98,
+    "title": "Dashi Poké and The Mussel Monger & Oyster Bar",
+    "source": {
+     "name": "Time Out Worldwide",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ishani Chetty"
+     ]
+    },
+    "link": "https://www.timeout.com/cape-town/restaurants/dashi-poke-and-the-mussel-monger-oyster-bar",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9RMnhtYjB3MkxWRjNkMjVQVFJDZkF4amlCU2dLTWdPQllCQQ",
+    "date": "08/25/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-08-25T07:00:00Z"
+   },
+   {
+    "position": 99,
+    "title": "Plenty of summer left to take a dip at reopened pools",
+    "source": {
+     "name": "Southern Suburbs Tatler",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://southernsuburbstatler.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://southernsuburbstatler.co.za/news/2025-01-14-plenty-of-summer-left-to-take-a-dip-at-reopened-pools/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVljRmxEZVZoYWQxZHlOWGhyVFJEZUFoaThCU2dLTWdZQmNKVHBNQWM",
+    "date": "01/14/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-01-14T08:00:00Z"
+   },
+   {
+    "position": 100,
+    "title": "Judgment reserved in Cape Town eviction case",
+    "source": {
+     "name": "GroundUp",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://groundup.org.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Mary-anne Gontsana"
+     ]
+    },
+    "link": "https://groundup.org.za/article/obs-occupiers-continue-living-outside-former-old-age-home-now/",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpWMnhOYW1wcVV6Rnhla050VFJDZkF4ampCU2dLTWdZZFFKcFpuQWs",
+    "date": "03/02/2022, 08:00 AM, +0000 UTC",
+    "iso_date": "2022-03-02T08:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "South Africa"
+   },
+   {
+    "title": "World"
+   },
+   {
+    "title": "Your local news"
+   },
+   {
+    "title": "Business"
+   },
+   {
+    "title": "Technology"
+   },
+   {
+    "title": "Entertainment"
+   },
+   {
+    "title": "Sports"
+   },
+   {
+    "title": "Science"
+   },
+   {
+    "title": "Health"
+   }
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "fetched_at": "2026-10-17T21:47:46.915408+00:00",
+ "params": {
+  "engine": "google",
+  "q": "is Observatory Cape Town safe to live",
+  "location": "Cape Town,Western Cape,South Africa",
+  "google_domain": "google.co.za",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3ecfc34262a1a829d6258",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/pbvJX3Fx2zsH3viLTWYZRUa0JGBplN_HcvyWc3KkhU8/6ad3ecfc34262a1a829d6258.json",
+   "markdown_endpoint": "https://serpapi.com/searches/pbvJX3Fx2zsH3viLTWYZRUa0JGBplN_HcvyWc3KkhU8/6ad3ecfc34262a1a829d6258.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/pbvJX3Fx2zsH3viLTWYZRUa0JGBplN_HcvyWc3KkhU8/6ad3ecfc34262a1a829d6258.json_with_pixel_position",
+   "created_at": "2026-10-17 21:47:40 UTC",
+   "processed_at": "2026-10-17 21:47:40 UTC",
+   "google_url": "https://www.google.co.za/search?q=is+Observatory+Cape+Town+safe+to+live&oq=is+Observatory+Cape+Town+safe+to+live&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&hl=en&gl=za&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/pbvJX3Fx2zsH3viLTWYZRUa0JGBplN_HcvyWc3KkhU8/6ad3ecfc34262a1a829d6258.html",
+   "total_time_taken": 5.78
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "is Observatory Cape Town safe to live",
+   "location_requested": "Cape Town,Western Cape,South Africa",
+   "location_used": "Cape Town,Western Cape,South Africa",
+   "google_domain": "google.co.za",
+   "hl": "en",
+   "gl": "za",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "is Observatory Cape Town safe to live",
+   "total_results": 125,
+   "time_taken_displayed": 0.23,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+   {
+    "question": "Is Cape Town safe to live in?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "Where is Observatory Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "Where do middle class people live in Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "How safe are the Cape Flats?",
+    "type": "featured_snippet"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Observatory, Cape Town",
+    "link": "https://en.wikipedia.org/wiki/Observatory,_Cape_Town",
+    "displayed_link": "https://en.wikipedia.org › wiki › Observatory,_Cape_T...",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "snippet": "Observatory is a suburb in Cape Town, South Africa, colloquially known as Obs. Bordered by Mowbray to the south and Salt River to the northwest, the area is ...",
+    "snippet_highlighted_words": [
+     "Observatory is a suburb in Cape Town"
+    ],
+    "source": "Wikipedia",
+    "read_more_link": "https://en.wikipedia.org/wiki/Observatory,_Cape_Town#:~:text=Observatory%20is%20a%20suburb%20in,Town%20and%20Groote%20Schuur%20Hospital."
+   },
+   {
+    "position": 2,
+    "title": "Observatory Area Profile - Cape Town",
+    "link": "https://www.chaseveritt.co.za/area-profiles/cape-town/observatory/",
+    "displayed_link": "https://www.chaseveritt.co.za › ... › Cape Town",
+    "favicon": "https://serpapi.com/images/i/UklGRooAAABXRUJQVlA4IH4AAAAwBACdASocABwAPtEutFooIagoGAEAGgliAJ0zL_LAMdfb7XG55ssU3ygA_rhrWP3Shq15_SYkYiRE60tLnFcGmFHs__UqxDQL3ssfeEMp28JRRkw5RQJEMHoXMLCkH3T4gkT5kY1_NCp1Ny0zWIf2-ftjm-z7DkPTRtTYAAA.webp",
+    "snippet": "Close-Knit Community with Old-School Charm: In Obs, residents aren't just neighbours; there's a genuine feeling of community here. Expect friendly greetings on ...",
+    "source": "Chas Everitt",
+    "read_more_link": "https://www.chaseveritt.co.za/area-profiles/cape-town/observatory/#:~:text=Close%2DKnit%20Community%20with%20Old%2DSchool%20Charm%3A,of%20the%20suburb's%20fascinating%20past."
+   },
+   {
+    "position": 3,
+    "title": "Safest suburbs to live in Cape Town?",
+    "link": "https://www.facebook.com/groups/1352661338752600/posts/1920221228663272/",
+    "displayed_link": "60+ comments · 7 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "I've been staying at same place in Midrand since 2018...I want to move to Cape Town this year. Safest suburb to look into? 👂🏾🧐 Help",
+    "source": "Facebook · Mmereko Le Aus Dee (New Group)"
+   },
+   {
+    "position": 4,
+    "title": "Is Cape Town (South Africa) a safe place for a young family ...",
+    "link": "https://www.quora.com/Is-Cape-Town-South-Africa-a-safe-place-for-a-young-family-to-live",
+    "displayed_link": "30+ answers · 2 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+    "snippet": "Is Cape Town (South Africa) a safe place for a young family to live?",
+    "sitelinks": {
+     "list": [
+      {
+       "title": "Do you feel safe living in Cape Town? - Quora",
+       "link": "https://www.quora.com/Do-you-feel-safe-living-in-Cape-Town",
+       "answer_count": 66,
+       "date": "14 Aug 2019"
+      },
+      {
+       "title": "What are some of the safest neighborhoods in Cape ...",
+       "link": "https://www.quora.com/What-are-some-of-the-safest-neighborhoods-in-Cape-Town-South-Africa",
+       "answer_count": 32,
+       "date": "10 Nov 2023"
+      }
+     ]
+    },
+    "source": "Quora"
+   },
+   {
+    "position": 5,
+    "title": "We're trying to improve Observatory",
+    "link": "https://groundup.org.za/article/how-were-trying-improve-observatory/",
+    "displayed_link": "https://groundup.org.za › Opinion",
+    "favicon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAABwCACdASocABwAPtE-tFooIigoFAEAGglsAMHTen_Y67XMJ_3GbGseOzd_RH_V4NYXJvpwmPXKsEbaChhky3BbDtLkU1DMNKjb80xAAP72DQqm6JKJYrN32Yibsp72C-7ZULKmx7imBEPGwhxYsWeWbYkDRHszQpH2QUe__4r6CSMmnujUTYlNZrKGu0beTS74G6UVth1UQU4EtS-z_6XERfSV1tzkR1VPiPd4IWnySkVSyNptumau4uNyHtf8S8qL_J_I8fQErOOFDcy9By9aSUEwjM8w2_fv16WtZ0YFw9hYsPZ-h6ljO6ypyGtmfEtFK_xN4WvQ5Z1iOgHi5_e5r6OG1Fd-FUu3niIsv7v5EMmT9zF7yM9GV2kVV5SrqV6kHv6Nt7t-vy2uOwV3vIv9C5DSTInMVXv031Hp79OlJFD3dZYlhOiUP2zDv1HQAmDo_vJ3_4bHyh9X42U9rwgPBXP7JEAWhx8ohOVo4xH38vTTLk9_g1FfklWrKvk-b0XCbV9rNU8S9Yp838Lc9Y0gQAA.webp",
+    "date": "18 Apr 2016",
+    "snippet": "In the shared public spaces that make up Observatory there are also many addicts. There is a thriving drug trade which is not a positive feature ...",
+    "snippet_highlighted_words": [
+     "Observatory"
+    ],
+    "source": "GroundUp",
+    "read_more_link": "https://groundup.org.za/article/how-were-trying-improve-observatory/#:~:text=In%20the%20shared%20public%20spaces,positive%20feature%20of%20community%20life."
+   },
+   {
+    "position": 6,
+    "title": "Is Cape Town Safe? Neighbourhood Safety Guide for ...",
+    "link": "https://roamandroot.co.za/blog/tenants/is-cape-town-safe-neighbourhood-guide",
+    "displayed_link": "https://roamandroot.co.za › Blog",
+    "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAADQBwCdASocABwAPtEutFooIagoGAEAGgljALs7vyQS46DRBTF_Gh9Lecz1wPQAHVtU4LhqumczyC6wo63y0Pin9F9Utel5AAD-83TL0dQ8rcMDETvSgevA78xEEcL792TC_cND9_luWALsYx9WElJ-ocNAhV5R72t5ZXRHTI_QGyFhNidY-jEbKGjvQN72QLBEWENRw_34PQWxdKe1_yrQIBaV-wd0FxPT_MJHF3v3Jp_w1p__lEVNi0f_z6c8i7YbsoeyrBunf-er-txJGK6mzelIiWqBOdX1La8GT9y1vLkQ3FnvEQR-BWL0IDnhzkguOh3r9QIUqIo1qL2EliNf89Akrwghc671QMSKTAxYyQDea5qnOi_pXQMLKe28tW8IvSc8_EWk4hMCoO_rZKodBqq64wtkfvAAAA.webp",
+    "date": "06 Oct 2026",
+    "snippet": "Is Cape Town safe to live in for a few months? A local guide to crime, everyday risks and how Sea Point, Gardens, Green Point and other ...",
+    "snippet_highlighted_words": [
+     "Is Cape Town safe to live in for a few months"
+    ],
+    "source": "roam&root"
+   },
+   {
+    "position": 7,
+    "title": "Neighbourhoods known for their Safety & Security",
+    "link": "https://www.privateproperty.co.za/neighbourhoods/tags/safety-security/36",
+    "displayed_link": "https://www.privateproperty.co.za › tags › safety-security",
+    "favicon": "https://serpapi.com/images/i/UklGRngBAABXRUJQVlA4IGwBAACQBwCdASocABwAPrkurlcnIacnG_DgFwlsAKXZwBagHAAeVv7LH7O-lU8cSQWTtfex0lq6B3T4yW2inxn0glwqYLhFGAAA_vfxbyDyAdD11ghbnYxv6vX5VBYczB9cIgR9XX0e68sIS45E5jNnmBEzcw7gDgj0tiJ18HctSS7i6uRTUb6jCS_8rjthvMFAzHmSZ_3u9WU5-Gvy_vNH4btEDvXnHsKCeBVMWWS6PY3MczNjwEgQxU_cy3-0bRAnOCMhFbZMZ5M9TVUXo2N3RLAwgv-WP-7ulzXYaNr0YDwj0u2OLUNFxn0syZGpnujm81OOgVyNe7rI_vYUt-l87sVuxzRvTtme6x8o23neFXacYBO-EZDAu5g2ZSCjKsUh-Fhfd3h1XtBr5b0rL6vLvHYiIsTke_NagAMdmuJj-pZnaDyeJOIndP_lKpiKDrF6QH-Zu-NotOf8v2GTDg5lv1edWf-Nia91ivzsgAAA.webp",
+    "snippet": "These neighbourhoods are known for their Safety & Security. 1 - 10 of 11 results. Atlantic Seaboard. Beautiful views, beautiful people.",
+    "snippet_highlighted_words": [
+     "Safety"
+    ],
+    "source": "Private Property",
+    "read_more_link": "https://www.privateproperty.co.za/neighbourhoods/tags/safety-security/36#:~:text=These%20neighbourhoods%20are%20known%20for,Beautiful%20views%2C%20beautiful%20people"
+   },
+   {
+    "position": 8,
+    "title": "Will Cape Town City Center be safe for a 21 year old ...",
+    "link": "https://www.reddit.com/r/capetown/comments/pbsqsi/will_cape_town_city_center_be_safe_for_a_21_year/",
+    "displayed_link": "10+ comments · 5 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+    "snippet": "Yes, it can be safe in the right areas. What you need (if you do get a car or even just ubering) is access to underground or secure parking so ...",
+    "snippet_highlighted_words": [
+     "Yes, it can be safe in the right areas"
+    ],
+    "sitelinks": {
+     "list": [
+      {
+       "title": "Safe neighborhoods to live in close to the city : r ...",
+       "link": "https://www.reddit.com/r/capetown/comments/1ow0dzz/safe_neighborhoods_to_live_in_close_to_the_city/",
+       "answer_count": 6,
+       "date": "13 Nov 2025"
+      },
+      {
+       "title": "Investing/settling in Cape Town? : r/southafrica - Reddit",
+       "link": "https://www.reddit.com/r/southafrica/comments/3mf417/investingsettling_in_cape_town/",
+       "answer_count": 58,
+       "date": "26 Sept 2015"
+      }
+     ]
+    },
+    "source": "Reddit · r/capetown",
+    "read_more_link": "https://www.reddit.com/r/capetown/comments/pbsqsi/will_cape_town_city_center_be_safe_for_a_21_year/#:~:text=Yes%2C%20it%20can%20be%20safe,worry%20about%20hobos%20harassing%20you."
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Is observatory cape town safe to live reddit",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnv262kSbOIHAmp-UWKc82pEaM_fcw:1792273665199&q=Is+observatory+cape+town+safe+to+live+reddit&sa=X&ved=2ahUKEwix4Z3Zg8KXAxXf1QIHHTO8ENgQ1QJ6BAhEEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Is observatory cape town safe to live in south africa",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnv262kSbOIHAmp-UWKc82pEaM_fcw:1792273665199&q=Is+observatory+cape+town+safe+to+live+in+south+africa&sa=X&ved=2ahUKEwix4Z3Zg8KXAxXf1QIHHTO8ENgQ1QJ6BAhLEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "How far is Observatory from Cape Town",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnv262kSbOIHAmp-UWKc82pEaM_fcw:1792273665199&q=How+far+is+Observatory+from+Cape+Town&sa=X&ved=2ahUKEwix4Z3Zg8KXAxXf1QIHHTO8ENgQ1QJ6BAhKEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Observatory cape Town postal code",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnv262kSbOIHAmp-UWKc82pEaM_fcw:1792273665199&q=Observatory+cape+Town+postal+code&sa=X&ved=2ahUKEwix4Z3Zg8KXAxXf1QIHHTO8ENgQ1QJ6BAhJEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Observatory cape town code",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnv262kSbOIHAmp-UWKc82pEaM_fcw:1792273665199&q=Observatory+cape+town+code&sa=X&ved=2ahUKEwix4Z3Zg8KXAxXf1QIHHTO8ENgQ1QJ6BAhIEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "History of Observatory, Cape Town",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnv262kSbOIHAmp-UWKc82pEaM_fcw:1792273665199&q=History+of+Observatory,+Cape+Town&sa=X&ved=2ahUKEwix4Z3Zg8KXAxXf1QIHHTO8ENgQ1QJ6BAhHEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Observatory, Cape Town stargazing",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnv262kSbOIHAmp-UWKc82pEaM_fcw:1792273665199&q=Observatory,+Cape+Town+stargazing&sa=X&ved=2ahUKEwix4Z3Zg8KXAxXf1QIHHTO8ENgQ1QJ6BAhGEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Observatory, Cape Town student accommodation",
+    "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&hl=en&gl=za&sxsrf=APpeQnv262kSbOIHAmp-UWKc82pEaM_fcw:1792273665199&q=Observatory,+Cape+Town+student+accommodation&sa=X&ved=2ahUKEwix4Z3Zg8KXAxXf1QIHHTO8ENgQ1QJ6BAhFEAE"
+   }
+  ],
+  "discussions_and_forums": [
+   {
+    "title": "Is observatory a safe/ family friendly neighbourhood?",
+    "link": "https://www.reddit.com/r/capetown/comments/1n37u3y/is_observatory_a_safe_family_friendly/",
+    "date": "1 year ago",
+    "extensions": [
+     "r/capetown",
+     "70+ comments"
+    ],
+    "source": "Reddit",
+    "answers": [
+     {
+      "link": "https://www.reddit.com/r/capetown/comments/1n37u3y/is_observatory_a_safe_family_friendly/nbbfx62/",
+      "extensions": [
+       "Top answer",
+       "70 votes",
+       "a year ago"
+      ]
+     },
+     {
+      "link": "https://www.reddit.com/r/capetown/comments/1n37u3y/is_observatory_a_safe_family_friendly/nbbnau9/",
+      "extensions": [
+       "52 votes",
+       "a year ago"
+      ]
+     },
+     {
+      "link": "https://www.reddit.com/r/capetown/comments/1n37u3y/is_observatory_a_safe_family_friendly/nbbglnb/",
+      "extensions": [
+       "48 votes",
+       "a year ago"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Staying in Observatory as tourist",
+    "link": "https://www.reddit.com/r/capetown/comments/1sriwr1/staying_in_observatory_as_tourist/",
+    "date": "5 months ago",
+    "extensions": [
+     "r/capetown",
+     "20+ comments"
+    ],
+    "source": "Reddit",
+    "answers": [
+     {
+      "link": "https://www.reddit.com/r/capetown/comments/1sriwr1/staying_in_observatory_as_tourist/"
+     }
+    ]
+   },
+   {
+    "title": "*Observatory neighbourhood* Hey! I'm flying to cape town next week and ...",
+    "link": "https://www.facebook.com/groups/2546123372160231/posts/25101567139522533/",
+    "date": "9 months ago",
+    "extensions": [
+     "Travel Cape Town",
+     "10+ comments"
+    ],
+    "source": "Facebook",
+    "answers": [
+     {
+      "link": "https://www.facebook.com/groups/2546123372160231/posts/25101567139522533/"
+     }
+    ]
+   }
+  ]
+ }
+}

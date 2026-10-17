@@ -1,0 +1,241 @@
+{
+ "fetched_at": "2026-10-17T20:27:07.333352+00:00",
+ "params": {
+  "engine": "google",
+  "q": "flat to rent in Observatory Cape Town",
+  "location": "Cape Town,Western Cape,South Africa",
+  "google_domain": "google.co.za",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3da1a1e760b2cc6ca9a56",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/MitRxHDjJZYcreOqXk1vcC3nOCauQafcwd22xAKzfOk/6ad3da1a1e760b2cc6ca9a56.json",
+   "markdown_endpoint": "https://serpapi.com/searches/MitRxHDjJZYcreOqXk1vcC3nOCauQafcwd22xAKzfOk/6ad3da1a1e760b2cc6ca9a56.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/MitRxHDjJZYcreOqXk1vcC3nOCauQafcwd22xAKzfOk/6ad3da1a1e760b2cc6ca9a56.json_with_pixel_position",
+   "created_at": "2026-10-17 20:27:06 UTC",
+   "processed_at": "2026-10-17 20:27:06 UTC",
+   "google_url": "https://www.google.co.za/search?q=flat+to+rent+in+Observatory+Cape+Town&oq=flat+to+rent+in+Observatory+Cape+Town&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&hl=en&gl=za&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/MitRxHDjJZYcreOqXk1vcC3nOCauQafcwd22xAKzfOk/6ad3da1a1e760b2cc6ca9a56.html",
+   "total_time_taken": 0.53
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "flat to rent in Observatory Cape Town",
+   "location_requested": "Cape Town,Western Cape,South Africa",
+   "location_used": "Cape Town,Western Cape,South Africa",
+   "google_domain": "google.co.za",
+   "hl": "en",
+   "gl": "za",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "flat to rent in Observatory Cape Town",
+   "total_results": 111,
+   "time_taken_displayed": 0.17,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+   {
+    "question": "Where is the cheapest place to rent in Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "What are some good places to stay in Observatory, Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "How much is monthly rent in Cape Town?",
+    "type": "featured_snippet"
+   },
+   {
+    "question": "Is Observatory in Cape Town a suburb?",
+    "type": "featured_snippet"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Apartments / flats to rent in Observatory, Cape Town",
+    "link": "https://www.property24.com/apartments-to-rent/observatory/cape-town/western-cape/10157",
+    "displayed_link": "https://www.property24.com › ... › Cape Town",
+    "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADwBACdASocABwAPtEwtFooIigoGAEAGglsALsMEmIhQX-srKG5w7uUkpQIBS9ZYAAA_vYBJ8Y3I_MptR_3FnfrbKWzctb3LazCcCrVhf3LjMHUc46ya_ohgtVlgAQjjOBzDx5a7RaTXtPXbkStlLa1Wogat6wps0tIEIENdfpMruIL6XJMYFR0-vqllR-1JJF3_g1dqaU-gOsqLvo7wo2Hyk-7GhfxW96OivqXsqq81l7f7cZleFQTeXG4wb9Cgg3uve4p4qssoDLMah3RaynhNpeDyeJAAAA.webp",
+    "snippet": "Apartments / flats to rent in Observatory, Cape Town. The largest selection of apartments, flats, farms, repossessed property, private property and houses ...",
+    "snippet_highlighted_words": [
+     "Apartments / flats to rent in Observatory, Cape Town"
+    ],
+    "source": "Property24"
+   },
+   {
+    "position": 2,
+    "title": "Property to rent in Observatory, Southern Suburbs",
+    "link": "https://www.privateproperty.co.za/to-rent/western-cape/cape-town/southern-suburbs/observatory/1098",
+    "displayed_link": "https://www.privateproperty.co.za › to-rent › cape-town",
+    "favicon": "https://serpapi.com/images/i/UklGRngBAABXRUJQVlA4IGwBAACQBwCdASocABwAPrkurlcnIacnG_DgFwlsAKXZwBagHAAeVv7LH7O-lU8cSQWTtfex0lq6B3T4yW2inxn0glwqYLhFGAAA_vfxbyDyAdD11ghbnYxv6vX5VBYczB9cIgR9XX0e68sIS45E5jNnmBEzcw7gDgj0tiJ18HctSS7i6uRTUb6jCS_8rjthvMFAzHmSZ_3u9WU5-Gvy_vNH4btEDvXnHsKCeBVMWWS6PY3MczNjwEgQxU_cy3-0bRAnOCMhFbZMZ5M9TVUXo2N3RLAwgv-WP-7ulzXYaNr0YDwj0u2OLUNFxn0syZGpnujm81OOgVyNe7rI_vYUt-l87sVuxzRvTtme6x8o23neFXacYBO-EZDAu5g2ZSCjKsUh-Fhfd3h1XtBr5b0rL6vLvHYiIsTke_NagAMdmuJj-pZnaDyeJOIndP_lKpiKDrF6QH-Zu-NotOf8v2GTDg5lv1edWf-Nia91ivzsgAAA.webp",
+    "snippet": "52 properties to rent in Observatory, Southern Suburbs. Browse photos, floor plans and full property details. Apartment New R 16 000 per month. R 13 500 per ...",
+    "snippet_highlighted_words": [
+     "52 properties to rent in Observatory"
+    ],
+    "source": "Private Property"
+   },
+   {
+    "position": 3,
+    "title": "Flats or granny flats for rent r2500 r3500 in Observatory",
+    "link": "https://www.gumtree.co.za/s-property/observatory/flats+or+granny+flats+for+rent+r2500+r3500/v1c2l3100319q0p1",
+    "displayed_link": "https://www.gumtree.co.za › ... › Southern Suburbs",
+    "favicon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0zNDXf498I8BtgM9m60D0APLA9kcBifqVBvAV4cbm83fLIYu5eLlfKlwUwAAD-9gnKkABmNfgzpg852Njerv2BBX4lEcE_XhT3LfTeJ7RYyedkA44lVrD-Gl38b1wpVY1bEb-SI9vdICmvv6_u-9z_xV7vOf2q6UBobtnztX3dXNNZvp_8Gq7xu_UbOQq8SX09J2732al8TzH4TylfkS5_FxBKxvod9SD37GNM93I7zyi6f7uzX7GXZ5bS8jjcr4B3izc-SDCxXvjsSh14m10g7LNrPiJEhE04iAAAAA.webp",
+    "snippet": "Find flats or granny flats for rent r2500. Free delivery and installation. Contact 083 514 1542. Fully furnished Including water and electricity and unlimited ...",
+    "snippet_highlighted_words": [
+     "flats or granny flats for rent r2500"
+    ],
+    "source": "Gumtree South Africa"
+   },
+   {
+    "position": 4,
+    "title": "Rented Properties in Observatory, Cape Town",
+    "link": "https://www.roseeedes.co.za/properties/rented-Observatory-Cape-Town-6017969",
+    "displayed_link": "https://www.roseeedes.co.za › Rented Properties",
+    "favicon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAADQBACdASocABwAPtE-tFooIigoFAEAGgljALsAERzv8POY8ruqIi_9qxZVhlgAAAD-8MqJS_MX5vYg5IFo5-o4uaRtuIY6BF9oZIDK1gFb-ZhN2HdyozIjlCCkGBKw8H9iQCG0_r3EzELOVAYiqB81Wit6cyIZaNnAmad1E5JFynxk19oIuilI0jsZm7Sv38PEhhHWePPIdH8cB47Uyn7u-kq9d22pLiAAAA.webp",
+    "snippet": "Flat For Rent in Observatory, R 21 500 per month 3 Bedroom Apartment / Flat For Rent in Observatory. R 14 000 per month … 10 300 per month 1 Bedroom Apartment. ...",
+    "snippet_highlighted_words": [
+     "Flat For Rent in Observatory, R 21 500 per month"
+    ],
+    "source": "Rose Eedes"
+   },
+   {
+    "position": 5,
+    "title": "Observatory Flats and Houses to Rent",
+    "link": "https://rawson.co.za/property/to-rent/observatory-cape-town",
+    "displayed_link": "https://rawson.co.za › ... › Western Cape › Cape Town",
+    "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3lf4zcxmQAZQAIjnoN_GPafJ6eGVCMk053IAA_ucJ2MNFt663Mm66K98bz8KjP5eLivyN2tY-YG___XTB_VTHBJry1ua13_zYLvJ9_jEMJXR7lVH4gBt7J6X5iVm2N1bDrXLxNX0XnTiDxxcKhvtttuM8XFKEU4uoYeG994vD4tbaUMWS51jOt-rZbVaeNaD5kPETlxkS6jkYFNJZCWrMtkxAOMbqkwK59YC_Ztfx_Md_gN4smc2V-Uz6OxW-Zu0Oa3BVjTRyANapCdbgTLGFbOMIf9P-f-f-EvZg9542dH_EVwAAAA.webp",
+    "snippet": "Browse through our property to rent in Observatory, Cape Town - Flats 3+ 4+ ・ 1 Bedroom apartment to rent in Observatory, Cape Town ・ two bathroom, ...",
+    "snippet_highlighted_words": [
+     "Browse through our property to rent in Observatory, Cape Town"
+    ],
+    "source": "Rawson Property Group"
+   },
+   {
+    "position": 6,
+    "title": "Observatory Archives",
+    "link": "https://houses4rent.co.za/location/observatory/",
+    "displayed_link": "https://houses4rent.co.za › location › observatory",
+    "favicon": "https://serpapi.com/images/i/UklGRuABAABXRUJQVlA4INQBAACwCgCdASocABwAPtEutFooIagoGAEAGglsALsvdxQEyAbxr-ztgzZD71L_VeiR_xfKh9IewB-on-m9YD1b_sZ7HP6kjBNa-c2KAFkKgIhPoHWcqRvLYoMtqZC_n8kAAP72C1xdarw2fT-JgfYcEgVhYB7adaf_E266mFOzuMD26rZCo_LXMbW9ce0hWkjM3BbCwfldxp87_Na7SiI3fU3FuJ5Wb8baWp7A6N2Ahpfmd_fgNKn7hsj9OLG2054VqWgS2q-nJqTrIkOEKTIUUDWL2wBj3IK7743kOiHeCcL1PQ_fZZvQIagFpQd49T2UrNrrl9_DEUSClOB3XXMxOaqnVtFn92TdyccrM84xuMnR6Tvr0Yx8dvSPL0y6Eyn_wZqf1VMVoLtateVBMyxcAOznbfZxJkAQlqXkN4AihWzpXgTykwztPT44Qsj2g6hK_kLxC3QOPhR6_EXDAigiMupyGYwjMvP95JdVefv2_-JipiOUmhBI9NbJeWhZQh3_RvzbO5LNNDr_ZqQHlWTu62Pt3nTeFm2kIy9_WuLpk9GFPLl7rBl1ry3vSHf_8UF-vWvA0M9NqmMoEfxV7cZiBg7VjuLyf-O8f9P-KrPi1nfRDQ7QAAA.webp",
+    "snippet": "2 bed, 1 bath Vict ・ 6 Campbell St, Observatory, Cape Town, 7925, 2 bed, 2 bath flat, parking, pool, gym in Observatory. Available from: 21/09/2026 Furnished ...",
+    "snippet_highlighted_words": [
+     "2 bed, 2 bath flat"
+    ],
+    "source": "Houses4rent"
+   },
+   {
+    "position": 7,
+    "title": "Observatory properties - Cape Town",
+    "link": "https://www.remaxliving.co.za/properties-in-observatory-cape-town",
+    "displayed_link": "https://www.remaxliving.co.za › ... › Observatory",
+    "favicon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAACQBgCdASoZABwAPtE-tFooIigoFAEAGglsALsvwWzbbrxsO3nPkgBxRk6JqkRlqLh3k4_o2CJXHce8iuZwAP72EvFscO2MSZhx-FxUQ3ipNG7yZq1mE-sd-dqtL_y4QnIKKoRbTknjZJlcwd8GzTwpZ5Ry10upTecDZ_WALXtUaD5nfTN1y9dysMOFvlQGR3ccG2HH9S0S--O10EIuH4QdcN1G_wVvXZj-y79ldjlDheEdWDF_IJ-sUVhs-KvnTGUMOF8Qpn6jKlQtGeuNmmxhuMO7EZ3dfbuvWLyyUI7P2GDxrL9_hfsZ6IdXo1zug7TTl_q4l-sJdVvHJ6QIngcNGL0oiLH_zFh78_8n3HC6R5rB4R4AAA.webp",
+    "snippet": "Living offers the following 25 Observatory properties currently on the market: Apartment, compact one-bedroom apartment with modern kitchen, balcony mountain ...",
+    "snippet_highlighted_words": [
+     "Living offers the following 25 Observatory properties currently on the market"
+    ],
+    "source": "RE/MAX Living"
+   },
+   {
+    "position": 8,
+    "title": "Property & Homes To Rent in Observatory",
+    "link": "https://www.immoafrica.net/to-rent/observatory/cape-town/western-cape/south-africa",
+    "displayed_link": "https://www.immoafrica.net › ... › Observatory",
+    "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAwBgCdASocABwAPrkurlcnIacnG_DgFwlsAKkjd_qqeAN44aepaC_nwj-eNDGKim-k4T73BT-Q_5xAAP65AQBT6AX_5rqnwWi6n9fSllb9lCGo37H7HCpCGggEJEdp5dFo4Bk9aF0zvec6kjtitXZj2U0xX_6EnkCXjsxOvz0HP749PQsGiG8ThpRDjv_NhtplubkGvxKWvN-VqUwMcvaKEyWzFruSsFoepn9f-n35FqSYfAQ9sze5n3KfpvVjdYgkkgbOD-7ly0gioEgdyFWPhadgqiISAxgi5S8W6xOD8NTCmC8T5Id3n_IN-k7cfXsZEN_eqlv0HA85A3LjEgPUpDv3SQVaM7hYB4AA.webp",
+    "carousel": [
+     {
+      "title": "Observatory · Apartment To Rent",
+      "link": "https://www.immoafrica.net/apartments-to-rent/observatory/cape-town/western-cape/south-africa/IA0007240670"
+     },
+     {
+      "title": "Observatory · Apartment To Rent",
+      "link": "https://www.immoafrica.net/apartments-to-rent/observatory/cape-town/western-cape/south-africa/IA0007243012"
+     },
+     {
+      "title": "Observatory · House To Rent",
+      "link": "https://www.immoafrica.net/houses-to-rent/observatory/cape-town/western-cape/south-africa/IA0007279892"
+     },
+     {
+      "title": "Observatory · Apartment To Rent",
+      "link": "https://www.immoafrica.net/apartments-to-rent/observatory/cape-town/western-cape/south-africa/IA0007281338"
+     },
+     {
+      "title": "Observatory · Apartment To Rent",
+      "link": "https://www.immoafrica.net/apartments-to-rent/observatory/cape-town/western-cape/south-africa/IA0007317806"
+     },
+     {
+      "title": "Observatory · Apartment To Rent",
+      "link": "https://www.immoafrica.net/apartments-to-rent/observatory/cape-town/western-cape/south-africa/IA0007222462"
+     },
+     {
+      "title": "Observatory · Apartment To Rent",
+      "link": "https://www.immoafrica.net/apartments-to-rent/observatory/cape-town/western-cape/south-africa/IA0007292046"
+     },
+     {
+      "title": "Observatory · Apartment To Rent",
+      "link": "https://www.immoafrica.net/apartments-to-rent/observatory/cape-town/western-cape/south-africa/IA0007239208"
+     }
+    ],
+    "source": "ImmoAfrica"
+   },
+   {
+    "position": 9,
+    "title": "2 Bedroom Apartment To Rent in Observatory, Cape Town",
+    "link": "https://www.spectrumrealty.co.za/listing/1387504/apartment-to-rent-in-observatory-cape-town",
+    "displayed_link": "https://www.spectrumrealty.co.za › listing › apartment-to...",
+    "favicon": "https://serpapi.com/images/i/UklGRqoAAABXRUJQVlA4IJ4AAACwBACdASogACAAPtEutFooIagoGAEAGglnAAPigmAfrMtrW5Ln8tVSovuWtewAAP7-wgu3ffBb8raYK3sX3amXFweZJTXNNGDWT7eYfkHIcYBnC3VTJIqeujdW-LlGUnqr06pbvR0tXH42yJJfxLggM48CPz-X7-n7Ae00Xe3_78W72-hyOhazyPpU6O_jk3c4wkXZZ-N_T2IVCIAAAA.webp",
+    "snippet": "Fully Furnished 2-Bedroom, 2-Bathroom Top-Floor Apartment in Obs Court — The Ultimate Digital Nomad Home Experience effortless Cape Town living in this ...",
+    "snippet_highlighted_words": [
+     "Fully Furnished 2-Bedroom, 2-Bathroom Top-Floor Apartment in Obs Court"
+    ],
+    "source": "spectrumrealty.co.za"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "One bedroom flat to rent in observatory cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQnvxYHoE_spmvrMZ_pm5mCJfqCV9Aw:1792268826886&q=One+bedroom+flat+to+rent+in+observatory+cape+town&sa=X&ved=2ahUKEwi4z5LW8cGXAxUWhSsGHX5mL44Q1QJ6BAhCEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "2 bedroom flat to rent in observatory cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQnvxYHoE_spmvrMZ_pm5mCJfqCV9Aw:1792268826886&q=2+bedroom+flat+to+rent+in+observatory+cape+town&sa=X&ved=2ahUKEwi4z5LW8cGXAxUWhSsGHX5mL44Q1QJ6BAhIEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Studio flat to rent in observatory cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQnvxYHoE_spmvrMZ_pm5mCJfqCV9Aw:1792268826886&q=Studio+flat+to+rent+in+observatory+cape+town&sa=X&ved=2ahUKEwi4z5LW8cGXAxUWhSsGHX5mL44Q1QJ6BAhHEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Cheap flat to rent in observatory cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQnvxYHoE_spmvrMZ_pm5mCJfqCV9Aw:1792268826886&q=Cheap+flat+to+rent+in+observatory+cape+town&sa=X&ved=2ahUKEwi4z5LW8cGXAxUWhSsGHX5mL44Q1QJ6BAhGEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Granny flats to rent in Observatory, Cape Town under",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQnvxYHoE_spmvrMZ_pm5mCJfqCV9Aw:1792268826886&q=Granny+flats+to+rent+in+Observatory,+Cape+Town+under&sa=X&ved=2ahUKEwi4z5LW8cGXAxUWhSsGHX5mL44Q1QJ6BAhEEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Cheap 1 bedroom flats to rent in Observatory, Cape Town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQnvxYHoE_spmvrMZ_pm5mCJfqCV9Aw:1792268826886&q=Cheap+1+bedroom+flats+to+rent+in+Observatory,+Cape+Town&sa=X&ved=2ahUKEwi4z5LW8cGXAxUWhSsGHX5mL44Q1QJ6BAhFEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Granny flats to rent in Observatory, Cape Town by owner",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQnvxYHoE_spmvrMZ_pm5mCJfqCV9Aw:1792268826886&q=Granny+flats+to+rent+in+Observatory,+Cape+Town+by+owner&sa=X&ved=2ahUKEwi4z5LW8cGXAxUWhSsGHX5mL44Q1QJ6BAhDEAE"
+   },
+   {
+    "block_position": 1,
+    "query": "Bachelor flats to rent in observatory cape town",
+    "link": "https://www.google.co.za/search?sca_esv=57d203991a0adb36&gl=za&hl=en&sxsrf=APpeQnvxYHoE_spmvrMZ_pm5mCJfqCV9Aw:1792268826886&q=Bachelor+flats+to+rent+in+observatory+cape+town&sa=X&ved=2ahUKEwi4z5LW8cGXAxUWhSsGHX5mL44Q1QJ6BAhBEAE"
+   }
+  ]
+ }
+}

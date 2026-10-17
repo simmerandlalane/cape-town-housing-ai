@@ -1,0 +1,849 @@
+{
+ "fetched_at": "2026-10-17T21:01:31.631635+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "gym in Parow, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e22a25c657162d517bd4",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/dMc8VkK5uka_laRzr-s1HlTQ45VNykCMD-DGbFdoKM4/6ad3e22a25c657162d517bd4.json",
+   "markdown_endpoint": "https://serpapi.com/searches/dMc8VkK5uka_laRzr-s1HlTQ45VNykCMD-DGbFdoKM4/6ad3e22a25c657162d517bd4.md",
+   "created_at": "2026-10-17 21:01:30 UTC",
+   "processed_at": "2026-10-17 21:01:30 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/gym+in+Parow%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/dMc8VkK5uka_laRzr-s1HlTQ45VNykCMD-DGbFdoKM4/6ad3e22a25c657162d517bd4.html",
+   "prettify_html_file": "https://serpapi.com/searches/dMc8VkK5uka_laRzr-s1HlTQ45VNykCMD-DGbFdoKM4/6ad3e22a25c657162d517bd4.prettify",
+   "total_time_taken": 0.61
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "gym in Parow, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "gym in Parow, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Zone Fitness - Parow",
+    "place_id": "ChIJnZmWTWFazB0RVTK3SwmcWM0",
+    "data_id": "0x1dcc5a614d96999d:0xcd589c094bb73255",
+    "data_cid": "14796748139464700501",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a614d96999d%3A0xcd589c094bb73255&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a614d96999d%3A0xcd589c094bb73255&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9062814,
+     "longitude": 18.5983691
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnZmWTWFazB0RVTK3SwmcWM0",
+    "provider_id": "/g/1pzrtp3mr",
+    "rating": 3.7,
+    "reviews": 394,
+    "type": "Physical fitness program",
+    "types": [
+     "Physical fitness program"
+    ],
+    "address": "Shop 200, Parow Ctr, Voortrekker Rd, Parow Centre, Behlar, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–3 pm",
+     "sunday": "7 am–3 pm",
+     "monday": "5:30 am–9 pm",
+     "tuesday": "5:30 am–9 pm",
+     "wednesday": "5:30 am–9 pm",
+     "thursday": "5:30 am–9 pm",
+     "friday": "5:30 am–8 pm"
+    },
+    "phone": "021 930 5150",
+    "website": "http://zonefitness.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Virgin Active Gym Parow",
+    "place_id": "ChIJA7eYUGFazB0RlCbFG-3Vchw",
+    "data_id": "0x1dcc5a615098b703:0x1c72d5ed1bc52694",
+    "data_cid": "2049935994756867732",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a615098b703%3A0x1c72d5ed1bc52694&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a615098b703%3A0x1c72d5ed1bc52694&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9075414,
+     "longitude": 18.5928734
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA7eYUGFazB0RlCbFG-3Vchw",
+    "provider_id": "/g/11bz_1q5_h",
+    "rating": 4.2,
+    "reviews": 473,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Fitness center",
+     "Wellness center"
+    ],
+    "address": "262 Voortrekker Road, Shoprite Park, Parow East, Cape Town, 7501",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 am Mon",
+    "hours": "Closed · Opens 5 am Mon",
+    "operating_hours": {
+     "saturday": "6 am–2 pm",
+     "sunday": "Closed",
+     "monday": "5 am–9 pm",
+     "tuesday": "5 am–9 pm",
+     "wednesday": "5 am–9 pm",
+     "thursday": "5 am–9 pm",
+     "friday": "5 am–8 pm"
+    },
+    "phone": "021 495 8947",
+    "website": "https://www.virginactive.co.za/gyms/parow?utm_source=google&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Street Legion Fitness",
+    "place_id": "ChIJtWmxZ9hbzB0RC-2e-yMOgQU",
+    "data_id": "0x1dcc5bd867b169b5:0x5810e23fb9eed0b",
+    "data_cid": "396613789893455115",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5bd867b169b5%3A0x5810e23fb9eed0b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5bd867b169b5%3A0x5810e23fb9eed0b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9125424,
+     "longitude": 18.5933603
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtWmxZ9hbzB0RC-2e-yMOgQU",
+    "provider_id": "/g/11gnsfgypr",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Physical fitness program",
+    "types": [
+     "Physical fitness program"
+    ],
+    "address": "70 Market St, Parow Valley, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 am Mon",
+    "hours": "Closed · Opens 5 am Mon",
+    "operating_hours": {
+     "saturday": "6:30–9:30 am",
+     "sunday": "Closed",
+     "monday": "5 am–6:30 pm",
+     "tuesday": "5 am–6:30 pm",
+     "wednesday": "5 am–6:30 pm",
+     "thursday": "5 am–6:30 pm",
+     "friday": "5 am–6:30 pm"
+    },
+    "phone": "083 440 0841"
+   },
+   {
+    "position": 4,
+    "title": "Planet Fitness Plattekloof",
+    "place_id": "ChIJ1WMnAilazB0RR-8RfhZUSN0",
+    "data_id": "0x1dcc5a29022763d5:0xdd4854167e11ef47",
+    "data_cid": "15945086936286359367",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a29022763d5%3A0xdd4854167e11ef47&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a29022763d5%3A0xdd4854167e11ef47&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8729192,
+     "longitude": 18.5778091
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1WMnAilazB0RR-8RfhZUSN0",
+    "provider_id": "/g/119v4lr0w",
+    "rating": 3.9,
+    "reviews": 1117,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Fitness center"
+    ],
+    "address": "Bloulelie St, Plattekloof Rd, Plattekloof Park, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Sun",
+    "hours": "Closed · Opens 6 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–6 pm",
+     "sunday": "6 am–4 pm",
+     "monday": "4:30 am–9 pm",
+     "tuesday": "4:30 am–9 pm",
+     "wednesday": "4:30 am–9 pm",
+     "thursday": "4:30 am–9 pm",
+     "friday": "4:30 am–8 pm"
+    },
+    "phone": "021 930 4800",
+    "website": "https://www.planetfitness.co.za/plattekloof/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "House of Warriors MMA Gym",
+    "place_id": "ChIJjRgvRBRbzB0RvxK5TCDYoPA",
+    "data_id": "0x1dcc5b14442f188d:0xf0a0d8204cb912bf",
+    "data_cid": "17339096198614160063",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b14442f188d%3A0xf0a0d8204cb912bf&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b14442f188d%3A0xf0a0d8204cb912bf&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.896627599999995,
+     "longitude": 18.5744324
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjRgvRBRbzB0RvxK5TCDYoPA",
+    "provider_id": "/g/11zcgxy2bk",
+    "rating": 5,
+    "reviews": 5,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "Frans Conradie Dr, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6:30 pm Mon",
+    "hours": "Closed · Opens 6:30 pm Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "6:30–8 pm",
+     "tuesday": "6:30–8 pm",
+     "wednesday": "6:30–8 pm",
+     "thursday": "6:30–8 pm",
+     "friday": "Closed"
+    },
+    "phone": "066 266 2755"
+   },
+   {
+    "position": 6,
+    "title": "Body20 Plattekloof",
+    "place_id": "ChIJAbm9wy1azB0RDSeYNKBo2_Q",
+    "data_id": "0x1dcc5a2dc3bdb901:0xf4db68a03498270d",
+    "data_cid": "17643811002440492813",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a2dc3bdb901%3A0xf4db68a03498270d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a2dc3bdb901%3A0xf4db68a03498270d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8769032,
+     "longitude": 18.5767979
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAbm9wy1azB0RDSeYNKBo2_Q",
+    "provider_id": "/g/11d_d1zbw6",
+    "rating": 4.9,
+    "reviews": 82,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "Shop 6 Panorama Healthcare Centre Ctr, 43 Hennie Winterbach St, Panorama, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5:30 am Mon",
+    "hours": "Closed · Opens 5:30 am Mon",
+    "operating_hours": {
+     "saturday": "7 am–1 pm",
+     "sunday": "Closed",
+     "monday": "5:30 am–8 pm",
+     "tuesday": "5:30 am–8 pm",
+     "wednesday": "5:30 am–8 pm",
+     "thursday": "5:30 am–8 pm",
+     "friday": "5:30 am–6 pm"
+    },
+    "phone": "021 911 3771",
+    "website": "https://www.body20.co.za/studio-plattekloof.php",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "GO FOR BROKE MMA SA",
+    "place_id": "ChIJh4V9MTtbzB0R6x_q-GD5DW8",
+    "data_id": "0x1dcc5b3b317d8587:0x6f0df960f8ea1feb",
+    "data_cid": "8002326307795509227",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b3b317d8587%3A0x6f0df960f8ea1feb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b3b317d8587%3A0x6f0df960f8ea1feb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.888864,
+     "longitude": 18.569702799999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh4V9MTtbzB0R6x_q-GD5DW8",
+    "provider_id": "/g/11t6_0zgrt",
+    "rating": 4.9,
+    "reviews": 23,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "26 Narsing St, Parow North, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 4 pm Mon",
+    "hours": "Closed · Opens 4 pm Mon",
+    "operating_hours": {
+     "saturday": "10 am–12 pm",
+     "sunday": "Closed",
+     "monday": "4–5 pm, 6–8:30 pm",
+     "tuesday": "4–5 pm, 6–8:30 pm",
+     "wednesday": "4–5 pm, 6–8:30 pm",
+     "thursday": "4–5 pm, 6–8:30 pm",
+     "friday": "4–5 pm"
+    },
+    "phone": "065 670 6572",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "title": "The Yard",
+    "place_id": "ChIJMVrx7xRbzB0Rl84AJL_9JC4",
+    "data_id": "0x1dcc5b14eff15a31:0x2e24fdbf2400ce97",
+    "data_cid": "3325061422290882199",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b14eff15a31%3A0x2e24fdbf2400ce97&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b14eff15a31%3A0x2e24fdbf2400ce97&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.880981399999996,
+     "longitude": 18.5686409
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMVrx7xRbzB0Rl84AJL_9JC4",
+    "provider_id": "/g/11qn78l6r0",
+    "rating": 5,
+    "reviews": 4,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "28 Alk Van Zyl Ave, Panorama, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Mon",
+    "hours": "Closed · Opens 6 am Mon",
+    "operating_hours": {
+     "saturday": "7–11 am",
+     "sunday": "Closed",
+     "monday": "6 am–6 pm",
+     "tuesday": "6 am–6 pm",
+     "wednesday": "6 am–6 pm",
+     "thursday": "6 am–6 pm",
+     "friday": "6 am–6 pm"
+    },
+    "phone": "072 202 0278"
+   },
+   {
+    "position": 9,
+    "title": "DANCE FIT Zumba GOLD Classes Parow",
+    "place_id": "ChIJhV5TtPpbzB0R-QEvOc62gy8",
+    "data_id": "0x1dcc5bfab4535e85:0x2f83b6ce392f01f9",
+    "data_cid": "3423781138570609145",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5bfab4535e85%3A0x2f83b6ce392f01f9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5bfab4535e85%3A0x2f83b6ce392f01f9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8949079,
+     "longitude": 18.6029664
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhV5TtPpbzB0R-QEvOc62gy8",
+    "provider_id": "/g/11m8blk1r5",
+    "rating": 5,
+    "reviews": 2,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "Frans Conradie Dr, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 pm Mon",
+    "hours": "Closed · Opens 7:30 pm Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "7:30–8:30 pm",
+     "tuesday": "Closed",
+     "wednesday": "7:30–8:30 pm",
+     "thursday": "Closed",
+     "friday": "Closed"
+    },
+    "phone": "082 876 2516",
+    "website": "http://www.zumba-fitness.co.za/"
+   },
+   {
+    "position": 10,
+    "title": "Warrior Tribe Fitness",
+    "place_id": "ChIJxVlexlBbzB0RbQk-HZ4vt6U",
+    "data_id": "0x1dcc5b50c65e59c5:0xa5b72f9e1d3e096d",
+    "data_cid": "11941065293138102637",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b50c65e59c5%3A0xa5b72f9e1d3e096d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b50c65e59c5%3A0xa5b72f9e1d3e096d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8869343,
+     "longitude": 18.5777748
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxVlexlBbzB0RbQk-HZ4vt6U",
+    "provider_id": "/g/11sb95pbpv",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "72 CJ Langenhoven St, Parow North, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5:30 pm Tue",
+    "hours": "Closed · Opens 5:30 pm Tue",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "Closed",
+     "tuesday": "5:30–7 pm",
+     "wednesday": "Closed",
+     "thursday": "5:30–7 pm",
+     "friday": "Closed"
+    },
+    "phone": "084 953 3590",
+    "website": "http://www.warriortribefitness.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "Zone Fitness Bellville",
+    "place_id": "ChIJO2n4SF5QzB0R_wojzaVyzkM",
+    "data_id": "0x1dcc505e48f8693b:0x43ce72a5cd230aff",
+    "data_cid": "4885968702180363007",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc505e48f8693b%3A0x43ce72a5cd230aff&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc505e48f8693b%3A0x43ce72a5cd230aff&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9061242,
+     "longitude": 18.6420313
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO2n4SF5QzB0R_wojzaVyzkM",
+    "provider_id": "/g/11b6wsk_pj",
+    "rating": 4.1,
+    "reviews": 818,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "Belrail Rd, Willie Hofmeyer Ave, Sanlamhof, Cape Town, 7530",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–3 pm",
+     "sunday": "7 am–3 pm",
+     "monday": "5:30 am–9 pm",
+     "tuesday": "5:30 am–9 pm",
+     "wednesday": "5:30 am–9 pm",
+     "thursday": "5:30 am–9 pm",
+     "friday": "5:30 am–8 pm"
+    },
+    "phone": "021 949 0685",
+    "website": "https://zonefitness.co.za/bellville/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "title": "Maties Gymnasium Tygerberg",
+    "place_id": "ChIJIb15khpbzB0RDjsFZfBq-40",
+    "data_id": "0x1dcc5b1a9279bd21:0x8dfb6af065053b0e",
+    "data_cid": "10230888559221750542",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b1a9279bd21%3A0x8dfb6af065053b0e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b1a9279bd21%3A0x8dfb6af065053b0e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.908214199999996,
+     "longitude": 18.6099523
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIb15khpbzB0RDjsFZfBq-40",
+    "provider_id": "/g/11q1wnjpv3",
+    "rating": 4.1,
+    "reviews": 18,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "Francie Van Zijl Dr, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5:40 am Mon",
+    "hours": "Closed · Opens 5:40 am Mon",
+    "operating_hours": {
+     "saturday": "9 am–5 pm",
+     "sunday": "Closed",
+     "monday": "5:40 am–9 pm",
+     "tuesday": "5:40 am–9 pm",
+     "wednesday": "5:40 am–9 pm",
+     "thursday": "5:40 am–9 pm",
+     "friday": "5:40 am–7 pm"
+    },
+    "phone": "021 932 2888",
+    "website": "https://www.matiesgym.co.za/tyg/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Booost",
+    "place_id": "ChIJDVRhfYdbzB0R1r-wf6HyNqE",
+    "data_id": "0x1dcc5b877d61540d:0xa136f2a17fb0bfd6",
+    "data_cid": "11616739064294719446",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b877d61540d%3A0xa136f2a17fb0bfd6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b877d61540d%3A0xa136f2a17fb0bfd6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.883195,
+     "longitude": 18.582392199999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDVRhfYdbzB0R1r-wf6HyNqE",
+    "provider_id": "/g/11lt018s6q",
+    "rating": 4.9,
+    "reviews": 26,
+    "type": "Pilates studio",
+    "types": [
+     "Pilates studio",
+     "Massage spa"
+    ],
+    "address": "101 Uys Krige Dr, Panorama, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Mon",
+    "hours": "Closed · Opens 7 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "7 am–7 pm",
+     "tuesday": "7 am–7 pm",
+     "wednesday": "7 am–7 pm",
+     "thursday": "7 am–7 pm",
+     "friday": "7 am–5 pm"
+    },
+    "phone": "082 421 0594",
+    "website": "https://www.booostwellness.co.za/"
+   },
+   {
+    "position": 14,
+    "title": "Public parking for Planet Fitness Plattekloof",
+    "place_id": "ChIJHSoaeQBbzB0Rm986s2Aa41c",
+    "data_id": "0x1dcc5b00791a2a1d:0x57e31a60b33adf9b",
+    "data_cid": "6332934503639211931",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b00791a2a1d%3A0x57e31a60b33adf9b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b00791a2a1d%3A0x57e31a60b33adf9b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8727599,
+     "longitude": 18.578308
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHSoaeQBbzB0Rm986s2Aa41c",
+    "provider_id": "/g/11w2rbn4m6",
+    "rating": 2,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Public parking space",
+    "types": [
+     "Public parking space"
+    ],
+    "address": "Plattekloof 3, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "website": "https://www.facebook.com/remote.jamming",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "title": "Leading Edge Fitness Centre",
+    "place_id": "ChIJnSFMX6FbzB0RkKts4aKBTpA",
+    "data_id": "0x1dcc5ba15f4c219d:0x904e81a2e16cab90",
+    "data_cid": "10398391126211734416",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5ba15f4c219d%3A0x904e81a2e16cab90&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5ba15f4c219d%3A0x904e81a2e16cab90&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9122432,
+     "longitude": 18.5517242
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnSFMX6FbzB0RkKts4aKBTpA",
+    "provider_id": "/g/1tnxz0ht",
+    "rating": 4.2,
+    "reviews": 241,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "124 Voortrekker Rd, Goodwood Estate, Cape Town, 7460",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–5 pm",
+     "sunday": "8 am–3 pm",
+     "monday": "5 am–9 pm",
+     "tuesday": "5 am–9 pm",
+     "wednesday": "5 am–9 pm",
+     "thursday": "5 am–9 pm",
+     "friday": "5 am–9 pm"
+    },
+    "phone": "068 301 7317",
+    "website": "https://www.leadingedgegym.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "ApexFitness",
+    "place_id": "ChIJ-769dnVbzB0R7-ZYPILfkwQ",
+    "data_id": "0x1dcc5b7576bdbefb:0x493df823c58e6ef",
+    "data_cid": "329852948179379951",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b7576bdbefb%3A0x493df823c58e6ef&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b7576bdbefb%3A0x493df823c58e6ef&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9136356,
+     "longitude": 18.5967785
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-769dnVbzB0R7-ZYPILfkwQ",
+    "provider_id": "/g/11ypbrfb5k",
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "21 Hartbees St, Parow Valley, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "082 262 6130"
+   },
+   {
+    "position": 17,
+    "title": "Lethal Edge MMA",
+    "place_id": "ChIJGYHEXmBQzB0R3ulmIoUMmtI",
+    "data_id": "0x1dcc50605ec48119:0xd29a0c852266e9de",
+    "data_cid": "15175455660325661150",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc50605ec48119%3A0xd29a0c852266e9de&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc50605ec48119%3A0xd29a0c852266e9de&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9061905,
+     "longitude": 18.581790599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGYHEXmBQzB0R3ulmIoUMmtI",
+    "provider_id": "/g/12mh4hd81",
+    "rating": 4.7,
+    "reviews": 13,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Boxing gym",
+     "Martial arts school",
+     "Kickboxing school",
+     "Muay Thai boxing gym",
+     "Personal trainer",
+     "Physical fitness program",
+     "Self defense school"
+    ],
+    "address": "Tallent park, c/o tallent Road and, Gardiner Rd, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 pm Mon",
+    "hours": "Closed · Opens 5 pm Mon",
+    "operating_hours": {
+     "saturday": "9–11 am",
+     "sunday": "Closed",
+     "monday": "5–7 pm",
+     "tuesday": "5–7 pm",
+     "wednesday": "5–7 pm",
+     "thursday": "5–7 pm",
+     "friday": "Closed"
+    },
+    "phone": "072 858 7030",
+    "website": "http://www.lethaledgemma.co.za/"
+   },
+   {
+    "position": 18,
+    "title": "Health Junkies",
+    "place_id": "ChIJqxVEykhazB0RN2Sqds9CF4Q",
+    "data_id": "0x1dcc5a48ca4415ab:0x841742cf76aa6437",
+    "data_cid": "9518149796287374391",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a48ca4415ab%3A0x841742cf76aa6437&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a48ca4415ab%3A0x841742cf76aa6437&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8990138,
+     "longitude": 18.580671
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqxVEykhazB0RN2Sqds9CF4Q",
+    "provider_id": "/g/1q66x7jf2",
+    "rating": 4.4,
+    "reviews": 5,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center",
+     "Coffee shop",
+     "Gym",
+     "Nutritionist",
+     "Physical fitness program"
+    ],
+    "address": "106 Gardiner Rd, Churchill Estate, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5:30 pm Mon",
+    "hours": "Closed · Opens 5:30 pm Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "5:30–7 pm",
+     "tuesday": "5:30–7 pm",
+     "wednesday": "5:30–7 pm",
+     "thursday": "5:30–7 pm",
+     "friday": "5–7 pm"
+    },
+    "phone": "072 907 0487",
+    "website": "http://elitefitlifestyle.wix.com/healthjunkies"
+   },
+   {
+    "position": 19,
+    "title": "Trim Park",
+    "place_id": "ChIJSdyJgzhazB0Rrymuf1CJ5F0",
+    "data_id": "0x1dcc5a388389dc49:0x5de489507fae29af",
+    "data_cid": "6765683519049836975",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a388389dc49%3A0x5de489507fae29af&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a388389dc49%3A0x5de489507fae29af&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8900299,
+     "longitude": 18.585400099999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSdyJgzhazB0Rrymuf1CJ5F0",
+    "provider_id": "/g/11f3kcw8w4",
+    "rating": 4.1,
+    "reviews": 61,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "McIntyre St, Parow North, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    }
+   },
+   {
+    "position": 20,
+    "title": "Virgin Active Gym N1 City",
+    "place_id": "ChIJHTWc-8ZbzB0RN7vAJfcBopQ",
+    "data_id": "0x1dcc5bc6fb9c351d:0x94a201f725c0bb37",
+    "data_cid": "10710125024842398519",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5bc6fb9c351d%3A0x94a201f725c0bb37&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5bc6fb9c351d%3A0x94a201f725c0bb37&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.892184,
+     "longitude": 18.554553
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHTWc-8ZbzB0RN7vAJfcBopQ",
+    "provider_id": "/g/11b60qyldp",
+    "rating": 3.9,
+    "reviews": 1060,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Fitness center",
+     "Wellness center"
+    ],
+    "address": "N1 City Value Mall, 102 Solly Smiedt St, N1 City, Cape Town, 7460",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Sun",
+    "hours": "Closed · Opens 6 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–8 pm",
+     "sunday": "6 am–8 pm",
+     "monday": "5 am–9 pm",
+     "tuesday": "5 am–9 pm",
+     "wednesday": "5 am–9 pm",
+     "thursday": "5 am–9 pm",
+     "friday": "5 am–8 pm"
+    },
+    "phone": "021 495 8943",
+    "website": "https://www.virginactive.co.za/gyms/n1-city?utm_source=google&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

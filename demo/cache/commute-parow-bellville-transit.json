@@ -1,0 +1,1105 @@
+{
+ "fetched_at": "2026-10-17T20:27:53.329425+00:00",
+ "params": {
+  "engine": "google_maps_directions",
+  "start_addr": "Parow, Cape Town",
+  "end_addr": "Bellville, Cape Town",
+  "travel_mode": "3",
+  "time": "arrive_by:1792483200",
+  "distance_unit": "0",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3da48fde812a807ba1834",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/xR59fmU07T_r0E_Kgi-udJ_0u7l27M9k2-oWoOwHbQA/6ad3da48fde812a807ba1834.json",
+   "markdown_endpoint": "https://serpapi.com/searches/xR59fmU07T_r0E_Kgi-udJ_0u7l27M9k2-oWoOwHbQA/6ad3da48fde812a807ba1834.md",
+   "created_at": "2026-10-17 20:27:52 UTC",
+   "processed_at": "2026-10-17 20:27:52 UTC",
+   "google_maps_directions_url": "https://www.google.com/maps/dir/Parow%2C+Cape+Town/Bellville%2C+Cape+Town/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x1dcc5a5cb46e5bd5:0xb29f46122cdcbd13!2m2!1d18.5808115!2d-33.9067916!1m5!1m1!1s0x1dcc5a7c88f4a7c5:0xddfdc69775a78922!2m2!1d18.629438399999998!2d-33.8942695!2m3!6e1!7e2!8j1792483200!3e3?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/xR59fmU07T_r0E_Kgi-udJ_0u7l27M9k2-oWoOwHbQA/6ad3da48fde812a807ba1834.html",
+   "prettify_html_file": "https://serpapi.com/searches/xR59fmU07T_r0E_Kgi-udJ_0u7l27M9k2-oWoOwHbQA/6ad3da48fde812a807ba1834.prettify",
+   "total_time_taken": 0.8
+  },
+  "search_parameters": {
+   "engine": "google_maps_directions",
+   "hl": "en",
+   "gl": "za",
+   "start_addr": "Parow, Cape Town",
+   "end_addr": "Bellville, Cape Town",
+   "travel_mode": "3",
+   "distance_unit": "0",
+   "time": "arrive_by:1792483200"
+  },
+  "places_info": [
+   {
+    "address": "Parow, Cape Town",
+    "data_id": "0x1dcc5a5cb46e5bd5:0xb29f46122cdcbd13",
+    "gps_coordinates": {
+     "latitude": -33.9067916,
+     "longitude": 18.5808115
+    }
+   },
+   {
+    "address": "Bellville, Cape Town",
+    "data_id": "0x1dcc5a7c88f4a7c5:0xddfdc69775a78922",
+    "gps_coordinates": {
+     "latitude": -33.8942695,
+     "longitude": 18.629438399999998
+    }
+   }
+  ],
+  "directions": [
+   {
+    "travel_mode": "Transit",
+    "start_time": "7:13 AM",
+    "end_time": "7:56 AM",
+    "distance": 6066,
+    "duration": 2533,
+    "formatted_distance": "6.1 km",
+    "formatted_duration": "43 min",
+    "cost": 10,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 800,
+      "duration": 673,
+      "formatted_distance": "800 m",
+      "formatted_duration": "12 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Tygervallei St",
+        "action": "straight",
+        "distance": 164,
+        "duration": 132,
+        "formatted_distance": "160 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChIP1uKTUxj5lQN2qOqJbg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.1001&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.906867889909066,
+         "longitude": 18.580660467643998
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Steenbras St",
+        "action": "turn-right",
+        "distance": 341,
+        "duration": 286,
+        "formatted_distance": "350 m",
+        "formatted_duration": "5 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y1BNiF4Hs0IKAQbKW2POdg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.00232&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.9065641086808,
+         "longitude": 18.582397428036575
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Cloete St",
+        "action": "turn-left",
+        "distance": 244,
+        "duration": 203,
+        "formatted_distance": "240 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A4Lm7-8ymWju-kP3aWtljw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=351.40042&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.909411469282155,
+         "longitude": 18.583177989397
+        },
+        "extensions": [
+         "Destination will be on the right"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Parow exit 1 (Cloete St)",
+        "distance": 51,
+        "duration": 52,
+        "formatted_distance": "51 m",
+        "formatted_duration": "52 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fy5IAe2lh4Zy-nvAvLrrWA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.91016&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90923091426969,
+         "longitude": 18.585616348577187
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-35s Wellington Station",
+      "duration": 600,
+      "formatted_duration": "10 min",
+      "start_stop": {
+       "name": "Parow Station",
+       "time": "7:25 AM",
+       "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "7:35 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Tygerberg Station",
+        "time": "7:29 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "6:38 AM",
+    "end_time": "7:21 AM",
+    "distance": 6085,
+    "duration": 2533,
+    "formatted_distance": "6.1 km",
+    "formatted_duration": "43 min",
+    "cost": 10,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 800,
+      "duration": 673,
+      "formatted_distance": "800 m",
+      "formatted_duration": "12 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Tygervallei St",
+        "action": "straight",
+        "distance": 164,
+        "duration": 132,
+        "formatted_distance": "160 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChIP1uKTUxj5lQN2qOqJbg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.1001&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.906867889909066,
+         "longitude": 18.580660467643998
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Steenbras St",
+        "action": "turn-right",
+        "distance": 341,
+        "duration": 286,
+        "formatted_distance": "350 m",
+        "formatted_duration": "5 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y1BNiF4Hs0IKAQbKW2POdg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.00232&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.9065641086808,
+         "longitude": 18.582397428036575
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Cloete St",
+        "action": "turn-left",
+        "distance": 244,
+        "duration": 203,
+        "formatted_distance": "240 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A4Lm7-8ymWju-kP3aWtljw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=351.40042&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.909411469282155,
+         "longitude": 18.583177989397
+        },
+        "extensions": [
+         "Destination will be on the right"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Parow exit 1 (Cloete St)",
+        "distance": 51,
+        "duration": 52,
+        "formatted_distance": "51 m",
+        "formatted_duration": "52 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fy5IAe2lh4Zy-nvAvLrrWA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.91016&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90923091426969,
+         "longitude": 18.585616348577187
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-25s Kraaifontein Station",
+      "duration": 600,
+      "formatted_duration": "10 min",
+      "start_stop": {
+       "name": "Parow Station",
+       "time": "6:50 AM",
+       "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "7:00 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Tygerberg Station",
+        "time": "6:54 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "6:33 AM",
+    "end_time": "7:31 AM",
+    "distance": 8443,
+    "duration": 3439,
+    "formatted_distance": "8.4 km",
+    "formatted_duration": "58 min",
+    "cost": 10,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1637,
+      "duration": 1399,
+      "formatted_distance": "1.6 km",
+      "formatted_duration": "24 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Tygervallei St",
+        "action": "straight",
+        "distance": 66,
+        "duration": 53,
+        "formatted_distance": "66 m",
+        "formatted_duration": "53 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChIP1uKTUxj5lQN2qOqJbg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.1001&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.906867889909066,
+         "longitude": 18.580660467643998
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Tallent Rd",
+        "action": "turn-left",
+        "distance": 1192,
+        "duration": 1011,
+        "formatted_distance": "1.2 km",
+        "formatted_duration": "17 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jRHlCFuSUm-jAd7G-tz_ng&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.1915&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90674733691053,
+         "longitude": 18.581352696045254
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Continue onto  Bertie Genade St",
+        "action": "straight",
+        "distance": 167,
+        "duration": 143,
+        "formatted_distance": "170 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lLfroPWKHiHGKyphk9zQaQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=169.57867&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.896349640318306,
+         "longitude": 18.578973885569614
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  to stay on  Bertie Genade St",
+        "action": "turn-right",
+        "distance": 125,
+        "duration": 104,
+        "formatted_distance": "130 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nhdHvH1tby_uv7nz6Z-HhA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=311.34564&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.895254396126184,
+         "longitude": 18.577904522155254
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right",
+        "action": "turn-right",
+        "distance": 10,
+        "duration": 10,
+        "formatted_distance": "10 m",
+        "formatted_duration": "10 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gPbx_Q5oMTACAbRxU5yQew&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=0.9169145&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.894251042684104,
+         "longitude": 18.578313369382073
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via De Grendel exit 2 (Bertie Genade St)",
+        "distance": 77,
+        "duration": 78,
+        "formatted_distance": "77 m",
+        "formatted_duration": "1 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=avQoY0OGVRGKQlUah5i-6A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=307.02246&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.894166795346294,
+         "longitude": 18.578256023842336
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-34s Du Toit station",
+      "duration": 780,
+      "formatted_duration": "13 min",
+      "start_stop": {
+       "name": "De Grendel Station",
+       "time": "6:57 AM",
+       "data_id": "0x1dcc5a484d83dad9:0x1f807ef31f3a64dc"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "7:10 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Avondale Station",
+        "time": "7:01 AM",
+        "data_id": "0x1dcc5a4290beaab9:0xd3eebdb3ff9cb7c7"
+       },
+       {
+        "name": "Oosterzee Station",
+        "time": "7:05 AM",
+        "data_id": "0x1dcc5a7afd7ceb3f:0xe0e56c32c745e552"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "6:13 AM",
+    "end_time": "6:56 AM",
+    "distance": 6084,
+    "duration": 2533,
+    "formatted_distance": "6.1 km",
+    "formatted_duration": "43 min",
+    "cost": 10,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 800,
+      "duration": 673,
+      "formatted_distance": "800 m",
+      "formatted_duration": "12 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Tygervallei St",
+        "action": "straight",
+        "distance": 164,
+        "duration": 132,
+        "formatted_distance": "160 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChIP1uKTUxj5lQN2qOqJbg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.1001&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.906867889909066,
+         "longitude": 18.580660467643998
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Steenbras St",
+        "action": "turn-right",
+        "distance": 341,
+        "duration": 286,
+        "formatted_distance": "350 m",
+        "formatted_duration": "5 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y1BNiF4Hs0IKAQbKW2POdg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.00232&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.9065641086808,
+         "longitude": 18.582397428036575
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Cloete St",
+        "action": "turn-left",
+        "distance": 244,
+        "duration": 203,
+        "formatted_distance": "240 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A4Lm7-8ymWju-kP3aWtljw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=351.40042&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.909411469282155,
+         "longitude": 18.583177989397
+        },
+        "extensions": [
+         "Destination will be on the right"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Parow exit 1 (Cloete St)",
+        "distance": 51,
+        "duration": 52,
+        "formatted_distance": "51 m",
+        "formatted_duration": "52 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fy5IAe2lh4Zy-nvAvLrrWA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.91016&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90923091426969,
+         "longitude": 18.585616348577187
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-32s Strand Station",
+      "duration": 600,
+      "formatted_duration": "10 min",
+      "start_stop": {
+       "name": "Parow Station",
+       "time": "6:25 AM",
+       "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "6:35 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Tygerberg Station",
+        "time": "6:29 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "5:38 AM",
+    "end_time": "6:21 AM",
+    "distance": 6066,
+    "duration": 2533,
+    "formatted_distance": "6.1 km",
+    "formatted_duration": "43 min",
+    "cost": 10,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 800,
+      "duration": 673,
+      "formatted_distance": "800 m",
+      "formatted_duration": "12 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Tygervallei St",
+        "action": "straight",
+        "distance": 164,
+        "duration": 132,
+        "formatted_distance": "160 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChIP1uKTUxj5lQN2qOqJbg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.1001&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.906867889909066,
+         "longitude": 18.580660467643998
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Steenbras St",
+        "action": "turn-right",
+        "distance": 341,
+        "duration": 286,
+        "formatted_distance": "350 m",
+        "formatted_duration": "5 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y1BNiF4Hs0IKAQbKW2POdg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.00232&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.9065641086808,
+         "longitude": 18.582397428036575
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Cloete St",
+        "action": "turn-left",
+        "distance": 244,
+        "duration": 203,
+        "formatted_distance": "240 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A4Lm7-8ymWju-kP3aWtljw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=351.40042&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.909411469282155,
+         "longitude": 18.583177989397
+        },
+        "extensions": [
+         "Destination will be on the right"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Parow exit 1 (Cloete St)",
+        "distance": 51,
+        "duration": 52,
+        "formatted_distance": "51 m",
+        "formatted_duration": "52 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fy5IAe2lh4Zy-nvAvLrrWA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.91016&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90923091426969,
+         "longitude": 18.585616348577187
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-35s Wellington Station",
+      "duration": 600,
+      "formatted_duration": "10 min",
+      "start_stop": {
+       "name": "Parow Station",
+       "time": "5:50 AM",
+       "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "6:00 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Tygerberg Station",
+        "time": "5:54 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "travel_mode": "Transit",
+    "start_time": "5:03 AM",
+    "end_time": "5:46 AM",
+    "distance": 6085,
+    "duration": 2533,
+    "formatted_distance": "6.1 km",
+    "formatted_duration": "43 min",
+    "cost": 10,
+    "currency": "ZAR",
+    "icon": "https://serpapi.com/assets/google_maps_directions/transit.svg",
+    "trips": [
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 800,
+      "duration": 673,
+      "formatted_distance": "800 m",
+      "formatted_duration": "12 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Head toward  Tygervallei St",
+        "action": "straight",
+        "distance": 164,
+        "duration": 132,
+        "formatted_distance": "160 m",
+        "formatted_duration": "2 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChIP1uKTUxj5lQN2qOqJbg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.1001&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.906867889909066,
+         "longitude": 18.580660467643998
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  right  onto  Steenbras St",
+        "action": "turn-right",
+        "distance": 341,
+        "duration": 286,
+        "formatted_distance": "350 m",
+        "formatted_duration": "5 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y1BNiF4Hs0IKAQbKW2POdg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=258.00232&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.9065641086808,
+         "longitude": 18.582397428036575
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Cloete St",
+        "action": "turn-left",
+        "distance": 244,
+        "duration": 203,
+        "formatted_distance": "240 m",
+        "formatted_duration": "3 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A4Lm7-8ymWju-kP3aWtljw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=351.40042&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.909411469282155,
+         "longitude": 18.583177989397
+        },
+        "extensions": [
+         "Destination will be on the right"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Enter via Parow exit 1 (Cloete St)",
+        "distance": 51,
+        "duration": 52,
+        "formatted_distance": "51 m",
+        "formatted_duration": "52 sec",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fy5IAe2lh4Zy-nvAvLrrWA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=259.91016&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90923091426969,
+         "longitude": 18.585616348577187
+        }
+       }
+      ]
+     },
+     {
+      "travel_mode": "Transit",
+      "title": "Northern Line-25s Kraaifontein Station",
+      "duration": 600,
+      "formatted_duration": "10 min",
+      "start_stop": {
+       "name": "Parow Station",
+       "time": "5:15 AM",
+       "data_id": "0x1dcc5a58dc6a831b:0xc0303c87a7b80ecc"
+      },
+      "end_stop": {
+       "name": "Bellville",
+       "time": "5:25 AM",
+       "data_id": "0x1dcc507d825a6409:0x23ffd6130ad30da8"
+      },
+      "stops": [
+       {
+        "name": "Tygerberg Station",
+        "time": "5:19 AM",
+        "data_id": "0x1dcc5a6247b138d9:0x935c94534797b602"
+       }
+      ],
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/rail2.svg",
+      "service_run_by": {
+       "name": "Prasa",
+       "link": "https://linktr.ee/PRASA.WC"
+      }
+     },
+     {
+      "travel_mode": "Walking",
+      "title": "Walk",
+      "distance": 1446,
+      "duration": 1260,
+      "formatted_distance": "1.4 km",
+      "formatted_duration": "21 min",
+      "icon": "https://maps.gstatic.com/mapfiles/transit/iw2/svg/walk.svg",
+      "details": [
+       {
+        "title": "Exit via Bellville Exit 1 (Durban Rd)",
+        "distance": 83,
+        "duration": 84,
+        "formatted_distance": "83 m",
+        "formatted_duration": "1 min"
+       },
+       {
+        "title": "Head  east",
+        "action": "straight",
+        "distance": 27,
+        "duration": 21,
+        "formatted_distance": "27 m",
+        "formatted_duration": "21 sec",
+        "extensions": [
+         "Restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/straight_grey800_18dp.png"
+       },
+       {
+        "title": "Turn  left  onto  Durban Rd",
+        "action": "turn-left",
+        "distance": 472,
+        "duration": 394,
+        "formatted_distance": "450 m",
+        "formatted_duration": "7 min",
+        "extensions": [
+         "Partial restricted usage road"
+        ],
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_left_grey800_18dp.png"
+       },
+       {
+        "title": "Slight  right  to stay on  Durban Rd",
+        "action": "turn-slight-right",
+        "distance": 864,
+        "duration": 761,
+        "formatted_distance": "850 m",
+        "formatted_duration": "13 min",
+        "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mgoOPB15HKKHShQ-tKzX_A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=164.37189&pitch=0&thumbfov=100",
+        "gps_coordinates": {
+         "latitude": -33.90192909389955,
+         "longitude": 18.627139732095994
+        },
+        "icon": "https://maps.gstatic.com/consumer/images/icons/2x/turn_slight_left_grey800_18dp.png"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "durations": [
+   {
+    "travel_mode": "Driving",
+    "duration": 720,
+    "formatted_duration": "12 min"
+   },
+   {
+    "travel_mode": "Two-wheeler",
+    "duration": 720,
+    "formatted_duration": "12 min"
+   },
+   {
+    "travel_mode": "Transit",
+    "duration": 2580,
+    "formatted_duration": "43 min"
+   },
+   {
+    "travel_mode": "Walking",
+    "duration": 4390,
+    "formatted_duration": "1 hr 13"
+   }
+  ]
+ }
+}

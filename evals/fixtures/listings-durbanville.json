@@ -1,0 +1,93 @@
+{
+ "fetched_at": "2026-10-17T20:27:03.233288+00:00",
+ "params": {
+  "q": "flat to rent in Durbanville Cape Town"
+ },
+ "response": {
+  "organic_results": [
+   {
+    "link": "https://www.facebook.com/groups/208865412478939/posts/24385433367728806/",
+    "title": "Rental apartment in Durbanville available",
+    "snippet": "1 bedroom apartment in Durbanville centre for rent starting 1 September 2025 for R7300 per month. Features: Generous open-plan kitchen and ...",
+    "source": "Facebook · Durbanville"
+   },
+   {
+    "link": "https://propertycentral.co.za/area/Durbanville/159/property-to-rent",
+    "title": "31 Properties To Rent in Durbanville",
+    "snippet": "Browse 31+ properties for rent in Durbanville from R7965 to R50000. Find houses, stands, farms and townhouses with PropertyCentral's extensive listings.",
+    "source": "PropertyCentral"
+   },
+   {
+    "link": "https://homes.trovit.co.za/for-rent-durbanville-flat",
+    "title": "407 flats to rent in Durbanville, City of Cape Town",
+    "snippet": "We have 407 flats to rent in Durbanville, City of Cape Town from R 6 000 / month. short term lease possible. 1 to 6 months or longer, even a year.",
+    "source": "Trovit"
+   },
+   {
+    "link": "https://www.airbnb.co.za/durbanville-cape-town-south-africa/stays/monthly",
+    "title": "Durbanville, South Africa Furnished Monthly Rentals ... - Airbnb",
+    "snippet": "Fully furnished rentals that include a kitchen and wifi, so you can settle in and live comfortably for a month or longer in Durbanville, South Africa.",
+    "source": "airbnb.co.za"
+   },
+   {
+    "link": "https://www.property24.com/to-rent/durbanville/western-cape/439/p8",
+    "title": "Property and houses to rent in Durbanville",
+    "snippet": "Property to rent in Durbanville. The largest selection of apartments, flats, farms, repossessed property, private property and houses To Rent in Durbanville ...",
+    "source": "Property24"
+   },
+   {
+    "link": "https://www.privateproperty.co.za/to-rent/western-cape/cape-town/durbanville/739?page=3",
+    "title": "Property to rent in Durbanville | Page 3",
+    "snippet": "104 properties to rent in Durbanville, Cape Town. Browse photos, floor plans and full property details. Flat New R 16 000 per month 2 Bedroom FlatDurbanville. ...",
+    "source": "Private Property"
+   },
+   {
+    "link": "https://findallrentals.co.za/for-rent/studio/durbanville-region",
+    "title": "Bachelor flats to rent in Durbanville by owner",
+    "snippet": "Easily find a bachelor flat to rent by owner in Durbanville ➤ Browse 8 studio flats for long-term rent ➤ Verified listings ➤ Updated daily!",
+    "source": "Findallrentals.co.za"
+   },
+   {
+    "link": "https://tbwydarqsqrx.pics/xuhsmuudznkyildljvjcrjmocy",
+    "title": "Accommodation in durbanville cape town for rent",
+    "snippet": "1 Bedroom Apartment To Rent in Durbanville Cape Town R 6 500 per month. ... 2 Bedroom Flat For Rent in Uitzicht, Durbanville, Western Cape ...",
+    "source": "tbwydarqsqrx.pics",
+    "date": "5 days ago"
+   },
+   {
+    "link": "https://homes.trovit.co.za/for-rent-durbanville-garden-flat",
+    "title": "110 flats garden to rent in Durbanville, City of Cape Town",
+    "snippet": "1 Bedroom Apartment / Flat to Rent in Valmary Park · R 9 200/month · 84 m² ; 1 Bedroom Garden Cottage To Let in Bergbron · R 11 000/month · 105 m² ; 2 Bedroom House ...",
+    "source": "Trovit"
+   }
+  ],
+  "local_results": {
+   "places": [
+    {
+     "title": "Fontijn on Newhaven",
+     "type": "Apartment complex",
+     "address": "1 Newhaven St, Durbanville, Cape Town, 7550",
+     "links": {
+      "website": "http://www.fontijn.co.za/"
+     }
+    },
+    {
+     "title": "Durbanville Self Catering Apartments",
+     "type": "Hotel",
+     "address": "D' Urban Ridge, 2 Alf St, Kenridge, Cape Town, 7550",
+     "links": {
+      "website": "https://www.facebook.com/profile.php?id=100"
+     }
+    },
+    {
+     "title": "Durbanville Square",
+     "type": "Housing complex",
+     "address": "1 Murray St, Durbanville, Cape Town, 7550",
+     "links": {
+      "website": null
+     }
+    }
+   ]
+  }
+ }
+}

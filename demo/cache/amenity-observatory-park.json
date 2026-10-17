@@ -1,0 +1,847 @@
+{
+ "fetched_at": "2026-10-17T21:17:19.135334+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "park in Observatory, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5def680d19bb9cddf91",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/tCqnp7_EfsC18Lhczv5dRCJw3U7U1bsjHGk8193rEp8/6ad3e5def680d19bb9cddf91.json",
+   "markdown_endpoint": "https://serpapi.com/searches/tCqnp7_EfsC18Lhczv5dRCJw3U7U1bsjHGk8193rEp8/6ad3e5def680d19bb9cddf91.md",
+   "created_at": "2026-10-17 21:17:18 UTC",
+   "processed_at": "2026-10-17 21:17:18 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/park+in+Observatory%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/tCqnp7_EfsC18Lhczv5dRCJw3U7U1bsjHGk8193rEp8/6ad3e5def680d19bb9cddf91.html",
+   "prettify_html_file": "https://serpapi.com/searches/tCqnp7_EfsC18Lhczv5dRCJw3U7U1bsjHGk8193rEp8/6ad3e5def680d19bb9cddf91.prettify",
+   "total_time_taken": 1.03
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "park in Observatory, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "park in Observatory, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Two Rivers Urban Park",
+    "place_id": "ChIJ2anlhP1czB0R8uACNcNN6ZI",
+    "data_id": "0x1dcc5cfd84e5a9d9:0x92e94dc33502e0f2",
+    "data_cid": "10586077899914404082",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5cfd84e5a9d9%3A0x92e94dc33502e0f2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5cfd84e5a9d9%3A0x92e94dc33502e0f2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9365328,
+     "longitude": 18.475699
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2anlhP1czB0R8uACNcNN6ZI",
+    "provider_id": "/g/11c5z_cmv6",
+    "rating": 4.4,
+    "reviews": 97,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park",
+     "Tourist attraction"
+    ],
+    "address": "1 Observatory Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "website": "http://trup.org.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Malta Park",
+    "place_id": "ChIJh7YNPwJdzB0RCo0vjpZCiME",
+    "data_id": "0x1dcc5d023f0db687:0xc18842968e2f8d0a",
+    "data_cid": "13945469460550749450",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d023f0db687%3A0xc18842968e2f8d0a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d023f0db687%3A0xc18842968e2f8d0a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9359306,
+     "longitude": 18.4732622
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh7YNPwJdzB0RCo0vjpZCiME",
+    "provider_id": "/g/11btxh_lgn",
+    "rating": 4.3,
+    "reviews": 88,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park",
+     "Sports complex"
+    ],
+    "address": "Station Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "074 610 6653",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Black River Park",
+    "place_id": "ChIJI8zDeAFdzB0RgQ4-GDaQjWI",
+    "data_id": "0x1dcc5d0178c3cc23:0x628d9036183e0e81",
+    "data_cid": "7101490749442494081",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0178c3cc23%3A0x628d9036183e0e81&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0178c3cc23%3A0x628d9036183e0e81&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.934422399999995,
+     "longitude": 18.4718826
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI8zDeAFdzB0RgQ4-GDaQjWI",
+    "provider_id": "/g/1tcyny52",
+    "rating": 4.2,
+    "reviews": 931,
+    "type": "Business park",
+    "types": [
+     "Business park"
+    ],
+    "address": "2 Fir St, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 12 am Mon",
+    "hours": "Closed · Opens 12 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "073 263 2400",
+    "website": "http://www.blackriverpark.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Assistive hearing loop",
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "Observatory Village Green",
+    "place_id": "ChIJ62jMhQNdzB0RtxTY-expNIo",
+    "data_id": "0x1dcc5d0385cc68eb:0x8a3469ecf9d814b7",
+    "data_cid": "9958701142547895479",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0385cc68eb%3A0x8a3469ecf9d814b7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0385cc68eb%3A0x8a3469ecf9d814b7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.937487,
+     "longitude": 18.469697
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ62jMhQNdzB0RtxTY-expNIo",
+    "provider_id": "/g/11btxcprd2",
+    "rating": 4.2,
+    "reviews": 17,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "Station Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "Station Road Park",
+    "place_id": "ChIJjWHnORZdzB0RWOk4w9uUQ9E",
+    "data_id": "0x1dcc5d1639e7618d:0xd14394dbc338e958",
+    "data_cid": "15079059648960588120",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1639e7618d%3A0xd14394dbc338e958&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d1639e7618d%3A0xd14394dbc338e958&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9382393,
+     "longitude": 18.4680802
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjWHnORZdzB0RWOk4w9uUQ9E",
+    "provider_id": "/g/11spxv3csw",
+    "rating": 4.7,
+    "reviews": 6,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "Station Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa"
+   },
+   {
+    "position": 6,
+    "title": "Green Point Park",
+    "place_id": "ChIJrfmRVzZnzB0RupuFfQj-5D0",
+    "data_id": "0x1dcc67365791f9ad:0x3de4fe087d859bba",
+    "data_cid": "4459968843422735290",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc67365791f9ad%3A0x3de4fe087d859bba&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc67365791f9ad%3A0x3de4fe087d859bba&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9041068,
+     "longitude": 18.4010964
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrfmRVzZnzB0RupuFfQj-5D0",
+    "provider_id": "/m/0134pp6x",
+    "rating": 4.7,
+    "reviews": 12878,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park",
+     "Tourist attraction"
+    ],
+    "address": "1 Fritz Sonnenberg Rd, Green Point, Cape Town, 8051",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–7 pm",
+     "sunday": "7 am–7 pm",
+     "monday": "7 am–7 pm",
+     "tuesday": "7 am–7 pm",
+     "wednesday": "7 am–7 pm",
+     "thursday": "7 am–7 pm",
+     "friday": "7 am–7 pm"
+    },
+    "phone": "021 444 3903",
+    "description": "Stadium, biodiversity garden & big lawns. Spacious urban park offering a stadium, biodiversity garden, exercise circuit & lots of green space.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "Barrington Road Kiddies Park",
+    "place_id": "ChIJvW_X0_1dzB0RFmlxOmAtPPs",
+    "data_id": "0x1dcc5dfdd3d76fbd:0xfb3c2d603a716916",
+    "data_cid": "18103394493443172630",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5dfdd3d76fbd%3A0xfb3c2d603a716916&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5dfdd3d76fbd%3A0xfb3c2d603a716916&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9372523,
+     "longitude": 18.4732542
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvW_X0_1dzB0RFmlxOmAtPPs",
+    "provider_id": "/g/11f61233sb",
+    "rating": 4.3,
+    "reviews": 9,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "16 Barrington Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "title": "Keurboom Park",
+    "place_id": "ChIJnXsdICtDzB0R7pa-dERpP_k",
+    "data_id": "0x1dcc432b201d7b9d:0xf93f694474be96ee",
+    "data_cid": "17960189581714167534",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc432b201d7b9d%3A0xf93f694474be96ee&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc432b201d7b9d%3A0xf93f694474be96ee&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.973254499999996,
+     "longitude": 18.478423199999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnXsdICtDzB0R7pa-dERpP_k",
+    "provider_id": "/m/0131w2_1",
+    "rating": 4.5,
+    "reviews": 2190,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park",
+     "Park"
+    ],
+    "address": "Squirrels Way, Rondebosch, Cape Town, 7700",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 683 7368",
+    "website": "http://keurboompark.org.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "title": "Observatory Industrial Park",
+    "place_id": "ChIJW_EcswZdzB0RBG7Kbypqn3c",
+    "data_id": "0x1dcc5d06b31cf15b:0x779f6a2a6fca6e04",
+    "data_cid": "8619724942307126788",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d06b31cf15b%3A0x779f6a2a6fca6e04&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d06b31cf15b%3A0x779f6a2a6fca6e04&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9316341,
+     "longitude": 18.4681155
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW_EcswZdzB0RBG7Kbypqn3c",
+    "provider_id": "/g/1tkb_h12",
+    "rating": 4.1,
+    "reviews": 9,
+    "unclaimed_listing": true,
+    "type": "Manufacturer",
+    "types": [
+     "Manufacturer"
+    ],
+    "address": "7 Lwr Scott Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "title": "Observatory Paid Parking, Nuttall Road",
+    "place_id": "ChIJFT-oPnBdzB0Rky6HrXuTHDM",
+    "data_id": "0x1dcc5d703ea83f15:0x331c937bad872e93",
+    "data_cid": "3682980754683801235",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d703ea83f15%3A0x331c937bad872e93&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d703ea83f15%3A0x331c937bad872e93&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.938519,
+     "longitude": 18.4696235
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFT-oPnBdzB0Rky6HrXuTHDM",
+    "provider_id": "/g/11f9yhxs35",
+    "rating": 5,
+    "reviews": 2,
+    "unclaimed_listing": true,
+    "type": "Public parking space",
+    "types": [
+     "Public parking space"
+    ],
+    "address": "Nuttall Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "Cape Town Science Centre",
+    "place_id": "ChIJp-uEhAVdzB0RxWSUgly4Sw0",
+    "data_id": "0x1dcc5d058484eba7:0xd4bb85c829464c5",
+    "data_cid": "958062053213627589",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d058484eba7%3A0xd4bb85c829464c5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d058484eba7%3A0xd4bb85c829464c5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9383614,
+     "longitude": 18.4640718
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp-uEhAVdzB0RxWSUgly4Sw0",
+    "provider_id": "/m/011l8wkj",
+    "rating": 4.3,
+    "reviews": 1863,
+    "type": "Tourist attraction",
+    "types": [
+     "Tourist attraction",
+     "Science museum"
+    ],
+    "address": "370B Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Mon",
+    "hours": "Closed · Opens 9 am Mon",
+    "operating_hours": {
+     "saturday": "9 am–4:30 pm",
+     "sunday": "Closed",
+     "monday": "9 am–4:30 pm",
+     "tuesday": "9 am–4:30 pm",
+     "wednesday": "9 am–4:30 pm",
+     "thursday": "9 am–4:30 pm",
+     "friday": "9 am–4:30 pm"
+    },
+    "phone": "021 300 3200",
+    "website": "http://www.ctsc.org.za/",
+    "description": "Hands-on science exhibits for kids. Children's science museum with interactive displays such as a human gyroscope, plus a planetarium.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "title": "Total Ninja Black River Park - Cape Town",
+    "place_id": "ChIJ-dzh-Y5dzB0Rw-fJM0x6QnM",
+    "data_id": "0x1dcc5d8ef9e1dcf9:0x73427a4c33c9e7c3",
+    "data_cid": "8305335130529589187",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d8ef9e1dcf9%3A0x73427a4c33c9e7c3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d8ef9e1dcf9%3A0x73427a4c33c9e7c3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9342069,
+     "longitude": 18.4710388
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-dzh-Y5dzB0Rw-fJM0x6QnM",
+    "provider_id": "/g/11s01wq557",
+    "rating": 4.6,
+    "reviews": 1466,
+    "type": "Recreation center",
+    "types": [
+     "Recreation center",
+     "Amusement center",
+     "Fitness center"
+    ],
+    "address": "South Park Entrance, Black River Park, The Warehouse, Observatory, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–9 pm",
+     "sunday": "9 am–8 pm",
+     "monday": "9 am–8 pm",
+     "tuesday": "9 am–8 pm",
+     "wednesday": "9 am–8 pm",
+     "thursday": "9 am–8 pm",
+     "friday": "9 am–9 pm"
+    },
+    "phone": "021 745 3089",
+    "website": "http://www.totalninja.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Observatory Community Recreation Centre",
+    "place_id": "ChIJLc1seARdzB0RX0H1bXXXjL0",
+    "data_id": "0x1dcc5d04786ccd2d:0xbd8cd7756df5415f",
+    "data_cid": "13658528669263806815",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d04786ccd2d%3A0xbd8cd7756df5415f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d04786ccd2d%3A0xbd8cd7756df5415f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9371703,
+     "longitude": 18.4686021
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLc1seARdzB0RX0H1bXXXjL0",
+    "provider_id": "/g/11cs32n945",
+    "rating": 4.4,
+    "reviews": 84,
+    "type": "Recreation center",
+    "types": [
+     "Recreation center"
+    ],
+    "address": "Observatory Community Center, Rawson St, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 9 am Sun",
+    "hours": "Closed · Opens 9 am Sun",
+    "operating_hours": {
+     "saturday": "9 am–10 pm",
+     "sunday": "9 am–8 pm",
+     "monday": "9 am–8 pm",
+     "tuesday": "9 am–8 pm",
+     "wednesday": "9 am–8 pm",
+     "thursday": "9 am–8 pm",
+     "friday": "9 am–8 pm"
+    },
+    "phone": "021 814 1030",
+    "website": "https://www.facebook.com/ObservatoryCommunityCentre",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "title": "Wynberg Park",
+    "place_id": "ChIJ95J3bOtCzB0Ry_n7XByzMWk",
+    "data_id": "0x1dcc42eb6c7792f7:0x6931b31c5cfbf9cb",
+    "data_cid": "7580036582241728971",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc42eb6c7792f7%3A0x6931b31c5cfbf9cb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc42eb6c7792f7%3A0x6931b31c5cfbf9cb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9996262,
+     "longitude": 18.451305599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ95J3bOtCzB0Ry_n7XByzMWk",
+    "provider_id": "/g/122dl_22",
+    "rating": 4.3,
+    "reviews": 4421,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park",
+     "Tourist attraction"
+    ],
+    "address": "58 avenue Cnr Klaassens and, Trovato Link Rd, Wynberg, 7824",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–6 pm",
+     "sunday": "7 am–6 pm",
+     "monday": "7 am–6 pm",
+     "tuesday": "7 am–6 pm",
+     "wednesday": "7 am–6 pm",
+     "thursday": "7 am–6 pm",
+     "friday": "7 am–6 pm"
+    },
+    "phone": "021 444 8849",
+    "website": "https://www.capetown.gov.za/Explore%20and%20enjoy/See-all-city-facilities/Our-recreational-facilities/District%20parks/wynberg-park",
+    "description": "Grassy area with ponds & a playground. Spacious park featuring open grassy areas with shade trees & small ponds, plus a playground.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "title": "Arderne Gardens",
+    "place_id": "ChIJl68pHNtCzB0RFkwA0Kg6hMY",
+    "data_id": "0x1dcc42db1c29af97:0xc6843aa8d0004c16",
+    "data_cid": "14304622813154135062",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc42db1c29af97%3A0xc6843aa8d0004c16&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc42db1c29af97%3A0xc6843aa8d0004c16&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9872914,
+     "longitude": 18.4648833
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl68pHNtCzB0RFkwA0Kg6hMY",
+    "provider_id": "/m/0131v_vb",
+    "rating": 4.6,
+    "reviews": 3177,
+    "type": "Park",
+    "types": [
+     "Park",
+     "Arboretum",
+     "Garden",
+     "Botanical garden",
+     "Tourist attraction"
+    ],
+    "address": "222 Main Rd, Claremont, Cape Town, 7708",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6 pm",
+     "sunday": "8 am–6 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    },
+    "phone": "021 444 1697",
+    "website": "http://www.ardernegardens.org.za/",
+    "description": "Arboretum known for exotic trees. Tranquil arboretum with a noted collection of old, exotic trees, plus shady paths & picnic areas.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "De Waal Park",
+    "place_id": "ChIJuRUmUnZnzB0Rke1WGkG790A",
+    "data_id": "0x1dcc6776522615b9:0x40f7bb411a56ed91",
+    "data_cid": "4681416225964092817",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc6776522615b9%3A0x40f7bb411a56ed91&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc6776522615b9%3A0x40f7bb411a56ed91&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.935484599999995,
+     "longitude": 18.4121509
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuRUmUnZnzB0Rke1WGkG790A",
+    "provider_id": "/m/0jwwm8p",
+    "rating": 4.5,
+    "reviews": 2630,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park",
+     "Tourist attraction"
+    ],
+    "address": "Molteno Rd, CBD, Cape Town, 8000",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Sun",
+    "hours": "Closed · Opens 6 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–7 pm",
+     "sunday": "6 am–7 pm",
+     "monday": "6 am–7 pm",
+     "tuesday": "6 am–7 pm",
+     "wednesday": "6 am–7 pm",
+     "thursday": "6 am–7 pm",
+     "friday": "6 am–7 pm"
+    },
+    "phone": "084 888 8033",
+    "website": "http://www.dewaalpark.co.za/",
+    "description": "Dog-friendly spot with trees & play area. Tree-filled park featuring a playground, tennis courts, summertime concerts & lots of dogs.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "title": "Black River Park",
+    "place_id": "ChIJEVsPeQFdzB0RAibQ6aTNXdg",
+    "data_id": "0x1dcc5d01790f5b11:0xd85dcda4e9d02602",
+    "data_cid": "15590843593207588354",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d01790f5b11%3A0xd85dcda4e9d02602&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d01790f5b11%3A0xd85dcda4e9d02602&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.934422399999995,
+     "longitude": 18.4718826
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEVsPeQFdzB0RAibQ6aTNXdg",
+    "provider_id": "/g/11ymr8dj5s",
+    "address": "Fir St, Observatory, Cape Town, 7925",
+    "country": "South Africa"
+   },
+   {
+    "position": 18,
+    "title": "South African Astronomical Observatory",
+    "place_id": "ChIJWcoxkgJdzB0RsKLwN6YuAlA",
+    "data_id": "0x1dcc5d029231ca59:0x50022ea637f0a2b0",
+    "data_cid": "5765221764425622192",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d029231ca59%3A0x50022ea637f0a2b0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d029231ca59%3A0x50022ea637f0a2b0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9352929,
+     "longitude": 18.477340899999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWcoxkgJdzB0RsKLwN6YuAlA",
+    "provider_id": "/m/06lpnm",
+    "rating": 4.6,
+    "reviews": 423,
+    "type": "Observatory",
+    "types": [
+     "Observatory",
+     "Historical place museum",
+     "Research foundation",
+     "Tourist attraction"
+    ],
+    "address": "1 Observatory Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8:30 am Mon",
+    "hours": "Closed · Opens 8:30 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8:30 am–4:30 pm",
+     "tuesday": "8:30 am–4:30 pm",
+     "wednesday": "8:30 am–4:30 pm",
+     "thursday": "8:30 am–4:30 pm",
+     "friday": "8:30 am–4:30 pm"
+    },
+    "phone": "021 447 0025",
+    "website": "https://www.saao.ac.za/",
+    "description": "Headquarters of national observatory. National astronomy centre headquarters founded in 1820 and open to visitors twice a month.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "title": "Arnold Street Dog Park",
+    "place_id": "ChIJd3GwXFpdzB0ReNdF7PeHSxI",
+    "data_id": "0x1dcc5d5a5cb07177:0x124b87f7ec45d778",
+    "data_cid": "1318296814826674040",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d5a5cb07177%3A0x124b87f7ec45d778&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d5a5cb07177%3A0x124b87f7ec45d778&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9375739,
+     "longitude": 18.467515499999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd3GwXFpdzB0ReNdF7PeHSxI",
+    "provider_id": "/g/11hyrdphn3",
+    "rating": 4.4,
+    "reviews": 21,
+    "unclaimed_listing": true,
+    "type": "Dog park",
+    "types": [
+     "Dog park"
+    ],
+    "address": "18 Gordon Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa"
+   },
+   {
+    "position": 20,
+    "title": "St Michaels Park",
+    "place_id": "ChIJ4w7tuQtdzB0RTTfFHRX46-U",
+    "data_id": "0x1dcc5d0bb9ed0ee3:0xe5ebf8151dc5374d",
+    "data_cid": "16567608423789967181",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0bb9ed0ee3%3A0xe5ebf8151dc5374d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5d0bb9ed0ee3%3A0xe5ebf8151dc5374d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9353482,
+     "longitude": 18.4689413
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4w7tuQtdzB0RTTfFHRX46-U",
+    "provider_id": "/g/11f65h5zg0",
+    "rating": 3.7,
+    "reviews": 7,
+    "unclaimed_listing": true,
+    "type": "Corporate office",
+    "types": [
+     "Corporate office"
+    ],
+    "address": "152, 150 Lower Main Rd, Observatory, Cape Town, 7925",
+    "country": "South Africa",
+    "website": "https://www.anvilproperty.co.za/commercial-property/office-space/to-rent/observatory/st-michaels-park-st-michaels-rd-observatory-cape-town-4628",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,779 @@
+{
+ "fetched_at": "2026-10-17T21:01:32.871725+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "park in Parow, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e22b0257bbb9c7510ff9",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/yWOY_vszExtUBygT-TXfWYbvttFG7jx0X_MXc7plIJk/6ad3e22b0257bbb9c7510ff9.json",
+   "markdown_endpoint": "https://serpapi.com/searches/yWOY_vszExtUBygT-TXfWYbvttFG7jx0X_MXc7plIJk/6ad3e22b0257bbb9c7510ff9.md",
+   "created_at": "2026-10-17 21:01:31 UTC",
+   "processed_at": "2026-10-17 21:01:31 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/park+in+Parow%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/yWOY_vszExtUBygT-TXfWYbvttFG7jx0X_MXc7plIJk/6ad3e22b0257bbb9c7510ff9.html",
+   "prettify_html_file": "https://serpapi.com/searches/yWOY_vszExtUBygT-TXfWYbvttFG7jx0X_MXc7plIJk/6ad3e22b0257bbb9c7510ff9.prettify",
+   "total_time_taken": 0.77
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "park in Parow, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "park in Parow, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Jan Cilliers Park",
+    "place_id": "ChIJ5x6nXz9azB0R80fQJkCFbFk",
+    "data_id": "0x1dcc5a3f5fa71ee7:0x596c854026d047f3",
+    "data_cid": "6443671677435922419",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a3f5fa71ee7%3A0x596c854026d047f3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a3f5fa71ee7%3A0x596c854026d047f3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8887026,
+     "longitude": 18.5890986
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5x6nXz9azB0R80fQJkCFbFk",
+    "provider_id": "/g/11c2km_g3v",
+    "rating": 4.1,
+    "reviews": 93,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "15 Jan Cilliers St, Parow North, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Piketberg Park",
+    "place_id": "ChIJG9w4bS1azB0Rq2SQzgGEFw0",
+    "data_id": "0x1dcc5a2d6d38dc1b:0xd178401ce9064ab",
+    "data_cid": "943367790252811435",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a2d6d38dc1b%3A0xd178401ce9064ab&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a2d6d38dc1b%3A0xd178401ce9064ab&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8803632,
+     "longitude": 18.5721872
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG9w4bS1azB0Rq2SQzgGEFw0",
+    "provider_id": "/g/11fy_g9ycq",
+    "rating": 4.5,
+    "reviews": 27,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "7500, Panorama, Cape Town",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Olienhout Park",
+    "place_id": "ChIJmSFR3CdazB0Rn4-7j8D-up8",
+    "data_id": "0x1dcc5a27dc512199:0x9fbafec08fbb8f9f",
+    "data_cid": "11509791900697333663",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a27dc512199%3A0x9fbafec08fbb8f9f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a27dc512199%3A0x9fbafec08fbb8f9f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.868840999999996,
+     "longitude": 18.5838967
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmSFR3CdazB0Rn4-7j8D-up8",
+    "provider_id": "/g/11csq0w142",
+    "rating": 4.5,
+    "reviews": 197,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "Olienhout Ave, Plattekloof 3, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 936 8788",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "George Starke Park",
+    "place_id": "ChIJ0bUlA29azB0R-x8fgUda6KY",
+    "data_id": "0x1dcc5a6f0325b5d1:0xa6e85a47811f1ffb",
+    "data_cid": "12026962068048388091",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a6f0325b5d1%3A0xa6e85a47811f1ffb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a6f0325b5d1%3A0xa6e85a47811f1ffb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.896046,
+     "longitude": 18.602033
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0bUlA29azB0R-x8fgUda6KY",
+    "provider_id": "/g/11btx72ssc",
+    "rating": 4.1,
+    "reviews": 43,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "Friesland St, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 936 8788"
+   },
+   {
+    "position": 5,
+    "title": "Hopkins Street Park",
+    "place_id": "ChIJndHcQltazB0RGp1p-wT75vU",
+    "data_id": "0x1dcc5a5b42dcd19d:0xf5e6fb04fb699d1a",
+    "data_cid": "17719125782752238874",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5b42dcd19d%3A0xf5e6fb04fb699d1a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5b42dcd19d%3A0xf5e6fb04fb699d1a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.902094,
+     "longitude": 18.5870539
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJndHcQltazB0RGp1p-wT75vU",
+    "provider_id": "/g/11bt_g_c40",
+    "rating": 4,
+    "reviews": 50,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "City Parks, Hopkins St, Beaconvale Depot, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–7 pm",
+     "sunday": "7 am–7 pm",
+     "monday": "7 am–7 pm",
+     "tuesday": "7 am–7 pm",
+     "wednesday": "7 am–7 pm",
+     "thursday": "7 am–7 pm",
+     "friday": "7 am–7 pm"
+    },
+    "phone": "021 936 8788",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "title": "Friesland Park",
+    "place_id": "ChIJBSJyPW9azB0RFlsBv8S6ldU",
+    "data_id": "0x1dcc5a6f3d722205:0xd595bac4bf015b16",
+    "data_cid": "15390412655789431574",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a6f3d722205%3A0xd595bac4bf015b16&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a6f3d722205%3A0xd595bac4bf015b16&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.896791,
+     "longitude": 18.6011631
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBSJyPW9azB0RFlsBv8S6ldU",
+    "provider_id": "/g/11b7ybx4pf",
+    "rating": 4.1,
+    "reviews": 36,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "City Park Depot, Friesland St, Beaconvale, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 936 8788"
+   },
+   {
+    "position": 7,
+    "title": "Trim Park",
+    "place_id": "ChIJSdyJgzhazB0Rrymuf1CJ5F0",
+    "data_id": "0x1dcc5a388389dc49:0x5de489507fae29af",
+    "data_cid": "6765683519049836975",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a388389dc49%3A0x5de489507fae29af&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a388389dc49%3A0x5de489507fae29af&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8900299,
+     "longitude": 18.585400099999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSdyJgzhazB0Rrymuf1CJ5F0",
+    "provider_id": "/g/11f3kcw8w4",
+    "rating": 4.1,
+    "reviews": 61,
+    "unclaimed_listing": true,
+    "type": "City park",
+    "types": [
+     "City park"
+    ],
+    "address": "McIntyre St, Parow North, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    }
+   },
+   {
+    "position": 8,
+    "title": "Jack Muller & Danie Uys District Park",
+    "place_id": "ChIJZxWlW5pQzB0RCd-FNh8R7eE",
+    "data_id": "0x1dcc509a5ba51567:0xe1ed111f3685df09",
+    "data_cid": "16279687053770612489",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc509a5ba51567%3A0xe1ed111f3685df09&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc509a5ba51567%3A0xe1ed111f3685df09&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8914201,
+     "longitude": 18.6274498
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZxWlW5pQzB0RCd-FNh8R7eE",
+    "provider_id": "/g/11f6154yc0",
+    "rating": 4.4,
+    "reviews": 2489,
+    "type": "Park",
+    "types": [
+     "Park",
+     "Tourist attraction"
+    ],
+    "address": "Frans Conradie Dr, Boston, Cape Town, 7530",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–6 pm",
+     "sunday": "7 am–6 pm",
+     "monday": "6 am–7 pm",
+     "tuesday": "7 am–6 pm",
+     "wednesday": "7 am–6 pm",
+     "thursday": "7 am–6 pm",
+     "friday": "7 am–6 pm"
+    },
+    "phone": "021 400 5769",
+    "website": "https://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/District%20parks/Jack%20Muller%20Park",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "title": "Joubert Park",
+    "place_id": "ChIJQ07ZFQBbzB0ReqKj5oI_OS4",
+    "data_id": "0x1dcc5b0015d94e43:0x2e393f82e6a3a27a",
+    "data_cid": "3330763230864974458",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b0015d94e43%3A0x2e393f82e6a3a27a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b0015d94e43%3A0x2e393f82e6a3a27a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.914830099999996,
+     "longitude": 18.5938048
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ07ZFQBbzB0ReqKj5oI_OS4",
+    "provider_id": "/g/11ymywx9n3",
+    "rating": 2,
+    "reviews": 2,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "65-75, Joubert St, Parow Valley, Cape Town, 7500",
+    "country": "South Africa"
+   },
+   {
+    "position": 10,
+    "title": "Parow -City Park",
+    "place_id": "ChIJmdtTgfdazB0R4SdvV9ee2lc",
+    "data_id": "0x1dcc5af78153db99:0x57da9ed7576f27e1",
+    "data_cid": "6330546873944713185",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5af78153db99%3A0x57da9ed7576f27e1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5af78153db99%3A0x57da9ed7576f27e1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.914760699999995,
+     "longitude": 18.5822781
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmdtTgfdazB0R4SdvV9ee2lc",
+    "provider_id": "/g/11b7_0105z",
+    "rating": 4.7,
+    "reviews": 3,
+    "unclaimed_listing": true,
+    "type": "Business park",
+    "types": [
+     "Business park"
+    ],
+    "address": "Tienie Britz St, Parow Valley, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "021 928 3700",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "title": "Parow Athletics Track",
+    "place_id": "ChIJdxGfUhhbzB0RmLYFRFP0KnM",
+    "data_id": "0x1dcc5b18529f1177:0x732af4534405b698",
+    "data_cid": "8298713901844248216",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b18529f1177%3A0x732af4534405b698&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b18529f1177%3A0x732af4534405b698&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.894266,
+     "longitude": 18.5847195
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdxGfUhhbzB0RmLYFRFP0KnM",
+    "provider_id": "/g/11p3syv0b9",
+    "rating": 4.2,
+    "reviews": 171,
+    "unclaimed_listing": true,
+    "type": "Athletic track",
+    "types": [
+     "Athletic track"
+    ],
+    "address": "1 De Grendel Rd, Parow North, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "title": "Florida Park",
+    "place_id": "ChIJYe7XkJBazB0RQJhzGQuFYGg",
+    "data_id": "0x1dcc5a9090d7ee61:0x6860850b19739840",
+    "data_cid": "7521157660426868800",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a9090d7ee61%3A0x6860850b19739840&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a9090d7ee61%3A0x6860850b19739840&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9233468,
+     "longitude": 18.6045461
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYe7XkJBazB0RQJhzGQuFYGg",
+    "provider_id": "/g/11dxbwwg9t",
+    "rating": 3.9,
+    "reviews": 267,
+    "unclaimed_listing": true,
+    "type": "Sports complex",
+    "types": [
+     "Sports complex"
+    ],
+    "address": "Stroebel St, Ravensmead, Cape Town, 7504",
+    "country": "South Africa",
+    "phone": "021 444 0265",
+    "website": "https://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Sports%20fields/Florida%20Park%20Sports%20Ground",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Tygerberg Nature Reserve",
+    "place_id": "ChIJt1J-Xx9azB0R6Q-Mc7GqAv8",
+    "data_id": "0x1dcc5a1f5f7e52b7:0xff02aab1738c0fe9",
+    "data_cid": "18375437108749537257",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a1f5f7e52b7%3A0xff02aab1738c0fe9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a1f5f7e52b7%3A0xff02aab1738c0fe9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8778329,
+     "longitude": 18.5998181
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt1J-Xx9azB0R6Q-Mc7GqAv8",
+    "provider_id": "/m/0gg7rww",
+    "rating": 4.5,
+    "reviews": 2672,
+    "unclaimed_listing": true,
+    "type": "Nature preserve",
+    "types": [
+     "Nature preserve",
+     "Tourist attraction"
+    ],
+    "address": "27 Totius St, Welgemoed, Cape Town, 7530",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 am Sun",
+    "hours": "Closed · Opens 7:30 am Sun",
+    "operating_hours": {
+     "saturday": "7:30 am–7 pm",
+     "sunday": "7:30 am–7 pm",
+     "monday": "7:30 am–6 pm",
+     "tuesday": "7:30 am–6 pm",
+     "wednesday": "7:30 am–6 pm",
+     "thursday": "7:30 am–6 pm",
+     "friday": "7:30 am–6 pm"
+    },
+    "phone": "021 444 8971",
+    "website": "https://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Nature%20reserves/Tygerberg%20Nature%20Reserve",
+    "description": "Birdlife, tortoises & Cape Town views. Hilly haven for birds & tortoises, known for nature walks, trail running & views of Cape Town.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "title": "Svenprop Park",
+    "place_id": "ChIJA7L6UvZazB0RzVZWEhHZQqU",
+    "data_id": "0x1dcc5af652fab203:0xa542d911125656cd",
+    "data_cid": "11908319032066332365",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5af652fab203%3A0xa542d911125656cd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5af652fab203%3A0xa542d911125656cd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.9140897,
+     "longitude": 18.5850726
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA7L6UvZazB0RzVZWEhHZQqU",
+    "provider_id": "/g/11b80hc3xd",
+    "rating": 3.7,
+    "reviews": 30,
+    "unclaimed_listing": true,
+    "type": "Business park",
+    "types": [
+     "Business park"
+    ],
+    "address": "Jan Smuts Rd, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "021 937 8600",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "title": "Parow Centre Tallent Park",
+    "place_id": "ChIJcR-FiFBazB0Rs3gF-PxefYg",
+    "data_id": "0x1dcc5a5088851f71:0x887d5efcf80578b3",
+    "data_cid": "9835121601832908979",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5088851f71%3A0x887d5efcf80578b3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a5088851f71%3A0x887d5efcf80578b3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.906181,
+     "longitude": 18.5817251
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcR-FiFBazB0Rs3gF-PxefYg",
+    "provider_id": "/g/1tfz7kvv",
+    "rating": 4.4,
+    "reviews": 14,
+    "unclaimed_listing": true,
+    "type": "Business park",
+    "types": [
+     "Business park"
+    ],
+    "address": "10 Tallent Rd, Glenlily, Cape Town, 7500",
+    "country": "South Africa",
+    "phone": "081 565 1365",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "Da Gama Park",
+    "place_id": "ChIJjWlEXGhbzB0R-QfNlymNac0",
+    "data_id": "0x1dcc5b685c44698d:0xcd698d2997cd07f9",
+    "data_cid": "14801516860109817849",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b685c44698d%3A0xcd698d2997cd07f9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b685c44698d%3A0xcd698d2997cd07f9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.908663,
+     "longitude": 18.5798769
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjWlEXGhbzB0R-QfNlymNac0",
+    "provider_id": "/g/11pfbz9tsv",
+    "rating": 1,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "Parow, Cape Town, 7500",
+    "country": "South Africa"
+   },
+   {
+    "position": 17,
+    "title": "Orchid Park",
+    "place_id": "ChIJvdPt2M9bzB0RXB7del8UZCI",
+    "data_id": "0x1dcc5bcfd8edd3bd:0x2264145f7add1e5c",
+    "data_cid": "2478128095276375644",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5bcfd8edd3bd%3A0x2264145f7add1e5c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5bcfd8edd3bd%3A0x2264145f7add1e5c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8915526,
+     "longitude": 18.578587499999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvdPt2M9bzB0RXB7del8UZCI",
+    "provider_id": "/g/11pb13fmjt",
+    "rating": 4.3,
+    "reviews": 9,
+    "unclaimed_listing": true,
+    "type": "Housing complex",
+    "types": [
+     "Housing complex"
+    ],
+    "address": "26 M E Rothman St, Parow North, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "title": "Protea Park",
+    "place_id": "ChIJoza2ZUhazB0RNb1Q1ZThiY0",
+    "data_id": "0x1dcc5a4865b636a3:0x8d89e194d550bd35",
+    "data_cid": "10198930860507446581",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5a4865b636a3%3A0x8d89e194d550bd35&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5a4865b636a3%3A0x8d89e194d550bd35&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8928428,
+     "longitude": 18.5811957
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoza2ZUhazB0RNb1Q1ZThiY0",
+    "provider_id": "/g/11gdt0s2r5",
+    "rating": 4.3,
+    "reviews": 30,
+    "unclaimed_listing": true,
+    "type": "Apartment building",
+    "types": [
+     "Apartment building"
+    ],
+    "address": "M E Rothman St, Parow North, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "021 939 8448",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "title": "ESPERANCE PARK",
+    "place_id": "ChIJ_xxgXABbzB0R1mt3K-jnlc0",
+    "data_id": "0x1dcc5b005c601cff:0xcd95e7e82b776bd6",
+    "data_cid": "14814001533652790230",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b005c601cff%3A0xcd95e7e82b776bd6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b005c601cff%3A0xcd95e7e82b776bd6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.898469399999996,
+     "longitude": 18.6031576
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_xxgXABbzB0R1mt3K-jnlc0",
+    "provider_id": "/g/11vwpkj2nr",
+    "rating": 4.5,
+    "reviews": 2,
+    "unclaimed_listing": true,
+    "type": "Park",
+    "types": [
+     "Park"
+    ],
+    "address": "70 Esperance St, Parow, Cape Town, 7500",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Sun",
+    "hours": "Closed · Opens 8 am Sun",
+    "operating_hours": {
+     "saturday": "8 am–6 pm",
+     "sunday": "8 am–6 pm",
+     "monday": "8 am–6 pm",
+     "tuesday": "8 am–6 pm",
+     "wednesday": "8 am–6 pm",
+     "thursday": "8 am–6 pm",
+     "friday": "8 am–6 pm"
+    }
+   },
+   {
+    "position": 20,
+    "title": "Block 23 A2 Parow Park Municipal Flats",
+    "place_id": "ChIJiWmvWgBbzB0R0FQKtsoyOu0",
+    "data_id": "0x1dcc5b005aaf6989:0xed3a32cab60a54d0",
+    "data_cid": "17094031181857051856",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5b005aaf6989%3A0xed3a32cab60a54d0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5b005aaf6989%3A0xed3a32cab60a54d0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.896698,
+     "longitude": 18.577436
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiWmvWgBbzB0R0FQKtsoyOu0",
+    "provider_id": "/g/11nhzdn7rd",
+    "rating": 4.7,
+    "reviews": 3,
+    "unclaimed_listing": true,
+    "type": "Housing complex",
+    "types": [
+     "Housing complex"
+    ],
+    "address": "Parow Park, 23B2, Fifth Ave, Churchill Estate, Cape Town, 7500",
+    "country": "South Africa"
+   }
+  ]
+ }
+}

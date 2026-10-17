@@ -1,0 +1,92 @@
+{
+ "fetched_at": "2026-10-17T20:26:33.315332+00:00",
+ "params": {
+  "q": "flat to rent in Parow Cape Town"
+ },
+ "response": {
+  "organic_results": [
+   {
+    "link": "https://www.property24.com/apartments-to-rent/parow/western-cape/436",
+    "title": "Apartments / flats to rent in Parow",
+    "snippet": "1 Bedroom Apartment / flat to rent in Glenlilly - Parow · ​R ​5 ​000 · Glenlilly ; 1 Bedroom Apartment / flat to rent in Glenlilly - Parow · ​R ​6 ​200 · Glenlilly.",
+    "source": "Property24"
+   },
+   {
+    "link": "https://www.privateproperty.co.za/apartments-to-rent/parow/2497",
+    "title": "Apartments to rent in Parow",
+    "snippet": "38 apartments to rent in Parow, Cape Town. Browse photos, floor plans and full property details. Flat New R 6 300 per month 2 Bedroom. New R 13 000 per month",
+    "source": "Private Property"
+   },
+   {
+    "link": "https://findallrentals.co.za/for-rent/parow",
+    "title": "Property to rent in Parow by owner",
+    "snippet": "Easily find property to rent by owner in Parow ➤ Browse 46 apartments, houses, bachelor flats and rooms ➤ Verified listings ➤ Updated daily!",
+    "source": "Findallrentals.co.za"
+   },
+   {
+    "link": "https://www.sahometraders.co.za/apartments-flats-to-rent-in-parow-c436",
+    "title": "Apartments / Flats to rent in Parow, Western Cape",
+    "snippet": "Find Apartments / Flats to Rent in Parow, Western Cape … 45 results 1 Bedroom Apartment / Flat. Flat to Rent in Parow North AVAILABLE: 900 Apartment / Flat in ...",
+    "source": "SAHometraders"
+   },
+   {
+    "link": "https://rawson.co.za/property/to-rent/parow",
+    "title": "Parow Flats and Houses to Rent",
+    "snippet": "Browse through our property to rent in Parow, Western Cape. Apartment / Flat House Townhouse. Garden Swimming Pool Fireplace Security Furnished Shared ...",
+    "source": "Rawson Property Group"
+   },
+   {
+    "link": "https://homes.mitula.co.za/homes/flats-to-rent-parow",
+    "title": "1 708 Flats to rent in Parow - Mitula Homes",
+    "snippet": "Flats to rent in Parow ; 9 · House for rent in Cape Town Ward 1, Parow. R 7 400/month ; 8 · Apartment for rent in Cape Town Ward 10, Parow. R 8 395/month ; 22 · House ...",
+    "source": "mitula.co.za"
+   },
+   {
+    "link": "https://www.myproperty.co.za/en-za/to-rent/western-cape/parow",
+    "title": "Properties To Rent in Parow, Western Cape",
+    "snippet": "39 properties to rent in Parow, Western Cape ; R 125,000 · 84 Voortrekker Road, Parow Central · 880m² ; R 8,600 · 29 Miracle Road, Cravenby · 45 m² ; R 8,500 ...",
+    "source": "MyProperty South Africa"
+   },
+   {
+    "link": "https://property.mg.co.za/apartments-flats-to-rent-in-parow-c436",
+    "title": "Apartments / Flats to Rent in Parow",
+    "snippet": "Apartments / Flats to Rent in Parow ; Jawitz Western Seaboard R 6 200 · Glenlilly B Wrench, 44 Wrensch Road, Glenlilly, Parow · 1 Floor Size 40 m² ; Jawitz Western ...",
+    "source": "Mail & Guardian"
+   },
+   {
+    "link": "https://www.property24.com/houses-to-rent/parow/western-cape/436",
+    "title": "Houses to rent in Parow",
+    "snippet": "Houses to rent in Parow. The largest selection of apartments, flats, farms, repossessed property, private property and houses to Rent in Parow by estate ...",
+    "source": "Property24"
+   }
+  ],
+  "local_results": {
+   "places": [
+    {
+     "title": "Tygerberg Flats",
+     "type": "Apartment building",
+     "address": "106 Arnold Wilhelm St, Parow East, Cape Town, 7500",
+     "links": {
+      "website": null
+     }
+    },
+    {
+     "title": "SMITHLAND GUEST APARTMENTS",
+     "type": "Apartment rental agency",
+     "address": "29 Hans Strydom St, Parow North, Cape Town, 7500",
+     "links": {
+      "website": "http://www.smithland.co.za/"
+     }
+    },
+    {
+     "title": "THE GREENS",
+     "type": "Housing complex",
+     "address": "107 Scott Rd, Churchill Estate, Cape Town, 7500",
+     "links": {
+      "website": null
+     }
+    }
+   ]
+  }
+ }
+}

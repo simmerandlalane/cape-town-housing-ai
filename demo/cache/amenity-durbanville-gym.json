@@ -1,0 +1,859 @@
+{
+ "fetched_at": "2026-10-17T21:17:10.765580+00:00",
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "gym in Durbanville, Cape Town",
+  "hl": "en",
+  "gl": "za"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3e5d6739fd7af3c62e297",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/mSkbsnMa5TvOWjhNY2uuw1JgjPBAtKF3BBHh9EU54SU/6ad3e5d6739fd7af3c62e297.json",
+   "markdown_endpoint": "https://serpapi.com/searches/mSkbsnMa5TvOWjhNY2uuw1JgjPBAtKF3BBHh9EU54SU/6ad3e5d6739fd7af3c62e297.md",
+   "created_at": "2026-10-17 21:17:10 UTC",
+   "processed_at": "2026-10-17 21:17:10 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/gym+in+Durbanville%2C+Cape+Town//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=za",
+   "raw_html_file": "https://serpapi.com/searches/mSkbsnMa5TvOWjhNY2uuw1JgjPBAtKF3BBHh9EU54SU/6ad3e5d6739fd7af3c62e297.html",
+   "prettify_html_file": "https://serpapi.com/searches/mSkbsnMa5TvOWjhNY2uuw1JgjPBAtKF3BBHh9EU54SU/6ad3e5d6739fd7af3c62e297.prettify",
+   "total_time_taken": 0.66
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "gym in Durbanville, Cape Town",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "za"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "gym in Durbanville, Cape Town"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Anytime Fitness Durbanville",
+    "place_id": "ChIJ9V65uBJXzB0Rq_0nksqJ57k",
+    "data_id": "0x1dcc5712b8b95ef5:0xb9e789ca9227fdab",
+    "data_cid": "13395827119765323179",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5712b8b95ef5%3A0xb9e789ca9227fdab&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5712b8b95ef5%3A0xb9e789ca9227fdab&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.829448899999996,
+     "longitude": 18.649669799999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9V65uBJXzB0Rq_0nksqJ57k",
+    "provider_id": "/g/11sqd7v49x",
+    "rating": 4.4,
+    "reviews": 94,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "The Village Square, Shop 8A, Cnr of Wellington Rd &, Chenoweth St, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "071 315 1604",
+    "website": "https://www.anytimefitness.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Planet Fitness - Durbanville",
+    "place_id": "ChIJq_3_1dNXzB0REnNlBGUOclY",
+    "data_id": "0x1dcc57d3d5fffdab:0x56720e6504657312",
+    "data_cid": "6229057061635060498",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57d3d5fffdab%3A0x56720e6504657312&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57d3d5fffdab%3A0x56720e6504657312&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.799827,
+     "longitude": 18.6877875
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq_3_1dNXzB0REnNlBGUOclY",
+    "provider_id": "/g/11ygpm5zx2",
+    "rating": 4.4,
+    "reviews": 119,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "Cnr of Klipheuwel Road &, Okavango Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Sun",
+    "hours": "Closed · Opens 6 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–6 pm",
+     "sunday": "6 am–4 pm",
+     "monday": "5 am–9 pm",
+     "tuesday": "5 am–9 pm",
+     "wednesday": "5 am–9 pm",
+     "thursday": "5 am–9 pm",
+     "friday": "5 am–8 pm"
+    },
+    "phone": "021 020 1305",
+    "website": "https://www.planetfitness.co.za/durbanville/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Virgin Active Gym Durbanville",
+    "place_id": "ChIJiZX-lBZXzB0Rjuu2-OBZb9Q",
+    "data_id": "0x1dcc571694fe9589:0xd46f59e0f8b6eb8e",
+    "data_cid": "15307552481235889038",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc571694fe9589%3A0xd46f59e0f8b6eb8e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc571694fe9589%3A0xd46f59e0f8b6eb8e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8314914,
+     "longitude": 18.647419799999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiZX-lBZXzB0Rjuu2-OBZb9Q",
+    "provider_id": "/g/1td22j5c",
+    "rating": 4,
+    "reviews": 550,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Fitness center",
+     "Wellness center"
+    ],
+    "address": "De Ville Shopping Centre Cnr Main Road &, Wellington Rd, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Sun",
+    "hours": "Closed · Opens 6 am Sun",
+    "operating_hours": {
+     "saturday": "6 am–8 pm",
+     "sunday": "6 am–8 pm",
+     "monday": "5 am–9 pm",
+     "tuesday": "5 am–9 pm",
+     "wednesday": "5 am–9 pm",
+     "thursday": "5 am–9 pm",
+     "friday": "5 am–8 pm"
+    },
+    "phone": "021 495 8359",
+    "website": "https://www.virginactive.co.za/gyms/durbanville?utm_source=google&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "Body20 Durbanville",
+    "place_id": "ChIJbdQL8BNXzB0R9nORnICexe4",
+    "data_id": "0x1dcc5713f00bd46d:0xeec59e809c9173f6",
+    "data_cid": "17205332226658628598",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5713f00bd46d%3A0xeec59e809c9173f6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5713f00bd46d%3A0xeec59e809c9173f6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8315505,
+     "longitude": 18.6470012
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbdQL8BNXzB0R9nORnICexe4",
+    "provider_id": "/g/11csq54qvz",
+    "rating": 5,
+    "reviews": 102,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center",
+     "Gym",
+     "Personal trainer"
+    ],
+    "address": "36 Main Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5:30 am Mon",
+    "hours": "Closed · Opens 5:30 am Mon",
+    "operating_hours": {
+     "saturday": "7 am–1 pm",
+     "sunday": "Closed",
+     "monday": "5:30 am–8 pm",
+     "tuesday": "5:30 am–8 pm",
+     "wednesday": "5:30 am–8 pm",
+     "thursday": "5:30 am–8 pm",
+     "friday": "5:30 am–6 pm"
+    },
+    "phone": "021 976 3288",
+    "website": "https://body20.co.za/studio-durbanville.php",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "title": "BODYTEC Durbanville",
+    "place_id": "ChIJOTcFXhFXzB0RzBq2fzE_RYg",
+    "data_id": "0x1dcc57115e053739:0x88453f317fb61acc",
+    "data_cid": "9819324044379822796",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57115e053739%3A0x88453f317fb61acc&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57115e053739%3A0x88453f317fb61acc&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8289719,
+     "longitude": 18.6458027
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOTcFXhFXzB0RzBq2fzE_RYg",
+    "provider_id": "/g/11b7vzyjyf",
+    "rating": 4.8,
+    "reviews": 52,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "44 Oxford St, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Mon",
+    "hours": "Closed · Opens 6 am Mon",
+    "operating_hours": {
+     "saturday": "7 am–1 pm",
+     "sunday": "Closed",
+     "monday": "6 am–7 pm",
+     "tuesday": "6 am–7 pm",
+     "wednesday": "6 am–7 pm",
+     "thursday": "6 am–7 pm",
+     "friday": "6 am–7 pm"
+    },
+    "phone": "066 090 8134",
+    "website": "https://bodytec.co.za/studio/bodytec-durbanville/"
+   },
+   {
+    "position": 6,
+    "title": "Zone Fitness Cobble Walk",
+    "place_id": "ChIJk2gc_M9WzB0RQSwoHffU3vw",
+    "data_id": "0x1dcc56cffc1c6893:0xfcded4f71d282c41",
+    "data_cid": "18221235300198788161",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc56cffc1c6893%3A0xfcded4f71d282c41&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc56cffc1c6893%3A0xfcded4f71d282c41&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.843858,
+     "longitude": 18.677613
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk2gc_M9WzB0RQSwoHffU3vw",
+    "provider_id": "/g/11c3k52g9q",
+    "rating": 3.8,
+    "reviews": 366,
+    "type": "Gym",
+    "types": [
+     "Gym",
+     "Fitness center"
+    ],
+    "address": "Cobble Walk Shopping Centre, Legato Dr, Sonstraal Hoogte, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7 am Sun",
+    "hours": "Closed · Opens 7 am Sun",
+    "operating_hours": {
+     "saturday": "7 am–3 pm",
+     "sunday": "7 am–3 pm",
+     "monday": "5 am–9 pm",
+     "tuesday": "5 am–9 pm",
+     "wednesday": "5 am–9 pm",
+     "thursday": "5 am–9 pm",
+     "friday": "5 am–8 pm"
+    },
+    "phone": "021 975 7275",
+    "website": "https://zonefitness.co.za/cobble-walk/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "title": "Ipic Active",
+    "place_id": "ChIJ_6fZIVFXzB0RwTIpHSmSCCs",
+    "data_id": "0x1dcc575121d9a7ff:0x2b0892291d2932c1",
+    "data_cid": "3100889048725140161",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc575121d9a7ff%3A0x2b0892291d2932c1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc575121d9a7ff%3A0x2b0892291d2932c1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8337293,
+     "longitude": 18.6310538
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_6fZIVFXzB0RwTIpHSmSCCs",
+    "provider_id": "/g/11h07v95k3",
+    "rating": 4.3,
+    "reviews": 95,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "Corner of Burton &, Aurora St, Aurora, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 am Mon",
+    "hours": "Closed · Opens 5 am Mon",
+    "operating_hours": {
+     "saturday": "8 am–2 pm",
+     "sunday": "Closed",
+     "monday": "5 am–9 pm",
+     "tuesday": "5 am–9 pm",
+     "wednesday": "5 am–9 pm",
+     "thursday": "5 am–9 pm",
+     "friday": "5 am–7 pm"
+    },
+    "phone": "021 205 3844",
+    "website": "https://www.ipicactive.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "title": "Faith Fitness",
+    "place_id": "ChIJS0S5ERRXzB0R0jKDfKwk5ps",
+    "data_id": "0x1dcc571411b9444b:0x9be624ac7c8332d2",
+    "data_cid": "11233706643764228818",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc571411b9444b%3A0x9be624ac7c8332d2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc571411b9444b%3A0x9be624ac7c8332d2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.833185,
+     "longitude": 18.6462589
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS0S5ERRXzB0R0jKDfKwk5ps",
+    "provider_id": "/g/11l6qn15l2",
+    "rating": 5,
+    "reviews": 5,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "Heritage Square, Vrede St, Durbanville, Cape Town, 7551",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 am Mon",
+    "hours": "Closed · Opens 5 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "5 am–8 pm",
+     "tuesday": "5 am–8 pm",
+     "wednesday": "5 am–8 pm",
+     "thursday": "5 am–8 pm",
+     "friday": "5 am–2 pm"
+    },
+    "phone": "071 153 5811",
+    "website": "http://faithfitness.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "title": "UNBXD FITNESS",
+    "place_id": "ChIJCXLCATZXzB0R6MSAqJ2LOpw",
+    "data_id": "0x1dcc573601c27209:0x9c3a8b9da880c4e8",
+    "data_cid": "11257463727819113704",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc573601c27209%3A0x9c3a8b9da880c4e8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc573601c27209%3A0x9c3a8b9da880c4e8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.7941348,
+     "longitude": 18.699051
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCXLCATZXzB0R6MSAqJ2LOpw",
+    "provider_id": "/g/11h540kwg9",
+    "rating": 4.9,
+    "reviews": 64,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "Darwin Industrial Park, 7B Aspen St, Fisantekraal, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 am Mon",
+    "hours": "Closed · Opens 5 am Mon",
+    "operating_hours": {
+     "saturday": "8:30–10 am",
+     "sunday": "Closed",
+     "monday": "5 am–7:30 pm",
+     "tuesday": "5 am–7:30 pm",
+     "wednesday": "5 am–7:30 pm",
+     "thursday": "5 am–7:30 pm",
+     "friday": "5 am–6 pm"
+    },
+    "phone": "084 660 9334",
+    "website": "https://unbxdfitness.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "title": "Activ8 Fitness",
+    "place_id": "ChIJz3d8Kf5XzB0RSsTwgUL1fYU",
+    "data_id": "0x1dcc57fe297c77cf:0x857df54281f0c44a",
+    "data_cid": "9619114045129933898",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57fe297c77cf%3A0x857df54281f0c44a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57fe297c77cf%3A0x857df54281f0c44a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.827149999999996,
+     "longitude": 18.6454
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz3d8Kf5XzB0RSsTwgUL1fYU",
+    "provider_id": "/g/11gpj3nmty",
+    "rating": 4.9,
+    "reviews": 11,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "1 Iris Street, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Mon",
+    "hours": "Closed · Opens 6 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "6 am–7 pm",
+     "tuesday": "6 am–7 pm",
+     "wednesday": "6 am–7 pm",
+     "thursday": "6 am–7 pm",
+     "friday": "6 am–7 pm"
+    },
+    "phone": "082 724 4541",
+    "website": "https://www.activ8fitness.co.za/"
+   },
+   {
+    "position": 11,
+    "title": "F45 Durbanville South",
+    "place_id": "ChIJCY0fAEBRzB0RUZ477Dy8o9A",
+    "data_id": "0x1dcc5140001f8d09:0xd0a3bc3cec3b9e51",
+    "data_cid": "15034066950940237393",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc5140001f8d09%3A0xd0a3bc3cec3b9e51&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc5140001f8d09%3A0xd0a3bc3cec3b9e51&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8500079,
+     "longitude": 18.694862399999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCY0fAEBRzB0RUZ477Dy8o9A",
+    "provider_id": "/g/11xyn_d11f",
+    "rating": 5,
+    "reviews": 51,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "Cape Gate Corner Okavango Road, Belami Ave, Durbanville, Cape Town, 7562",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 am Sun",
+    "hours": "Closed · Opens 7:30 am Sun",
+    "operating_hours": {
+     "saturday": "7–11 am",
+     "sunday": "7:30–10 am",
+     "monday": "5 am–7 pm",
+     "tuesday": "5 am–7 pm",
+     "wednesday": "5 am–7 pm",
+     "thursday": "5 am–7 pm",
+     "friday": "5 am–6 pm"
+    },
+    "phone": "064 657 0791",
+    "website": "https://f45training.com/za/studio/durbanvillesouth/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "title": "Clara Anna Fontein Gym",
+    "place_id": "ChIJnQMyPkZXzB0Rmolfn8DQk5c",
+    "data_id": "0x1dcc57463e32039d:0x9793d0c09f5f899a",
+    "data_cid": "10922303047029721498",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57463e32039d%3A0x9793d0c09f5f899a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57463e32039d%3A0x9793d0c09f5f899a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8200992,
+     "longitude": 18.6248508
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnQMyPkZXzB0Rmolfn8DQk5c",
+    "provider_id": "/g/11kk916jz3",
+    "rating": 4.9,
+    "reviews": 13,
+    "unclaimed_listing": true,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "5JHF+XW, Durbanville, Cape Town",
+    "country": "South Africa",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "title": "Fitness Delivery",
+    "place_id": "ChIJ9SOxvVwzgmIR5OxprIYwxsA",
+    "data_id": "0x6282335cbdb123f5:0xc0c63086ac69ece4",
+    "data_cid": "13890843455647247588",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x6282335cbdb123f5%3A0xc0c63086ac69ece4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x6282335cbdb123f5%3A0xc0c63086ac69ece4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8486553,
+     "longitude": 18.6841834
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9SOxvVwzgmIR5OxprIYwxsA",
+    "provider_id": "/g/11khw19_fj",
+    "rating": 4.9,
+    "reviews": 37,
+    "type": "Personal trainer",
+    "types": [
+     "Personal trainer"
+    ],
+    "address": "Q3 Park View Heights Complex, Belami Ave, Sonstraal Heights, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 am Mon",
+    "hours": "Closed · Opens 5 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "5 am–6 pm",
+     "tuesday": "5 am–6 pm",
+     "wednesday": "5 am–6 pm",
+     "thursday": "5 am–6 pm",
+     "friday": "5 am–6 pm"
+    },
+    "phone": "082 416 0790",
+    "website": "https://www.facebook.com/fitnessdeliverysa",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "title": "DYB EMS Fitness Studio Durbanville",
+    "place_id": "ChIJy0K1_9BXzB0R1n73u-_0rIA",
+    "data_id": "0x1dcc57d0ffb542cb:0x80acf4efbbf77ed6",
+    "data_cid": "9272055043336928982",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57d0ffb542cb%3A0x80acf4efbbf77ed6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57d0ffb542cb%3A0x80acf4efbbf77ed6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8475824,
+     "longitude": 18.6834699
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy0K1_9BXzB0R1n73u-_0rIA",
+    "provider_id": "/g/11qrgwr7vl",
+    "rating": 5,
+    "reviews": 8,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "No 6, Cabernet Estate, Memento Dr, Sonstraal Heights, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 6 am Mon",
+    "hours": "Closed · Opens 6 am Mon",
+    "operating_hours": {
+     "saturday": "7 am–1 pm",
+     "sunday": "Closed",
+     "monday": "6 am–8 pm",
+     "tuesday": "6 am–8 pm",
+     "wednesday": "6 am–8 pm",
+     "thursday": "6 am–8 pm",
+     "friday": "6 am–8 pm"
+    },
+    "phone": "063 632 3659"
+   },
+   {
+    "position": 15,
+    "title": "Norsub Crossfit",
+    "place_id": "ChIJMWf3O29XzB0RvWH6HJygzhs",
+    "data_id": "0x1dcc576f3bf76731:0x1bcea09c1cfa61bd",
+    "data_cid": "2003715476587962813",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc576f3bf76731%3A0x1bcea09c1cfa61bd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc576f3bf76731%3A0x1bcea09c1cfa61bd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.833346299999995,
+     "longitude": 18.6472601
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMWf3O29XzB0RvWH6HJygzhs",
+    "provider_id": "/g/11bzsdx6gd",
+    "rating": 4.9,
+    "reviews": 53,
+    "type": "Physical fitness program",
+    "types": [
+     "Physical fitness program"
+    ],
+    "address": "25 Main Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5:30 am Mon",
+    "hours": "Closed · Opens 5:30 am Mon",
+    "operating_hours": {
+     "saturday": "7:30–9 am",
+     "sunday": "Closed",
+     "monday": "5:30 am–7:30 pm",
+     "tuesday": "5:30 am–7:30 pm",
+     "wednesday": "5:30 am–7:30 pm",
+     "thursday": "5:30 am–7:30 pm",
+     "friday": "5:30 am–5:30 pm"
+    },
+    "phone": "082 483 1076",
+    "website": "http://www.norsubcrossfit.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "title": "Rise Studios Durbanville",
+    "place_id": "ChIJgTKuPsdXzB0R3cuLrmULlL8",
+    "data_id": "0x1dcc57c73eae3281:0xbf940b65ae8bcbdd",
+    "data_cid": "13804671289145412573",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57c73eae3281%3A0xbf940b65ae8bcbdd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57c73eae3281%3A0xbf940b65ae8bcbdd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8336423,
+     "longitude": 18.647531
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgTKuPsdXzB0R3cuLrmULlL8",
+    "provider_id": "/g/11ybzgjt0_",
+    "rating": 5,
+    "reviews": 4,
+    "type": "Gym",
+    "types": [
+     "Gym"
+    ],
+    "address": "Palm Grove Centre, Main Rd, Durbanville, Cape Town, 7551",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5:30 am Mon",
+    "hours": "Closed · Opens 5:30 am Mon",
+    "operating_hours": {
+     "saturday": "8 am–12 pm",
+     "sunday": "Closed",
+     "monday": "5:30 am–6:30 pm",
+     "tuesday": "6 am–2:30 pm",
+     "wednesday": "5:30 am–6:30 pm",
+     "thursday": "6 am–2:30 am",
+     "friday": "5:30 am–2 pm"
+    },
+    "phone": "064 752 7150",
+    "website": "https://www.risestudios.co.za/"
+   },
+   {
+    "position": 17,
+    "title": "Wattel-Fitness",
+    "place_id": "ChIJyR-d-g1XzB0RtaD5KT8YObs",
+    "data_id": "0x1dcc570dfa9d1fc9:0xbb39183f29f9a0b5",
+    "data_cid": "13490840818331263157",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc570dfa9d1fc9%3A0xbb39183f29f9a0b5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc570dfa9d1fc9%3A0xbb39183f29f9a0b5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8264041,
+     "longitude": 18.6464927
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyR-d-g1XzB0RtaD5KT8YObs",
+    "provider_id": "/g/11rcn6mx44",
+    "rating": 5,
+    "reviews": 2,
+    "unclaimed_listing": true,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "8 Park Rd, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "phone": "076 893 3472",
+    "website": "http://wattelfitness.co.za/"
+   },
+   {
+    "position": 18,
+    "title": "Aspire Wellness",
+    "place_id": "ChIJN3rfBdJXzB0RxA1zgSnnG6w",
+    "data_id": "0x1dcc57d205df7a37:0xac1be72981730dc4",
+    "data_cid": "12401760164346269124",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57d205df7a37%3A0xac1be72981730dc4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57d205df7a37%3A0xac1be72981730dc4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.8294789,
+     "longitude": 18.6521616
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN3rfBdJXzB0RxA1zgSnnG6w",
+    "provider_id": "/g/11rz582l3w",
+    "rating": 5,
+    "reviews": 2,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "Lilie St, Durbanville, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 8 am Mon",
+    "hours": "Closed · Opens 8 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "8 am–5 pm",
+     "tuesday": "8 am–5 pm",
+     "wednesday": "8 am–5 pm",
+     "thursday": "8 am–5 pm",
+     "friday": "8 am–4 pm"
+    },
+    "phone": "082 893 4028",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "title": "Monarch Gym",
+    "place_id": "ChIJSbEjv15XzB0R9qzSu6ORIKo",
+    "data_id": "0x1dcc575ebf23b149:0xaa2091a3bbd2acf6",
+    "data_cid": "12258958318119333110",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc575ebf23b149%3A0xaa2091a3bbd2acf6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc575ebf23b149%3A0xaa2091a3bbd2acf6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.854526,
+     "longitude": 18.6421724
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSbEjv15XzB0R9qzSu6ORIKo",
+    "provider_id": "/g/11k4jcjt71",
+    "rating": 5,
+    "reviews": 10,
+    "type": "Martial arts school",
+    "types": [
+     "Martial arts school"
+    ],
+    "address": "18 Hillrise Cres, Durbell, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 7:30 am Mon",
+    "hours": "Closed · Opens 7:30 am Mon",
+    "operating_hours": {
+     "saturday": "Closed",
+     "sunday": "Closed",
+     "monday": "7:30 am–7 pm",
+     "tuesday": "9:30 am–6 pm",
+     "wednesday": "8:30 am–7 pm",
+     "thursday": "9:30 am–6 pm",
+     "friday": "9:30 am–6 pm"
+    },
+    "phone": "064 246 3902",
+    "website": "http://www.monarchgym.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park"
+      ]
+     }
+    ]
+   },
+   {
+    "position": 20,
+    "title": "Purpose Fit Fitness Studio",
+    "place_id": "ChIJq5ZxLPlXzB0ReHa5OhQq0hM",
+    "data_id": "0x1dcc57f92c7196ab:0x13d22a143ab97678",
+    "data_cid": "1428250298202814072",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1dcc57f92c7196ab%3A0x13d22a143ab97678&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1dcc57f92c7196ab%3A0x13d22a143ab97678&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": -33.826413699999996,
+     "longitude": 18.7039083
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq5ZxLPlXzB0ReHa5OhQq0hM",
+    "provider_id": "/g/11s4h4889c",
+    "rating": 5,
+    "reviews": 207,
+    "type": "Fitness center",
+    "types": [
+     "Fitness center"
+    ],
+    "address": "Unit 3 Tanzanite crescent, Stonewood Dr, Kraaifontein, Cape Town, 7550",
+    "country": "South Africa",
+    "open_state": "Closed · Opens 5 am Mon",
+    "hours": "Closed · Opens 5 am Mon",
+    "operating_hours": {
+     "saturday": "6:30–9:30 am",
+     "sunday": "Closed",
+     "monday": "5 am–8 pm",
+     "tuesday": "5 am–8 pm",
+     "wednesday": "5 am–8 pm",
+     "thursday": "5 am–8 pm",
+     "friday": "5 am–6:30 pm"
+    },
+    "phone": "084 629 6974",
+    "website": "https://www.purpose-fit.co.za/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair-accessible car park",
+       "Wheelchair-accessible entrance",
+       "Wheelchair-accessible seating",
+       "Wheelchair-accessible toilet"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

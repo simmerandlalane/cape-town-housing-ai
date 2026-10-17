@@ -1,0 +1,229 @@
+{
+ "fetched_at": "2026-10-17T21:47:39.320897+00:00",
+ "params": {
+  "engine": "google",
+  "q": "Durbanville Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\"",
+  "location": "Cape Town,Western Cape,South Africa",
+  "google_domain": "google.co.za",
+  "gl": "za",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ad3ec9b3680702dff2f6527",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/d1yqUIrAGXYYXmmpSYCOiyCJ_idWVig9FtfDewk8Umw/6ad3ec9b3680702dff2f6527.json",
+   "markdown_endpoint": "https://serpapi.com/searches/d1yqUIrAGXYYXmmpSYCOiyCJ_idWVig9FtfDewk8Umw/6ad3ec9b3680702dff2f6527.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/d1yqUIrAGXYYXmmpSYCOiyCJ_idWVig9FtfDewk8Umw/6ad3ec9b3680702dff2f6527.json_with_pixel_position",
+   "created_at": "2026-10-17 21:46:03 UTC",
+   "processed_at": "2026-10-17 21:46:03 UTC",
+   "google_url": "https://www.google.co.za/search?q=Durbanville+Cape+Town+%22neighbourhood+watch%22+OR+%22improvement+district%22+OR+%22community+police+forum%22&oq=Durbanville+Cape+Town+%22neighbourhood+watch%22+OR+%22improvement+district%22+OR+%22community+police+forum%22&uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&hl=en&gl=za&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/d1yqUIrAGXYYXmmpSYCOiyCJ_idWVig9FtfDewk8Umw/6ad3ec9b3680702dff2f6527.html",
+   "total_time_taken": 58.7
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Durbanville Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\"",
+   "location_requested": "Cape Town,Western Cape,South Africa",
+   "location_used": "Cape Town,Western Cape,South Africa",
+   "google_domain": "google.co.za",
+   "hl": "en",
+   "gl": "za",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Durbanville Cape Town \"neighbourhood watch\" OR \"improvement district\" OR \"community police forum\"",
+   "total_results": 33500,
+   "time_taken_displayed": 0.27,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+   "title": "SAPS Durbanville Police Station",
+   "type": "State police in Cape Town",
+   "entity_type": "local_nav",
+   "kgmid": "/g/1tqhmfgz",
+   "knowledge_graph_search_link": "https://www.google.co.za/search?kgmid=/g/1tqhmfgz&hl=en-ZA&q=SAPS+Durbanville+Police+Station",
+   "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=za&google_domain=google.co.za&hl=en-ZA&kgmid=%2Fg%2F1tqhmfgz&location=Cape+Town%2CWestern+Cape%2CSouth+Africa&q=SAPS+Durbanville+Police+Station",
+   "place_id": "ChIJoRZ75RZXzB0RsP1S3y4Vub4",
+   "website": "https://www.saps.gov.za/contacts/stationdetails.php?sid=112",
+   "directions": "https://maps.google.com/maps?uule=w+CAIQICIjQ2FwZSBUb3duLFdlc3Rlcm4gQ2FwZSxTb3V0aCBBZnJpY2E&gl=za&hl=en&um=1&ie=UTF-8&fb=1&sa=X&geocode=KaEWe-UWV8wdMbD9Ut8uFbm-&daddr=2+Church+St,+Durbanville,+Cape+Town,+7550",
+   "local_map": {
+    "image": "https://serpapi.com/searches/6ad3ec9b3680702dff2f6527/images/fTjWTJEem-WiHfDyaCWnqs3jK-EmkFRCJYmftBMe-Js.webp",
+    "link": "https://www.google.co.za/maps/place/SAPS+Durbanville+Police+Station/data=!4m2!3m1!1s0x0:0xbeb9152edf52fdb0?sa=X&ved=2ahUKEwilnu_Dg8KXAxVFgokEHc7MLRYQ_BJ6BAgyEAA&hl=en&gl=za"
+   },
+   "address": "2 Church St, Durbanville, Cape Town, 7550",
+   "address_links": [
+    {
+     "text": "Address",
+     "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&gl=za&hl=en&sxsrf=APpeQnvFps05V8EglLjN7kL7tGVgVOdbyQ:1792273620398&q=saps+-+durbanville+address&ludocid=13743039028957216176&sa=X&ved=2ahUKEwilnu_Dg8KXAxVFgokEHc7MLRYQ6BN6BAg-EAI"
+    }
+   ],
+   "phone": "021 970 3800",
+   "phone_links": [
+    {
+     "text": "Phone",
+     "link": "https://www.google.co.za/search?sca_esv=28393f27b5912977&gl=za&hl=en&sxsrf=APpeQnvFps05V8EglLjN7kL7tGVgVOdbyQ:1792273620398&q=saps+-+durbanville+phone&ludocid=13743039028957216176&sa=X&ved=2ahUKEwilnu_Dg8KXAxVFgokEHc7MLRYQ6BN6BAhBEAI"
+    }
+   ],
+   "raw_hours": "Open 24 hours",
+   "hours": {
+    "saturday": {
+     "opens": "Open 24 hours"
+    },
+    "sunday": {
+     "opens": "Open 24 hours"
+    },
+    "monday": {
+     "opens": "Open 24 hours"
+    },
+    "tuesday": {
+     "opens": "Open 24 hours"
+    },
+    "wednesday": {
+     "opens": "Open 24 hours"
+    },
+    "thursday": {
+     "opens": "Open 24 hours"
+    },
+    "friday": {
+     "opens": "Open 24 hours"
+    }
+   },
+   "unclaimed_listing": true,
+   "profiles": [
+    {
+     "name": "X (Twitter)",
+     "link": "https://x.com/SAPoliceService",
+     "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABhUlEQVR4AczOA6xcARCF4X_us23btuLUQR3WZlhbQW3bto2gtm3b2J3GN4tY74uHh3okOi42Nj4AAUDwTvDEhisABCOAEAzYTBh0bN-lc5d0QgAhHPqX4Y4pkd367Zc-xMcXCPDg8TPwxeQH724Uj9N95GJ4pnHxby1xgCmV3v-GsFb7k0Iee7UjaQgmIYe9v9O4-wUKWaATyMPAViwvr1NnOQWDdTV5CHYSaKWLmaGDyvU4mTgQcllracaFr-9uk-yLM8k8fAJff0IUTghRVFu3M1ynkYk4nchiqqU3Ry05RDibMMhjtj6Ht3dJxVk_l1G64cspOusychBsCWm01WNM0jFs0sbEYUtIIuTXNco588OLh09JxE6wweuXEAvfL9PQus3-iU80N34KCaQyUOcxTTuSjEmMRI5rS9JwIZfD1t7ceo34YIpnuQ4nGwP8XXlq_fJZd9jE8KBHC5IwAELJ7dWrZ6fOuNhkgFgAEEIAwA1MQkw0AgDC_wnKycrKSQ2iPAkAVyNzq8rxicIAAAAASUVORK5CYII.png"
+    },
+    {
+     "name": "Facebook",
+     "link": "https://www.facebook.com/SAPoliceService",
+     "image": "https://serpapi.com/searches/6ad3ec9b3680702dff2f6527/images/fTjWTJEem-WiHfDyaCWnqkbXKtSmxvihcizt65iq-drsc_siECnlbWc6gcoiqvM7.png"
+    },
+    {
+     "name": "Instagram",
+     "link": "https://www.instagram.com/sapoliceservice_za",
+     "image": "https://serpapi.com/searches/6ad3ec9b3680702dff2f6527/images/fTjWTJEem-WiHfDyaCWnqk3tcCSEzNVHq8f6QQnR2ROFEiiAzKb-b74TcGwdHeRn.png"
+    }
+   ]
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Durbanville neighbourhood watch tackles homelessness ...",
+    "link": "https://www.artikels.afriforum.co.za/en/durbanville-neighbourhood-watch-tackles-homelessness-crisis/",
+    "displayed_link": "https://www.artikels.afriforum.co.za › durbanville-neig...",
+    "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAADQBQCdASocABwAPtEutFooIagoGAEAGglsAMKZoCqQL0AJoEX-qylbZeJ-bBxUn6ehxeYaRwAAAP72Alvd9ZZpdHGnTYZpPrudBMK6r9yz76GYmHETB7BsvcsKs3E9TP_E_uzO4hDdYDSLZufgt9SYt2JEuYS9qjxBSSb_DKzTGJyEQq3El4z7F2jE6mZafqo_4HhBvodfAVl3hq6-1MkvjY79lGAxN4FO0UJ0_YnKGOZcea76_NdVSgzFFonf9vHTpskL_TOx5_6C1l-IsEfX8yReUvD_24tCf6t9u0rL2tqNmRf2OZwefn2DHu9TufaKf5yPRkTcNleJk6yAAA.webp",
+    "snippet": "On 19 September, AfriForum's Durbanville neighbourhood watch launched a project in this suburb to help identify nearly 30 homeless people in Durbanville and ...",
+    "snippet_highlighted_words": [
+     "Durbanville neighbourhood watch",
+     "Durbanville"
+    ],
+    "source": "AfriForum"
+   },
+   {
+    "position": 2,
+    "title": "Nominate Durbanville's local Neighbourhood Watch ...",
+    "link": "https://www.facebook.com/Durbanville.Classifieds/posts/-recognise-durbanvilles-local-heroes-do-you-know-an-exceptional-neighbourhood-wa/1118107567542452/",
+    "displayed_link": "1 reaction · 1 month ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "The City is calling for nominations in the following categories: * Neighbourhood Watch of the Year * Law Enforcement Officer of the Year * Most ...",
+    "snippet_highlighted_words": [
+     "Neighbourhood Watch"
+    ],
+    "source": "Facebook · Durbanville Classifieds",
+    "read_more_link": "https://www.facebook.com/Durbanville.Classifieds/posts/-recognise-durbanvilles-local-heroes-do-you-know-an-exceptional-neighbourhood-wa/1118107567542452/#:~:text=The%20City%20is%20calling%20for,of%20the%20Year%20*%20Most"
+   },
+   {
+    "position": 3,
+    "title": "Community police forums",
+    "link": "https://www.capetown.gov.za/family-and-home/safety-in-the-home/community-policing/community-police-forum/",
+    "displayed_link": "https://www.capetown.gov.za › community-policing › c...",
+    "favicon": "https://serpapi.com/images/i/UklGRpQBAABXRUJQVlA4IIgBAADwCQCdASocABwAPtE-tFooIigoFAEAGglsAKwgm0gG2A8TPqLecB1AHoAfpn6YH7AfBv-4fpDJ4FACGbeSFMl_VUOzY-RPPJz05r_Bp-vvgJrJQ2NxXMgAAP72B8hhrOwlUdcFq4JBl2vw7r1euHEpu4ZfW-7KMMOldqkrMG6XkxkS9Ln9ARQJa4I15UEU-mR_6hpoqvU0tdLw1jOL7EFkTfLBf-JZd130md-SM_bheZTAm57U-sSV8-b1DJ0-8Hxhlg9QLzUS2G7pKeqTfe43rFVNX97MiMbA2eBbeaNLaQwxwoxuFMb53ACCPX6ItxVuxfxH9b0vj3HXzLM-HMI4Nl25WD124zlPoAjTn7h33MVwON5urdadLz95E0tsuvjBOod5fRagpHbxV9umlsERmrdQJEVTj575KFSAb4j3EYb_6ZF4fvaXmwPEaAps_8Rmpf0zdz2J72P1CzqoKHnx4o-mjtS7LbTnGyKU8KBHRbh4Md_fKJB1hHoiLl4nqdtBwUldBxfgAA.webp",
+    "snippet": "Community police forum Safety at night and on the streets Neighbourhood watch. Community police forum. Community police forums. Side navigation. Go to section.",
+    "snippet_highlighted_words": [
+     "Community police forum",
+     "Neighbourhood watch",
+     "Community police forum"
+    ],
+    "source": "City of Cape Town",
+    "read_more_link": "https://www.capetown.gov.za/family-and-home/safety-in-the-home/community-policing/community-police-forum/#:~:text=Community%20police%20forum,Go%20to%20section"
+   },
+   {
+    "position": 4,
+    "title": "Durbanville CID | Cape Town",
+    "link": "https://durbanvillecid.com/",
+    "displayed_link": "https://durbanvillecid.com",
+    "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAABwBQCdASocABwAPtE0tFooIigoGAEAGglkAMZ9i9bfrBzTHXHK3_2Cf1BCCHxPY6nwLSFwAP72CdfoZfwjdrG4gjm0eVsZ8MjUGufLPZhx_pesfnPj_gbwmT7g3GEUSIX5hSOvngR9AZHYP4usevjhVST7m-cD5PhIDbk7PLbmk90YNb34uw7VfAW_FwfLt_7oc-kbeYoqYHlhyCswPDH_lP_wFd_tEVmcQK7ojH2ilGwd6d6_6f6CYFU-aAhgMbeytLsFJRVbweSdOVZTa6oP0tlnQXlOlvEubg8PR9xfWt5pBwrwoLxpWoquyF8ltnALRGjfu0vgjzX7877Q0XJ3QY9ZeZd-5iExUNPPqAO2TYgXwMNZUD-P9CEcao84UAA.webp",
+    "snippet": "A group of residents has embarked on an initiative to establish a City Improvement District (CID) for Durbanville with the aim of making it safer, cleaner & ...",
+    "snippet_highlighted_words": [
+     "Improvement District",
+     "Durbanville"
+    ],
+    "source": "durbanvillecid.com",
+    "read_more_link": "https://durbanvillecid.com/#:~:text=A%20group%20of%20residents%20has,and%20uplift%20those%20in%20need."
+   },
+   {
+    "position": 5,
+    "title": "Uitzicht Neighbourhood Watch supported by Jackie and Sean ...",
+    "link": "https://www.facebook.com/durbanville.agents/videos/uitzicht-neighbourhood-watch-supported-by-jackie-and-sean-your-durbanville-agent/959827890496513/",
+    "displayed_link": "9 reactions · 3 weeks ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "This video showcases a community engagement event hosted by the Uitzicht Neighbourhood Watch in Durbanville. The footage displays a large ...",
+    "duration": "0:31",
+    "source": "Facebook · Jackie & Sean - Durbanville Agents"
+   },
+   {
+    "position": 6,
+    "title": "Nominate Durbanville Neighbourhood Watch Members for Cape ...",
+    "link": "https://www.facebook.com/Durbanville.Classifieds/posts/-recognise-a-local-hero-nominate-your-neighbourhood-watch-todaythe-city-is-calli/1106481772038365/",
+    "displayed_link": "https://www.facebook.com › posts ›",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Recognise a local hero: Nominate your Neighbourhood Watch today! The City is calling on communities to nominate outstanding Neighbourhood Watch...",
+    "snippet_highlighted_words": [
+     "Neighbourhood Watch",
+     "Neighbourhood Watch"
+    ],
+    "source": "Facebook"
+   },
+   {
+    "position": 7,
+    "title": "Is Durbanville Safe? Crime Data & Safety (2026) - StreetSignal",
+    "link": "https://streetsignal.co.za/cape-town/suburbs/durbanville/",
+    "displayed_link": "https://streetsignal.co.za › Cape Town › Suburbs",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAA3UlEQVR4AbzSIQyDMBCF4fOpmVd4MUXmENPzHonDB4PGYtFL8KkPdg5XVYurxXXJC-xauG5uv4Cm_aAVJf-jPwObXVFmE6CmrToB6JMMNAMtggeDhwQcBTkBDFjJC7wGAWRYsQte2RkYLKgdmhNoMd9532PQngDtH1pCRzDxtMJoOoCSf9xhWMZgJTTzcWmNwBhuTGiMQE5E92qb002piPIQWOqNj3LjxQbA4bkeDIMtpT2yTfrCFDX2lwFfiCoBnjS1AIsAkME2OL4EEP8_AW7KfwevQgbc_B6peRMAQaEgZj6bkPQAAAAASUVORK5CYII.png",
+    "snippet": "Improvement district: R0. Outstanding municipal arrears from City of Cape Town financial records. Coverage: 741 suburbs. Per-account figures available for 582 ...",
+    "snippet_highlighted_words": [
+     "Improvement district",
+     "Cape Town"
+    ],
+    "source": "streetsignal.co.za",
+    "read_more_link": "https://streetsignal.co.za/cape-town/suburbs/durbanville/#:~:text=Improvement%20district,figures%20available%20for%20582%20suburbs."
+   },
+   {
+    "position": 8,
+    "title": "City neighbourhood watch remains resilient | City of Cape Town",
+    "link": "https://www.facebook.com/CityofCT/videos/city-neighbourhood-watch-remains-resilient/420260722373419/",
+    "displayed_link": "110+ reactions · 5 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Over the past decade, neighbourhood watch groups have grown steadily and now thousands of members have become a key part of crime prevention in ...",
+    "duration": "1:07",
+    "source": "Facebook · City of Cape Town"
+   },
+   {
+    "position": 9,
+    "title": "Kendal Road Neighbourhood Watch",
+    "link": "https://knw.org.za/",
+    "displayed_link": "https://knw.org.za",
+    "favicon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAACQBwCdASogACAAPtE-tFooIigoFAEAGglsALEbOXun4quZBNLRXghmPjcTAEraxqgjlKQlO6WhIlr7rYpP0dq9XXBM-QAA_vgLX1K-pRpA8IpdrUgRVcq0EO_idaDs-Bsl7L78HxOs326jk8zmxXwZK55fwpnCMQj_YKZkxRrgc4lr_--_lHuk82rur7pf9CMTbv-VuCNE73NDf3aJq2wUJZMqSJ0QbzUSaejdzr5AVQcz7I0qnk3NlTbOoMcjQAJn7iXzoc0QcREBWuTyiVM2SiKDvDPSi9ThTFI7jf7RvLH9tDAlfx3uyOBzAgWgfUhRT-LGfo8d6Z_gA53eSq-5jvMaSJL_Dmp_2P0x9kBi9vuZFqLcTqXA0ZAums9CzH_NRX9ZRz5ZN8a79_XcecRL1Zg3OGtbbHP9MMs4UdMkdnP5-Q0Eem9ydsOWkDUAUdZSo7ykcrlACiZLeqAAAA.webp",
+    "snippet": "By joining your fellow neighbours in the Kendal Road Neighbourhood Watch you are kept in the loop about local issues, such as crime, safety, and community ...",
+    "snippet_highlighted_words": [
+     "Neighbourhood Watch"
+    ],
+    "source": "knw.org.za",
+    "read_more_link": "https://knw.org.za/#:~:text=By%20joining%20your%20fellow%20neighbours,benefits%20of%20a%20safe%20neighbourhood."
+   }
+  ]
+ }
+}

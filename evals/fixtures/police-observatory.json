@@ -1,0 +1,40 @@
+{
+ "fetched_at": "2026-10-17T21:49:44.433683+00:00",
+ "params": {
+  "q": "police station in Observatory, Cape Town"
+ },
+ "response": {
+  "local_results": [
+   {
+    "title": "SAPS Mowbray Police Station",
+    "type": "State police",
+    "address": "32 Main Rd, Mowbray, Cape Town, 7700",
+    "phone": "021 680 9588"
+   },
+   {
+    "title": "SAPS Woodstock Police Station",
+    "type": "State police",
+    "address": "93 Victoria Rd, Woodstock, Cape Town, 7915",
+    "phone": "021 442 3117"
+   },
+   {
+    "title": "SAPS Rondebosch Police Station",
+    "type": "State police",
+    "address": "Church St, Rondebosch, Cape Town, 7700",
+    "phone": "021 685 6600"
+   },
+   {
+    "title": "City Of Cape Town Metropolitan Police Training Academy",
+    "type": "Police academy",
+    "address": "84 Station Rd, Observatory, Cape Town, 7925",
+    "phone": "069 818 3532"
+   },
+   {
+    "title": "SAPS Maitland Police Station",
+    "type": "State police",
+    "address": "236 Voortrekker Rd, Maitland, Cape Town, 7405",
+    "phone": "082 302 9574"
+   }
+  ]
+ }
+}
